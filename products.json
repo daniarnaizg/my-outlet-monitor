@@ -83,12 +83,12 @@
         "url": "www.supersonido.es/p/lg-24tn510s",
         "image": "www.supersonido.es/productos/imagenes/producto43870.jpg"
     },
-    "AudioPro ADDON C5A": {
-        "name": "AudioPro ADDON C5A",
-        "price": "199,00",
+    "Yamaha R-S202D": {
+        "name": "Yamaha R-S202D",
+        "price": "179,00",
         "price_new": "269,00",
-        "url": "www.supersonido.es/p/audiopro-addon-c5a__",
-        "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
+        "url": "www.supersonido.es/p/yamaha-rs202d_",
+        "image": "www.supersonido.es/productos/imagenes/producto49010.jpg"
     },
     "Supra Cables Regleta Lorad MD06-EU/SP": {
         "name": "Supra Cables Regleta Lorad MD06-EU/SP",
@@ -103,6 +103,20 @@
         "price_new": "279,00",
         "url": "www.supersonido.es/p/pro-ject-primary-e_",
         "image": "www.supersonido.es/productos/imagenes/producto43945.jpg"
+    },
+    "AudioPro ADDON C5A": {
+        "name": "AudioPro ADDON C5A",
+        "price": "199,00",
+        "price_new": "269,00",
+        "url": "www.supersonido.es/p/audiopro-addon-c5a__",
+        "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
+    },
+    "Hym Originals SEED": {
+        "name": "Hym Originals SEED",
+        "price": "199,00",
+        "price_new": "499,00",
+        "url": "www.supersonido.es/p/hym-originals-seed",
+        "image": "www.supersonido.es/productos/imagenes/producto49725.jpg"
     },
     "IFI Audio ZEN DAC SIGNATURE": {
         "name": "IFI Audio ZEN DAC SIGNATURE",
@@ -160,19 +174,19 @@
         "url": "www.supersonido.es/p/qacoustics-concept-20-oc",
         "image": "www.supersonido.es/productos/imagenes/producto19541.jpg"
     },
-    "Audio-Technica AT-LPW30TK": {
-        "name": "Audio-Technica AT-LPW30TK",
-        "price": "269,00",
-        "price_new": "339,00",
-        "url": "www.supersonido.es/p/audio-technica-at-lpw30tk_",
-        "image": "www.supersonido.es/productos/imagenes/producto42700.jpg"
-    },
     "Q-Acoustics Q3020i": {
         "name": "Q-Acoustics Q3020i",
         "price": "269,00",
         "price_new": "379,00",
         "url": "www.supersonido.es/p/q-acoustics-q-3020i_oc",
         "image": "www.supersonido.es/productos/imagenes/producto48763.jpg"
+    },
+    "Audio-Technica AT-LPW30TK": {
+        "name": "Audio-Technica AT-LPW30TK",
+        "price": "269,00",
+        "price_new": "339,00",
+        "url": "www.supersonido.es/p/audio-technica-at-lpw30tk_",
+        "image": "www.supersonido.es/productos/imagenes/producto42700.jpg"
     },
     "Bose Home Speaker 500": {
         "name": "Bose Home Speaker 500",
@@ -664,25 +678,11 @@
         "url": "www.supersonido.es/p/matrix-audio-element-p_",
         "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
     },
-    "Devialet PHANTOM GOLD": {
-        "name": "Devialet PHANTOM GOLD",
-        "price": "1.700,00",
-        "price_new": "3.100,00",
-        "url": "www.supersonido.es/p/devialet-phantom-gold",
-        "image": "www.supersonido.es/productos/imagenes/producto44228.jpg"
-    },
-    "AudioPro ADDON C5A833": {
-        "name": "AudioPro ADDON C5A",
-        "price": "199,00",
-        "price_new": "269,00",
-        "url": "www.supersonido.es/p/audiopro-addon-c5a__",
-        "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
-    },
-    "Supra Cables Regleta Lorad MD06-EU/SP83": {
-        "name": "Supra Cables Regleta Lorad MD06-EU/SP",
-        "price": "199,00",
-        "price_new": "230,00",
-        "url": "www.supersonido.es/p/supra-cables-regleta-lorad-md06-eusp",
-        "image": "www.supersonido.es/productos/imagenes/producto1476.jpg"
+    "new_item": {
+        "name": "new_item",
+        "price": "12",
+        "price_new": "14",
+        "url": "www.supersonido.es",
+        "image": "www.supersonido.es"
     }
 }
