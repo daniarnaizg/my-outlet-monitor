@@ -15,18 +15,16 @@ def send_simple_message(new_items, api_key):
 
     for key in new_items.keys():
 
-
-            url = new_items[key]['url']
-            image = new_items[key]['image']
-            name = new_items[key]['name']
-            price = float(new_items[key]['price'].replace(".", "").replace(",", "."))
-            try:
-                price_new = float(new_items[key]['price_new'].replace(".", "").replace(",", "."))
-            except:
-                print("Error with price, using old price")
-                price_new = price
-                
-            sale_percentage = round((price - price_new) / price * 100, 2)
+        url = new_items[key]['url']
+        image = new_items[key]['image']
+        name = new_items[key]['name']
+        price = float(new_items[key]['price'].replace(".", "").replace(",", "."))
+        try:
+            price_new = float(new_items[key]['price_new'].replace(".", "").replace(",", "."))
+        except:
+            print("Error with price, using old price")
+            price_new = price
+        sale_percentage = round((price - price_new) / price * 100, 2)
 
         html_body += f'''
                 <a href="{url}">
