@@ -14,12 +14,11 @@ def send_simple_message(new_items, api_key):
     '''
 
     for key in new_items.keys():
-
         url = new_items[key]['url']
         image = new_items[key]['image']
         name = new_items[key]['name']
-        price = float(new_items[key]['price'].replace(",", "."))
-        price_new = float(new_items[key]['price_new'].replace(",", "."))
+        price = float(new_items[key]['price'].replace(".", "").replace(",", "."))
+        price_new = float(new_items[key]['price_new'].replace(".", "").replace(",", "."))
         sale_percentage = round((price - price_new) / price * 100, 2)
 
         html_body += f'''
