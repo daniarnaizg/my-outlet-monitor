@@ -48,7 +48,7 @@ for i in range(len(product_names)):
     }
 
 
-new item test
+# new item test
 new_products["new_item"] = {
         "name": "new_item",
         "price": "12",
