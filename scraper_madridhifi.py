@@ -102,7 +102,7 @@ if __name__ == '__main__':
                 price = float(item.find("div", {"class": "actual_price"}).text.strip().split(
                     " ")[0].replace(".", "").replace(",", "."))
                 og_price = float(item.find("div", {"class": "product_old_price"}).text.strip())
-                price_new = float(og_price.split(" ")[0].replace(".", "").replace(",", ".")) if og_price is not "" else price
+                price_new = float(og_price.split(" ")[0].replace(".", "").replace(",", ".")) if og_price != "" else price
                 url = f"https://www.madridhifi.com{item.find('a')['href']}"
                 image = item.find("img")['src']
             except:
