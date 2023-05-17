@@ -66,7 +66,7 @@ HEADERS = {
 }
 
 # Open last days product JSON
-with open("./products.json", "r", encoding="UTF-8") as file_old:
+with open("./products_supersonido.json", "r", encoding="UTF-8") as file_old:
     products_old = json.load(file_old)
 
 # Send a GET request to the URL
@@ -94,13 +94,17 @@ product_images = outlet_section.find_all("div", {"class": "card-img"})
 new_products = {}
 for i in range(len(product_names)):
     name = product_names[i].text.strip()
-    new_products[name] = {
-        "name": name,
-        "price": product_prices[i].text.strip().split(" ")[0],
-        "price_new": product_prices[i].text.strip().split(" ")[1].split("â\x82¬")[1].replace("\n", "").strip() if "â\x82¬" in product_prices[i].text.strip() else "",
-        "url": f"www.supersonido.es{product_urls[i]['href']}",
-        "image": f"www.supersonido.es{product_images[i]['style'].replace('background-image: url(','').replace(');','')}"
-    }
+    try:
+        new_products[name] = {
+            "name": name,
+            "price": product_prices[i].text.strip().split(" ")[0],
+            "price_new": product_prices[i].text.strip().split(" ")[1].split("â\x82¬")[1].replace("\n", "").strip() if "â\x82¬" in product_prices[i].text.strip() else "",
+            "url": f"www.supersonido.es{product_urls[i]['href']}",
+            "image": f"www.supersonido.es{product_images[i]['style'].replace('background-image: url(','').replace(');','')}"
+        }
+    except:
+        print(f"Error with {name}")
+        continue
 
 
 # new item test
@@ -132,5 +136,5 @@ if new_deals.keys():
     send_simple_message(new_deals, args.api_key)
 
 # save as json
-with open("./products.json", "w", encoding='UTF-8') as file_new:
+with open("./products_supersonido.json", "w", encoding='UTF-8') as file_new:
     json.dump(new_products, file_new, indent=4)
