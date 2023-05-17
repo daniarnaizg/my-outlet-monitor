@@ -83,6 +83,20 @@
         "url": "www.supersonido.es/p/lg-24tn510s",
         "image": "www.supersonido.es/productos/imagenes/producto43870.jpg"
     },
+    "Sony SU-WL850": {
+        "name": "Sony SU-WL850",
+        "price": "179,00",
+        "price_new": "",
+        "url": "www.supersonido.es/p/sony-su-wl850_",
+        "image": "www.supersonido.es/productos/imagenes/producto49770.jpg"
+    },
+    "Pro-Ject Primary E": {
+        "name": "Pro-Ject Primary E",
+        "price": "199,00",
+        "price_new": "279,00",
+        "url": "www.supersonido.es/p/pro-ject-primary-e_",
+        "image": "www.supersonido.es/productos/imagenes/producto43945.jpg"
+    },
     "Supra Cables Regleta Lorad MD06-EU/SP": {
         "name": "Supra Cables Regleta Lorad MD06-EU/SP",
         "price": "199,00",
@@ -96,13 +110,6 @@
         "price_new": "269,00",
         "url": "www.supersonido.es/p/audiopro-addon-c5a__",
         "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
-    },
-    "Pro-Ject Primary E": {
-        "name": "Pro-Ject Primary E",
-        "price": "199,00",
-        "price_new": "279,00",
-        "url": "www.supersonido.es/p/pro-ject-primary-e_",
-        "image": "www.supersonido.es/productos/imagenes/producto43945.jpg"
     },
     "IFI Audio ZEN DAC SIGNATURE": {
         "name": "IFI Audio ZEN DAC SIGNATURE",
@@ -216,19 +223,19 @@
         "url": "www.supersonido.es/p/audio-technica-at-lpw50pb_",
         "image": "www.supersonido.es/productos/imagenes/producto49306.jpg"
     },
-    "Loewe Klang S1": {
-        "name": "Loewe Klang S1",
-        "price": "349,00",
-        "price_new": "459,00",
-        "url": "www.supersonido.es/p/loewe-klang-s1_",
-        "image": "www.supersonido.es/productos/imagenes/producto44954.jpg"
-    },
     "Audio-Technica AT-LP5X": {
         "name": "Audio-Technica AT-LP5X",
         "price": "349,00",
         "price_new": "449,00",
         "url": "www.supersonido.es/p/audio-technica-at-lp5x_",
         "image": "www.supersonido.es/productos/imagenes/producto44647.jpg"
+    },
+    "Loewe Klang S1": {
+        "name": "Loewe Klang S1",
+        "price": "349,00",
+        "price_new": "459,00",
+        "url": "www.supersonido.es/p/loewe-klang-s1_",
+        "image": "www.supersonido.es/productos/imagenes/producto44954.jpg"
     },
     "Nad MDC BluOS 2": {
         "name": "Nad MDC BluOS 2",
@@ -342,13 +349,6 @@
         "url": "www.supersonido.es/p/audiopro-drumfire-blackstar-edition_",
         "image": "www.supersonido.es/productos/imagenes/producto47953.jpg"
     },
-    "Bluesound PULSE MINI 2i": {
-        "name": "Bluesound PULSE MINI 2i",
-        "price": "599,00",
-        "price_new": "699,00",
-        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
-        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
-    },
     "Pro-Ject MaiA DS": {
         "name": "Pro-Ject MaiA DS",
         "price": "599,00",
@@ -383,6 +383,13 @@
         "price_new": "1.099,00",
         "url": "www.supersonido.es/p/mrspeakers-aeon-flow-2-open",
         "image": "www.supersonido.es/productos/imagenes/producto32865.jpg"
+    },
+    "Bluesound PULSE MINI 2i": {
+        "name": "Bluesound PULSE MINI 2i",
+        "price": "599,00",
+        "price_new": "699,00",
+        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
+        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
     },
     "Dan Clark Audio  AEON Flow 2 Closed": {
         "name": "Dan Clark Audio  AEON Flow 2 Closed",
@@ -668,7 +675,7 @@
         "name": "Matrix Audio Element P",
         "price": "1.500,00",
         "price_new": "2.799,00",
-        "url": "www.supersonido.es/p/matrix-audio-element-p_",
-        "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
+        "url": "www.supersonido.es/p/matrix-audio-element-p__",
+        "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
     }
 }
