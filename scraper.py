@@ -104,21 +104,21 @@ for i in range(len(product_names)):
 
 
 # new item test
-new_products["AudioPro ADDON C5A833"] = {
-    "name": "AudioPro ADDON C5A",
-    "price": "199,00",
-    "price_new": "269,00",
-    "url": "www.supersonido.es/p/audiopro-addon-c5a__",
-    "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
-}
+# new_products["AudioPro ADDON C5A833"] = {
+#     "name": "AudioPro ADDON C5A",
+#     "price": "199,00",
+#     "price_new": "269,00",
+#     "url": "www.supersonido.es/p/audiopro-addon-c5a__",
+#     "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
+# }
 
-new_products["Supra Cables Regleta Lorad MD06-EU/SP83"] = {
-        "name": "Supra Cables Regleta Lorad MD06-EU/SP",
-        "price": "199,00",
-        "price_new": "230,00",
-        "url": "www.supersonido.es/p/supra-cables-regleta-lorad-md06-eusp",
-        "image": "www.supersonido.es/productos/imagenes/producto1476.jpg"
-}
+# new_products["Supra Cables Regleta Lorad MD06-EU/SP83"] = {
+#         "name": "Supra Cables Regleta Lorad MD06-EU/SP",
+#         "price": "199,00",
+#         "price_new": "230,00",
+#         "url": "www.supersonido.es/p/supra-cables-regleta-lorad-md06-eusp",
+#         "image": "www.supersonido.es/productos/imagenes/producto1476.jpg"
+# }
 
 # check if there is a new product by checking keys
 # if there is a new product, send a message to the user
@@ -126,7 +126,7 @@ new_deals = {}
 for key in list(new_products.keys()):
     if key not in list(products_old.keys()):
         new_deals[key] = new_products[key]
-        # print(f"New product: {key}")
+        print(f"New product: {key}")
 
 if new_deals.keys():
     send_simple_message(new_deals, args.api_key)
