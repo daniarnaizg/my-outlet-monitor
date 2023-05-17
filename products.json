@@ -454,6 +454,13 @@
         "url": "www.supersonido.es/p/samsung-qe55qn85b_",
         "image": "www.supersonido.es/productos/imagenes/producto46793.jpg"
     },
+    "Pro-Ject X2": {
+        "name": "Pro-Ject X2",
+        "price": "799,00",
+        "price_new": "1.299,00",
+        "url": "www.supersonido.es/p/pro-ject-x2_",
+        "image": "www.supersonido.es/productos/imagenes/producto46386.jpg"
+    },
     "Acoustune HS1697TI": {
         "name": "Acoustune HS1697TI",
         "price": "849,00",
@@ -664,11 +671,11 @@
         "url": "www.supersonido.es/p/matrix-audio-element-p_",
         "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
     },
-    "Devialet PHANTOM GOLD": {
-        "name": "Devialet PHANTOM GOLD",
-        "price": "1.700,00",
-        "price_new": "3.100,00",
-        "url": "www.supersonido.es/p/devialet-phantom-gold",
-        "image": "www.supersonido.es/productos/imagenes/producto44228.jpg"
+    "new_item": {
+        "name": "new_item",
+        "price": "12",
+        "price_new": "14",
+        "url": "www.supersonido.es",
+        "image": "www.supersonido.es"
     }
 }
