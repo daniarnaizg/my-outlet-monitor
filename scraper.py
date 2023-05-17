@@ -48,14 +48,14 @@ for i in range(len(product_names)):
     }
 
 
-# new item test
-# new_products["new_item"] = {
-#         "name": "new_item",
-#         "price": "12",
-#         "price_new": "14",
-#         "url": f"www.supersonido.es",
-#         "image": f"www.supersonido.es"
-#     }
+new item test
+new_products["new_item"] = {
+        "name": "new_item",
+        "price": "12",
+        "price_new": "14",
+        "url": f"www.supersonido.es",
+        "image": f"www.supersonido.es"
+    }
 
 # check if there is a new product by checking keys
 # if there is a new product, send a message to the user
