@@ -14,12 +14,17 @@ def send_simple_message(new_items, api_key):
     '''
 
     for key in new_items.keys():
-        url = new_items[key]['url']
-        image = new_items[key]['image']
-        name = new_items[key]['name']
-        price = float(new_items[key]['price'].replace(".", "").replace(",", "."))
-        price_new = float(new_items[key]['price_new'].replace(".", "").replace(",", "."))
-        sale_percentage = round((price - price_new) / price * 100, 2)
+
+        try:
+            url = new_items[key]['url']
+            image = new_items[key]['image']
+            name = new_items[key]['name']
+            price = float(new_items[key]['price'].replace(".", "").replace(",", "."))
+            price_new = float(new_items[key]['price_new'].replace(".", "").replace(",", "."))
+            sale_percentage = round((price - price_new) / price * 100, 2)
+        except:
+            print("Error with product: ", new_items[key]['name'])
+            continue
 
         html_body += f'''
                 <a href="{url}">
@@ -103,7 +108,7 @@ for i in range(len(product_names)):
             "image": f"www.supersonido.es{product_images[i]['style'].replace('background-image: url(','').replace(');','')}"
         }
     except:
-        print(f"Error with {name}")
+        print(f"Error with {name}, skipping...")
         continue
 
 
