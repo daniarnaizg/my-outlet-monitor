@@ -27,7 +27,7 @@ def send_simple_message(new_items, api_key):
                 </a>
                 <span>{price_new} €</span>
                 <span> → </span>
-                <span>{price} €</span>
+                <span style="font-size: 20px; color: blue;">{price} €</span>
                 <span style="font-size: 30px; color: red;">{sale_percentage}%</span> 
                 <br>
                 <img src="{image}" height="250">
