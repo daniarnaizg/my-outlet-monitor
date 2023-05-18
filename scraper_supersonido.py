@@ -41,7 +41,7 @@ def send_simple_message(new_items, api_key):
             <a href="{url}">
                 <h3>{name}</h3>
             </a>
-            <span style="font-size: 30px;>{price_old}€</span>
+            <span style="font-size: 30px;">{price_old}€</span>
             <span style="font-size: 30px; color: blue;">➡️ {price}€</span>
             <span style="font-size: 30px; color: red;">📉 -{sale_percentage}%</span> 
             <br>
@@ -76,53 +76,56 @@ if __name__ == '__main__':
     with open("./products_supersonido.json", "r", encoding="UTF-8") as file_old:
         products_old = json.load(file_old)
 
-    url = "https://www.supersonido.es/outlet/"  # Replace with the actual URL
-
-    # Send a GET request to the URL using the session object
-    response = session.get(url, headers=HEADERS)
-
-    # Create a BeautifulSoup object
-    soup = BeautifulSoup(response.text, "html.parser")
-
-    # Find the outlet section
-    outlet_section = soup.find("section", {"class": "productos"})
-
-    product_names = outlet_section.find_all("div", {"class": "mt-2"})
-    product_prices = outlet_section.find_all("div", {"class": "card-footer"})
-    product_urls = outlet_section.find_all("a", {"class": "stretched-link"})
-    product_images = outlet_section.find_all("div", {"class": "card-img"})
+    urls = ["https://www.supersonido.es/outlet/", "https://www.supersonido.es/outlet/?Pag=2"]
 
     # Dictionary using name as the key. Map key to name, price, URL, and image
     new_products = {}
-    for name, price_elem, url_elem, image_elem in zip(
-        product_names, product_prices, product_urls, product_images
-    ):
-        name = name.text.strip()
-        try:
-            price_parts = price_elem.text.strip().split(" ")
-            price = float(price_parts[0].replace(
-                ".", "").replace(",", ".").strip())
+    for page in urls:
+        response = session.get(page, headers=HEADERS)
+        soup = BeautifulSoup(response.text, "html.parser")
 
-            if "\n" in price_parts[1]:
-                price_og = price_parts[1].split("\n")[1].replace(
-                    ".", "").replace(",", ".").strip()
-                price_old = float(price_og) if price_og != "" else price
-            else:
-                price_old = price
+        # Find the outlet section
+        outlet_section = soup.find("section", {"class": "productos"})
 
-            url = f"www.supersonido.es{url_elem['href']}"
-            image = f"www.supersonido.es{image_elem['style'].replace('background-image: url(','').replace(');','')}"
+        product_names = outlet_section.find_all("div", {"class": "mt-2"})
+        product_prices = outlet_section.find_all("div", {"class": "card-footer"})
+        product_urls = outlet_section.find_all("a", {"class": "stretched-link"})
+        product_images = outlet_section.find_all("div", {"class": "card-img"})
 
-            new_products[name] = {
-                "name": name,
-                "price": price,
-                "price_old": price_old,
-                "url": url,
-                "image": image,
-            }
-        except Exception as e:
-            print(f"Error with {name}: {e} - Skipping...")
-            continue
+        for name, price_elem, url_elem, image_elem in zip(
+            product_names, product_prices, product_urls, product_images
+        ):
+            name = name.text.strip()
+            try:
+
+                # Skip if not on sale
+                if 'PrÃ³ximamente' in price_elem.text:
+                    continue # Skip if not on sale
+                
+                price_parts = price_elem.text.strip().split(" ")
+                price = float(price_parts[0].replace(
+                    ".", "").replace(",", ".").strip())
+
+                if "\n" in price_parts[1]:
+                    price_og = price_parts[1].split("\n")[1].replace(
+                        ".", "").replace(",", ".").strip()
+                    price_old = float(price_og) if price_og != "" else price
+                else:
+                    price_old = price
+
+                url = f"www.supersonido.es{url_elem['href']}"
+                image = f"www.supersonido.es{image_elem['style'].replace('background-image: url(','').replace(');','')}"
+
+                new_products[name] = {
+                    "name": name,
+                    "price": price,
+                    "price_old": price_old,
+                    "url": url,
+                    "image": image,
+                }
+            except Exception as e:
+                print(f"Error with {name}: {e} - Skipping...")
+                continue
 
     # new_products["AudioPro ADDON C5A833"] = {
     #     "name": "AudioPro ADDON C5A",

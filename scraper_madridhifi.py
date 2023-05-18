@@ -38,7 +38,7 @@ def send_simple_message(new_items, api_key):
             <a href="{email_url}">
                 <h3>{email_name}</h3>
             </a>
-            <span style="font-size: 30px;>{email_price_old}€</span>
+            <span style="font-size: 30px;">{email_price_old}€</span>
             <span style="font-size: 30px; color: blue;">➡️ {email_price}€</span>
             <span style="font-size: 30px; color: red;">📉 -{sale_percentage}%</span> 
             <br>
