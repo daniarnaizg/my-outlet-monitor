@@ -140,10 +140,6 @@ if __name__ == '__main__':
     #         "image": "www.supersonido.es/productos/imagenes/producto1476.jpg"
     # }
 
-    print(products_old)
-
-    print('-------')
-
     # Check if there is a new product by comparing keys
     new_deals = {key: item for key, item in new_products.items()
                  if key not in products_old}
@@ -151,8 +147,6 @@ if __name__ == '__main__':
     if new_deals:
         print(f"Found {len(new_deals)} new products! Sending email...")
         # send_simple_message(new_deals, args.api_key)
-
-    print(new_products)
 
     # Save updated products as JSON
     with open("./products_supersonido.json", "w", encoding='UTF-8') as file_new:
