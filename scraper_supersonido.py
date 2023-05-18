@@ -41,9 +41,9 @@ def send_simple_message(new_items, api_key):
             <a href="{url}">
                 <h3>{name}</h3>
             </a>
-            <span>{price_old}€</span>
+            <span style="font-size: 30px;>{price_old}€</span>
             <span style="font-size: 30px; color: blue;">➡️ {price}€</span>
-            <span style="font-size: 30px; color: red;">-{sale_percentage}%</span> 
+            <span style="font-size: 30px; color: red;">📉 -{sale_percentage}%</span> 
             <br>
             <img src="{image}" height="250">
             <br>
@@ -140,14 +140,20 @@ if __name__ == '__main__':
     #         "image": "www.supersonido.es/productos/imagenes/producto1476.jpg"
     # }
 
+    print(products_old)
+
+    print('-------')
+
     # Check if there is a new product by comparing keys
     new_deals = {key: item for key, item in new_products.items()
                  if key not in products_old}
 
     if new_deals:
         print(f"Found {len(new_deals)} new products! Sending email...")
-        send_simple_message(new_deals, args.api_key)
+        # send_simple_message(new_deals, args.api_key)
 
-    # Save new products as JSON
+    print(new_products)
+
+    # Save updated products as JSON
     with open("./products_supersonido.json", "w", encoding='UTF-8') as file_new:
         json.dump(new_products, file_new, indent=4)
