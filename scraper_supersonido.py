@@ -146,7 +146,7 @@ if __name__ == '__main__':
 
     if new_deals:
         print(f"Found {len(new_deals)} new products! Sending email...")
-        # send_simple_message(new_deals, args.api_key)
+        send_simple_message(new_deals, args.api_key)
 
     # Save updated products as JSON
     with open("./products_supersonido.json", "w", encoding='UTF-8') as file_new:
