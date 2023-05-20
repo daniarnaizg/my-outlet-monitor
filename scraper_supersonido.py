@@ -15,6 +15,36 @@ HEADERS = {
     'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'
 }
 
+def send_telegram_message(new_items, api_key, chat_id):
+    '''
+    Send a Telegram message with the new items in the Supersonido outlet
+    :param new_items: dictionary with the new items
+    :param api_key: Telegram API key
+    :return: response from Telegram
+    '''
+
+    num_new_items = len(new_items)
+    title = f'{num_new_items} new products in Supersonido outlet!\n'
+    requests.get(f"https://api.telegram.org/bot{api_key}/sendMessage?chat_id={chat_id}&text={title}").json()
+
+    for key, item in new_items.items():
+        url = item['url']
+        image = item['image']
+        name = item['name']
+        price = item['price']
+        price_old = item['price_old']
+        sale_percentage = round((price_old - price) / price_old * 100, 2)
+        message = f'''
+            {name}
+            {price_old}€ ➡️ {price}€ 📉 -{sale_percentage}% 
+            {url}
+        '''
+
+        try:
+            requests.get(f"https://api.telegram.org/bot{api_key}/sendPhoto?chat_id={chat_id}&photo={image}&caption={message}").json()
+        except Exception:
+            print("Error sending photo, sending text only")
+            requests.get(f"https://api.telegram.org/bot{api_key}/sendMessage?chat_id={chat_id}&text={message}").json()
 
 def send_simple_message(new_items, api_key):
     '''
@@ -68,6 +98,8 @@ def send_simple_message(new_items, api_key):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("api_key", help="Mailgun API key")
+    parser.add_argument("telegram_api_key", help="Telegram API key")
+    parser.add_argument("telegram_chat_id", help="Telegram chat ID")
     args = parser.parse_args()
 
     session = requests.Session()
@@ -148,8 +180,9 @@ if __name__ == '__main__':
                  if key not in products_old}
 
     if new_deals:
-        print(f"Found {len(new_deals)} new products! Sending email...")
-        send_simple_message(new_deals, args.api_key)
+        print(f"Found {len(new_deals)} new products! Sending messages...")
+        # send_simple_message(new_deals, args.api_key)
+        send_telegram_message(new_deals, args.telegram_api_key, args.telegram_chat_id)
 
     # Save updated products as JSON
     with open("./products_supersonido.json", "w", encoding='UTF-8') as file_new:
