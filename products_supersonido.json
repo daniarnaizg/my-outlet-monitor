@@ -104,6 +104,13 @@
         "url": "www.supersonido.es/p/audiopro-addon-c5a__",
         "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
     },
+    "IFI Audio XDSD": {
+        "name": "IFI Audio XDSD",
+        "price": 219.0,
+        "price_old": 399.0,
+        "url": "www.supersonido.es/p/ifi-audio-xdsd",
+        "image": "www.supersonido.es/productos/imagenes/producto27468.jpg"
+    },
     "IFI Audio ZEN DAC SIGNATURE": {
         "name": "IFI Audio ZEN DAC SIGNATURE",
         "price": 219.0,
@@ -138,13 +145,6 @@
         "price_old": 329.0,
         "url": "www.supersonido.es/p/musical-fidelity-lx2-hpa_",
         "image": "www.supersonido.es/productos/imagenes/producto49052.jpg"
-    },
-    "IFI Audio XDSD": {
-        "name": "IFI Audio XDSD",
-        "price": 249.0,
-        "price_old": 399.0,
-        "url": "www.supersonido.es/p/ifi-audio-xdsd",
-        "image": "www.supersonido.es/productos/imagenes/producto27468.jpg"
     },
     "Devialet Tree": {
         "name": "Devialet Tree",
@@ -279,6 +279,13 @@
         "url": "www.supersonido.es/p/neat-acoustics-iota_",
         "image": "www.supersonido.es/productos/imagenes/producto29592.jpg"
     },
+    "Shanling M6(21)": {
+        "name": "Shanling M6(21)",
+        "price": 499.0,
+        "price_old": 599.0,
+        "url": "www.supersonido.es/p/shanling-m6-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49367.jpg"
+    },
     "Audio-Technica ATH-WP900": {
         "name": "Audio-Technica ATH-WP900",
         "price": 499.0,
@@ -293,33 +300,12 @@
         "url": "www.supersonido.es/p/samsung-the-frame-qe43ls03a",
         "image": "www.supersonido.es/productos/imagenes/producto44714.jpg"
     },
-    "Pro-Ject DAC Box DS2 ultra": {
-        "name": "Pro-Ject DAC Box DS2 ultra",
-        "price": 499.0,
-        "price_old": 649.0,
-        "url": "www.supersonido.es/p/project-dac-box-ds2-ultra",
-        "image": "www.supersonido.es/productos/imagenes/producto23761.jpg"
-    },
     "Technics OTTAVA S SC-C50": {
         "name": "Technics OTTAVA S SC-C50",
         "price": 499.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
         "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
-    },
-    "Shanling M6(21)": {
-        "name": "Shanling M6(21)",
-        "price": 499.0,
-        "price_old": 599.0,
-        "url": "www.supersonido.es/p/shanling-m6-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49367.jpg"
-    },
-    "Blok STAX 600": {
-        "name": "Blok STAX 600",
-        "price": 499.0,
-        "price_old": 680.0,
-        "url": "www.supersonido.es/p/blok-stax-600_",
-        "image": "www.supersonido.es/productos/imagenes/producto49445.jpg"
     },
     "Denon Home 350": {
         "name": "Denon Home 350",
@@ -334,6 +320,27 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/audiopro-drumfire-blackstar-edition_",
         "image": "www.supersonido.es/productos/imagenes/producto47953.jpg"
+    },
+    "Shanling M6 PRO (21)": {
+        "name": "Shanling M6 PRO (21)",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
+    },
+    "Dan Clark Audio AEON Flow 2 Open": {
+        "name": "Dan Clark Audio AEON Flow 2 Open",
+        "price": 599.0,
+        "price_old": 1099.0,
+        "url": "www.supersonido.es/p/mrspeakers-aeon-flow-2-open",
+        "image": "www.supersonido.es/productos/imagenes/producto32865.jpg"
+    },
+    "Bluesound PULSE MINI 2i": {
+        "name": "Bluesound PULSE MINI 2i",
+        "price": 599.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
+        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
     },
     "Sonus-Faber LUMINA I": {
         "name": "Sonus-Faber LUMINA I",
@@ -356,27 +363,6 @@
         "url": "www.supersonido.es/p/project-maia-ds",
         "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
-    "Bluesound PULSE MINI 2i": {
-        "name": "Bluesound PULSE MINI 2i",
-        "price": 599.0,
-        "price_old": 699.0,
-        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
-        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
-    },
-    "Shanling M6 PRO (21)": {
-        "name": "Shanling M6 PRO (21)",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
-    },
-    "Dan Clark Audio AEON Flow 2 Open": {
-        "name": "Dan Clark Audio AEON Flow 2 Open",
-        "price": 599.0,
-        "price_old": 1099.0,
-        "url": "www.supersonido.es/p/mrspeakers-aeon-flow-2-open",
-        "image": "www.supersonido.es/productos/imagenes/producto32865.jpg"
-    },
     "Dan Clark Audio  AEON Flow 2 Closed": {
         "name": "Dan Clark Audio  AEON Flow 2 Closed",
         "price": 649.0,
@@ -397,13 +383,6 @@
         "price_old": 949.0,
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
-    },
-    "HIFIMAN ANANDA-BT": {
-        "name": "HIFIMAN ANANDA-BT",
-        "price": 699.0,
-        "price_old": 1199.0,
-        "url": "www.supersonido.es/p/hifiman-ananda-bt",
-        "image": "www.supersonido.es/productos/imagenes/producto32534.jpg"
     },
     "Bluesound PULSE 2i": {
         "name": "Bluesound PULSE 2i",
@@ -482,19 +461,19 @@
         "url": "www.supersonido.es/p/primare-i15_",
         "image": "www.supersonido.es/productos/imagenes/producto47536.jpg"
     },
-    "Klipsch RP-6000F": {
-        "name": "Klipsch RP-6000F",
-        "price": 899.0,
-        "price_old": 1398.0,
-        "url": "www.supersonido.es/p/klipsch-rp-6000f__",
-        "image": "www.supersonido.es/productos/imagenes/producto49017.jpg"
-    },
     "Audioquest Earth": {
         "name": "Audioquest Earth",
         "price": 899.0,
         "price_old": 1699.0,
         "url": "www.supersonido.es/p/audioquest-earth",
         "image": "www.supersonido.es/productos/imagenes/producto29420.jpg"
+    },
+    "Klipsch RP-6000F": {
+        "name": "Klipsch RP-6000F",
+        "price": 899.0,
+        "price_old": 1398.0,
+        "url": "www.supersonido.es/p/klipsch-rp-6000f__",
+        "image": "www.supersonido.es/productos/imagenes/producto49017.jpg"
     },
     "Astell&kern AK T9iE": {
         "name": "Astell&kern AK T9iE",
@@ -552,6 +531,13 @@
         "url": "www.supersonido.es/p/mrspeakers-ether-flow",
         "image": "www.supersonido.es/productos/imagenes/producto28309.jpg"
     },
+    "Audeze LCD-XC": {
+        "name": "Audeze LCD-XC",
+        "price": 1099.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/audeze-lcdxc",
+        "image": "www.supersonido.es/productos/imagenes/producto16708.jpg"
+    },
     "Audio-Technica ATH-AWAS": {
         "name": "Audio-Technica ATH-AWAS",
         "price": 1099.0,
@@ -565,13 +551,6 @@
         "price_old": 1399.0,
         "url": "www.supersonido.es/p/cayin-n6ii_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
-    },
-    "Audeze LCD-XC": {
-        "name": "Audeze LCD-XC",
-        "price": 1099.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/audeze-lcdxc",
-        "image": "www.supersonido.es/productos/imagenes/producto16708.jpg"
     },
     "Samsung QE65QN700B": {
         "name": "Samsung QE65QN700B",
@@ -600,13 +579,6 @@
         "price_old": 2490.0,
         "url": "www.supersonido.es/p/rel-habitat-1",
         "image": "www.supersonido.es/productos/imagenes/producto16309.jpg"
-    },
-    "Ibasso DX320": {
-        "name": "Ibasso DX320",
-        "price": 1279.0,
-        "price_old": 1599.0,
-        "url": "www.supersonido.es/p/ibasso-dx320_",
-        "image": "www.supersonido.es/productos/imagenes/producto49533.jpg"
     },
     "Sonus-Faber Cremona M Sub": {
         "name": "Sonus-Faber Cremona M Sub",
