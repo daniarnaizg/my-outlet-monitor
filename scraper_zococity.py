@@ -5,10 +5,6 @@ from bs4 import BeautifulSoup
 from requests_html import HTMLSession
 import math
 
-API_ENDPOINT = "https://api.mailgun.net/v3/sandbox275ac03099e1436ea6627decb4301641.mailgun.org/messages"
-FROM_EMAIL = "Supersonido Outlet <postmaster@sandbox275ac03099e1436ea6627decb4301641.mailgun.org>"
-TO_EMAIL = "Dani Arnaiz <daniarnaizg@gmail.com>"
-
 HEADERS = {
     'Access-Control-Allow-Origin': '*',
     'Access-Control-Allow-Methods': 'GET',
@@ -39,9 +35,9 @@ def send_telegram_message(new_items, api_key, chat_id):
         price_old = item['price_old']
         sale_percentage = round((price_old - price) / price_old * 100, 2)
         message = f'''
-            {name}
-            {price_old}€ ➡️ {price}€ 📉 -{sale_percentage}% 
-            {url}
+        {name}
+        {price_old}€ ➡️ {price}€ 📉 -{sale_percentage}% 
+        {url}
         '''
 
         try:
@@ -54,6 +50,8 @@ def send_telegram_message(new_items, api_key, chat_id):
 
 
 if __name__ == '__main__':
+
+    # Get api key and chat id as arguments
     parser = argparse.ArgumentParser()
     parser.add_argument("telegram_api_key", help="Telegram API key")
     parser.add_argument("telegram_chat_id", help="Telegram chat ID")
@@ -96,28 +94,21 @@ if __name__ == '__main__':
         for item in items:
             try:
                 name = item.find("div", {"class": "product-card__ttl"}).text.strip()
-                # print(name)
                 url = item.find("div", {"class": "product-card__ttl"}).find("a")["href"]
                 url = f"https://zococity.es{url}"
-                # print(url)
                 image = item.find("img", {"class": "product-card__img"})["data-src"].split("?")[0]
-                # print(image)
                 price = item.find("span", {"class": "price-item"}).text.strip().replace("€", "").replace(".", "").replace(",", ".")
                 if 'from' in price.lower():
                     price = float(price.split(" ")[-1])
                 else:
                     price = float(price)
-                # print(price)
 
                 try:
                     price_old = float(item.find("s", {"class": "price-item"}).text.strip().replace("€", "").replace(".", "").replace(",", "."))
-                except Exception as e:
+                except:
                     # No price_old, using price
                     price_old = price
-                
-                # print(price_old)
 
-                # print('------')
             except Exception as e:
                 print(f'Error with {url}: {e}')
                 continue
@@ -134,21 +125,21 @@ if __name__ == '__main__':
                 "image": image,
             }
 
-    new_products["700-jamo-c-95-dark-apple2223"] = {
-        "name": "Soundmagic HP1000 - Reacondicionados",
-        "price": 263.2,
-        "price_old": 329.0,
-        "url": "https://zococity.es/products/soundmagic-hp1000-reacondicionados",
-        "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/hp1000_1_9bf3d72d-ad02-47fc-b102-da27c147c775_360x.jpg"
-    }
+    # new_products["700-jamo-c-95-dark-apple2223"] = {
+    #     "name": "Soundmagic HP1000 - Reacondicionados",
+    #     "price": 263.2,
+    #     "price_old": 329.0,
+    #     "url": "https://zococity.es/products/soundmagic-hp1000-reacondicionados",
+    #     "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/hp1000_1_9bf3d72d-ad02-47fc-b102-da27c147c775_360x.jpg"
+    # }
 
-    new_products["fiio-l27-reacondicionado223"] = {
-        "name": "FiiO L27 - Reacondicionado",
-        "price": 15.99,
-        "price_old": 19.99,
-        "url": "https://zococity.es/products/fiio-l27-reacondicionado",
-        "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/screenshot_2_2_360x.jpg"
-    }
+    # new_products["fiio-l27-reacondicionado223"] = {
+    #     "name": "FiiO L27 - Reacondicionado",
+    #     "price": 15.99,
+    #     "price_old": 19.99,
+    #     "url": "https://zococity.es/products/fiio-l27-reacondicionado",
+    #     "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/screenshot_2_2_360x.jpg"
+    # }
 
     # Check if there is a new product by comparing keys
     new_deals = {key: item for key, item in new_products.items()

@@ -3,9 +3,6 @@ import argparse
 import requests
 from bs4 import BeautifulSoup
 
-API_ENDPOINT = "https://api.mailgun.net/v3/sandbox275ac03099e1436ea6627decb4301641.mailgun.org/messages"
-FROM_EMAIL = "MadridHIFI Outlet <postmaster@sandbox275ac03099e1436ea6627decb4301641.mailgun.org>"
-TO_EMAIL = "Dani Arnaiz <daniarnaizg@gmail.com>"
 
 HEADERS = {
     'Access-Control-Allow-Origin': '*',
@@ -36,9 +33,9 @@ def send_telegram_message(new_items, api_key, chat_id):
         price_old = item['price_old']
         sale_percentage = round((price_old - price) / price_old * 100, 2)
         message = f'''
-            {name}
-            {price_old}€ ➡️ {price}€ 📉 -{sale_percentage}% 
-            {url}
+        {name}
+        {price_old}€ ➡️ {price}€ 📉 -{sale_percentage}% 
+        {url}
         '''
 
         try:
@@ -48,57 +45,10 @@ def send_telegram_message(new_items, api_key, chat_id):
             requests.get(f"https://api.telegram.org/bot{api_key}/sendMessage?chat_id={chat_id}&text={message}").json()
 
 
-
-def send_simple_message(new_items, api_key):
-    '''
-    Send an email with the new items in the MadridHIFI outlet
-    :param new_items: dictionary with the new items
-    :param api_key: Mailgun API key
-    :return: response from Mailgun
-    '''
-
-    num_new_items = len(new_items)
-    html_body = f"<html><body><h1>{num_new_items} new products in MadridHIFI outlet!</h1>"
-
-    for key, item in new_items.items():
-        email_url = item['url']
-        email_image = item['image']
-        email_name = item['name']
-        email_price = item['price']
-        email_price_old = item['price_old']
-        sale_percentage = round((price_old - price) / price_old * 100, 2)
-        html_body += f'''
-            <a href="{email_url}">
-                <h3>{email_name}</h3>
-            </a>
-            <span style="font-size: 30px;">{email_price_old}€</span>
-            <span style="font-size: 30px; color: blue;">➡️ {email_price}€</span>
-            <span style="font-size: 30px; color: red;">📉 -{sale_percentage}%</span> 
-            <br>
-            <img src="{email_image}" height="250">
-            <br>
-        '''
-
-    html_body += "</body></html>"
-
-    return requests.post(
-        API_ENDPOINT,
-        auth=("api", api_key),
-        data={
-            "from": FROM_EMAIL,
-            "to": TO_EMAIL,
-            "subject": f"🤑 {num_new_items} new products from MadridHIFI!",
-            "text": f"{num_new_items} new items in MadridHIFI outlet!",
-            "html": html_body
-        }
-    )
-
-
 if __name__ == '__main__':
 
-    # get api key as argument
+    # Get api key and chat id as arguments
     parser = argparse.ArgumentParser()
-    parser.add_argument("api_key", help="Mailgun API key")
     parser.add_argument("telegram_api_key", help="Telegram API key")
     parser.add_argument("telegram_chat_id", help="Telegram chat ID")
     args = parser.parse_args()
@@ -119,7 +69,7 @@ if __name__ == '__main__':
     urls = [
         f"https://www.madridhifi.com{filter['href']}" for filter in filters]
 
-    # dictionary using name as key. map key to name, price, url and image
+    # Dictionary using name as key. map key to name, price, url and image
     new_products = {}
     for url in urls:
         response = session.get(url, headers=HEADERS)
@@ -143,7 +93,10 @@ if __name__ == '__main__':
                 print(f'Error parsing item {url}: {e} - Skipping...')
                 break
 
-            new_products[name] = {
+            # Set id form url (https://www.madridhifi.com/p/adam-s2v-reacondicionado/)
+            item_id = url.split("/")[-2]
+
+            new_products[item_id] = {
                 "name": name,
                 "price": price,
                 "price_old": price_old,
@@ -171,8 +124,7 @@ if __name__ == '__main__':
                  if key not in products_old}
 
     if new_deals.keys():
-        print(f"Found {len(new_deals)} new products! Sending email...")
-        # send_simple_message(new_deals, args.api_key)
+        print(f"Found {len(new_deals)} new products! Sending messages...")
         send_telegram_message(new_deals, args.telegram_api_key, args.telegram_chat_id)
 
     # save as json

@@ -36,7 +36,7 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Run the scraper
       run: |
-        python scraper_madridhifi.py ${{ secrets.MAILGUN_API_KEY }} ${{ secrets.TELEGRAM_API_KEY }} ${{ secrets.TELEGRAM_CHAT_ID }}
+        python scraper_madridhifi.py ${{ secrets.TELEGRAM_API_KEY }} ${{ secrets.TELEGRAM_CHAT_ID }}
     - name: Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v4.16.0
       with:

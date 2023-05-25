@@ -3,9 +3,6 @@ import argparse
 import requests
 from bs4 import BeautifulSoup
 
-API_ENDPOINT = "https://api.mailgun.net/v3/sandbox275ac03099e1436ea6627decb4301641.mailgun.org/messages"
-FROM_EMAIL = "Supersonido Outlet <postmaster@sandbox275ac03099e1436ea6627decb4301641.mailgun.org>"
-TO_EMAIL = "Dani Arnaiz <daniarnaizg@gmail.com>"
 
 HEADERS = {
     'Access-Control-Allow-Origin': '*',
@@ -37,9 +34,9 @@ def send_telegram_message(new_items, api_key, chat_id):
         price_old = item['price_old']
         sale_percentage = round((price_old - price) / price_old * 100, 2)
         message = f'''
-            {name}
-            {price_old}€ ➡️ {price}€ 📉 -{sale_percentage}% 
-            {url}
+        {name}
+        {price_old}€ ➡️ {price}€ 📉 -{sale_percentage}% 
+        {url}
         '''
 
         try:
@@ -51,58 +48,10 @@ def send_telegram_message(new_items, api_key, chat_id):
                 f"https://api.telegram.org/bot{api_key}/sendMessage?chat_id={chat_id}&text={message}").json()
 
 
-def send_simple_message(new_items, api_key):
-    '''
-    Send an email with the new items in the MAG Outlet outlet
-    :param new_items: dictionary with the new items
-    :param api_key: Mailgun API key
-    :return: response from Mailgun
-    '''
-
-    num_new_items = len(new_items)
-    html_body = f'''
-    <html>
-        <body>
-        <h1>{num_new_items} new products in MAG Outlet outlet!</h1>
-    '''
-    for key, item in new_items.items():
-        url = item['url']
-        image = item['image']
-        name = item['name']
-        price = item['price']
-        price_old = item['price_old']
-        sale_percentage = round((price_old - price) / price_old * 100, 2)
-        html_body += f'''
-            <a href="{url}">
-                <h3>{name}</h3>
-            </a>
-            <span style="font-size: 30px;">{price_old}€</span>
-            <span style="font-size: 30px; color: blue;">➡️ {price}€</span>
-            <span style="font-size: 30px; color: red;">📉 -{sale_percentage}%</span> 
-            <br>
-            <img src="{image}" height="250">
-            <br>
-        '''
-    html_body += '''
-        </body>
-    </html>
-    '''
-    return requests.post(
-        API_ENDPOINT,
-        auth=("api", api_key),
-        data={
-            "from": FROM_EMAIL,
-            "to": TO_EMAIL,
-            "subject": f"🤑 {num_new_items} new products from MAG Outlet!",
-            "text": f"{num_new_items} new items in MAG Outlet outlet!",
-            "html": html_body
-        }
-    )
-
-
 if __name__ == '__main__':
+
+    # Get api key and chat id as arguments
     parser = argparse.ArgumentParser()
-    parser.add_argument("api_key", help="Mailgun API key")
     parser.add_argument("telegram_api_key", help="Telegram API key")
     parser.add_argument("telegram_chat_id", help="Telegram chat ID")
     args = parser.parse_args()
@@ -138,7 +87,7 @@ if __name__ == '__main__':
                 try:
                     price_old = float(item.find("span", {"class": "old-price product-price"}).text.strip(
                     ).replace("€", "").replace(",", ".").replace(" ", ""))
-                except Exception as e:
+                except:
                     # No price_old, using price
                     price_old = price
 
@@ -179,7 +128,6 @@ if __name__ == '__main__':
 
     if new_deals:
         print(f"Found {len(new_deals)} new products! Sending messages...")
-        # send_simple_message(new_deals, args.api_key)
         send_telegram_message(new_deals, args.telegram_api_key, args.telegram_chat_id)
 
     # Save updated products as JSON
