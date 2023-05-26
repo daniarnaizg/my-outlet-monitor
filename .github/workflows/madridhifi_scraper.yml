@@ -2,7 +2,7 @@ name: madridhifi-outlet-monitor
 
 on:
   schedule:
-  - cron: '0 8-23/2 * * 1-6'
+  - cron: '10 8-23 * * 1-6'
   push:
     branches: [ "main" ]
   pull_request:
