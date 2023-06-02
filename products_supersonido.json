@@ -244,6 +244,13 @@
         "url": "www.supersonido.es/p/pro-ject-phono-box-ds2-usb_",
         "image": "www.supersonido.es/productos/imagenes/producto29680.jpg"
     },
+    "pro-ject-pre-box-ds2-analogue": {
+        "name": "Pro-Ject Pre Box DS2 analogue",
+        "price": 400.0,
+        "price_old": 549.0,
+        "url": "www.supersonido.es/p/pro-ject-pre-box-ds2-analogue",
+        "image": "www.supersonido.es/productos/imagenes/producto26243.jpg"
+    },
     "loewe-klang-mr3": {
         "name": "Loewe Klang mr3",
         "price": 439.0,
@@ -321,13 +328,6 @@
         "url": "www.supersonido.es/p/audiopro-drumfire-blackstar-edition_",
         "image": "www.supersonido.es/productos/imagenes/producto47953.jpg"
     },
-    "bluesound-pulse-mini-2i_": {
-        "name": "Bluesound PULSE MINI 2i",
-        "price": 599.0,
-        "price_old": 699.0,
-        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
-        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
-    },
     "shanling-m6-pro-21_": {
         "name": "Shanling M6 PRO (21)",
         "price": 599.0,
@@ -349,12 +349,12 @@
         "url": "www.supersonido.es/p/project-maia-ds",
         "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
-    "isotek-systems-sirius-evo3_": {
-        "name": "Isotek Systems Sirius EVO3",
+    "sonus-faber-lumina-i__": {
+        "name": "Sonus-Faber LUMINA I",
         "price": 599.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
-        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/sonus-faber-lumina-i__",
+        "image": "www.supersonido.es/productos/imagenes/producto48455.jpg"
     },
     "pro-ject-stereo-box-ds2_": {
         "name": "Pro-Ject Stereo Box DS2",
@@ -363,12 +363,19 @@
         "url": "www.supersonido.es/p/pro-ject-stereo-box-ds2_",
         "image": "www.supersonido.es/productos/imagenes/producto46695.jpg"
     },
-    "sonus-faber-lumina-i__": {
-        "name": "Sonus-Faber LUMINA I",
+    "isotek-systems-sirius-evo3_": {
+        "name": "Isotek Systems Sirius EVO3",
         "price": 599.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/sonus-faber-lumina-i__",
-        "image": "www.supersonido.es/productos/imagenes/producto48455.jpg"
+        "price_old": 949.0,
+        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
+        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
+    },
+    "bluesound-pulse-mini-2i_": {
+        "name": "Bluesound PULSE MINI 2i",
+        "price": 599.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
+        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
     },
     "dan-clark-audio-aeon-flow-2-closed": {
         "name": "Dan Clark Audio  AEON Flow 2 Closed",
@@ -496,13 +503,6 @@
         "url": "www.supersonido.es/p/samsung-qe55qn95a__",
         "image": "www.supersonido.es/productos/imagenes/producto47373.jpg"
     },
-    "audio-technica-ath-ap2000ti_": {
-        "name": "Audio-Technica ATH-AP2000Ti",
-        "price": 999.0,
-        "price_old": 1349.0,
-        "url": "www.supersonido.es/p/audio-technica-ath-ap2000ti_",
-        "image": "www.supersonido.es/productos/imagenes/producto49180.jpg"
-    },
     "audeze-euclid_": {
         "name": "Audeze EUCLID",
         "price": 999.0,
@@ -510,12 +510,12 @@
         "url": "www.supersonido.es/p/audeze-euclid_",
         "image": "www.supersonido.es/productos/imagenes/producto49689.jpg"
     },
-    "svs-prime-tower-speaker_": {
-        "name": "SVS Prime Tower Speaker",
+    "audio-technica-ath-ap2000ti_": {
+        "name": "Audio-Technica ATH-AP2000Ti",
         "price": 999.0,
-        "price_old": 1498.0,
-        "url": "www.supersonido.es/p/svs-prime-tower-speaker_",
-        "image": "www.supersonido.es/productos/imagenes/producto47939.jpg"
+        "price_old": 1349.0,
+        "url": "www.supersonido.es/p/audio-technica-ath-ap2000ti_",
+        "image": "www.supersonido.es/productos/imagenes/producto49180.jpg"
     },
     "naim-nap-155-xs": {
         "name": "Naim NAP 155 XS",
@@ -523,6 +523,13 @@
         "price_old": 2050.0,
         "url": "www.supersonido.es/p/naim-nap-155-xs",
         "image": "www.supersonido.es/productos/imagenes/producto8230.jpg"
+    },
+    "svs-prime-tower-speaker_": {
+        "name": "SVS Prime Tower Speaker",
+        "price": 999.0,
+        "price_old": 1498.0,
+        "url": "www.supersonido.es/p/svs-prime-tower-speaker_",
+        "image": "www.supersonido.es/productos/imagenes/producto47939.jpg"
     },
     "loewe-klang-bar5-mr-and-sub5": {
         "name": "Loewe Klang bar5 mr and sub5",
@@ -538,6 +545,20 @@
         "url": "www.supersonido.es/p/mrspeakers-ether-flow",
         "image": "www.supersonido.es/productos/imagenes/producto28309.jpg"
     },
+    "audeze-lcdxc": {
+        "name": "Audeze LCD-XC",
+        "price": 1099.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/audeze-lcdxc",
+        "image": "www.supersonido.es/productos/imagenes/producto16708.jpg"
+    },
+    "audiolab-omnia_": {
+        "name": "Audiolab Omnia",
+        "price": 1099.0,
+        "price_old": 1799.0,
+        "url": "www.supersonido.es/p/audiolab-omnia_",
+        "image": "www.supersonido.es/productos/imagenes/producto47984.jpg"
+    },
     "audio-technica-ath-awas_": {
         "name": "Audio-Technica ATH-AWAS",
         "price": 1099.0,
@@ -551,13 +572,6 @@
         "price_old": 1399.0,
         "url": "www.supersonido.es/p/cayin-n6ii_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
-    },
-    "audiolab-omnia_": {
-        "name": "Audiolab Omnia",
-        "price": 1099.0,
-        "price_old": 1799.0,
-        "url": "www.supersonido.es/p/audiolab-omnia_",
-        "image": "www.supersonido.es/productos/imagenes/producto47984.jpg"
     },
     "marantz-nd8006_oca": {
         "name": "Marantz ND8006",
@@ -629,19 +643,19 @@
         "url": "www.supersonido.es/p/audio-technica-ath-awkt_",
         "image": "www.supersonido.es/productos/imagenes/producto49179.jpg"
     },
-    "matrix-audio-element-p_": {
-        "name": "Matrix Audio Element P",
-        "price": 1500.0,
-        "price_old": 2799.0,
-        "url": "www.supersonido.es/p/matrix-audio-element-p_",
-        "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
-    },
     "matrix-audio-element-p__": {
         "name": "Matrix Audio Element P",
         "price": 1500.0,
         "price_old": 2799.0,
         "url": "www.supersonido.es/p/matrix-audio-element-p__",
         "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
+    },
+    "matrix-audio-element-p_": {
+        "name": "Matrix Audio Element P",
+        "price": 1500.0,
+        "price_old": 2799.0,
+        "url": "www.supersonido.es/p/matrix-audio-element-p_",
+        "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
     },
     "devialet-phantom-gold": {
         "name": "Devialet PHANTOM GOLD",
