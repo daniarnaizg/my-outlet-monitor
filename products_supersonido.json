@@ -97,13 +97,6 @@
         "url": "www.supersonido.es/p/loewe-klang-mr1",
         "image": "www.supersonido.es/productos/imagenes/producto47220.jpg"
     },
-    "rega-planar-1___": {
-        "name": "Rega Planar 1",
-        "price": 239.0,
-        "price_old": 349.0,
-        "url": "www.supersonido.es/p/rega-planar-1___",
-        "image": "www.supersonido.es/productos/imagenes/producto41532.jpg"
-    },
     "devialet-tree__": {
         "name": "Devialet Tree",
         "price": 249.0,
@@ -153,19 +146,19 @@
         "url": "www.supersonido.es/p/jamo-c-93-ii_",
         "image": "www.supersonido.es/productos/imagenes/producto49729.jpg"
     },
-    "bose-home-speaker-500_oc": {
-        "name": "Bose Home Speaker 500",
-        "price": 299.0,
-        "price_old": 399.0,
-        "url": "www.supersonido.es/p/bose-home-speaker-500_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto49341.jpg"
-    },
     "pro-ject-a1_": {
         "name": "Pro-Ject A1",
         "price": 299.0,
         "price_old": 449.0,
         "url": "www.supersonido.es/p/pro-ject-a1_",
         "image": "www.supersonido.es/productos/imagenes/producto49549.jpg"
+    },
+    "bose-home-speaker-500_oc": {
+        "name": "Bose Home Speaker 500",
+        "price": 299.0,
+        "price_old": 399.0,
+        "url": "www.supersonido.es/p/bose-home-speaker-500_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto49341.jpg"
     },
     "tannoy-di6-dc": {
         "name": "Tannoy Di6",
@@ -187,6 +180,13 @@
         "price_old": 429.0,
         "url": "www.supersonido.es/p/audio-technica-at-lpw50pb_",
         "image": "www.supersonido.es/productos/imagenes/producto49306.jpg"
+    },
+    "audio-technica-at-lp5x_": {
+        "name": "Audio-Technica AT-LP5X",
+        "price": 339.0,
+        "price_old": 449.0,
+        "url": "www.supersonido.es/p/audio-technica-at-lp5x_",
+        "image": "www.supersonido.es/productos/imagenes/producto44647.jpg"
     },
     "loewe-klang-s1_": {
         "name": "Loewe Klang S1",
@@ -510,13 +510,6 @@
         "url": "www.supersonido.es/p/audeze-euclid_",
         "image": "www.supersonido.es/productos/imagenes/producto49689.jpg"
     },
-    "audio-technica-ath-ap2000ti_": {
-        "name": "Audio-Technica ATH-AP2000Ti",
-        "price": 999.0,
-        "price_old": 1349.0,
-        "url": "www.supersonido.es/p/audio-technica-ath-ap2000ti_",
-        "image": "www.supersonido.es/productos/imagenes/producto49180.jpg"
-    },
     "naim-nap-155-xs": {
         "name": "Naim NAP 155 XS",
         "price": 999.0,
@@ -530,6 +523,13 @@
         "price_old": 1498.0,
         "url": "www.supersonido.es/p/svs-prime-tower-speaker_",
         "image": "www.supersonido.es/productos/imagenes/producto47939.jpg"
+    },
+    "audio-technica-ath-ap2000ti_": {
+        "name": "Audio-Technica ATH-AP2000Ti",
+        "price": 999.0,
+        "price_old": 1349.0,
+        "url": "www.supersonido.es/p/audio-technica-ath-ap2000ti_",
+        "image": "www.supersonido.es/productos/imagenes/producto49180.jpg"
     },
     "loewe-klang-bar5-mr-and-sub5": {
         "name": "Loewe Klang bar5 mr and sub5",
@@ -552,13 +552,6 @@
         "url": "www.supersonido.es/p/audeze-lcdxc",
         "image": "www.supersonido.es/productos/imagenes/producto16708.jpg"
     },
-    "audiolab-omnia_": {
-        "name": "Audiolab Omnia",
-        "price": 1099.0,
-        "price_old": 1799.0,
-        "url": "www.supersonido.es/p/audiolab-omnia_",
-        "image": "www.supersonido.es/productos/imagenes/producto47984.jpg"
-    },
     "audio-technica-ath-awas_": {
         "name": "Audio-Technica ATH-AWAS",
         "price": 1099.0,
@@ -572,6 +565,13 @@
         "price_old": 1399.0,
         "url": "www.supersonido.es/p/cayin-n6ii_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+    },
+    "audiolab-omnia_": {
+        "name": "Audiolab Omnia",
+        "price": 1099.0,
+        "price_old": 1799.0,
+        "url": "www.supersonido.es/p/audiolab-omnia_",
+        "image": "www.supersonido.es/productos/imagenes/producto47984.jpg"
     },
     "marantz-nd8006_oca": {
         "name": "Marantz ND8006",
