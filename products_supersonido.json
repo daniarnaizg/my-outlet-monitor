@@ -272,19 +272,19 @@
         "url": "www.supersonido.es/p/neat-acoustics-iota_",
         "image": "www.supersonido.es/productos/imagenes/producto29592.jpg"
     },
-    "technics-ottava-s-sc-c50OC": {
-        "name": "Technics OTTAVA S SC-C50",
-        "price": 499.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
-        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
-    },
     "shanling-m6-21_": {
         "name": "Shanling M6(21)",
         "price": 499.0,
         "price_old": 599.0,
         "url": "www.supersonido.es/p/shanling-m6-21_",
         "image": "www.supersonido.es/productos/imagenes/producto49367.jpg"
+    },
+    "technics-ottava-s-sc-c50OC": {
+        "name": "Technics OTTAVA S SC-C50",
+        "price": 499.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
+        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
     },
     "audio-technica-ath-wp900_": {
         "name": "Audio-Technica ATH-WP900",
@@ -503,6 +503,13 @@
         "url": "www.supersonido.es/p/audeze-euclid_",
         "image": "www.supersonido.es/productos/imagenes/producto49689.jpg"
     },
+    "naim-nap-155-xs": {
+        "name": "Naim NAP 155 XS",
+        "price": 999.0,
+        "price_old": 2050.0,
+        "url": "www.supersonido.es/p/naim-nap-155-xs",
+        "image": "www.supersonido.es/productos/imagenes/producto8230.jpg"
+    },
     "svs-prime-tower-speaker_": {
         "name": "SVS Prime Tower Speaker",
         "price": 999.0,
@@ -516,13 +523,6 @@
         "price_old": 1349.0,
         "url": "www.supersonido.es/p/audio-technica-ath-ap2000ti_",
         "image": "www.supersonido.es/productos/imagenes/producto49180.jpg"
-    },
-    "naim-nap-155-xs": {
-        "name": "Naim NAP 155 XS",
-        "price": 999.0,
-        "price_old": 2050.0,
-        "url": "www.supersonido.es/p/naim-nap-155-xs",
-        "image": "www.supersonido.es/productos/imagenes/producto8230.jpg"
     },
     "loewe-klang-bar5-mr-and-sub5": {
         "name": "Loewe Klang bar5 mr and sub5",
@@ -545,6 +545,13 @@
         "url": "www.supersonido.es/p/audeze-lcdxc",
         "image": "www.supersonido.es/productos/imagenes/producto16708.jpg"
     },
+    "cayin-n6ii_": {
+        "name": "Cayin N6ii",
+        "price": 1099.0,
+        "price_old": 1399.0,
+        "url": "www.supersonido.es/p/cayin-n6ii_",
+        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+    },
     "audio-technica-ath-awas_": {
         "name": "Audio-Technica ATH-AWAS",
         "price": 1099.0,
@@ -558,13 +565,6 @@
         "price_old": 1799.0,
         "url": "www.supersonido.es/p/audiolab-omnia_",
         "image": "www.supersonido.es/productos/imagenes/producto47984.jpg"
-    },
-    "cayin-n6ii_": {
-        "name": "Cayin N6ii",
-        "price": 1099.0,
-        "price_old": 1399.0,
-        "url": "www.supersonido.es/p/cayin-n6ii_",
-        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
     },
     "marantz-nd8006_oca": {
         "name": "Marantz ND8006",
@@ -636,13 +636,6 @@
         "url": "www.supersonido.es/p/audio-technica-ath-awkt_",
         "image": "www.supersonido.es/productos/imagenes/producto49179.jpg"
     },
-    "matrix-audio-element-p__": {
-        "name": "Matrix Audio Element P",
-        "price": 1500.0,
-        "price_old": 2799.0,
-        "url": "www.supersonido.es/p/matrix-audio-element-p__",
-        "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
-    },
     "matrix-audio-element-p_": {
         "name": "Matrix Audio Element P",
         "price": 1500.0,
@@ -650,12 +643,12 @@
         "url": "www.supersonido.es/p/matrix-audio-element-p_",
         "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
     },
-    "devialet-phantom-gold": {
-        "name": "Devialet PHANTOM GOLD",
-        "price": 1700.0,
-        "price_old": 3100.0,
-        "url": "www.supersonido.es/p/devialet-phantom-gold",
-        "image": "www.supersonido.es/productos/imagenes/producto44228.jpg"
+    "matrix-audio-element-p__": {
+        "name": "Matrix Audio Element P",
+        "price": 1500.0,
+        "price_old": 2799.0,
+        "url": "www.supersonido.es/p/matrix-audio-element-p__",
+        "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
     },
     "naim-xp5-xs_": {
         "name": "Naim XP5 XS",
@@ -754,13 +747,6 @@
         "price_old": 5999.0,
         "url": "www.supersonido.es/p/anthem-str-integrated-amplifier_",
         "image": "www.supersonido.es/productos/imagenes/producto49864.jpg"
-    },
-    "unison-research-s6_ocasion": {
-        "name": "Unison Research S6",
-        "price": 2995.0,
-        "price_old": 4500.0,
-        "url": "www.supersonido.es/p/unison-research-s6_ocasion",
-        "image": "www.supersonido.es/productos/imagenes/producto42466.jpg"
     },
     "meze-audio-empyrean-elite_": {
         "name": "Meze Audio Empyrean Elite",
