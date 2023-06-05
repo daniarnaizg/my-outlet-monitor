@@ -139,19 +139,19 @@
         "url": "www.supersonido.es/p/jamo-c-93-ii_",
         "image": "www.supersonido.es/productos/imagenes/producto49729.jpg"
     },
-    "bose-home-speaker-500_oc": {
-        "name": "Bose Home Speaker 500",
-        "price": 299.0,
-        "price_old": 399.0,
-        "url": "www.supersonido.es/p/bose-home-speaker-500_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto49341.jpg"
-    },
     "pro-ject-a1_": {
         "name": "Pro-Ject A1",
         "price": 299.0,
         "price_old": 449.0,
         "url": "www.supersonido.es/p/pro-ject-a1_",
         "image": "www.supersonido.es/productos/imagenes/producto49549.jpg"
+    },
+    "bose-home-speaker-500_oc": {
+        "name": "Bose Home Speaker 500",
+        "price": 299.0,
+        "price_old": 399.0,
+        "url": "www.supersonido.es/p/bose-home-speaker-500_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto49341.jpg"
     },
     "tannoy-di6-dc": {
         "name": "Tannoy Di6",
@@ -188,26 +188,19 @@
         "url": "www.supersonido.es/p/loewe-klang-s1_",
         "image": "www.supersonido.es/productos/imagenes/producto44954.jpg"
     },
-    "denon-dcd-900ne_": {
-        "name": "Denon DCD-900NE",
-        "price": 349.0,
-        "price_old": 499.0,
-        "url": "www.supersonido.es/p/denon-dcd-900ne_",
-        "image": "www.supersonido.es/productos/imagenes/producto49310.jpg"
-    },
-    "denon-dcd-900ne__": {
-        "name": "Denon DCD-900NE",
-        "price": 349.0,
-        "price_old": 499.0,
-        "url": "www.supersonido.es/p/denon-dcd-900ne__",
-        "image": "www.supersonido.es/productos/imagenes/producto49311.jpg"
-    },
     "nad-bluos": {
         "name": "Nad MDC BluOS 2",
         "price": 349.0,
         "price_old": 499.0,
         "url": "www.supersonido.es/p/nad-bluos",
         "image": "www.supersonido.es/productos/imagenes/producto23316.jpg"
+    },
+    "denon-dcd-900ne_": {
+        "name": "Denon DCD-900NE",
+        "price": 349.0,
+        "price_old": 499.0,
+        "url": "www.supersonido.es/p/denon-dcd-900ne_",
+        "image": "www.supersonido.es/productos/imagenes/producto49310.jpg"
     },
     "monitor-audio-cpwt380_": {
         "name": "Monitor Audio CP-WT380",
@@ -342,19 +335,19 @@
         "url": "www.supersonido.es/p/mrspeakers-aeon-flow-2-open",
         "image": "www.supersonido.es/productos/imagenes/producto32865.jpg"
     },
-    "project-maia-ds": {
-        "name": "Pro-Ject MaiA DS",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/project-maia-ds",
-        "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
-    },
     "sonus-faber-lumina-i__": {
         "name": "Sonus-Faber LUMINA I",
         "price": 599.0,
         "price_old": 899.0,
         "url": "www.supersonido.es/p/sonus-faber-lumina-i__",
         "image": "www.supersonido.es/productos/imagenes/producto48455.jpg"
+    },
+    "project-maia-ds": {
+        "name": "Pro-Ject MaiA DS",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/project-maia-ds",
+        "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
     "pro-ject-stereo-box-ds2_": {
         "name": "Pro-Ject Stereo Box DS2",
@@ -398,19 +391,19 @@
         "url": "www.supersonido.es/p/bluesound-pulse-2i_",
         "image": "www.supersonido.es/productos/imagenes/producto47297.jpg"
     },
-    "pro-ject-stereo-box-rs": {
-        "name": "Pro-Ject Stereo Box RS",
-        "price": 749.0,
-        "price_old": 999.0,
-        "url": "www.supersonido.es/p/pro-ject-stereo-box-rs",
-        "image": "www.supersonido.es/productos/imagenes/producto16721.jpg"
-    },
     "denon-pma-900hne_": {
         "name": "Denon PMA-900HNE",
         "price": 749.0,
         "price_old": 999.0,
         "url": "www.supersonido.es/p/denon-pma-900hne_",
         "image": "www.supersonido.es/productos/imagenes/producto49176.jpg"
+    },
+    "pro-ject-stereo-box-rs": {
+        "name": "Pro-Ject Stereo Box RS",
+        "price": 749.0,
+        "price_old": 999.0,
+        "url": "www.supersonido.es/p/pro-ject-stereo-box-rs",
+        "image": "www.supersonido.es/productos/imagenes/producto16721.jpg"
     },
     "samsung-qe55qn85b_": {
         "name": "Samsung QE55QN85B",
@@ -453,6 +446,13 @@
         "price_old": 1999.0,
         "url": "www.supersonido.es/p/samsung-qe55qn90b_",
         "image": "www.supersonido.es/productos/imagenes/producto46805.jpg"
+    },
+    "samsung-qe55qn90b": {
+        "name": "Samsung QE55QN90B",
+        "price": 899.0,
+        "price_old": 2199.0,
+        "url": "www.supersonido.es/p/samsung-qe55qn90b",
+        "image": "www.supersonido.es/productos/imagenes/producto46804.jpg"
     },
     "primare-i15_": {
         "name": "Primare I15",
@@ -545,13 +545,6 @@
         "url": "www.supersonido.es/p/audeze-lcdxc",
         "image": "www.supersonido.es/productos/imagenes/producto16708.jpg"
     },
-    "cayin-n6ii_": {
-        "name": "Cayin N6ii",
-        "price": 1099.0,
-        "price_old": 1399.0,
-        "url": "www.supersonido.es/p/cayin-n6ii_",
-        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
-    },
     "audio-technica-ath-awas_": {
         "name": "Audio-Technica ATH-AWAS",
         "price": 1099.0,
@@ -559,9 +552,16 @@
         "url": "www.supersonido.es/p/audio-technica-ath-awas_",
         "image": "www.supersonido.es/productos/imagenes/producto49178.jpg"
     },
+    "cayin-n6ii_": {
+        "name": "Cayin N6ii",
+        "price": 1099.0,
+        "price_old": 1399.0,
+        "url": "www.supersonido.es/p/cayin-n6ii_",
+        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+    },
     "audiolab-omnia_": {
         "name": "Audiolab Omnia",
-        "price": 1099.0,
+        "price": 1199.0,
         "price_old": 1799.0,
         "url": "www.supersonido.es/p/audiolab-omnia_",
         "image": "www.supersonido.es/productos/imagenes/producto47984.jpg"
@@ -587,19 +587,19 @@
         "url": "www.supersonido.es/p/sonus-faber-cremona-m-sub",
         "image": "www.supersonido.es/productos/imagenes/producto312.jpg"
     },
-    "panasonic-tx-55jz1500_": {
-        "name": "Panasonic TX-55JZ1500",
-        "price": 1399.0,
-        "price_old": 2399.0,
-        "url": "www.supersonido.es/p/panasonic-tx-55jz1500_",
-        "image": "www.supersonido.es/productos/imagenes/producto46549.jpg"
-    },
     "yamaha-rx-a4a_": {
         "name": "Yamaha RX-A4A",
         "price": 1399.0,
         "price_old": 1799.0,
         "url": "www.supersonido.es/p/yamaha-rx-a4a_",
         "image": "www.supersonido.es/productos/imagenes/producto49282.jpg"
+    },
+    "panasonic-tx-55jz1500_": {
+        "name": "Panasonic TX-55JZ1500",
+        "price": 1399.0,
+        "price_old": 2399.0,
+        "url": "www.supersonido.es/p/panasonic-tx-55jz1500_",
+        "image": "www.supersonido.es/productos/imagenes/producto46549.jpg"
     },
     "jbl-l82-classic_": {
         "name": "JBL L82 Classic",
