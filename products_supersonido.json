@@ -251,19 +251,19 @@
         "url": "www.supersonido.es/p/rega-io_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49823.jpg"
     },
-    "focal-chora-806_occ": {
-        "name": "FOCAL CHORA 806",
-        "price": 399.0,
-        "price_old": 599.0,
-        "url": "www.supersonido.es/p/focal-chora-806_occ",
-        "image": "www.supersonido.es/productos/imagenes/producto48771.jpg"
-    },
     "pro-ject-phono-box-ds2-usb_": {
         "name": "Pro-Ject Phono Box DS2 USB",
         "price": 399.0,
         "price_old": 549.0,
         "url": "www.supersonido.es/p/pro-ject-phono-box-ds2-usb_",
         "image": "www.supersonido.es/productos/imagenes/producto29680.jpg"
+    },
+    "focal-chora-806_occ": {
+        "name": "FOCAL CHORA 806",
+        "price": 399.0,
+        "price_old": 599.0,
+        "url": "www.supersonido.es/p/focal-chora-806_occ",
+        "image": "www.supersonido.es/productos/imagenes/producto48771.jpg"
     },
     "pro-ject-pre-box-ds2-analogue": {
         "name": "Pro-Ject Pre Box DS2 analogue",
@@ -300,13 +300,6 @@
         "url": "www.supersonido.es/p/neat-acoustics-iota_",
         "image": "www.supersonido.es/productos/imagenes/producto29592.jpg"
     },
-    "technics-ottava-s-sc-c50OC": {
-        "name": "Technics OTTAVA S SC-C50",
-        "price": 499.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
-        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
-    },
     "shanling-m6-21_": {
         "name": "Shanling M6(21)",
         "price": 499.0,
@@ -335,6 +328,13 @@
         "url": "www.supersonido.es/p/samsung-the-frame-qe43ls03a",
         "image": "www.supersonido.es/productos/imagenes/producto44714.jpg"
     },
+    "technics-ottava-s-sc-c50OC": {
+        "name": "Technics OTTAVA S SC-C50",
+        "price": 499.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
+        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
+    },
     "loewe-klang-mr5": {
         "name": "Loewe Klang mr5",
         "price": 519.0,
@@ -356,6 +356,13 @@
         "url": "www.supersonido.es/p/audiopro-drumfire-blackstar-edition_",
         "image": "www.supersonido.es/productos/imagenes/producto47953.jpg"
     },
+    "bluesound-pulse-mini-2i_": {
+        "name": "Bluesound PULSE MINI 2i",
+        "price": 599.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
+        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
+    },
     "shanling-m6-pro-21_": {
         "name": "Shanling M6 PRO (21)",
         "price": 599.0,
@@ -369,13 +376,6 @@
         "price_old": 1099.0,
         "url": "www.supersonido.es/p/mrspeakers-aeon-flow-2-open",
         "image": "www.supersonido.es/productos/imagenes/producto32865.jpg"
-    },
-    "bluesound-pulse-mini-2i_": {
-        "name": "Bluesound PULSE MINI 2i",
-        "price": 599.0,
-        "price_old": 699.0,
-        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
-        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
     },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
@@ -538,6 +538,13 @@
         "url": "www.supersonido.es/p/samsung-qe55qn95a__",
         "image": "www.supersonido.es/productos/imagenes/producto47373.jpg"
     },
+    "svs-prime-tower-speaker_": {
+        "name": "SVS Prime Tower Speaker",
+        "price": 999.0,
+        "price_old": 1498.0,
+        "url": "www.supersonido.es/p/svs-prime-tower-speaker_",
+        "image": "www.supersonido.es/productos/imagenes/producto47939.jpg"
+    },
     "audeze-euclid_": {
         "name": "Audeze EUCLID",
         "price": 999.0,
@@ -551,13 +558,6 @@
         "price_old": 2050.0,
         "url": "www.supersonido.es/p/naim-nap-155-xs",
         "image": "www.supersonido.es/productos/imagenes/producto8230.jpg"
-    },
-    "svs-prime-tower-speaker_": {
-        "name": "SVS Prime Tower Speaker",
-        "price": 999.0,
-        "price_old": 1498.0,
-        "url": "www.supersonido.es/p/svs-prime-tower-speaker_",
-        "image": "www.supersonido.es/productos/imagenes/producto47939.jpg"
     },
     "audio-technica-ath-ap2000ti_": {
         "name": "Audio-Technica ATH-AP2000Ti",
@@ -629,6 +629,13 @@
         "url": "www.supersonido.es/p/sonus-faber-cremona-m-sub",
         "image": "www.supersonido.es/productos/imagenes/producto312.jpg"
     },
+    "yamaha-rx-a4a_": {
+        "name": "Yamaha RX-A4A",
+        "price": 1399.0,
+        "price_old": 1799.0,
+        "url": "www.supersonido.es/p/yamaha-rx-a4a_",
+        "image": "www.supersonido.es/productos/imagenes/producto49282.jpg"
+    },
     "panasonic-tx-55jz1500_": {
         "name": "Panasonic TX-55JZ1500",
         "price": 1399.0,
@@ -636,12 +643,12 @@
         "url": "www.supersonido.es/p/panasonic-tx-55jz1500_",
         "image": "www.supersonido.es/productos/imagenes/producto46549.jpg"
     },
-    "yamaha-rx-a4a_": {
-        "name": "Yamaha RX-A4A",
+    "sony-xr55a90j_": {
+        "name": "Sony XR55A90J",
         "price": 1399.0,
-        "price_old": 1799.0,
-        "url": "www.supersonido.es/p/yamaha-rx-a4a_",
-        "image": "www.supersonido.es/productos/imagenes/producto49282.jpg"
+        "price_old": 2599.0,
+        "url": "www.supersonido.es/p/sony-xr55a90j_",
+        "image": "www.supersonido.es/productos/imagenes/producto49820.jpg"
     },
     "jbl-l82-classic_": {
         "name": "JBL L82 Classic",
