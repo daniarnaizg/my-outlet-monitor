@@ -41,12 +41,12 @@
         "url": "www.supersonido.es/p/denon-home-150_",
         "image": "www.supersonido.es/productos/imagenes/producto47539.jpg"
     },
-    "lg-24tn510s": {
-        "name": "LG 24TN510S",
+    "devialet-tree__": {
+        "name": "Devialet Tree",
         "price": 149.0,
-        "price_old": 179.0,
-        "url": "www.supersonido.es/p/lg-24tn510s",
-        "image": "www.supersonido.es/productos/imagenes/producto43870.jpg"
+        "price_old": 349.0,
+        "url": "www.supersonido.es/p/devialet-tree__",
+        "image": "www.supersonido.es/productos/imagenes/producto47159.jpg"
     },
     "devialet-tree__oc": {
         "name": "Devialet Tree",
@@ -55,19 +55,12 @@
         "url": "www.supersonido.es/p/devialet-tree__oc",
         "image": "www.supersonido.es/productos/imagenes/producto49876.jpg"
     },
-    "devialet-tree__": {
-        "name": "Devialet Tree",
+    "lg-24tn510s": {
+        "name": "LG 24TN510S",
         "price": 149.0,
-        "price_old": 349.0,
-        "url": "www.supersonido.es/p/devialet-tree__",
-        "image": "www.supersonido.es/productos/imagenes/producto47159.jpg"
-    },
-    "pro-ject-primary-e_": {
-        "name": "Pro-Ject Primary E",
-        "price": 169.0,
-        "price_old": 279.0,
-        "url": "www.supersonido.es/p/pro-ject-primary-e_",
-        "image": "www.supersonido.es/productos/imagenes/producto43945.jpg"
+        "price_old": 179.0,
+        "url": "www.supersonido.es/p/lg-24tn510s",
+        "image": "www.supersonido.es/productos/imagenes/producto43870.jpg"
     },
     "yamaha-yas-109_": {
         "name": "Yamaha YAS-109",
@@ -83,6 +76,13 @@
         "url": "www.supersonido.es/p/yamaha-rs202d_",
         "image": "www.supersonido.es/productos/imagenes/producto49010.jpg"
     },
+    "pro-ject-primary-e_": {
+        "name": "Pro-Ject Primary E",
+        "price": 169.0,
+        "price_old": 279.0,
+        "url": "www.supersonido.es/p/pro-ject-primary-e_",
+        "image": "www.supersonido.es/productos/imagenes/producto43945.jpg"
+    },
     "sony-su-wl850_": {
         "name": "Sony SU-WL850",
         "price": 179.0,
@@ -96,6 +96,27 @@
         "price_old": 269.0,
         "url": "www.supersonido.es/p/audiopro-addon-c5a__",
         "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
+    },
+    "sony-str-dh190_": {
+        "name": "Sony STR-DH190",
+        "price": 200.0,
+        "price_old": 299.0,
+        "url": "www.supersonido.es/p/sony-str-dh190_",
+        "image": "www.supersonido.es/productos/imagenes/producto47521.jpg"
+    },
+    "yamaha-mcr-b270__": {
+        "name": "Yamaha MCR-B270D",
+        "price": 219.0,
+        "price_old": 379.0,
+        "url": "www.supersonido.es/p/yamaha-mcr-b270__",
+        "image": "www.supersonido.es/productos/imagenes/producto49874.jpg"
+    },
+    "yamaha-mcr-b270_": {
+        "name": "Yamaha MCR-B270D",
+        "price": 219.0,
+        "price_old": 379.0,
+        "url": "www.supersonido.es/p/yamaha-mcr-b270_",
+        "image": "www.supersonido.es/productos/imagenes/producto49307.jpg"
     },
     "ifi-audio-zen-dac-signature": {
         "name": "IFI Audio ZEN DAC SIGNATURE",
@@ -117,20 +138,6 @@
         "price_old": 299.0,
         "url": "www.supersonido.es/p/loewe-klang-mr1",
         "image": "www.supersonido.es/productos/imagenes/producto47220.jpg"
-    },
-    "yamaha-mcr-b270__": {
-        "name": "Yamaha MCR-B270D",
-        "price": 219.0,
-        "price_old": 379.0,
-        "url": "www.supersonido.es/p/yamaha-mcr-b270__",
-        "image": "www.supersonido.es/productos/imagenes/producto49874.jpg"
-    },
-    "yamaha-mcr-b270_": {
-        "name": "Yamaha MCR-B270D",
-        "price": 219.0,
-        "price_old": 379.0,
-        "url": "www.supersonido.es/p/yamaha-mcr-b270_",
-        "image": "www.supersonido.es/productos/imagenes/producto49307.jpg"
     },
     "pro-ject-phono-box-ds2_": {
         "name": "Pro-Ject Phono Box DS2",
@@ -216,19 +223,19 @@
         "url": "www.supersonido.es/p/loewe-klang-s1_",
         "image": "www.supersonido.es/productos/imagenes/producto44954.jpg"
     },
-    "nad-bluos": {
-        "name": "Nad MDC BluOS 2",
-        "price": 349.0,
-        "price_old": 499.0,
-        "url": "www.supersonido.es/p/nad-bluos",
-        "image": "www.supersonido.es/productos/imagenes/producto23316.jpg"
-    },
     "denon-dcd-900ne_": {
         "name": "Denon DCD-900NE",
         "price": 349.0,
         "price_old": 499.0,
         "url": "www.supersonido.es/p/denon-dcd-900ne_",
         "image": "www.supersonido.es/productos/imagenes/producto49310.jpg"
+    },
+    "nad-bluos": {
+        "name": "Nad MDC BluOS 2",
+        "price": 349.0,
+        "price_old": 499.0,
+        "url": "www.supersonido.es/p/nad-bluos",
+        "image": "www.supersonido.es/productos/imagenes/producto23316.jpg"
     },
     "monitor-audio-cpwt380_": {
         "name": "Monitor Audio CP-WT380",
@@ -293,6 +300,13 @@
         "url": "www.supersonido.es/p/neat-acoustics-iota_",
         "image": "www.supersonido.es/productos/imagenes/producto29592.jpg"
     },
+    "technics-ottava-s-sc-c50OC": {
+        "name": "Technics OTTAVA S SC-C50",
+        "price": 499.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
+        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
+    },
     "shanling-m6-21_": {
         "name": "Shanling M6(21)",
         "price": 499.0,
@@ -321,13 +335,6 @@
         "url": "www.supersonido.es/p/samsung-the-frame-qe43ls03a",
         "image": "www.supersonido.es/productos/imagenes/producto44714.jpg"
     },
-    "technics-ottava-s-sc-c50OC": {
-        "name": "Technics OTTAVA S SC-C50",
-        "price": 499.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
-        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
-    },
     "loewe-klang-mr5": {
         "name": "Loewe Klang mr5",
         "price": 519.0,
@@ -349,13 +356,6 @@
         "url": "www.supersonido.es/p/audiopro-drumfire-blackstar-edition_",
         "image": "www.supersonido.es/productos/imagenes/producto47953.jpg"
     },
-    "bluesound-pulse-mini-2i_": {
-        "name": "Bluesound PULSE MINI 2i",
-        "price": 599.0,
-        "price_old": 699.0,
-        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
-        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
-    },
     "shanling-m6-pro-21_": {
         "name": "Shanling M6 PRO (21)",
         "price": 599.0,
@@ -369,6 +369,20 @@
         "price_old": 1099.0,
         "url": "www.supersonido.es/p/mrspeakers-aeon-flow-2-open",
         "image": "www.supersonido.es/productos/imagenes/producto32865.jpg"
+    },
+    "bluesound-pulse-mini-2i_": {
+        "name": "Bluesound PULSE MINI 2i",
+        "price": 599.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
+        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
+    },
+    "isotek-systems-sirius-evo3_": {
+        "name": "Isotek Systems Sirius EVO3",
+        "price": 599.0,
+        "price_old": 949.0,
+        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
+        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
     "project-maia-ds": {
         "name": "Pro-Ject MaiA DS",
@@ -384,12 +398,12 @@
         "url": "www.supersonido.es/p/pro-ject-stereo-box-ds2_",
         "image": "www.supersonido.es/productos/imagenes/producto46695.jpg"
     },
-    "isotek-systems-sirius-evo3_": {
-        "name": "Isotek Systems Sirius EVO3",
-        "price": 599.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
-        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
+    "klipsch-the-fives-v2_": {
+        "name": "Klipsch THE FIVES V2",
+        "price": 649.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/klipsch-the-fives-v2_",
+        "image": "www.supersonido.es/productos/imagenes/producto49455.jpg"
     },
     "dan-clark-audio-aeon-flow-2-closed": {
         "name": "Dan Clark Audio  AEON Flow 2 Closed",
@@ -397,13 +411,6 @@
         "price_old": 1099.0,
         "url": "www.supersonido.es/p/dan-clark-audio-aeon-flow-2-closed",
         "image": "www.supersonido.es/productos/imagenes/producto32866.jpg"
-    },
-    "klipsch-the-fives-v2_": {
-        "name": "Klipsch THE FIVES V2",
-        "price": 649.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/klipsch-the-fives-v2_",
-        "image": "www.supersonido.es/productos/imagenes/producto49455.jpg"
     },
     "pro-ject-x2_": {
         "name": "Pro-Ject X2",
@@ -622,19 +629,19 @@
         "url": "www.supersonido.es/p/sonus-faber-cremona-m-sub",
         "image": "www.supersonido.es/productos/imagenes/producto312.jpg"
     },
-    "yamaha-rx-a4a_": {
-        "name": "Yamaha RX-A4A",
-        "price": 1399.0,
-        "price_old": 1799.0,
-        "url": "www.supersonido.es/p/yamaha-rx-a4a_",
-        "image": "www.supersonido.es/productos/imagenes/producto49282.jpg"
-    },
     "panasonic-tx-55jz1500_": {
         "name": "Panasonic TX-55JZ1500",
         "price": 1399.0,
         "price_old": 2399.0,
         "url": "www.supersonido.es/p/panasonic-tx-55jz1500_",
         "image": "www.supersonido.es/productos/imagenes/producto46549.jpg"
+    },
+    "yamaha-rx-a4a_": {
+        "name": "Yamaha RX-A4A",
+        "price": 1399.0,
+        "price_old": 1799.0,
+        "url": "www.supersonido.es/p/yamaha-rx-a4a_",
+        "image": "www.supersonido.es/productos/imagenes/producto49282.jpg"
     },
     "jbl-l82-classic_": {
         "name": "JBL L82 Classic",
@@ -741,6 +748,13 @@
         "url": "www.supersonido.es/p/astell-kern-ak240",
         "image": "www.supersonido.es/productos/imagenes/producto29954.jpg"
     },
+    "proac-response-d2r_": {
+        "name": "ProAc Response D2R",
+        "price": 2550.0,
+        "price_old": 5175.0,
+        "url": "www.supersonido.es/p/proac-response-d2r_",
+        "image": "www.supersonido.es/productos/imagenes/producto49326.jpg"
+    },
     "svs-pb-4000-oc": {
         "name": "SVS PB-4000",
         "price": 2590.0,
@@ -804,19 +818,19 @@
         "url": "www.supersonido.es/p/devialet-130-pro_",
         "image": "www.supersonido.es/productos/imagenes/producto48499.jpg"
     },
-    "krell-industries-evo-222-": {
-        "name": "Krell Industries Evo 222",
-        "price": 3990.0,
-        "price_old": 10540.0,
-        "url": "www.supersonido.es/p/krell-industries-evo-222-",
-        "image": "www.supersonido.es/productos/imagenes/producto3644.jpg"
-    },
     "marantz-sc-11s1-sm-11s1": {
         "name": "Marantz SC-11S1+SM-11S1",
         "price": 3990.0,
         "price_old": 7900.0,
         "url": "www.supersonido.es/p/marantz-sc-11s1-sm-11s1",
         "image": "www.supersonido.es/productos/imagenes/producto6210.jpg"
+    },
+    "krell-industries-evo-222-": {
+        "name": "Krell Industries Evo 222",
+        "price": 3990.0,
+        "price_old": 10540.0,
+        "url": "www.supersonido.es/p/krell-industries-evo-222-",
+        "image": "www.supersonido.es/productos/imagenes/producto3644.jpg"
     },
     "electrocompaniet-eci-6dx": {
         "name": "Electrocompaniet ECI 6DX",
