@@ -181,13 +181,6 @@
         "url": "www.supersonido.es/p/bose-home-speaker-500_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49341.jpg"
     },
-    "jamo-c-93-ii_": {
-        "name": "Jamo C 93 II",
-        "price": 299.0,
-        "price_old": 529.0,
-        "url": "www.supersonido.es/p/jamo-c-93-ii_",
-        "image": "www.supersonido.es/productos/imagenes/producto49729.jpg"
-    },
     "tannoy-di6-dc": {
         "name": "Tannoy Di6",
         "price": 315.0,
@@ -202,19 +195,19 @@
         "url": "www.supersonido.es/p/parasound-zphono_",
         "image": "www.supersonido.es/productos/imagenes/producto48931.jpg"
     },
-    "audio-technica-at-lpw50pb_": {
-        "name": "Audio-Technica AT-LPW50PB",
-        "price": 339.0,
-        "price_old": 429.0,
-        "url": "www.supersonido.es/p/audio-technica-at-lpw50pb_",
-        "image": "www.supersonido.es/productos/imagenes/producto49306.jpg"
-    },
     "audio-technica-at-lp5x_": {
         "name": "Audio-Technica AT-LP5X",
         "price": 339.0,
         "price_old": 449.0,
         "url": "www.supersonido.es/p/audio-technica-at-lp5x_",
         "image": "www.supersonido.es/productos/imagenes/producto44647.jpg"
+    },
+    "audio-technica-at-lpw50pb_": {
+        "name": "Audio-Technica AT-LPW50PB",
+        "price": 339.0,
+        "price_old": 429.0,
+        "url": "www.supersonido.es/p/audio-technica-at-lpw50pb_",
+        "image": "www.supersonido.es/productos/imagenes/producto49306.jpg"
     },
     "loewe-klang-s1_": {
         "name": "Loewe Klang S1",
@@ -300,19 +293,19 @@
         "url": "www.supersonido.es/p/neat-acoustics-iota_",
         "image": "www.supersonido.es/productos/imagenes/producto29592.jpg"
     },
-    "technics-ottava-s-sc-c50OC": {
-        "name": "Technics OTTAVA S SC-C50",
-        "price": 499.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
-        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
-    },
     "shanling-m6-21_": {
         "name": "Shanling M6(21)",
         "price": 499.0,
         "price_old": 599.0,
         "url": "www.supersonido.es/p/shanling-m6-21_",
         "image": "www.supersonido.es/productos/imagenes/producto49367.jpg"
+    },
+    "technics-ottava-s-sc-c50OC": {
+        "name": "Technics OTTAVA S SC-C50",
+        "price": 499.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
+        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
     },
     "audio-technica-ath-wp900_": {
         "name": "Audio-Technica ATH-WP900",
@@ -356,6 +349,13 @@
         "url": "www.supersonido.es/p/audiopro-drumfire-blackstar-edition_",
         "image": "www.supersonido.es/productos/imagenes/producto47953.jpg"
     },
+    "bluesound-pulse-mini-2i_": {
+        "name": "Bluesound PULSE MINI 2i",
+        "price": 599.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
+        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
+    },
     "shanling-m6-pro-21_": {
         "name": "Shanling M6 PRO (21)",
         "price": 599.0,
@@ -369,20 +369,6 @@
         "price_old": 1099.0,
         "url": "www.supersonido.es/p/mrspeakers-aeon-flow-2-open",
         "image": "www.supersonido.es/productos/imagenes/producto32865.jpg"
-    },
-    "bluesound-pulse-mini-2i_": {
-        "name": "Bluesound PULSE MINI 2i",
-        "price": 599.0,
-        "price_old": 699.0,
-        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
-        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
-    },
-    "isotek-systems-sirius-evo3_": {
-        "name": "Isotek Systems Sirius EVO3",
-        "price": 599.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
-        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
     "project-maia-ds": {
         "name": "Pro-Ject MaiA DS",
@@ -398,12 +384,12 @@
         "url": "www.supersonido.es/p/pro-ject-stereo-box-ds2_",
         "image": "www.supersonido.es/productos/imagenes/producto46695.jpg"
     },
-    "klipsch-the-fives-v2_": {
-        "name": "Klipsch THE FIVES V2",
-        "price": 649.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/klipsch-the-fives-v2_",
-        "image": "www.supersonido.es/productos/imagenes/producto49455.jpg"
+    "isotek-systems-sirius-evo3_": {
+        "name": "Isotek Systems Sirius EVO3",
+        "price": 599.0,
+        "price_old": 949.0,
+        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
+        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
     "dan-clark-audio-aeon-flow-2-closed": {
         "name": "Dan Clark Audio  AEON Flow 2 Closed",
@@ -411,6 +397,13 @@
         "price_old": 1099.0,
         "url": "www.supersonido.es/p/dan-clark-audio-aeon-flow-2-closed",
         "image": "www.supersonido.es/productos/imagenes/producto32866.jpg"
+    },
+    "klipsch-the-fives-v2_": {
+        "name": "Klipsch THE FIVES V2",
+        "price": 649.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/klipsch-the-fives-v2_",
+        "image": "www.supersonido.es/productos/imagenes/producto49455.jpg"
     },
     "pro-ject-x2_": {
         "name": "Pro-Ject X2",
