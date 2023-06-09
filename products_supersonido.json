@@ -174,6 +174,13 @@
         "url": "www.supersonido.es/p/sumiko-s0-w",
         "image": "www.supersonido.es/productos/imagenes/producto19182.jpg"
     },
+    "rega-planar-1_oc": {
+        "name": "Rega Planar 1",
+        "price": 289.0,
+        "price_old": 349.0,
+        "url": "www.supersonido.es/p/rega-planar-1_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto49888.jpg"
+    },
     "pro-ject-a1_": {
         "name": "Pro-Ject A1",
         "price": 299.0,
@@ -300,12 +307,12 @@
         "url": "www.supersonido.es/p/neat-acoustics-iota_",
         "image": "www.supersonido.es/productos/imagenes/producto29592.jpg"
     },
-    "shanling-m6-21_": {
-        "name": "Shanling M6(21)",
+    "technics-ottava-s-sc-c50OC": {
+        "name": "Technics OTTAVA S SC-C50",
         "price": 499.0,
-        "price_old": 599.0,
-        "url": "www.supersonido.es/p/shanling-m6-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49367.jpg"
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
+        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
     },
     "audio-technica-ath-wp900_": {
         "name": "Audio-Technica ATH-WP900",
@@ -328,12 +335,12 @@
         "url": "www.supersonido.es/p/samsung-the-frame-qe43ls03a",
         "image": "www.supersonido.es/productos/imagenes/producto44714.jpg"
     },
-    "technics-ottava-s-sc-c50OC": {
-        "name": "Technics OTTAVA S SC-C50",
+    "shanling-m6-21_": {
+        "name": "Shanling M6(21)",
         "price": 499.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
-        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
+        "price_old": 599.0,
+        "url": "www.supersonido.es/p/shanling-m6-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49367.jpg"
     },
     "loewe-klang-mr5": {
         "name": "Loewe Klang mr5",
@@ -363,20 +370,6 @@
         "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
         "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
     },
-    "shanling-m6-pro-21_": {
-        "name": "Shanling M6 PRO (21)",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
-    },
-    "mrspeakers-aeon-flow-2-open": {
-        "name": "Dan Clark Audio AEON Flow 2 Open",
-        "price": 599.0,
-        "price_old": 1099.0,
-        "url": "www.supersonido.es/p/mrspeakers-aeon-flow-2-open",
-        "image": "www.supersonido.es/productos/imagenes/producto32865.jpg"
-    },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
         "price": 599.0,
@@ -398,12 +391,19 @@
         "url": "www.supersonido.es/p/pro-ject-stereo-box-ds2_",
         "image": "www.supersonido.es/productos/imagenes/producto46695.jpg"
     },
-    "klipsch-the-fives-v2_": {
-        "name": "Klipsch THE FIVES V2",
-        "price": 649.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/klipsch-the-fives-v2_",
-        "image": "www.supersonido.es/productos/imagenes/producto49455.jpg"
+    "shanling-m6-pro-21_": {
+        "name": "Shanling M6 PRO (21)",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
+    },
+    "mrspeakers-aeon-flow-2-open": {
+        "name": "Dan Clark Audio AEON Flow 2 Open",
+        "price": 599.0,
+        "price_old": 1099.0,
+        "url": "www.supersonido.es/p/mrspeakers-aeon-flow-2-open",
+        "image": "www.supersonido.es/productos/imagenes/producto32865.jpg"
     },
     "dan-clark-audio-aeon-flow-2-closed": {
         "name": "Dan Clark Audio  AEON Flow 2 Closed",
@@ -411,6 +411,13 @@
         "price_old": 1099.0,
         "url": "www.supersonido.es/p/dan-clark-audio-aeon-flow-2-closed",
         "image": "www.supersonido.es/productos/imagenes/producto32866.jpg"
+    },
+    "klipsch-the-fives-v2_": {
+        "name": "Klipsch THE FIVES V2",
+        "price": 649.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/klipsch-the-fives-v2_",
+        "image": "www.supersonido.es/productos/imagenes/producto49455.jpg"
     },
     "pro-ject-x2_": {
         "name": "Pro-Ject X2",
@@ -587,13 +594,6 @@
         "url": "www.supersonido.es/p/mrspeakers-ether-flow",
         "image": "www.supersonido.es/productos/imagenes/producto28309.jpg"
     },
-    "audeze-lcdxc": {
-        "name": "Audeze LCD-XC",
-        "price": 1099.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/audeze-lcdxc",
-        "image": "www.supersonido.es/productos/imagenes/producto16708.jpg"
-    },
     "audio-technica-ath-awas_": {
         "name": "Audio-Technica ATH-AWAS",
         "price": 1099.0,
@@ -607,6 +607,13 @@
         "price_old": 1399.0,
         "url": "www.supersonido.es/p/cayin-n6ii_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+    },
+    "audeze-lcdxc": {
+        "name": "Audeze LCD-XC",
+        "price": 1099.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/audeze-lcdxc",
+        "image": "www.supersonido.es/productos/imagenes/producto16708.jpg"
     },
     "audiolab-omnia_": {
         "name": "Audiolab Omnia",
