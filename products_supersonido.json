@@ -62,19 +62,19 @@
         "url": "www.supersonido.es/p/grado-sr225e_OC",
         "image": "www.supersonido.es/productos/imagenes/producto43486.jpg"
     },
-    "yamaha-yas-109_": {
-        "name": "Yamaha YAS-109",
-        "price": 169.0,
-        "price_old": 349.0,
-        "url": "www.supersonido.es/p/yamaha-yas-109_",
-        "image": "www.supersonido.es/productos/imagenes/producto49308.jpg"
-    },
     "yamaha-rs202d_": {
         "name": "Yamaha R-S202D",
         "price": 169.0,
         "price_old": 269.0,
         "url": "www.supersonido.es/p/yamaha-rs202d_",
         "image": "www.supersonido.es/productos/imagenes/producto49010.jpg"
+    },
+    "yamaha-yas-109_": {
+        "name": "Yamaha YAS-109",
+        "price": 169.0,
+        "price_old": 349.0,
+        "url": "www.supersonido.es/p/yamaha-yas-109_",
+        "image": "www.supersonido.es/productos/imagenes/producto49308.jpg"
     },
     "pro-ject-primary-e_": {
         "name": "Pro-Ject Primary E",
@@ -181,19 +181,19 @@
         "url": "www.supersonido.es/p/sumiko-s0-w",
         "image": "www.supersonido.es/productos/imagenes/producto19182.jpg"
     },
-    "rega-planar-1_oc": {
-        "name": "Rega Planar 1",
-        "price": 289.0,
-        "price_old": 349.0,
-        "url": "www.supersonido.es/p/rega-planar-1_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto49888.jpg"
-    },
     "grado-sr325x_": {
         "name": "Grado SR325x",
         "price": 289.0,
         "price_old": 359.0,
         "url": "www.supersonido.es/p/grado-sr325x_",
         "image": "www.supersonido.es/productos/imagenes/producto47579.jpg"
+    },
+    "rega-planar-1_oc": {
+        "name": "Rega Planar 1",
+        "price": 289.0,
+        "price_old": 349.0,
+        "url": "www.supersonido.es/p/rega-planar-1_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto49888.jpg"
     },
     "pro-ject-a1_": {
         "name": "Pro-Ject A1",
@@ -349,19 +349,19 @@
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
         "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
     },
-    "audio-technica-ath-wp900_": {
-        "name": "Audio-Technica ATH-WP900",
-        "price": 499.0,
-        "price_old": 699.0,
-        "url": "www.supersonido.es/p/audio-technica-ath-wp900_",
-        "image": "www.supersonido.es/productos/imagenes/producto49440.jpg"
-    },
     "shanling-m6-21_": {
         "name": "Shanling M6(21)",
         "price": 499.0,
         "price_old": 599.0,
         "url": "www.supersonido.es/p/shanling-m6-21_",
         "image": "www.supersonido.es/productos/imagenes/producto49367.jpg"
+    },
+    "audio-technica-ath-wp900_": {
+        "name": "Audio-Technica ATH-WP900",
+        "price": 499.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/audio-technica-ath-wp900_",
+        "image": "www.supersonido.es/productos/imagenes/producto49440.jpg"
     },
     "sony-kd43x73k": {
         "name": "Sony KD43X73K",
@@ -405,12 +405,12 @@
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
-    "project-maia-ds": {
-        "name": "Pro-Ject MaiA DS",
+    "sonus-faber-lumina-i__": {
+        "name": "Sonus-Faber LUMINA I",
         "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/project-maia-ds",
-        "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/sonus-faber-lumina-i__",
+        "image": "www.supersonido.es/productos/imagenes/producto48455.jpg"
     },
     "pro-ject-stereo-box-ds2_": {
         "name": "Pro-Ject Stereo Box DS2",
@@ -418,6 +418,13 @@
         "price_old": 849.0,
         "url": "www.supersonido.es/p/pro-ject-stereo-box-ds2_",
         "image": "www.supersonido.es/productos/imagenes/producto46695.jpg"
+    },
+    "project-maia-ds": {
+        "name": "Pro-Ject MaiA DS",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/project-maia-ds",
+        "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
     "shanling-m6-pro-21_": {
         "name": "Shanling M6 PRO (21)",
@@ -552,6 +559,13 @@
         "url": "www.supersonido.es/p/primare-i15_",
         "image": "www.supersonido.es/productos/imagenes/producto47536.jpg"
     },
+    "audioquest-earth": {
+        "name": "Audioquest Earth",
+        "price": 899.0,
+        "price_old": 1699.0,
+        "url": "www.supersonido.es/p/audioquest-earth",
+        "image": "www.supersonido.es/productos/imagenes/producto29420.jpg"
+    },
     "klipsch-rp-6000f__": {
         "name": "Klipsch RP-6000F",
         "price": 899.0,
@@ -565,13 +579,6 @@
         "price_old": 1489.0,
         "url": "www.supersonido.es/p/grado-gs1000e-gr8e",
         "image": "www.supersonido.es/productos/imagenes/producto30130.jpg"
-    },
-    "audioquest-earth": {
-        "name": "Audioquest Earth",
-        "price": 899.0,
-        "price_old": 1699.0,
-        "url": "www.supersonido.es/p/audioquest-earth",
-        "image": "www.supersonido.es/productos/imagenes/producto29420.jpg"
     },
     "svs-sb-2000-pro_oc": {
         "name": "SVS SB-2000 Pro",
@@ -615,12 +622,12 @@
         "url": "www.supersonido.es/p/audeze-euclid_",
         "image": "www.supersonido.es/productos/imagenes/producto49689.jpg"
     },
-    "naim-nap-155-xs": {
-        "name": "Naim NAP 155 XS",
+    "svs-prime-tower-speaker_": {
+        "name": "SVS Prime Tower Speaker",
         "price": 999.0,
-        "price_old": 2050.0,
-        "url": "www.supersonido.es/p/naim-nap-155-xs",
-        "image": "www.supersonido.es/productos/imagenes/producto8230.jpg"
+        "price_old": 1498.0,
+        "url": "www.supersonido.es/p/svs-prime-tower-speaker_",
+        "image": "www.supersonido.es/productos/imagenes/producto47939.jpg"
     },
     "audio-technica-ath-ap2000ti_": {
         "name": "Audio-Technica ATH-AP2000Ti",
@@ -629,19 +636,19 @@
         "url": "www.supersonido.es/p/audio-technica-ath-ap2000ti_",
         "image": "www.supersonido.es/productos/imagenes/producto49180.jpg"
     },
+    "naim-nap-155-xs": {
+        "name": "Naim NAP 155 XS",
+        "price": 999.0,
+        "price_old": 2050.0,
+        "url": "www.supersonido.es/p/naim-nap-155-xs",
+        "image": "www.supersonido.es/productos/imagenes/producto8230.jpg"
+    },
     "loewe-klang-bar5-mr-and-sub5": {
         "name": "Loewe Klang bar5 mr and sub5",
         "price": 999.0,
         "price_old": 1399.0,
         "url": "www.supersonido.es/p/loewe-klang-bar5-mr-and-sub5",
         "image": "www.supersonido.es/productos/imagenes/producto47119.jpg"
-    },
-    "svs-prime-tower-speaker_": {
-        "name": "SVS Prime Tower Speaker",
-        "price": 999.0,
-        "price_old": 1498.0,
-        "url": "www.supersonido.es/p/svs-prime-tower-speaker_",
-        "image": "www.supersonido.es/productos/imagenes/producto47939.jpg"
     },
     "mrspeakers-ether-flow": {
         "name": "Dan Clark Audio ETHER Flow",
