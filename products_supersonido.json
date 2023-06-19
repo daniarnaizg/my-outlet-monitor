@@ -181,12 +181,12 @@
         "url": "www.supersonido.es/p/rega-planar-1_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49888.jpg"
     },
-    "bose-home-speaker-500_oc": {
-        "name": "Bose Home Speaker 500",
+    "jamo-c-93-ii_": {
+        "name": "Jamo C 93 II",
         "price": 299.0,
-        "price_old": 399.0,
-        "url": "www.supersonido.es/p/bose-home-speaker-500_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto49341.jpg"
+        "price_old": 529.0,
+        "url": "www.supersonido.es/p/jamo-c-93-ii_",
+        "image": "www.supersonido.es/productos/imagenes/producto49729.jpg"
     },
     "pro-ject-a1_": {
         "name": "Pro-Ject A1",
@@ -195,12 +195,12 @@
         "url": "www.supersonido.es/p/pro-ject-a1_",
         "image": "www.supersonido.es/productos/imagenes/producto49549.jpg"
     },
-    "jamo-c-93-ii_": {
-        "name": "Jamo C 93 II",
+    "bose-home-speaker-500_oc": {
+        "name": "Bose Home Speaker 500",
         "price": 299.0,
-        "price_old": 529.0,
-        "url": "www.supersonido.es/p/jamo-c-93-ii_",
-        "image": "www.supersonido.es/productos/imagenes/producto49729.jpg"
+        "price_old": 399.0,
+        "url": "www.supersonido.es/p/bose-home-speaker-500_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto49341.jpg"
     },
     "denon-home-250__": {
         "name": "Denon Home 250",
@@ -398,20 +398,6 @@
         "url": "www.supersonido.es/p/audiopro-drumfire-blackstar-edition_",
         "image": "www.supersonido.es/productos/imagenes/producto47953.jpg"
     },
-    "bluesound-pulse-mini-2i_": {
-        "name": "Bluesound PULSE MINI 2i",
-        "price": 599.0,
-        "price_old": 699.0,
-        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
-        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
-    },
-    "svs-sb-1000-pro_oc": {
-        "name": "SVS SB-1000 Pro",
-        "price": 599.0,
-        "price_old": 749.0,
-        "url": "www.supersonido.es/p/svs-sb-1000-pro_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto49281.jpg"
-    },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
         "price": 599.0,
@@ -454,6 +440,20 @@
         "url": "www.supersonido.es/p/mrspeakers-aeon-flow-2-open",
         "image": "www.supersonido.es/productos/imagenes/producto32865.jpg"
     },
+    "svs-sb-1000-pro_oc": {
+        "name": "SVS SB-1000 Pro",
+        "price": 599.0,
+        "price_old": 749.0,
+        "url": "www.supersonido.es/p/svs-sb-1000-pro_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto49281.jpg"
+    },
+    "bluesound-pulse-mini-2i_": {
+        "name": "Bluesound PULSE MINI 2i",
+        "price": 599.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
+        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
+    },
     "dan-clark-audio-aeon-flow-2-closed": {
         "name": "Dan Clark Audio  AEON Flow 2 Closed",
         "price": 649.0,
@@ -461,19 +461,19 @@
         "url": "www.supersonido.es/p/dan-clark-audio-aeon-flow-2-closed",
         "image": "www.supersonido.es/productos/imagenes/producto32866.jpg"
     },
-    "wharfedale-evo4-2_": {
-        "name": "Wharfedale Evo4.2",
-        "price": 649.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/wharfedale-evo4-2_",
-        "image": "www.supersonido.es/productos/imagenes/producto45661.jpg"
-    },
     "wharfedale-evo4-2_oc": {
         "name": "Wharfedale Evo4.2",
         "price": 649.0,
         "price_old": 899.0,
         "url": "www.supersonido.es/p/wharfedale-evo4-2_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49914.jpg"
+    },
+    "wharfedale-evo4-2_": {
+        "name": "Wharfedale Evo4.2",
+        "price": 649.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/wharfedale-evo4-2_",
+        "image": "www.supersonido.es/productos/imagenes/producto45661.jpg"
     },
     "klipsch-the-fives-v2_": {
         "name": "Klipsch THE FIVES V2",
@@ -573,6 +573,13 @@
         "url": "www.supersonido.es/p/primare-i15_",
         "image": "www.supersonido.es/productos/imagenes/producto47536.jpg"
     },
+    "svs-sb-2000-pro_oc": {
+        "name": "SVS SB-2000 Pro",
+        "price": 899.0,
+        "price_old": 1149.0,
+        "url": "www.supersonido.es/p/svs-sb-2000-pro_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto48636.jpg"
+    },
     "klipsch-rp-6000f__": {
         "name": "Klipsch RP-6000F",
         "price": 899.0,
@@ -580,19 +587,19 @@
         "url": "www.supersonido.es/p/klipsch-rp-6000f__",
         "image": "www.supersonido.es/productos/imagenes/producto49017.jpg"
     },
-    "grado-gs1000e-gr8e": {
-        "name": "Grado GS1000e",
-        "price": 899.0,
-        "price_old": 1489.0,
-        "url": "www.supersonido.es/p/grado-gs1000e-gr8e",
-        "image": "www.supersonido.es/productos/imagenes/producto30130.jpg"
-    },
     "audioquest-earth": {
         "name": "Audioquest Earth",
         "price": 899.0,
         "price_old": 1699.0,
         "url": "www.supersonido.es/p/audioquest-earth",
         "image": "www.supersonido.es/productos/imagenes/producto29420.jpg"
+    },
+    "grado-gs1000e-gr8e": {
+        "name": "Grado GS1000e",
+        "price": 899.0,
+        "price_old": 1489.0,
+        "url": "www.supersonido.es/p/grado-gs1000e-gr8e",
+        "image": "www.supersonido.es/productos/imagenes/producto30130.jpg"
     },
     "astell-kern-ak-t9ie_": {
         "name": "Astell&kern AK T9iE",
@@ -608,19 +615,19 @@
         "url": "www.supersonido.es/p/dynaudio-evoke-10_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49809.jpg"
     },
-    "samsung-qe55qn95a__": {
-        "name": "Samsung QE55QN95A",
-        "price": 999.0,
-        "price_old": 1999.0,
-        "url": "www.supersonido.es/p/samsung-qe55qn95a__",
-        "image": "www.supersonido.es/productos/imagenes/producto47373.jpg"
-    },
     "samsung-the-frame-qe55ls03b_": {
         "name": "Samsung The Frame QE55LS03B",
         "price": 999.0,
         "price_old": 1499.0,
         "url": "www.supersonido.es/p/samsung-the-frame-qe55ls03b_",
         "image": "www.supersonido.es/productos/imagenes/producto49882.jpg"
+    },
+    "samsung-qe55qn95a__": {
+        "name": "Samsung QE55QN95A",
+        "price": 999.0,
+        "price_old": 1999.0,
+        "url": "www.supersonido.es/p/samsung-qe55qn95a__",
+        "image": "www.supersonido.es/productos/imagenes/producto47373.jpg"
     },
     "wharfedale-evo4-3_": {
         "name": "Wharfedale Evo4.3",
@@ -734,19 +741,19 @@
         "url": "www.supersonido.es/p/panasonic-tx-55jz1500_",
         "image": "www.supersonido.es/productos/imagenes/producto46549.jpg"
     },
-    "yamaha-rx-a4a_": {
-        "name": "Yamaha RX-A4A",
-        "price": 1399.0,
-        "price_old": 1799.0,
-        "url": "www.supersonido.es/p/yamaha-rx-a4a_",
-        "image": "www.supersonido.es/productos/imagenes/producto49282.jpg"
-    },
     "sennheiser-hd-820_OC": {
         "name": "Sennheiser HD 820",
         "price": 1399.0,
         "price_old": 1999.0,
         "url": "www.supersonido.es/p/sennheiser-hd-820_OC",
         "image": "www.supersonido.es/productos/imagenes/producto49890.jpg"
+    },
+    "yamaha-rx-a4a_": {
+        "name": "Yamaha RX-A4A",
+        "price": 1399.0,
+        "price_old": 1799.0,
+        "url": "www.supersonido.es/p/yamaha-rx-a4a_",
+        "image": "www.supersonido.es/productos/imagenes/producto49282.jpg"
     },
     "jbl-l82-classic_": {
         "name": "JBL L82 Classic",
@@ -965,19 +972,19 @@
         "url": "www.supersonido.es/p/devialet-130-pro_",
         "image": "www.supersonido.es/productos/imagenes/producto48499.jpg"
     },
-    "marantz-sc-11s1-sm-11s1": {
-        "name": "Marantz SC-11S1+SM-11S1",
-        "price": 3990.0,
-        "price_old": 7900.0,
-        "url": "www.supersonido.es/p/marantz-sc-11s1-sm-11s1",
-        "image": "www.supersonido.es/productos/imagenes/producto6210.jpg"
-    },
     "krell-industries-evo-222-": {
         "name": "Krell Industries Evo 222",
         "price": 3990.0,
         "price_old": 10540.0,
         "url": "www.supersonido.es/p/krell-industries-evo-222-",
         "image": "www.supersonido.es/productos/imagenes/producto3644.jpg"
+    },
+    "marantz-sc-11s1-sm-11s1": {
+        "name": "Marantz SC-11S1+SM-11S1",
+        "price": 3990.0,
+        "price_old": 7900.0,
+        "url": "www.supersonido.es/p/marantz-sc-11s1-sm-11s1",
+        "image": "www.supersonido.es/productos/imagenes/producto6210.jpg"
     },
     "electrocompaniet-eci-6dx": {
         "name": "Electrocompaniet ECI 6DX",
