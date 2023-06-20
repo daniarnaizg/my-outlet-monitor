@@ -30,7 +30,10 @@ def send_telegram_message(new_items, api_key, chat_id):
         name = item['name']
         price = item['price']
         price_old = item['price_old']
-        sale_percentage = round((price_old - price) / price_old * 100, 2)
+        try:
+            sale_percentage = round((price_old - price) / price_old * 100, 2)
+        except ZeroDivisionError:
+            sale_percentage = 0
         message = f'''
         {name}
         {price_old}€ ➡️ {price}€ 📉 -{sale_percentage}% 
