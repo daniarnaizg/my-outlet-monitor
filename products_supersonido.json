@@ -104,23 +104,9 @@
         "url": "www.supersonido.es/p/audiopro-addon-c5a__",
         "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
     },
-    "loewe-klang-mr1": {
-        "name": "Loewe Klang mr1",
-        "price": 219.0,
-        "price_old": 299.0,
-        "url": "www.supersonido.es/p/loewe-klang-mr1",
-        "image": "www.supersonido.es/productos/imagenes/producto47220.jpg"
-    },
-    "yamaha-mcr-b270__": {
-        "name": "Yamaha MCR-B270D",
-        "price": 219.0,
-        "price_old": 379.0,
-        "url": "www.supersonido.es/p/yamaha-mcr-b270__",
-        "image": "www.supersonido.es/productos/imagenes/producto49874.jpg"
-    },
     "technics-eah-az80_": {
         "name": "Technics EAH-AZ80",
-        "price": 219.0,
+        "price": 199.0,
         "price_old": 299.0,
         "url": "www.supersonido.es/p/technics-eah-az80_",
         "image": "www.supersonido.es/productos/imagenes/producto49912.jpg"
@@ -138,6 +124,20 @@
         "price_old": 399.0,
         "url": "www.supersonido.es/p/ifi-audio-xdsd",
         "image": "www.supersonido.es/productos/imagenes/producto27468.jpg"
+    },
+    "loewe-klang-mr1": {
+        "name": "Loewe Klang mr1",
+        "price": 219.0,
+        "price_old": 299.0,
+        "url": "www.supersonido.es/p/loewe-klang-mr1",
+        "image": "www.supersonido.es/productos/imagenes/producto47220.jpg"
+    },
+    "yamaha-mcr-b270__": {
+        "name": "Yamaha MCR-B270D",
+        "price": 219.0,
+        "price_old": 379.0,
+        "url": "www.supersonido.es/p/yamaha-mcr-b270__",
+        "image": "www.supersonido.es/productos/imagenes/producto49874.jpg"
     },
     "q-acoustics-q-3010i_oc2": {
         "name": "Q-Acoustics Q3010i",
@@ -740,6 +740,13 @@
         "price_old": 1599.0,
         "url": "www.supersonido.es/p/sivga-sendy-peacock_",
         "image": "www.supersonido.es/productos/imagenes/producto49897.jpg"
+    },
+    "rega-elex-mk4_": {
+        "name": "Rega ELEX MK4",
+        "price": 1199.0,
+        "price_old": 1449.0,
+        "url": "www.supersonido.es/p/rega-elex-mk4_",
+        "image": "www.supersonido.es/productos/imagenes/producto49988.jpg"
     },
     "audiolab-omnia_": {
         "name": "Audiolab Omnia",
