@@ -41,13 +41,6 @@
         "url": "www.supersonido.es/p/lg-24tn510s",
         "image": "www.supersonido.es/productos/imagenes/producto43870.jpg"
     },
-    "the-chord-company-power-chord_": {
-        "name": "The Chord Company Power Chord",
-        "price": 149.0,
-        "price_old": 295.0,
-        "url": "www.supersonido.es/p/the-chord-company-power-chord_",
-        "image": "www.supersonido.es/productos/imagenes/producto33193.jpg"
-    },
     "devialet-tree__oc": {
         "name": "Devialet Tree",
         "price": 149.0,
@@ -440,19 +433,19 @@
         "url": "www.supersonido.es/p/mrspeakers-aeon-flow-2-open",
         "image": "www.supersonido.es/productos/imagenes/producto32865.jpg"
     },
-    "pro-ject-stereo-box-ds2_": {
-        "name": "Pro-Ject Stereo Box DS2",
-        "price": 599.0,
-        "price_old": 849.0,
-        "url": "www.supersonido.es/p/pro-ject-stereo-box-ds2_",
-        "image": "www.supersonido.es/productos/imagenes/producto46695.jpg"
-    },
     "sonus-faber-lumina-i__": {
         "name": "Sonus-Faber LUMINA I",
         "price": 599.0,
         "price_old": 899.0,
         "url": "www.supersonido.es/p/sonus-faber-lumina-i__",
         "image": "www.supersonido.es/productos/imagenes/producto48455.jpg"
+    },
+    "pro-ject-stereo-box-ds2_": {
+        "name": "Pro-Ject Stereo Box DS2",
+        "price": 599.0,
+        "price_old": 849.0,
+        "url": "www.supersonido.es/p/pro-ject-stereo-box-ds2_",
+        "image": "www.supersonido.es/productos/imagenes/producto46695.jpg"
     },
     "project-maia-ds": {
         "name": "Pro-Ject MaiA DS",
@@ -531,13 +524,6 @@
         "url": "www.supersonido.es/p/arcam-sa20_",
         "image": "www.supersonido.es/productos/imagenes/producto42162.jpg"
     },
-    "samsung-hw-q990b_": {
-        "name": "Samsung HW-Q990B",
-        "price": 699.0,
-        "price_old": 1249.0,
-        "url": "www.supersonido.es/p/samsung-hw-q990b_",
-        "image": "www.supersonido.es/productos/imagenes/producto48987.jpg"
-    },
     "bluesound-pulse-2i_": {
         "name": "Bluesound PULSE 2i",
         "price": 719.0,
@@ -601,19 +587,19 @@
         "url": "www.supersonido.es/p/primare-i15_",
         "image": "www.supersonido.es/productos/imagenes/producto47536.jpg"
     },
-    "grado-gs1000e-gr8e": {
-        "name": "Grado GS1000e",
-        "price": 899.0,
-        "price_old": 1489.0,
-        "url": "www.supersonido.es/p/grado-gs1000e-gr8e",
-        "image": "www.supersonido.es/productos/imagenes/producto30130.jpg"
-    },
     "klipsch-rp-6000f__": {
         "name": "Klipsch RP-6000F",
         "price": 899.0,
         "price_old": 1398.0,
         "url": "www.supersonido.es/p/klipsch-rp-6000f__",
         "image": "www.supersonido.es/productos/imagenes/producto49017.jpg"
+    },
+    "grado-gs1000e-gr8e": {
+        "name": "Grado GS1000e",
+        "price": 899.0,
+        "price_old": 1489.0,
+        "url": "www.supersonido.es/p/grado-gs1000e-gr8e",
+        "image": "www.supersonido.es/productos/imagenes/producto30130.jpg"
     },
     "audioquest-earth": {
         "name": "Audioquest Earth",
@@ -643,13 +629,6 @@
         "url": "www.supersonido.es/p/dynaudio-evoke-10_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49809.jpg"
     },
-    "samsung-the-frame-qe55ls03b_": {
-        "name": "Samsung The Frame QE55LS03B",
-        "price": 999.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/samsung-the-frame-qe55ls03b_",
-        "image": "www.supersonido.es/productos/imagenes/producto49882.jpg"
-    },
     "samsung-qe55qn95a__": {
         "name": "Samsung QE55QN95A",
         "price": 999.0,
@@ -657,12 +636,12 @@
         "url": "www.supersonido.es/p/samsung-qe55qn95a__",
         "image": "www.supersonido.es/productos/imagenes/producto47373.jpg"
     },
-    "audio-technica-ath-ap2000ti_": {
-        "name": "Audio-Technica ATH-AP2000Ti",
+    "samsung-the-frame-qe55ls03b_": {
+        "name": "Samsung The Frame QE55LS03B",
         "price": 999.0,
-        "price_old": 1349.0,
-        "url": "www.supersonido.es/p/audio-technica-ath-ap2000ti_",
-        "image": "www.supersonido.es/productos/imagenes/producto49180.jpg"
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/samsung-the-frame-qe55ls03b_",
+        "image": "www.supersonido.es/productos/imagenes/producto49882.jpg"
     },
     "naim-nap-155-xs": {
         "name": "Naim NAP 155 XS",
@@ -671,6 +650,13 @@
         "url": "www.supersonido.es/p/naim-nap-155-xs",
         "image": "www.supersonido.es/productos/imagenes/producto8230.jpg"
     },
+    "audio-technica-ath-ap2000ti_": {
+        "name": "Audio-Technica ATH-AP2000Ti",
+        "price": 999.0,
+        "price_old": 1349.0,
+        "url": "www.supersonido.es/p/audio-technica-ath-ap2000ti_",
+        "image": "www.supersonido.es/productos/imagenes/producto49180.jpg"
+    },
     "wharfedale-evo4-3_": {
         "name": "Wharfedale Evo4.3",
         "price": 999.0,
@@ -678,19 +664,19 @@
         "url": "www.supersonido.es/p/wharfedale-evo4-3_",
         "image": "www.supersonido.es/productos/imagenes/producto43301.jpg"
     },
-    "audeze-euclid_": {
-        "name": "Audeze EUCLID",
-        "price": 999.0,
-        "price_old": 1479.0,
-        "url": "www.supersonido.es/p/audeze-euclid_",
-        "image": "www.supersonido.es/productos/imagenes/producto49689.jpg"
-    },
     "svs-prime-tower-speaker_": {
         "name": "SVS Prime Tower Speaker",
         "price": 999.0,
         "price_old": 1498.0,
         "url": "www.supersonido.es/p/svs-prime-tower-speaker_",
         "image": "www.supersonido.es/productos/imagenes/producto47939.jpg"
+    },
+    "audeze-euclid_": {
+        "name": "Audeze EUCLID",
+        "price": 999.0,
+        "price_old": 1479.0,
+        "url": "www.supersonido.es/p/audeze-euclid_",
+        "image": "www.supersonido.es/productos/imagenes/producto49689.jpg"
     },
     "mrspeakers-ether-flow": {
         "name": "Dan Clark Audio ETHER Flow",
@@ -797,19 +783,19 @@
         "url": "www.supersonido.es/p/primare-spa-22-hd",
         "image": "www.supersonido.es/productos/imagenes/producto12854.jpg"
     },
-    "unison-research-unico-primo_": {
-        "name": "Unison Research Unico Primo",
-        "price": 1499.0,
-        "price_old": 2100.0,
-        "url": "www.supersonido.es/p/unison-research-unico-primo_",
-        "image": "www.supersonido.es/productos/imagenes/producto49222.jpg"
-    },
     "audio-technica-ath-awkt_": {
         "name": "Audio-Technica ATH-AWKT",
         "price": 1499.0,
         "price_old": 1999.0,
         "url": "www.supersonido.es/p/audio-technica-ath-awkt_",
         "image": "www.supersonido.es/productos/imagenes/producto49179.jpg"
+    },
+    "unison-research-unico-primo_": {
+        "name": "Unison Research Unico Primo",
+        "price": 1499.0,
+        "price_old": 2100.0,
+        "url": "www.supersonido.es/p/unison-research-unico-primo_",
+        "image": "www.supersonido.es/productos/imagenes/producto49222.jpg"
     },
     "matrix-audio-element-p__": {
         "name": "Matrix Audio Element P",
