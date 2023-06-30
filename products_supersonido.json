@@ -20,6 +20,20 @@
         "url": "www.supersonido.es/p/samsung-wmn-m25ea-xc",
         "image": "www.supersonido.es/productos/imagenes/producto30804.jpg"
     },
+    "q-acoustics-q3000fsi_": {
+        "name": "Q-Acoustics Q3000FSi",
+        "price": 119.0,
+        "price_old": 219.0,
+        "url": "www.supersonido.es/p/q-acoustics-q3000fsi_",
+        "image": "www.supersonido.es/productos/imagenes/producto46987.jpg"
+    },
+    "panasonic-dp-ub150eg_": {
+        "name": "Panasonic DP-UB150EG",
+        "price": 129.0,
+        "price_old": 199.0,
+        "url": "www.supersonido.es/p/panasonic-dp-ub150eg_",
+        "image": "www.supersonido.es/productos/imagenes/producto50071.jpg"
+    },
     "marantz-vs3003_": {
         "name": "Marantz VS3003",
         "price": 129.0,
@@ -110,6 +124,13 @@
         "price_old": 379.0,
         "url": "www.supersonido.es/p/yamaha-mcr-b270__",
         "image": "www.supersonido.es/productos/imagenes/producto49874.jpg"
+    },
+    "panasonic-sc-pmx90_": {
+        "name": "Panasonic SC-PMX90",
+        "price": 229.0,
+        "price_old": 339.0,
+        "url": "www.supersonido.es/p/panasonic-sc-pmx90_",
+        "image": "www.supersonido.es/productos/imagenes/producto46001.jpg"
     },
     "q-acoustics-q-3010i_oc2": {
         "name": "Q-Acoustics Q3010i",
@@ -335,19 +356,19 @@
         "url": "www.supersonido.es/p/loewe-klang-mr5",
         "image": "www.supersonido.es/productos/imagenes/producto47120.jpg"
     },
-    "qacoustics-concept-40-ex-demo_": {
-        "name": "Q-Acoustics Concept 40",
-        "price": 549.0,
-        "price_old": 1399.0,
-        "url": "www.supersonido.es/p/qacoustics-concept-40-ex-demo_",
-        "image": "www.supersonido.es/productos/imagenes/producto50005.jpg"
-    },
     "qacoustics-concept-40-ex-demo": {
         "name": "Q-Acoustics Concept 40",
         "price": 549.0,
         "price_old": 1399.0,
         "url": "www.supersonido.es/p/qacoustics-concept-40-ex-demo",
         "image": "www.supersonido.es/productos/imagenes/producto22997.jpg"
+    },
+    "qacoustics-concept-40-ex-demo_": {
+        "name": "Q-Acoustics Concept 40",
+        "price": 549.0,
+        "price_old": 1399.0,
+        "url": "www.supersonido.es/p/qacoustics-concept-40-ex-demo_",
+        "image": "www.supersonido.es/productos/imagenes/producto50005.jpg"
     },
     "denon-home-350__": {
         "name": "Denon Home 350",
@@ -384,12 +405,12 @@
         "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
         "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
     },
-    "arcam-cds50_": {
-        "name": "Arcam CDS50",
+    "sonus-faber-lumina-i__": {
+        "name": "Sonus-Faber LUMINA I",
         "price": 599.0,
-        "price_old": 1099.0,
-        "url": "www.supersonido.es/p/arcam-cds50_",
-        "image": "www.supersonido.es/productos/imagenes/producto50040.jpg"
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/sonus-faber-lumina-i__",
+        "image": "www.supersonido.es/productos/imagenes/producto48455.jpg"
     },
     "project-maia-ds": {
         "name": "Pro-Ject MaiA DS",
@@ -405,12 +426,12 @@
         "url": "www.supersonido.es/p/pro-ject-stereo-box-ds2_",
         "image": "www.supersonido.es/productos/imagenes/producto46695.jpg"
     },
-    "sonus-faber-lumina-i__": {
-        "name": "Sonus-Faber LUMINA I",
+    "arcam-cds50_": {
+        "name": "Arcam CDS50",
         "price": 599.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/sonus-faber-lumina-i__",
-        "image": "www.supersonido.es/productos/imagenes/producto48455.jpg"
+        "price_old": 1099.0,
+        "url": "www.supersonido.es/p/arcam-cds50_",
+        "image": "www.supersonido.es/productos/imagenes/producto50040.jpg"
     },
     "q-acoustics-5020_": {
         "name": "Q-Acoustics 5020",
@@ -461,19 +482,19 @@
         "url": "www.supersonido.es/p/musical-fidelity-m2scd",
         "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
     },
-    "pro-ject-x2_": {
-        "name": "Pro-Ject X2",
-        "price": 699.0,
-        "price_old": 1299.0,
-        "url": "www.supersonido.es/p/pro-ject-x2_",
-        "image": "www.supersonido.es/productos/imagenes/producto46386.jpg"
-    },
     "arcam-sa20_": {
         "name": "Arcam SA20",
         "price": 699.0,
         "price_old": 1399.0,
         "url": "www.supersonido.es/p/arcam-sa20_",
         "image": "www.supersonido.es/productos/imagenes/producto42162.jpg"
+    },
+    "pro-ject-x2_": {
+        "name": "Pro-Ject X2",
+        "price": 699.0,
+        "price_old": 1299.0,
+        "url": "www.supersonido.es/p/pro-ject-x2_",
+        "image": "www.supersonido.es/productos/imagenes/producto46386.jpg"
     },
     "rel-ht-1003-mkii": {
         "name": "Rel HT/1003 MKII",
@@ -643,19 +664,19 @@
         "url": "www.supersonido.es/p/mrspeakers-ether-flow",
         "image": "www.supersonido.es/productos/imagenes/producto28309.jpg"
     },
-    "cayin-n6ii_": {
-        "name": "Cayin N6ii",
-        "price": 1099.0,
-        "price_old": 1399.0,
-        "url": "www.supersonido.es/p/cayin-n6ii_",
-        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
-    },
     "audio-technica-ath-awas_": {
         "name": "Audio-Technica ATH-AWAS",
         "price": 1099.0,
         "price_old": 1499.0,
         "url": "www.supersonido.es/p/audio-technica-ath-awas_",
         "image": "www.supersonido.es/productos/imagenes/producto49178.jpg"
+    },
+    "cayin-n6ii_": {
+        "name": "Cayin N6ii",
+        "price": 1099.0,
+        "price_old": 1399.0,
+        "url": "www.supersonido.es/p/cayin-n6ii_",
+        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
     },
     "audeze-lcdxc": {
         "name": "Audeze LCD-XC",
@@ -699,13 +720,6 @@
         "url": "www.supersonido.es/p/sonus-faber-cremona-m-sub",
         "image": "www.supersonido.es/productos/imagenes/producto312.jpg"
     },
-    "panasonic-tx-55jz1500_": {
-        "name": "Panasonic TX-55JZ1500",
-        "price": 1399.0,
-        "price_old": 2399.0,
-        "url": "www.supersonido.es/p/panasonic-tx-55jz1500_",
-        "image": "www.supersonido.es/productos/imagenes/producto46549.jpg"
-    },
     "sennheiser-hd-820_OC": {
         "name": "Sennheiser HD 820",
         "price": 1399.0,
@@ -719,6 +733,13 @@
         "price_old": 1799.0,
         "url": "www.supersonido.es/p/yamaha-rx-a4a_",
         "image": "www.supersonido.es/productos/imagenes/producto49282.jpg"
+    },
+    "panasonic-tx-55jz1500_": {
+        "name": "Panasonic TX-55JZ1500",
+        "price": 1399.0,
+        "price_old": 2399.0,
+        "url": "www.supersonido.es/p/panasonic-tx-55jz1500_",
+        "image": "www.supersonido.es/productos/imagenes/producto46549.jpg"
     },
     "jbl-l82-classic_": {
         "name": "JBL L82 Classic",
