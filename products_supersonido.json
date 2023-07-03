@@ -48,19 +48,19 @@
         "url": "www.supersonido.es/p/yamaha-yas-109_",
         "image": "www.supersonido.es/productos/imagenes/producto49308.jpg"
     },
-    "lg-24tn510s": {
-        "name": "LG 24TN510S",
-        "price": 149.0,
-        "price_old": 179.0,
-        "url": "www.supersonido.es/p/lg-24tn510s",
-        "image": "www.supersonido.es/productos/imagenes/producto43870.jpg"
-    },
     "devialet-tree__oc": {
         "name": "Devialet Tree",
         "price": 149.0,
         "price_old": 399.0,
         "url": "www.supersonido.es/p/devialet-tree__oc",
         "image": "www.supersonido.es/productos/imagenes/producto49876.jpg"
+    },
+    "lg-24tn510s": {
+        "name": "LG 24TN510S",
+        "price": 149.0,
+        "price_old": 179.0,
+        "url": "www.supersonido.es/p/lg-24tn510s",
+        "image": "www.supersonido.es/productos/imagenes/producto43870.jpg"
     },
     "earmen-sparrow_": {
         "name": "EarMen Sparrow",
@@ -433,19 +433,19 @@
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
-    "wharfedale-evo4-2_oc": {
-        "name": "Wharfedale Evo4.2",
-        "price": 649.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/wharfedale-evo4-2_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto49914.jpg"
-    },
     "wharfedale-evo4-2_": {
         "name": "Wharfedale Evo4.2",
         "price": 649.0,
         "price_old": 899.0,
         "url": "www.supersonido.es/p/wharfedale-evo4-2_",
         "image": "www.supersonido.es/productos/imagenes/producto45661.jpg"
+    },
+    "wharfedale-evo4-2_oc": {
+        "name": "Wharfedale Evo4.2",
+        "price": 649.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/wharfedale-evo4-2_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto49914.jpg"
     },
     "klipsch-the-fives-v2_": {
         "name": "Klipsch THE FIVES V2",
@@ -657,19 +657,19 @@
         "url": "www.supersonido.es/p/audeze-lcdxc",
         "image": "www.supersonido.es/productos/imagenes/producto16708.jpg"
     },
-    "audio-technica-ath-awas_": {
-        "name": "Audio-Technica ATH-AWAS",
-        "price": 1099.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/audio-technica-ath-awas_",
-        "image": "www.supersonido.es/productos/imagenes/producto49178.jpg"
-    },
     "cayin-n6ii_": {
         "name": "Cayin N6ii",
         "price": 1099.0,
         "price_old": 1399.0,
         "url": "www.supersonido.es/p/cayin-n6ii_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+    },
+    "audio-technica-ath-awas_": {
+        "name": "Audio-Technica ATH-AWAS",
+        "price": 1099.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/audio-technica-ath-awas_",
+        "image": "www.supersonido.es/productos/imagenes/producto49178.jpg"
     },
     "sivga-sendy-peacock_": {
         "name": "Sendy Audio Peacock",
@@ -817,6 +817,13 @@
         "price_old": 2399.0,
         "url": "www.supersonido.es/p/jbl-4306_",
         "image": "www.supersonido.es/productos/imagenes/producto45874.jpg"
+    },
+    "acoustic-solid-wood": {
+        "name": "Acoustic Solid Wood",
+        "price": 1800.0,
+        "price_old": 3600.0,
+        "url": "www.supersonido.es/p/acoustic-solid-wood",
+        "image": "www.supersonido.es/productos/imagenes/producto49909.jpg"
     },
     "unison-research-simply-italy_oc": {
         "name": "Unison Research SIMPLY ITALY",
