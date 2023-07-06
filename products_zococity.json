@@ -160,6 +160,13 @@
         "url": "https://zococity.es/products/edifier-neobuds-pro-reacondicionado",
         "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/files/White4_360x.png"
     },
+    "topping-tcx1-reacondicionado": {
+        "name": "Topping TCX1 - Reacondicionado",
+        "price": 79.99,
+        "price_old": 99.99,
+        "url": "https://zococity.es/products/topping-tcx1-reacondicionado",
+        "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/ToppingTCX1_01_dbe2f32c-a5b4-4499-8e1f-b8d86e1b0f27_360x.jpg"
+    },
     "edifier-tws5-reacondicionado": {
         "name": "Edifier TWS5 Reacondicionado",
         "price": 79.99,
@@ -876,8 +883,8 @@
     },
     "fiio-pl50-reacondicionado": {
         "name": "FiiO PL50 - Reacondicionado",
-        "price": 159.99,
-        "price_old": 0.0,
+        "price": 127.99,
+        "price_old": 159.99,
         "url": "https://zococity.es/products/fiio-pl50-reacondicionado",
         "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/files/PL50-1_58fea8cd-e222-41ea-b161-383c80eb6da2_360x.jpg"
     },
@@ -908,5 +915,26 @@
         "price_old": 599.0,
         "url": "https://zococity.es/products/denon-rcd-n10-reacondicionado",
         "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/files/1_15_11_d6f76724-1362-41c5-9e0a-7d1153ca391b_360x.jpg"
+    },
+    "bluesound-powernodeedge-reacondicionado": {
+        "name": "Bluesound Powernode EDGE - Reacondicionado",
+        "price": 559.2,
+        "price_old": 699.0,
+        "url": "https://zococity.es/products/bluesound-powernodeedge-reacondicionado",
+        "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/files/POWERNODE_4_1_360x.jpg"
+    },
+    "edifier-mg300-reacondicionado": {
+        "name": "Edifier MG300 - Reacondicionado",
+        "price": 47.99,
+        "price_old": 59.99,
+        "url": "https://zococity.es/products/edifier-mg300-reacondicionado",
+        "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/files/MG300-4_360x.jpg"
+    },
+    "cayin-idap-6-reacondicionado": {
+        "name": "Cayin IDAP-6 - Reacondicionado",
+        "price": 639.2,
+        "price_old": 799.0,
+        "url": "https://zococity.es/products/cayin-idap-6-reacondicionado",
+        "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/files/CayiniDAP-6_01_7bce5768-a464-42de-a5ae-c4b64dcacd56_360x.jpg"
     }
 }
