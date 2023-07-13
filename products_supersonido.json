@@ -83,6 +83,13 @@
         "url": "www.supersonido.es/p/sony-wf-1000xm4__",
         "image": "www.supersonido.es/productos/imagenes/producto50134.jpg"
     },
+    "sennheiser-momentum-true-wireless-2_": {
+        "name": "Sennheiser Momentum True Wireless 2",
+        "price": 149.0,
+        "price_old": 249.0,
+        "url": "www.supersonido.es/p/sennheiser-momentum-true-wireless-2_",
+        "image": "www.supersonido.es/productos/imagenes/producto42160.jpg"
+    },
     "devialet-tree__oc": {
         "name": "Devialet Tree",
         "price": 149.0,
@@ -258,6 +265,13 @@
         "url": "www.supersonido.es/p/rega-io_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49823.jpg"
     },
+    "arcam-solo-uno__": {
+        "name": "Arcam SOLO UNO",
+        "price": 399.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/arcam-solo-uno__",
+        "image": "www.supersonido.es/productos/imagenes/producto43169.jpg"
+    },
     "focal-chora-806_occ": {
         "name": "FOCAL CHORA 806",
         "price": 399.0,
@@ -271,13 +285,6 @@
         "price_old": 599.0,
         "url": "www.supersonido.es/p/focal-chora-806_occ_",
         "image": "www.supersonido.es/productos/imagenes/producto50133.jpg"
-    },
-    "arcam-solo-uno__": {
-        "name": "Arcam SOLO UNO",
-        "price": 399.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/arcam-solo-uno__",
-        "image": "www.supersonido.es/productos/imagenes/producto43169.jpg"
     },
     "sendy-audio-apollo_": {
         "name": "Sendy Audio Apollo",
@@ -496,19 +503,19 @@
         "url": "www.supersonido.es/p/musical-fidelity-m2scd",
         "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
     },
-    "rel-ht-1003-mkii": {
-        "name": "Rel HT/1003 MKII",
-        "price": 699.0,
-        "price_old": 950.0,
-        "url": "www.supersonido.es/p/rel-ht-1003-mkii",
-        "image": "www.supersonido.es/productos/imagenes/producto48311.jpg"
-    },
     "arcam-sa20_": {
         "name": "Arcam SA20",
         "price": 699.0,
         "price_old": 1399.0,
         "url": "www.supersonido.es/p/arcam-sa20_",
         "image": "www.supersonido.es/productos/imagenes/producto42162.jpg"
+    },
+    "rel-ht-1003-mkii": {
+        "name": "Rel HT/1003 MKII",
+        "price": 699.0,
+        "price_old": 950.0,
+        "url": "www.supersonido.es/p/rel-ht-1003-mkii",
+        "image": "www.supersonido.es/productos/imagenes/producto48311.jpg"
     },
     "fir-audio-vxv": {
         "name": "Fir Audio VxV",
@@ -636,19 +643,19 @@
         "url": "www.supersonido.es/p/atcs-scm7_ocas",
         "image": "www.supersonido.es/productos/imagenes/producto42477.jpg"
     },
-    "audio-technica-ath-ap2000ti_": {
-        "name": "Audio-Technica ATH-AP2000Ti",
-        "price": 999.0,
-        "price_old": 1349.0,
-        "url": "www.supersonido.es/p/audio-technica-ath-ap2000ti_",
-        "image": "www.supersonido.es/productos/imagenes/producto49180.jpg"
-    },
     "naim-nap-155-xs": {
         "name": "Naim NAP 155 XS",
         "price": 999.0,
         "price_old": 2050.0,
         "url": "www.supersonido.es/p/naim-nap-155-xs",
         "image": "www.supersonido.es/productos/imagenes/producto8230.jpg"
+    },
+    "audio-technica-ath-ap2000ti_": {
+        "name": "Audio-Technica ATH-AP2000Ti",
+        "price": 999.0,
+        "price_old": 1349.0,
+        "url": "www.supersonido.es/p/audio-technica-ath-ap2000ti_",
+        "image": "www.supersonido.es/productos/imagenes/producto49180.jpg"
     },
     "wharfedale-evo4-3_": {
         "name": "Wharfedale Evo4.3",
@@ -916,6 +923,20 @@
         "url": "www.supersonido.es/p/anthem-mca-225-gen-2_",
         "image": "www.supersonido.es/productos/imagenes/producto50079.jpg"
     },
+    "innuos-phoenix-net_": {
+        "name": "Innuos Phoenix NET",
+        "price": 1949.0,
+        "price_old": 3099.0,
+        "url": "www.supersonido.es/p/innuos-phoenix-net_",
+        "image": "www.supersonido.es/productos/imagenes/producto50158.jpg"
+    },
+    "innuos-phoenix-usb_": {
+        "name": "Innuos Phoenix USB",
+        "price": 1949.0,
+        "price_old": 3099.0,
+        "url": "www.supersonido.es/p/innuos-phoenix-usb_",
+        "image": "www.supersonido.es/productos/imagenes/producto50159.jpg"
+    },
     "matrix-audio-element-x": {
         "name": "Matrix Audio Element X",
         "price": 1990.0,
@@ -1048,6 +1069,13 @@
         "price_old": 3990.0,
         "url": "www.supersonido.es/p/isotek-systems-nova",
         "image": "www.supersonido.es/productos/imagenes/producto11309.jpg"
+    },
+    "innuos-zenith-mk3_": {
+        "name": "Innuos ZENITH MK3",
+        "price": 2950.0,
+        "price_old": 4699.0,
+        "url": "www.supersonido.es/p/innuos-zenith-mk3_",
+        "image": "www.supersonido.es/productos/imagenes/producto50157.jpg"
     },
     "anthem-str-integrated-amplifier_": {
         "name": "Anthem STR Integrated Amplifier",
