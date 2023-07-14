@@ -335,6 +335,20 @@
         "url": "www.supersonido.es/p/neat-acoustics-iota_",
         "image": "www.supersonido.es/productos/imagenes/producto29592.jpg"
     },
+    "technics-ottava-s-sc-c50OC": {
+        "name": "Technics OTTAVA S SC-C50",
+        "price": 499.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
+        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
+    },
+    "shanling-m6-21_": {
+        "name": "Shanling M6(21)",
+        "price": 499.0,
+        "price_old": 599.0,
+        "url": "www.supersonido.es/p/shanling-m6-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49367.jpg"
+    },
     "audio-technica-ath-wp900_": {
         "name": "Audio-Technica ATH-WP900",
         "price": 499.0,
@@ -355,20 +369,6 @@
         "price_old": 999.0,
         "url": "www.supersonido.es/p/arcam-sa10_",
         "image": "www.supersonido.es/productos/imagenes/producto47531.jpg"
-    },
-    "technics-ottava-s-sc-c50OC": {
-        "name": "Technics OTTAVA S SC-C50",
-        "price": 499.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
-        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
-    },
-    "shanling-m6-21_": {
-        "name": "Shanling M6(21)",
-        "price": 499.0,
-        "price_old": 599.0,
-        "url": "www.supersonido.es/p/shanling-m6-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49367.jpg"
     },
     "loewe-klang-mr5": {
         "name": "Loewe Klang mr5",
@@ -412,6 +412,13 @@
         "url": "www.supersonido.es/p/shanling-m6-pro-21_",
         "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
+    "advance-paris-playstream-a1_": {
+        "name": "Advance Paris PLAYSTREAM A1",
+        "price": 599.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
+        "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
+    },
     "mrspeakers-aeon-flow-2-open": {
         "name": "Dan Clark Audio AEON Flow 2 Open",
         "price": 599.0,
@@ -425,13 +432,6 @@
         "price_old": 699.0,
         "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
         "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
-    },
-    "advance-paris-playstream-a1_": {
-        "name": "Advance Paris PLAYSTREAM A1",
-        "price": 599.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
-        "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
     },
     "sonus-faber-lumina-i__": {
         "name": "Sonus-Faber LUMINA I",
@@ -643,19 +643,19 @@
         "url": "www.supersonido.es/p/atcs-scm7_ocas",
         "image": "www.supersonido.es/productos/imagenes/producto42477.jpg"
     },
-    "naim-nap-155-xs": {
-        "name": "Naim NAP 155 XS",
-        "price": 999.0,
-        "price_old": 2050.0,
-        "url": "www.supersonido.es/p/naim-nap-155-xs",
-        "image": "www.supersonido.es/productos/imagenes/producto8230.jpg"
-    },
     "audio-technica-ath-ap2000ti_": {
         "name": "Audio-Technica ATH-AP2000Ti",
         "price": 999.0,
         "price_old": 1349.0,
         "url": "www.supersonido.es/p/audio-technica-ath-ap2000ti_",
         "image": "www.supersonido.es/productos/imagenes/producto49180.jpg"
+    },
+    "naim-nap-155-xs": {
+        "name": "Naim NAP 155 XS",
+        "price": 999.0,
+        "price_old": 2050.0,
+        "url": "www.supersonido.es/p/naim-nap-155-xs",
+        "image": "www.supersonido.es/productos/imagenes/producto8230.jpg"
     },
     "wharfedale-evo4-3_": {
         "name": "Wharfedale Evo4.3",
