@@ -55,13 +55,6 @@
         "url": "www.supersonido.es/p/marantz-vs3003_",
         "image": "www.supersonido.es/productos/imagenes/producto48453.jpg"
     },
-    "yamaha-yas-109_": {
-        "name": "Yamaha YAS-109",
-        "price": 139.0,
-        "price_old": 349.0,
-        "url": "www.supersonido.es/p/yamaha-yas-109_",
-        "image": "www.supersonido.es/productos/imagenes/producto49308.jpg"
-    },
     "audioquest-red-river-xlr_oc_": {
         "name": "Audioquest Red River XLR",
         "price": 139.0,
@@ -405,6 +398,13 @@
         "url": "www.supersonido.es/p/shanling-m6-pro-21_",
         "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
+    "bluesound-pulse-mini-2i_": {
+        "name": "Bluesound PULSE MINI 2i",
+        "price": 599.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
+        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
+    },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
         "price": 599.0,
@@ -419,12 +419,12 @@
         "url": "www.supersonido.es/p/mrspeakers-aeon-flow-2-open",
         "image": "www.supersonido.es/productos/imagenes/producto32865.jpg"
     },
-    "bluesound-pulse-mini-2i_": {
-        "name": "Bluesound PULSE MINI 2i",
+    "project-maia-ds": {
+        "name": "Pro-Ject MaiA DS",
         "price": 599.0,
-        "price_old": 699.0,
-        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
-        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/project-maia-ds",
+        "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
     "sonus-faber-lumina-i__": {
         "name": "Sonus-Faber LUMINA I",
@@ -439,13 +439,6 @@
         "price_old": 849.0,
         "url": "www.supersonido.es/p/pro-ject-stereo-box-ds2_",
         "image": "www.supersonido.es/productos/imagenes/producto46695.jpg"
-    },
-    "project-maia-ds": {
-        "name": "Pro-Ject MaiA DS",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/project-maia-ds",
-        "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
     "q-acoustics-5020_": {
         "name": "Q-Acoustics 5020",
@@ -678,19 +671,19 @@
         "url": "www.supersonido.es/p/audeze-lcdxc",
         "image": "www.supersonido.es/productos/imagenes/producto16708.jpg"
     },
-    "audio-technica-ath-awas_": {
-        "name": "Audio-Technica ATH-AWAS",
-        "price": 1099.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/audio-technica-ath-awas_",
-        "image": "www.supersonido.es/productos/imagenes/producto49178.jpg"
-    },
     "cayin-n6ii_": {
         "name": "Cayin N6ii",
         "price": 1099.0,
         "price_old": 1399.0,
         "url": "www.supersonido.es/p/cayin-n6ii_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+    },
+    "audio-technica-ath-awas_": {
+        "name": "Audio-Technica ATH-AWAS",
+        "price": 1099.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/audio-technica-ath-awas_",
+        "image": "www.supersonido.es/productos/imagenes/producto49178.jpg"
     },
     "sivga-sendy-peacock_": {
         "name": "Sendy Audio Peacock",
