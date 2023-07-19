@@ -398,19 +398,19 @@
         "url": "www.supersonido.es/p/shanling-m6-pro-21_",
         "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
-    "mrspeakers-aeon-flow-2-open": {
-        "name": "Dan Clark Audio AEON Flow 2 Open",
-        "price": 599.0,
-        "price_old": 1099.0,
-        "url": "www.supersonido.es/p/mrspeakers-aeon-flow-2-open",
-        "image": "www.supersonido.es/productos/imagenes/producto32865.jpg"
-    },
     "bluesound-pulse-mini-2i_": {
         "name": "Bluesound PULSE MINI 2i",
         "price": 599.0,
         "price_old": 699.0,
         "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
         "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
+    },
+    "mrspeakers-aeon-flow-2-open": {
+        "name": "Dan Clark Audio AEON Flow 2 Open",
+        "price": 599.0,
+        "price_old": 1099.0,
+        "url": "www.supersonido.es/p/mrspeakers-aeon-flow-2-open",
+        "image": "www.supersonido.es/productos/imagenes/producto32865.jpg"
     },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
@@ -537,13 +537,6 @@
         "price_old": 2999.0,
         "url": "www.supersonido.es/p/tag-maclaren-audio-dvd-32flr",
         "image": "www.supersonido.es/productos/imagenes/producto713.jpg"
-    },
-    "klipsch-rp-6000f__": {
-        "name": "Klipsch RP-6000F",
-        "price": 899.0,
-        "price_old": 1398.0,
-        "url": "www.supersonido.es/p/klipsch-rp-6000f__",
-        "image": "www.supersonido.es/productos/imagenes/producto49017.jpg"
     },
     "grado-gs1000e-gr8e": {
         "name": "Grado GS1000e",
@@ -937,13 +930,6 @@
         "url": "www.supersonido.es/p/sony-xr-65a90j_",
         "image": "www.supersonido.es/productos/imagenes/producto50017.jpg"
     },
-    "rose-rs250a_": {
-        "name": "Rose RS250A",
-        "price": 2159.0,
-        "price_old": 2699.0,
-        "url": "www.supersonido.es/p/rose-rs250a_",
-        "image": "www.supersonido.es/productos/imagenes/producto50188.jpg"
-    },
     "audio-research-vsi60": {
         "name": "Audio Research Vsi60",
         "price": 2200.0,
@@ -1125,6 +1111,13 @@
         "price_old": 10540.0,
         "url": "www.supersonido.es/p/krell-industries-evo-222-",
         "image": "www.supersonido.es/productos/imagenes/producto3644.jpg"
+    },
+    "accuphase-japan-e470": {
+        "name": "Accuphase Japan E-470",
+        "price": 3990.0,
+        "price_old": 9300.0,
+        "url": "www.supersonido.es/p/accuphase-japan-e470",
+        "image": "www.supersonido.es/productos/imagenes/producto19700.jpg"
     },
     "jbl-hdi-3800_": {
         "name": "JBL HDI-3800",
