@@ -83,6 +83,13 @@
         "url": "www.supersonido.es/p/earmen-sparrow_",
         "image": "www.supersonido.es/productos/imagenes/producto49899.jpg"
     },
+    "yamaha-rs202d_": {
+        "name": "Yamaha R-S202D",
+        "price": 169.0,
+        "price_old": 269.0,
+        "url": "www.supersonido.es/p/yamaha-rs202d_",
+        "image": "www.supersonido.es/productos/imagenes/producto49010.jpg"
+    },
     "pro-ject-primary-e_": {
         "name": "Pro-Ject Primary E",
         "price": 169.0,
@@ -97,12 +104,26 @@
         "url": "www.supersonido.es/p/grado-sr225e_OC",
         "image": "www.supersonido.es/productos/imagenes/producto43486.jpg"
     },
+    "rega-planar-1-eco_": {
+        "name": "Rega Planar 1 Eco",
+        "price": 169.0,
+        "price_old": 199.0,
+        "url": "www.supersonido.es/p/rega-planar-1-eco_",
+        "image": "www.supersonido.es/productos/imagenes/producto50225.jpg"
+    },
     "klipsch-the-fives-speaker-stands___": {
         "name": "Klipsch THE FIVES SPEAKER STANDS",
         "price": 189.0,
         "price_old": 379.0,
         "url": "www.supersonido.es/p/klipsch-the-fives-speaker-stands___",
         "image": "www.supersonido.es/productos/imagenes/producto49661.jpg"
+    },
+    "grado-sr325x_": {
+        "name": "Grado SR325x",
+        "price": 199.0,
+        "price_old": 359.0,
+        "url": "www.supersonido.es/p/grado-sr325x_",
+        "image": "www.supersonido.es/productos/imagenes/producto47579.jpg"
     },
     "sivga-phoenix_": {
         "name": "Sivga PHOENIX",
@@ -405,6 +426,13 @@
         "url": "www.supersonido.es/p/mrspeakers-aeon-flow-2-open",
         "image": "www.supersonido.es/productos/imagenes/producto32865.jpg"
     },
+    "bluesound-pulse-mini-2i_": {
+        "name": "Bluesound PULSE MINI 2i",
+        "price": 599.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
+        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
+    },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
         "price": 599.0,
@@ -412,12 +440,12 @@
         "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
         "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
     },
-    "bluesound-pulse-mini-2i_": {
-        "name": "Bluesound PULSE MINI 2i",
+    "project-maia-ds": {
+        "name": "Pro-Ject MaiA DS",
         "price": 599.0,
-        "price_old": 699.0,
-        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
-        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/project-maia-ds",
+        "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
     "sonus-faber-lumina-i__": {
         "name": "Sonus-Faber LUMINA I",
@@ -432,13 +460,6 @@
         "price_old": 849.0,
         "url": "www.supersonido.es/p/pro-ject-stereo-box-ds2_",
         "image": "www.supersonido.es/productos/imagenes/producto46695.jpg"
-    },
-    "project-maia-ds": {
-        "name": "Pro-Ject MaiA DS",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/project-maia-ds",
-        "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
     "q-acoustics-5020_": {
         "name": "Q-Acoustics 5020",
@@ -727,6 +748,13 @@
         "url": "www.supersonido.es/p/panasonic-tx-55jz1500_",
         "image": "www.supersonido.es/productos/imagenes/producto46549.jpg"
     },
+    "yamaha-a-s1200_": {
+        "name": "Yamaha A-S1200",
+        "price": 1399.0,
+        "price_old": 2499.0,
+        "url": "www.supersonido.es/p/yamaha-a-s1200_",
+        "image": "www.supersonido.es/productos/imagenes/producto50224.jpg"
+    },
     "sennheiser-hd-820_OC": {
         "name": "Sennheiser HD 820",
         "price": 1399.0,
@@ -1000,19 +1028,19 @@
         "url": "www.supersonido.es/p/mrspeakers-voce_",
         "image": "www.supersonido.es/productos/imagenes/producto50151.jpg"
     },
-    "isotek-systems-nova": {
-        "name": "Isotek Systems Nova",
-        "price": 2890.0,
-        "price_old": 3990.0,
-        "url": "www.supersonido.es/p/isotek-systems-nova",
-        "image": "www.supersonido.es/productos/imagenes/producto11309.jpg"
-    },
     "q-acoustics-concept-300-stand_ok": {
         "name": "Q-Acoustics Concept 300 + Stand",
         "price": 2890.0,
         "price_old": 4299.0,
         "url": "www.supersonido.es/p/q-acoustics-concept-300-stand_ok",
         "image": "www.supersonido.es/productos/imagenes/producto49042.jpg"
+    },
+    "isotek-systems-nova": {
+        "name": "Isotek Systems Nova",
+        "price": 2890.0,
+        "price_old": 3990.0,
+        "url": "www.supersonido.es/p/isotek-systems-nova",
+        "image": "www.supersonido.es/productos/imagenes/producto11309.jpg"
     },
     "innuos-zenith-mk3_": {
         "name": "Innuos ZENITH MK3",
@@ -1287,19 +1315,19 @@
         "url": "www.supersonido.es/p/jbl-s4700_",
         "image": "www.supersonido.es/productos/imagenes/producto49921.jpg"
     },
-    "audio-research-gs-pre": {
-        "name": "Audio Research GS Pre",
-        "price": 13990.0,
-        "price_old": 18790.0,
-        "url": "www.supersonido.es/p/audio-research-gs-pre",
-        "image": "www.supersonido.es/productos/imagenes/producto18555.jpg"
-    },
     "sonus-faber-serafino-tradition": {
         "name": "Sonus-Faber Serafino Tradition",
         "price": 13990.0,
         "price_old": 21990.0,
         "url": "www.supersonido.es/p/sonus-faber-serafino-tradition",
         "image": "www.supersonido.es/productos/imagenes/producto24711.jpg"
+    },
+    "audio-research-gs-pre": {
+        "name": "Audio Research GS Pre",
+        "price": 13990.0,
+        "price_old": 18790.0,
+        "url": "www.supersonido.es/p/audio-research-gs-pre",
+        "image": "www.supersonido.es/productos/imagenes/producto18555.jpg"
     },
     "krell-industries-evo-403": {
         "name": "Krell Industries Evo 403",
