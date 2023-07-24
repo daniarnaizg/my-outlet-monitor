@@ -83,19 +83,19 @@
         "url": "www.supersonido.es/p/grado-sr325x_",
         "image": "www.supersonido.es/productos/imagenes/producto47579.jpg"
     },
-    "sivga-phoenix_": {
-        "name": "Sivga PHOENIX",
-        "price": 199.0,
-        "price_old": 279.0,
-        "url": "www.supersonido.es/p/sivga-phoenix_",
-        "image": "www.supersonido.es/productos/imagenes/producto50176.jpg"
-    },
     "audiopro-addon-c5a__": {
         "name": "AudioPro ADDON C5A",
         "price": 199.0,
         "price_old": 269.0,
         "url": "www.supersonido.es/p/audiopro-addon-c5a__",
         "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
+    },
+    "sivga-phoenix_": {
+        "name": "Sivga PHOENIX",
+        "price": 199.0,
+        "price_old": 279.0,
+        "url": "www.supersonido.es/p/sivga-phoenix_",
+        "image": "www.supersonido.es/productos/imagenes/producto50176.jpg"
     },
     "ifi-audio-zen-dac-signature": {
         "name": "IFI Audio ZEN DAC SIGNATURE",
@@ -166,6 +166,13 @@
         "price_old": 499.0,
         "url": "www.supersonido.es/p/denon-home-250__",
         "image": "www.supersonido.es/productos/imagenes/producto41260.jpg"
+    },
+    "polkaudio-tl1600_": {
+        "name": "Polkaudio TL1600",
+        "price": 299.0,
+        "price_old": 499.0,
+        "url": "www.supersonido.es/p/polkaudio-tl1600_",
+        "image": "www.supersonido.es/productos/imagenes/producto49312.jpg"
     },
     "ollo-audio-s4x_": {
         "name": "Ollo Audio S4X",
@@ -363,6 +370,13 @@
         "url": "www.supersonido.es/p/audiopro-drumfire-blackstar-edition_",
         "image": "www.supersonido.es/productos/imagenes/producto47953.jpg"
     },
+    "bluesound-pulse-mini-2i_": {
+        "name": "Bluesound PULSE MINI 2i",
+        "price": 599.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
+        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
+    },
     "shanling-m6-pro-21_": {
         "name": "Shanling M6 PRO (21)",
         "price": 599.0,
@@ -376,13 +390,6 @@
         "price_old": 1099.0,
         "url": "www.supersonido.es/p/mrspeakers-aeon-flow-2-open",
         "image": "www.supersonido.es/productos/imagenes/producto32865.jpg"
-    },
-    "bluesound-pulse-mini-2i_": {
-        "name": "Bluesound PULSE MINI 2i",
-        "price": 599.0,
-        "price_old": 699.0,
-        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
-        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
     },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
@@ -594,19 +601,19 @@
         "url": "www.supersonido.es/p/wharfedale-evo4-3_",
         "image": "www.supersonido.es/productos/imagenes/producto43301.jpg"
     },
-    "svs-prime-tower-speaker_": {
-        "name": "SVS Prime Tower Speaker",
-        "price": 999.0,
-        "price_old": 1498.0,
-        "url": "www.supersonido.es/p/svs-prime-tower-speaker_",
-        "image": "www.supersonido.es/productos/imagenes/producto47939.jpg"
-    },
     "audeze-euclid_": {
         "name": "Audeze EUCLID",
         "price": 999.0,
         "price_old": 1479.0,
         "url": "www.supersonido.es/p/audeze-euclid_",
         "image": "www.supersonido.es/productos/imagenes/producto49689.jpg"
+    },
+    "svs-prime-tower-speaker_": {
+        "name": "SVS Prime Tower Speaker",
+        "price": 999.0,
+        "price_old": 1498.0,
+        "url": "www.supersonido.es/p/svs-prime-tower-speaker_",
+        "image": "www.supersonido.es/productos/imagenes/producto47939.jpg"
     },
     "mrspeakers-ether-flow": {
         "name": "Dan Clark Audio ETHER Flow",
