@@ -55,13 +55,6 @@
         "url": "www.supersonido.es/p/earmen-sparrow_",
         "image": "www.supersonido.es/productos/imagenes/producto49899.jpg"
     },
-    "yamaha-rs202d_": {
-        "name": "Yamaha R-S202D",
-        "price": 169.0,
-        "price_old": 269.0,
-        "url": "www.supersonido.es/p/yamaha-rs202d_",
-        "image": "www.supersonido.es/productos/imagenes/producto49010.jpg"
-    },
     "pro-ject-primary-e_": {
         "name": "Pro-Ject Primary E",
         "price": 169.0,
@@ -75,13 +68,6 @@
         "price_old": 279.0,
         "url": "www.supersonido.es/p/grado-sr225e_OC",
         "image": "www.supersonido.es/productos/imagenes/producto43486.jpg"
-    },
-    "rega-planar-1-eco_": {
-        "name": "Rega Planar 1 Eco",
-        "price": 169.0,
-        "price_old": 199.0,
-        "url": "www.supersonido.es/p/rega-planar-1-eco_",
-        "image": "www.supersonido.es/productos/imagenes/producto50225.jpg"
     },
     "klipsch-the-fives-speaker-stands___": {
         "name": "Klipsch THE FIVES SPEAKER STANDS",
@@ -580,12 +566,12 @@
         "url": "www.supersonido.es/p/samsung-qe55qn95a__",
         "image": "www.supersonido.es/productos/imagenes/producto47373.jpg"
     },
-    "wharfedale-evo4-3_": {
-        "name": "Wharfedale Evo4.3",
+    "naim-nap-155-xs": {
+        "name": "Naim NAP 155 XS",
         "price": 999.0,
-        "price_old": 1449.0,
-        "url": "www.supersonido.es/p/wharfedale-evo4-3_",
-        "image": "www.supersonido.es/productos/imagenes/producto43301.jpg"
+        "price_old": 2050.0,
+        "url": "www.supersonido.es/p/naim-nap-155-xs",
+        "image": "www.supersonido.es/productos/imagenes/producto8230.jpg"
     },
     "atcs-scm7_ocas": {
         "name": "ATC SCM7",
@@ -601,19 +587,12 @@
         "url": "www.supersonido.es/p/audio-technica-ath-ap2000ti_",
         "image": "www.supersonido.es/productos/imagenes/producto49180.jpg"
     },
-    "naim-nap-155-xs": {
-        "name": "Naim NAP 155 XS",
+    "wharfedale-evo4-3_": {
+        "name": "Wharfedale Evo4.3",
         "price": 999.0,
-        "price_old": 2050.0,
-        "url": "www.supersonido.es/p/naim-nap-155-xs",
-        "image": "www.supersonido.es/productos/imagenes/producto8230.jpg"
-    },
-    "audeze-euclid_": {
-        "name": "Audeze EUCLID",
-        "price": 999.0,
-        "price_old": 1479.0,
-        "url": "www.supersonido.es/p/audeze-euclid_",
-        "image": "www.supersonido.es/productos/imagenes/producto49689.jpg"
+        "price_old": 1449.0,
+        "url": "www.supersonido.es/p/wharfedale-evo4-3_",
+        "image": "www.supersonido.es/productos/imagenes/producto43301.jpg"
     },
     "svs-prime-tower-speaker_": {
         "name": "SVS Prime Tower Speaker",
@@ -621,6 +600,13 @@
         "price_old": 1498.0,
         "url": "www.supersonido.es/p/svs-prime-tower-speaker_",
         "image": "www.supersonido.es/productos/imagenes/producto47939.jpg"
+    },
+    "audeze-euclid_": {
+        "name": "Audeze EUCLID",
+        "price": 999.0,
+        "price_old": 1479.0,
+        "url": "www.supersonido.es/p/audeze-euclid_",
+        "image": "www.supersonido.es/productos/imagenes/producto49689.jpg"
     },
     "mrspeakers-ether-flow": {
         "name": "Dan Clark Audio ETHER Flow",
@@ -1252,19 +1238,19 @@
         "url": "www.supersonido.es/p/jbl-s4700_",
         "image": "www.supersonido.es/productos/imagenes/producto49921.jpg"
     },
-    "audio-research-gs-pre": {
-        "name": "Audio Research GS Pre",
-        "price": 13990.0,
-        "price_old": 18790.0,
-        "url": "www.supersonido.es/p/audio-research-gs-pre",
-        "image": "www.supersonido.es/productos/imagenes/producto18555.jpg"
-    },
     "sonus-faber-serafino-tradition": {
         "name": "Sonus-Faber Serafino Tradition",
         "price": 13990.0,
         "price_old": 21990.0,
         "url": "www.supersonido.es/p/sonus-faber-serafino-tradition",
         "image": "www.supersonido.es/productos/imagenes/producto24711.jpg"
+    },
+    "audio-research-gs-pre": {
+        "name": "Audio Research GS Pre",
+        "price": 13990.0,
+        "price_old": 18790.0,
+        "url": "www.supersonido.es/p/audio-research-gs-pre",
+        "image": "www.supersonido.es/productos/imagenes/producto18555.jpg"
     },
     "krell-industries-evo-403": {
         "name": "Krell Industries Evo 403",
