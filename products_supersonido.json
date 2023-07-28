@@ -20,6 +20,13 @@
         "url": "www.supersonido.es/p/q-acoustics-q3000fsi_",
         "image": "www.supersonido.es/productos/imagenes/producto46987.jpg"
     },
+    "audio-technica-at-lp60x__": {
+        "name": "Audio-Technica AT-LP60X",
+        "price": 119.0,
+        "price_old": 159.0,
+        "url": "www.supersonido.es/p/audio-technica-at-lp60x__",
+        "image": "www.supersonido.es/productos/imagenes/producto49584.jpg"
+    },
     "marantz-vs3003_": {
         "name": "Marantz VS3003",
         "price": 129.0,
@@ -69,6 +76,13 @@
         "url": "www.supersonido.es/p/grado-sr225e_OC",
         "image": "www.supersonido.es/productos/imagenes/producto43486.jpg"
     },
+    "audio-technica-at-lp2x_": {
+        "name": "Audio-Technica AT-LP2X",
+        "price": 179.0,
+        "price_old": 239.0,
+        "url": "www.supersonido.es/p/audio-technica-at-lp2x_",
+        "image": "www.supersonido.es/productos/imagenes/producto50264.jpg"
+    },
     "klipsch-the-fives-speaker-stands___": {
         "name": "Klipsch THE FIVES SPEAKER STANDS",
         "price": 189.0,
@@ -76,19 +90,19 @@
         "url": "www.supersonido.es/p/klipsch-the-fives-speaker-stands___",
         "image": "www.supersonido.es/productos/imagenes/producto49661.jpg"
     },
-    "sivga-phoenix_": {
-        "name": "Sivga PHOENIX",
-        "price": 199.0,
-        "price_old": 279.0,
-        "url": "www.supersonido.es/p/sivga-phoenix_",
-        "image": "www.supersonido.es/productos/imagenes/producto50176.jpg"
-    },
     "audiopro-addon-c5a__": {
         "name": "AudioPro ADDON C5A",
         "price": 199.0,
         "price_old": 269.0,
         "url": "www.supersonido.es/p/audiopro-addon-c5a__",
         "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
+    },
+    "sivga-phoenix_": {
+        "name": "Sivga PHOENIX",
+        "price": 199.0,
+        "price_old": 279.0,
+        "url": "www.supersonido.es/p/sivga-phoenix_",
+        "image": "www.supersonido.es/productos/imagenes/producto50176.jpg"
     },
     "ifi-audio-zen-dac-signature": {
         "name": "IFI Audio ZEN DAC SIGNATURE",
@@ -531,19 +545,12 @@
         "url": "www.supersonido.es/p/samsung-qe55qn95a__",
         "image": "www.supersonido.es/productos/imagenes/producto47373.jpg"
     },
-    "audeze-euclid_": {
-        "name": "Audeze EUCLID",
+    "wharfedale-evo4-3_": {
+        "name": "Wharfedale Evo4.3",
         "price": 999.0,
-        "price_old": 1479.0,
-        "url": "www.supersonido.es/p/audeze-euclid_",
-        "image": "www.supersonido.es/productos/imagenes/producto49689.jpg"
-    },
-    "naim-nap-155-xs": {
-        "name": "Naim NAP 155 XS",
-        "price": 999.0,
-        "price_old": 2050.0,
-        "url": "www.supersonido.es/p/naim-nap-155-xs",
-        "image": "www.supersonido.es/productos/imagenes/producto8230.jpg"
+        "price_old": 1449.0,
+        "url": "www.supersonido.es/p/wharfedale-evo4-3_",
+        "image": "www.supersonido.es/productos/imagenes/producto43301.jpg"
     },
     "atcs-scm7_ocas": {
         "name": "ATC SCM7",
@@ -559,12 +566,19 @@
         "url": "www.supersonido.es/p/audio-technica-ath-ap2000ti_",
         "image": "www.supersonido.es/productos/imagenes/producto49180.jpg"
     },
-    "wharfedale-evo4-3_": {
-        "name": "Wharfedale Evo4.3",
+    "naim-nap-155-xs": {
+        "name": "Naim NAP 155 XS",
         "price": 999.0,
-        "price_old": 1449.0,
-        "url": "www.supersonido.es/p/wharfedale-evo4-3_",
-        "image": "www.supersonido.es/productos/imagenes/producto43301.jpg"
+        "price_old": 2050.0,
+        "url": "www.supersonido.es/p/naim-nap-155-xs",
+        "image": "www.supersonido.es/productos/imagenes/producto8230.jpg"
+    },
+    "audeze-euclid_": {
+        "name": "Audeze EUCLID",
+        "price": 999.0,
+        "price_old": 1479.0,
+        "url": "www.supersonido.es/p/audeze-euclid_",
+        "image": "www.supersonido.es/productos/imagenes/producto49689.jpg"
     },
     "svs-prime-tower-speaker_": {
         "name": "SVS Prime Tower Speaker",
@@ -587,19 +601,19 @@
         "url": "www.supersonido.es/p/audeze-lcdxc",
         "image": "www.supersonido.es/productos/imagenes/producto16708.jpg"
     },
-    "audio-technica-ath-awas_": {
-        "name": "Audio-Technica ATH-AWAS",
-        "price": 1099.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/audio-technica-ath-awas_",
-        "image": "www.supersonido.es/productos/imagenes/producto49178.jpg"
-    },
     "cayin-n6ii_": {
         "name": "Cayin N6ii",
         "price": 1099.0,
         "price_old": 1399.0,
         "url": "www.supersonido.es/p/cayin-n6ii_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+    },
+    "audio-technica-ath-awas_": {
+        "name": "Audio-Technica ATH-AWAS",
+        "price": 1099.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/audio-technica-ath-awas_",
+        "image": "www.supersonido.es/productos/imagenes/producto49178.jpg"
     },
     "sivga-sendy-peacock_": {
         "name": "Sendy Audio Peacock",
