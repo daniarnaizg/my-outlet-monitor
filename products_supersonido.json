@@ -363,19 +363,19 @@
         "url": "www.supersonido.es/p/audiopro-drumfire-blackstar-edition_",
         "image": "www.supersonido.es/productos/imagenes/producto47953.jpg"
     },
-    "shanling-m6-pro-21_": {
-        "name": "Shanling M6 PRO (21)",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
-    },
     "bluesound-pulse-mini-2i_": {
         "name": "Bluesound PULSE MINI 2i",
         "price": 599.0,
         "price_old": 699.0,
         "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
         "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
+    },
+    "shanling-m6-pro-21_": {
+        "name": "Shanling M6 PRO (21)",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
@@ -482,13 +482,6 @@
         "url": "www.supersonido.es/p/audeze-lcd-2-classic___",
         "image": "www.supersonido.es/productos/imagenes/producto41907.jpg"
     },
-    "acoustune-hs1697ti": {
-        "name": "Acoustune HS1697TI",
-        "price": 849.0,
-        "price_old": 1149.0,
-        "url": "www.supersonido.es/p/acoustune-hs1697ti",
-        "image": "www.supersonido.es/productos/imagenes/producto42965.jpg"
-    },
     "tag-maclaren-audio-dvd-32flr": {
         "name": "Tag MacLaren Audio DVD-32FLR",
         "price": 890.0,
@@ -545,13 +538,6 @@
         "url": "www.supersonido.es/p/samsung-qe55qn95a__",
         "image": "www.supersonido.es/productos/imagenes/producto47373.jpg"
     },
-    "wharfedale-evo4-3_": {
-        "name": "Wharfedale Evo4.3",
-        "price": 999.0,
-        "price_old": 1449.0,
-        "url": "www.supersonido.es/p/wharfedale-evo4-3_",
-        "image": "www.supersonido.es/productos/imagenes/producto43301.jpg"
-    },
     "atcs-scm7_ocas": {
         "name": "ATC SCM7",
         "price": 999.0,
@@ -572,6 +558,13 @@
         "price_old": 2050.0,
         "url": "www.supersonido.es/p/naim-nap-155-xs",
         "image": "www.supersonido.es/productos/imagenes/producto8230.jpg"
+    },
+    "wharfedale-evo4-3_": {
+        "name": "Wharfedale Evo4.3",
+        "price": 999.0,
+        "price_old": 1449.0,
+        "url": "www.supersonido.es/p/wharfedale-evo4-3_",
+        "image": "www.supersonido.es/productos/imagenes/producto43301.jpg"
     },
     "audeze-euclid_": {
         "name": "Audeze EUCLID",
