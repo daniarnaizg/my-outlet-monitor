@@ -216,13 +216,6 @@
         "url": "https://www.madridhifi.com/p/arturia-beatstep-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/0/1/10088510/photos/listado/arturia-beatstep.jpg"
     },
-    "audibax-pr-42-altavoces-estanteria-pared-con-soportes-reacondicionado": {
-        "name": "Audibax PR-42 Altavoces Estanter\u00eda HiFi y Sonorizaci\u00f3n Negros con Soportes de Pared ( REACONDICIONADO )",
-        "price": 31.82,
-        "price_old": 79.0,
-        "url": "https://www.madridhifi.com/p/audibax-pr-42-altavoces-estanteria-pared-con-soportes-reacondicionado/",
-        "image": "https://www.madridhifi.com/crm/documents/produit/9/1/10141819/photos/listado/pr42-altavoz-estanteria-pared-negro-con-soporte.jpg"
-    },
     "audibax-flight-case-behringer-x32-con-ruedas-reacondicionado": {
         "name": "Audibax PRO-X32 Maleta Flight Case para Behringer X32 con Ruedas ( REACONDICIONADO )",
         "price": 166.71,
@@ -249,7 +242,7 @@
         "price": 186.91,
         "price_old": 379.0,
         "url": "https://www.madridhifi.com/p/audibax-denver-15-altavoz-bateria-reacondicionado/",
-        "image": "/public/img/spacer.gif"
+        "image": "https://www.madridhifi.com/crm/documents/produit/9/1/10115419/photos/listado/audibax-denver-15-mando.jpg"
     },
     "audibax-boston-10-reacondicionado": {
         "name": "Audibax BOSTON 10 Spot Cabeza M\u00f3vil Disco ( REACONDICIONADO )",
@@ -263,6 +256,13 @@
         "price": 39.87,
         "price_old": 119.0,
         "url": "https://www.madridhifi.com/p/audibax-zero-500-amplificador-bluetooth-con-entrada-de-2-micros-reacondicionado/",
+        "image": "/public/img/spacer.gif"
+    },
+    "audibax-pr-42-altavoces-estanteria-pared-con-soportes-reacondicionado": {
+        "name": "Audibax PR-42 Altavoces Estanter\u00eda HiFi y Sonorizaci\u00f3n Negros con Soportes de Pared ( REACONDICIONADO )",
+        "price": 31.82,
+        "price_old": 79.0,
+        "url": "https://www.madridhifi.com/p/audibax-pr-42-altavoces-estanteria-pared-con-soportes-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
     "audibax-pr-41-altavoces-75-w-soporte-pared-incluido-reacondicionado": {
@@ -557,13 +557,6 @@
         "price": 98.11,
         "price_old": 189.0,
         "url": "https://www.madridhifi.com/p/behringer-td-3-sr-reacondicionado/",
-        "image": "/public/img/spacer.gif"
-    },
-    "behringer-dr112dsp-reacondicionado": {
-        "name": "BEHRINGER DR112DSP Altavoz 12\" Activo 1200W ( REACONDICIONADO )",
-        "price": 187.11,
-        "price_old": 315.0,
-        "url": "https://www.madridhifi.com/p/behringer-dr112dsp-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
     "behringer-cat-reacondicionado": {
@@ -1133,6 +1126,20 @@
         "url": "https://www.madridhifi.com/p/fender-am-ultra-jazz-bass-mn-cobra-blue-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
+    "fender-sonoran-mini-nat-reacondicionado": {
+        "name": "Fender Sonoran Mini Natural with Bag ( REACONDICIONADO )",
+        "price": 129.31,
+        "price_old": 199.99,
+        "url": "https://www.madridhifi.com/p/fender-sonoran-mini-nat-reacondicionado/",
+        "image": "/public/img/spacer.gif"
+    },
+    "fender-fullerton-tele-ukelele-btb-reacondicionado": {
+        "name": "Fender Fullerton Telecaster Ukelele Butterscotch Blonde ( REACONDICIONADO )",
+        "price": 138.91,
+        "price_old": 209.99,
+        "url": "https://www.madridhifi.com/p/fender-fullerton-tele-ukelele-btb-reacondicionado/",
+        "image": "/public/img/spacer.gif"
+    },
     "fender-squier-classic-vibe-60s-mustang-bass-lrl-surf-green-reacondicionado": {
         "name": "Fender Squier Classic Vibe 60s Mustang Bass LRL Surf Green. Bajo El\u00e9ctrico ( REACONDICIONADO )",
         "price": 329.81,
@@ -1370,6 +1377,34 @@
         "price_old": 999.0,
         "url": "https://www.madridhifi.com/p/ibanez-rg550-dy-reacondicionado/",
         "image": "/public/img/spacer.gif"
+    },
+    "ibanez-az226-bkf-reacondicionado": {
+        "name": "Ibanez AZ226-BKF Guitarra El\u00e9ctrica ( REACONDICIONADO )",
+        "price": 879.41,
+        "price_old": 1450.0,
+        "url": "https://www.madridhifi.com/p/ibanez-az226-bkf-reacondicionado/",
+        "image": "/public/img/spacer.gif"
+    },
+    "ibanez-rg1120pbz-ckb-reacondicionado": {
+        "name": "Ibanez RG1120PBZ-CKB Guitarra El\u00e9ctrica ( REACONDICIONADO )",
+        "price": 978.41,
+        "price_old": 1599.0,
+        "url": "https://www.madridhifi.com/p/ibanez-rg1120pbz-ckb-reacondicionado/",
+        "image": "/public/img/spacer.gif"
+    },
+    "ibanez-fr800-bkf-reacondicionado": {
+        "name": "Ibanez FR800-BKF Guitarra El\u00e9ctrica ( REACONDICIONADO )",
+        "price": 883.21,
+        "price_old": 1450.0,
+        "url": "https://www.madridhifi.com/p/ibanez-fr800-bkf-reacondicionado/",
+        "image": "/public/img/spacer.gif"
+    },
+    "ibiza-sound-amp800mk2-reacondicionado": {
+        "name": "IBIZA SOUND AMP800Mk2 Etapa Potencia 2 x 600 W ( REACONDICIONADO )",
+        "price": 98.31,
+        "price_old": 193.48,
+        "url": "https://www.madridhifi.com/p/ibiza-sound-amp800mk2-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/2/2/10162922/photos/listado/IBIZA-SOUND-AMP800Mk2.png"
     },
     "iman-legend-lp-20-sunburst-reacondicionado": {
         "name": "Iman Legend LP-20 Sunburst Guitarra El\u00e9ctrica ( REACONDICIONADO )",
