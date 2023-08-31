@@ -34,6 +34,13 @@
         "url": "www.supersonido.es/p/marantz-vs3003_",
         "image": "www.supersonido.es/productos/imagenes/producto48453.jpg"
     },
+    "panasonic-dp-ub150eg_": {
+        "name": "Panasonic DP-UB150EG",
+        "price": 129.0,
+        "price_old": 199.0,
+        "url": "www.supersonido.es/p/panasonic-dp-ub150eg_",
+        "image": "www.supersonido.es/productos/imagenes/producto50071.jpg"
+    },
     "sennheiser-momentum-true-wireless-2_": {
         "name": "Sennheiser Momentum True Wireless 2",
         "price": 149.0,
@@ -90,19 +97,19 @@
         "url": "www.supersonido.es/p/klipsch-the-fives-speaker-stands___",
         "image": "www.supersonido.es/productos/imagenes/producto49661.jpg"
     },
-    "audiopro-addon-c5a__": {
-        "name": "AudioPro ADDON C5A",
-        "price": 199.0,
-        "price_old": 269.0,
-        "url": "www.supersonido.es/p/audiopro-addon-c5a__",
-        "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
-    },
     "hifiman-sundara-closed_": {
         "name": "HIFIMAN Sundara Closed",
         "price": 199.0,
         "price_old": 249.0,
         "url": "www.supersonido.es/p/hifiman-sundara-closed_",
         "image": "www.supersonido.es/productos/imagenes/producto50309.jpg"
+    },
+    "audiopro-addon-c5a__": {
+        "name": "AudioPro ADDON C5A",
+        "price": 199.0,
+        "price_old": 269.0,
+        "url": "www.supersonido.es/p/audiopro-addon-c5a__",
+        "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
     },
     "sivga-phoenix_": {
         "name": "Sivga PHOENIX",
@@ -167,19 +174,19 @@
         "url": "www.supersonido.es/p/sumiko-s0-w",
         "image": "www.supersonido.es/productos/imagenes/producto19182.jpg"
     },
-    "denon-home-250__": {
-        "name": "Denon Home 250",
-        "price": 299.0,
-        "price_old": 499.0,
-        "url": "www.supersonido.es/p/denon-home-250__",
-        "image": "www.supersonido.es/productos/imagenes/producto41260.jpg"
-    },
     "jamo-c-93-ii_": {
         "name": "Jamo C 93 II",
         "price": 299.0,
         "price_old": 529.0,
         "url": "www.supersonido.es/p/jamo-c-93-ii_",
         "image": "www.supersonido.es/productos/imagenes/producto49729.jpg"
+    },
+    "denon-home-250__": {
+        "name": "Denon Home 250",
+        "price": 299.0,
+        "price_old": 499.0,
+        "url": "www.supersonido.es/p/denon-home-250__",
+        "image": "www.supersonido.es/productos/imagenes/producto41260.jpg"
     },
     "polkaudio-tl1600_": {
         "name": "Polkaudio TL1600",
@@ -202,19 +209,19 @@
         "url": "www.supersonido.es/p/loewe-klang-s1_",
         "image": "www.supersonido.es/productos/imagenes/producto44954.jpg"
     },
-    "pro-ject-phono-box-ds2-usb_": {
-        "name": "Pro-Ject Phono Box DS2 USB",
-        "price": 349.0,
-        "price_old": 549.0,
-        "url": "www.supersonido.es/p/pro-ject-phono-box-ds2-usb_",
-        "image": "www.supersonido.es/productos/imagenes/producto29680.jpg"
-    },
     "nad-bluos": {
         "name": "Nad MDC BluOS 2",
         "price": 349.0,
         "price_old": 499.0,
         "url": "www.supersonido.es/p/nad-bluos",
         "image": "www.supersonido.es/productos/imagenes/producto23316.jpg"
+    },
+    "pro-ject-phono-box-ds2-usb_": {
+        "name": "Pro-Ject Phono Box DS2 USB",
+        "price": 349.0,
+        "price_old": 549.0,
+        "url": "www.supersonido.es/p/pro-ject-phono-box-ds2-usb_",
+        "image": "www.supersonido.es/productos/imagenes/producto29680.jpg"
     },
     "monitor-audio-cpwt380_": {
         "name": "Monitor Audio CP-WT380",
@@ -482,13 +489,6 @@
         "url": "www.supersonido.es/p/wharfedale-evo4-3_",
         "image": "www.supersonido.es/productos/imagenes/producto43301.jpg"
     },
-    "naim-nap-155-xs": {
-        "name": "Naim NAP 155 XS",
-        "price": 999.0,
-        "price_old": 2050.0,
-        "url": "www.supersonido.es/p/naim-nap-155-xs",
-        "image": "www.supersonido.es/productos/imagenes/producto8230.jpg"
-    },
     "audeze-euclid_": {
         "name": "Audeze EUCLID",
         "price": 999.0,
@@ -502,6 +502,13 @@
         "price_old": 1498.0,
         "url": "www.supersonido.es/p/svs-prime-tower-speaker_",
         "image": "www.supersonido.es/productos/imagenes/producto47939.jpg"
+    },
+    "naim-nap-155-xs": {
+        "name": "Naim NAP 155 XS",
+        "price": 999.0,
+        "price_old": 2050.0,
+        "url": "www.supersonido.es/p/naim-nap-155-xs",
+        "image": "www.supersonido.es/productos/imagenes/producto8230.jpg"
     },
     "atcs-scm7_ocas": {
         "name": "ATC SCM7",
@@ -517,19 +524,19 @@
         "url": "www.supersonido.es/p/mrspeakers-ether-flow",
         "image": "www.supersonido.es/productos/imagenes/producto28309.jpg"
     },
-    "cayin-n6ii_": {
-        "name": "Cayin N6ii",
-        "price": 1099.0,
-        "price_old": 1399.0,
-        "url": "www.supersonido.es/p/cayin-n6ii_",
-        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
-    },
     "audio-technica-ath-awas_": {
         "name": "Audio-Technica ATH-AWAS",
         "price": 1099.0,
         "price_old": 1499.0,
         "url": "www.supersonido.es/p/audio-technica-ath-awas_",
         "image": "www.supersonido.es/productos/imagenes/producto49178.jpg"
+    },
+    "cayin-n6ii_": {
+        "name": "Cayin N6ii",
+        "price": 1099.0,
+        "price_old": 1399.0,
+        "url": "www.supersonido.es/p/cayin-n6ii_",
+        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
     },
     "sivga-sendy-peacock_": {
         "name": "Sendy Audio Peacock",
