@@ -615,13 +615,6 @@
         "url": "https://www.madridhifi.com/p/behringer-poly-d-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
-    "behringer-cat-reacondicionado": {
-        "name": "BEHRINGER CAT Sintetizador ( REACONDICIONADO )",
-        "price": 193.31,
-        "price_old": 375.0,
-        "url": "https://www.madridhifi.com/p/behringer-cat-reacondicionado/",
-        "image": "/public/img/spacer.gif"
-    },
     "behringer-nx3000-reacondicionado": {
         "name": "BEHRINGER NX3000 Etapa Potencia 3000 W ( REACONDICIONADO )",
         "price": 284.41,
@@ -881,6 +874,13 @@
         "url": "https://www.madridhifi.com/p/denon-pma-600-ne-black-amplificador-pma600-ne-black-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/0/7/10157470/photos/listado/denon-pma-600-ne-black-amplificador-pma600-ne-black-amplificador.jpg"
     },
+    "denon-dcd-600ne-si-compact-disc-cd-reacondicionado": {
+        "name": "DENON DCD-600NE-SI Silver Compact Disc CD ( REACONDICIONADO )",
+        "price": 314.01,
+        "price_old": 314.01,
+        "url": "https://www.madridhifi.com/p/denon-dcd-600ne-si-compact-disc-cd-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/3/7/10157473/photos/listado/denon-dcd-600ne-sicompact-disc-cd-dcd600ne-silver.jpg"
+    },
     "denon-rcd-m41-dab-black-reacondicionado": {
         "name": "DENON RCD-M41 DAB Black Mini Receptor CD HiFi Bluetooth 30+30W RMS. Negro ( REACONDICIONADO )",
         "price": 281.11,
@@ -893,7 +893,7 @@
         "price": 199.0,
         "price_old": 319.0,
         "url": "https://www.madridhifi.com/p/denon-rcdm-41-silver-defecto-estetico/",
-        "image": "https://www.madridhifi.com/crm/documents/produit/2/0/10116602/photos/listado/denon-rcd-m41-receptor-cd.jpg"
+        "image": "/public/img/spacer.gif"
     },
     "dpa-dmm0523-t-soporte-para-microfono-defecto-estetico": {
         "name": "DPA DMM0523-T Soporte para Micr\u00f3fono ( DEFECTO ESTETICO )",
@@ -1439,6 +1439,13 @@
         "price": 1124.51,
         "price_old": 1549.0,
         "url": "https://www.madridhifi.com/p/fender-ltd-american-perfromer-mustang-mn-hbs-reacondicionado/",
+        "image": "/public/img/spacer.gif"
+    },
+    "fender-player-tele-reverse-hs-neck-pf-reacondicionado": {
+        "name": "Fender Player Series Telecaster Reverse PF Headstock Neck M\u00e1stil para Guitarra ( REACONDICIONADO )",
+        "price": 239.51,
+        "price_old": 419.0,
+        "url": "https://www.madridhifi.com/p/fender-player-tele-reverse-hs-neck-pf-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
     "fender-classic-vibe-70s-jazz-bass-v-maple-fingerboard-black-reacondicionado": {
