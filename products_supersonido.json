@@ -104,12 +104,12 @@
         "url": "www.supersonido.es/p/klipsch-the-fives-speaker-stands___",
         "image": "www.supersonido.es/productos/imagenes/producto49661.jpg"
     },
-    "hifiman-sundara-closed_": {
-        "name": "HIFIMAN Sundara Closed",
+    "audio-technica-at-lp3_oca": {
+        "name": "Audio-Technica AT-LP3",
         "price": 199.0,
-        "price_old": 249.0,
-        "url": "www.supersonido.es/p/hifiman-sundara-closed_",
-        "image": "www.supersonido.es/productos/imagenes/producto50309.jpg"
+        "price_old": 329.0,
+        "url": "www.supersonido.es/p/audio-technica-at-lp3_oca",
+        "image": "www.supersonido.es/productos/imagenes/producto49007.jpg"
     },
     "audiopro-addon-c5a__": {
         "name": "AudioPro ADDON C5A",
@@ -117,6 +117,13 @@
         "price_old": 269.0,
         "url": "www.supersonido.es/p/audiopro-addon-c5a__",
         "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
+    },
+    "hifiman-sundara-closed_": {
+        "name": "HIFIMAN Sundara Closed",
+        "price": 199.0,
+        "price_old": 249.0,
+        "url": "www.supersonido.es/p/hifiman-sundara-closed_",
+        "image": "www.supersonido.es/productos/imagenes/producto50309.jpg"
     },
     "sivga-phoenix_": {
         "name": "Sivga PHOENIX",
@@ -152,13 +159,6 @@
         "price_old": 299.0,
         "url": "www.supersonido.es/p/loewe-klang-mr1",
         "image": "www.supersonido.es/productos/imagenes/producto47220.jpg"
-    },
-    "denon-dcd-600ne_": {
-        "name": "Denon DCD-600NE",
-        "price": 249.0,
-        "price_old": 459.0,
-        "url": "www.supersonido.es/p/denon-dcd-600ne_",
-        "image": "www.supersonido.es/productos/imagenes/producto50398.jpg"
     },
     "audio-technica-at-lpw30tk_": {
         "name": "Audio-Technica AT-LPW30TK",
@@ -342,19 +342,19 @@
         "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
         "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
     },
-    "isotek-systems-sirius-evo3_": {
-        "name": "Isotek Systems Sirius EVO3",
-        "price": 599.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
-        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
-    },
     "project-maia-ds": {
         "name": "Pro-Ject MaiA DS",
         "price": 599.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/project-maia-ds",
         "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
+    },
+    "isotek-systems-sirius-evo3_": {
+        "name": "Isotek Systems Sirius EVO3",
+        "price": 599.0,
+        "price_old": 949.0,
+        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
+        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
@@ -391,19 +391,19 @@
         "url": "www.supersonido.es/p/musical-fidelity-m2scd",
         "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
     },
-    "rel-ht-1003-mkii": {
-        "name": "Rel HT/1003 MKII",
-        "price": 699.0,
-        "price_old": 950.0,
-        "url": "www.supersonido.es/p/rel-ht-1003-mkii",
-        "image": "www.supersonido.es/productos/imagenes/producto48311.jpg"
-    },
     "denon-pma-900hne_": {
         "name": "Denon PMA-900HNE",
         "price": 699.0,
         "price_old": 999.0,
         "url": "www.supersonido.es/p/denon-pma-900hne_",
         "image": "www.supersonido.es/productos/imagenes/producto49176.jpg"
+    },
+    "rel-ht-1003-mkii": {
+        "name": "Rel HT/1003 MKII",
+        "price": 699.0,
+        "price_old": 950.0,
+        "url": "www.supersonido.es/p/rel-ht-1003-mkii",
+        "image": "www.supersonido.es/productos/imagenes/producto48311.jpg"
     },
     "fir-audio-vxv": {
         "name": "Fir Audio VxV",
@@ -454,19 +454,19 @@
         "url": "www.supersonido.es/p/primare-i15_",
         "image": "www.supersonido.es/productos/imagenes/producto47536.jpg"
     },
-    "grado-gs1000e-gr8e": {
-        "name": "Grado GS1000e",
-        "price": 899.0,
-        "price_old": 1489.0,
-        "url": "www.supersonido.es/p/grado-gs1000e-gr8e",
-        "image": "www.supersonido.es/productos/imagenes/producto30130.jpg"
-    },
     "q-acoustics-q-active-200_": {
         "name": "Q-Acoustics Q Active 200",
         "price": 899.0,
         "price_old": 1799.0,
         "url": "www.supersonido.es/p/q-acoustics-q-active-200_",
         "image": "www.supersonido.es/productos/imagenes/producto43652.jpg"
+    },
+    "grado-gs1000e-gr8e": {
+        "name": "Grado GS1000e",
+        "price": 899.0,
+        "price_old": 1489.0,
+        "url": "www.supersonido.es/p/grado-gs1000e-gr8e",
+        "image": "www.supersonido.es/productos/imagenes/producto30130.jpg"
     },
     "advance-paris-playstream-a5_": {
         "name": "Advance Paris PLAYSTREAM A5",
@@ -503,6 +503,13 @@
         "url": "www.supersonido.es/p/wharfedale-evo4-3_",
         "image": "www.supersonido.es/productos/imagenes/producto43301.jpg"
     },
+    "naim-nap-155-xs": {
+        "name": "Naim NAP 155 XS",
+        "price": 999.0,
+        "price_old": 2050.0,
+        "url": "www.supersonido.es/p/naim-nap-155-xs",
+        "image": "www.supersonido.es/productos/imagenes/producto8230.jpg"
+    },
     "audeze-euclid_": {
         "name": "Audeze EUCLID",
         "price": 999.0,
@@ -516,13 +523,6 @@
         "price_old": 1498.0,
         "url": "www.supersonido.es/p/svs-prime-tower-speaker_",
         "image": "www.supersonido.es/productos/imagenes/producto47939.jpg"
-    },
-    "naim-nap-155-xs": {
-        "name": "Naim NAP 155 XS",
-        "price": 999.0,
-        "price_old": 2050.0,
-        "url": "www.supersonido.es/p/naim-nap-155-xs",
-        "image": "www.supersonido.es/productos/imagenes/producto8230.jpg"
     },
     "atcs-scm7_ocas": {
         "name": "ATC SCM7",
@@ -538,13 +538,6 @@
         "url": "www.supersonido.es/p/mrspeakers-ether-flow",
         "image": "www.supersonido.es/productos/imagenes/producto28309.jpg"
     },
-    "audio-technica-ath-awas_": {
-        "name": "Audio-Technica ATH-AWAS",
-        "price": 1099.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/audio-technica-ath-awas_",
-        "image": "www.supersonido.es/productos/imagenes/producto49178.jpg"
-    },
     "cayin-n6ii_": {
         "name": "Cayin N6ii",
         "price": 1099.0,
@@ -558,6 +551,13 @@
         "price_old": 1499.0,
         "url": "www.supersonido.es/p/audeze-lcdxc",
         "image": "www.supersonido.es/productos/imagenes/producto16708.jpg"
+    },
+    "audio-technica-ath-awas_": {
+        "name": "Audio-Technica ATH-AWAS",
+        "price": 1099.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/audio-technica-ath-awas_",
+        "image": "www.supersonido.es/productos/imagenes/producto49178.jpg"
     },
     "sivga-sendy-peacock_": {
         "name": "Sendy Audio Peacock",
@@ -1070,19 +1070,19 @@
         "url": "www.supersonido.es/p/jbl-s4700_",
         "image": "www.supersonido.es/productos/imagenes/producto49921.jpg"
     },
-    "audio-research-gs-pre": {
-        "name": "Audio Research GS Pre",
-        "price": 13990.0,
-        "price_old": 18790.0,
-        "url": "www.supersonido.es/p/audio-research-gs-pre",
-        "image": "www.supersonido.es/productos/imagenes/producto18555.jpg"
-    },
     "sonus-faber-serafino-tradition": {
         "name": "Sonus-Faber Serafino Tradition",
         "price": 13990.0,
         "price_old": 21990.0,
         "url": "www.supersonido.es/p/sonus-faber-serafino-tradition",
         "image": "www.supersonido.es/productos/imagenes/producto24711.jpg"
+    },
+    "audio-research-gs-pre": {
+        "name": "Audio Research GS Pre",
+        "price": 13990.0,
+        "price_old": 18790.0,
+        "url": "www.supersonido.es/p/audio-research-gs-pre",
+        "image": "www.supersonido.es/productos/imagenes/producto18555.jpg"
     },
     "krell-industries-evo-403": {
         "name": "Krell Industries Evo 403",
