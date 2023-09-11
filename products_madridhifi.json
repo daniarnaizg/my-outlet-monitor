@@ -74,7 +74,7 @@
         "price": 425.91,
         "price_old": 659.0,
         "url": "https://www.madridhifi.com/p/alhambra-3c-reacondicionado/",
-        "image": "https://www.madridhifi.com/crm/documents/produit/9/0/10098809/photos/listado/alhambra-3c-funda.jpg"
+        "image": "https://www.madridhifi.com/crm/documents/produit/9/0/10098809/photos/listado/alhambra-3c-oferta-comprar.jpg"
     },
     "alhambra-3c-cw-e1-reacondicionado": {
         "name": "Alhambra 3C-CW-E1 Guitarra Cl\u00e1sica Cutaway ( REACONDICIONADO )",
@@ -195,20 +195,6 @@
         "url": "https://www.madridhifi.com/p/arturia-beatstep-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/0/1/10088510/photos/listado/arturia-beatstep.jpg"
     },
-    "audibax-arkansas-15-reacondicionado": {
-        "name": "Audibax Arkansas 15 Altavoz Profesional Bluetooth 15\" USB, 400 Watios ( REACONDICIONADO )",
-        "price": 114.82,
-        "price_old": 269.0,
-        "url": "https://www.madridhifi.com/p/audibax-arkansas-15-reacondicionado/",
-        "image": "https://www.madridhifi.com/crm/documents/produit/6/9/10129396/photos/listado/audibax-arkansas-15-altavoz-bluetooth-usb-reacondicionado.png"
-    },
-    "audibax-tucson-100-black-reacondicionado": {
-        "name": "Audibax Tucson 100 Black Altavoz Pasivo Columna para Exterior 100W ( REACONDICIONADO )",
-        "price": 74.81,
-        "price_old": 149.99,
-        "url": "https://www.madridhifi.com/p/audibax-tucson-100-black-reacondicionado/",
-        "image": "https://www.madridhifi.com/crm/documents/produit/6/9/10223796/photos/listado/Tucson-100-BK-altavoz-columna-exterior-comprar.jpg"
-    },
     "audibax-pr-42t-white-reacondicionado": {
         "name": "Audibax PR-42T White Altavoces 100V Instalaci\u00f3n 2 V\u00edas 75W con soporte ( REACONDICIONADO )",
         "price": 28.91,
@@ -216,12 +202,26 @@
         "url": "https://www.madridhifi.com/p/audibax-pr-42t-white-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/0/9/10150490/photos/listado/PR-42W-altavoz-instalacion.jpg"
     },
+    "audibax-arkansas-15-reacondicionado": {
+        "name": "Audibax Arkansas 15 Altavoz Profesional Bluetooth 15\" USB, 400 Watios ( REACONDICIONADO )",
+        "price": 114.82,
+        "price_old": 269.0,
+        "url": "https://www.madridhifi.com/p/audibax-arkansas-15-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/6/9/10129396/photos/listado/audibax-arkansas-15-altavoz-bluetooth-usb-reacondicionado.png"
+    },
     "audibax-at2020-producer-pack-reacondicionado": {
         "name": "Audibax AT2020 Producer Pack Micr\u00f3fono Estudio Profesional Condensador ( REACONDICIONADO )",
         "price": 39.81,
         "price_old": 109.0,
         "url": "https://www.madridhifi.com/p/audibax-at2020-producer-pack-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/7/2/10181127/photos/listado/at2020_producer_pack_audibax_oferta.png"
+    },
+    "audibax-tucson-100-black-reacondicionado": {
+        "name": "Audibax Tucson 100 Black Altavoz Pasivo Columna para Exterior 100W ( REACONDICIONADO )",
+        "price": 74.81,
+        "price_old": 149.99,
+        "url": "https://www.madridhifi.com/p/audibax-tucson-100-black-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/6/9/10223796/photos/listado/Tucson-100-BK-altavoz-columna-exterior-comprar.jpg"
     },
     "audibax-tucson-200-black-reacondicionado": {
         "name": "Audibax Tucson 200 Black Altavoz Pasivo Columna para Exterior 200W  ( REACONDICIONADO )",
@@ -1637,13 +1637,6 @@
         "url": "https://www.madridhifi.com/p/ibanez-af95da-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
-    "ibiza-sound-amp800mk2-reacondicionado": {
-        "name": "IBIZA SOUND AMP800Mk2 Etapa Potencia 2 x 600 W ( REACONDICIONADO )",
-        "price": 98.31,
-        "price_old": 193.48,
-        "url": "https://www.madridhifi.com/p/ibiza-sound-amp800mk2-reacondicionado/",
-        "image": "https://www.madridhifi.com/crm/documents/produit/2/2/10162922/photos/listado/IBIZA-SOUND-AMP800Mk2.png"
-    },
     "ik-multimedia-iloud-precision-6-monitores-de-estudio-reacondicionado": {
         "name": "IK Multimedia iLoud Precision 6 Monitores de Estudio ( REACONDICIONADO )",
         "price": 874.31,
@@ -2447,13 +2440,6 @@
         "price": 1829.51,
         "price_old": 2265.0,
         "url": "https://www.madridhifi.com/p/roland-hp704-charcoal-black-reacondicionado/",
-        "image": "/public/img/spacer.gif"
-    },
-    "roland-fantom-08-reacondicionado": {
-        "name": "Roland FANTOM-08 Sintetizador 88 Teclas ( REACONDICIONADO )",
-        "price": 1498.61,
-        "price_old": 2419.0,
-        "url": "https://www.madridhifi.com/p/roland-fantom-08-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
     "roland-fp-e50-reacondicionado": {
