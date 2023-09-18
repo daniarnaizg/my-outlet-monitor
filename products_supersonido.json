@@ -13,13 +13,6 @@
         "url": "www.supersonido.es/p/q-acoustics-q3000fsi_",
         "image": "www.supersonido.es/productos/imagenes/producto46987.jpg"
     },
-    "panasonic-dp-ub150eg_": {
-        "name": "Panasonic DP-UB150EG",
-        "price": 129.0,
-        "price_old": 199.0,
-        "url": "www.supersonido.es/p/panasonic-dp-ub150eg_",
-        "image": "www.supersonido.es/productos/imagenes/producto50071.jpg"
-    },
     "marantz-vs3003_": {
         "name": "Marantz VS3003",
         "price": 129.0,
@@ -195,13 +188,6 @@
         "url": "www.supersonido.es/p/polkaudio-tl1600_",
         "image": "www.supersonido.es/productos/imagenes/producto49312.jpg"
     },
-    "audio-technica-at-lpw50pb_": {
-        "name": "Audio-Technica AT-LPW50PB",
-        "price": 339.0,
-        "price_old": 429.0,
-        "url": "www.supersonido.es/p/audio-technica-at-lpw50pb_",
-        "image": "www.supersonido.es/productos/imagenes/producto49306.jpg"
-    },
     "loewe-klang-s1_": {
         "name": "Loewe Klang S1",
         "price": 349.0,
@@ -328,6 +314,13 @@
         "url": "www.supersonido.es/p/audiopro-drumfire-blackstar-edition_",
         "image": "www.supersonido.es/productos/imagenes/producto47953.jpg"
     },
+    "bluesound-pulse-mini-2i_": {
+        "name": "Bluesound PULSE MINI 2i",
+        "price": 599.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
+        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
+    },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
         "price": 599.0,
@@ -341,13 +334,6 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/project-maia-ds",
         "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
-    },
-    "bluesound-pulse-mini-2i_": {
-        "name": "Bluesound PULSE MINI 2i",
-        "price": 599.0,
-        "price_old": 699.0,
-        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
-        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
     },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
@@ -503,19 +489,19 @@
         "url": "www.supersonido.es/p/atcs-scm7_ocas",
         "image": "www.supersonido.es/productos/imagenes/producto42477.jpg"
     },
-    "audeze-euclid_": {
-        "name": "Audeze EUCLID",
-        "price": 999.0,
-        "price_old": 1479.0,
-        "url": "www.supersonido.es/p/audeze-euclid_",
-        "image": "www.supersonido.es/productos/imagenes/producto49689.jpg"
-    },
     "svs-prime-tower-speaker_": {
         "name": "SVS Prime Tower Speaker",
         "price": 999.0,
         "price_old": 1498.0,
         "url": "www.supersonido.es/p/svs-prime-tower-speaker_",
         "image": "www.supersonido.es/productos/imagenes/producto47939.jpg"
+    },
+    "audeze-euclid_": {
+        "name": "Audeze EUCLID",
+        "price": 999.0,
+        "price_old": 1479.0,
+        "url": "www.supersonido.es/p/audeze-euclid_",
+        "image": "www.supersonido.es/productos/imagenes/producto49689.jpg"
     },
     "mrspeakers-ether-flow": {
         "name": "Dan Clark Audio ETHER Flow",
