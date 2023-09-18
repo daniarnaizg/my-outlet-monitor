@@ -97,13 +97,6 @@
         "url": "www.supersonido.es/p/audiopro-addon-c5a__",
         "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
     },
-    "hifiman-sundara-closed_": {
-        "name": "HIFIMAN Sundara Closed",
-        "price": 199.0,
-        "price_old": 249.0,
-        "url": "www.supersonido.es/p/hifiman-sundara-closed_",
-        "image": "www.supersonido.es/productos/imagenes/producto50309.jpg"
-    },
     "sivga-phoenix_": {
         "name": "Sivga PHOENIX",
         "price": 199.0,
@@ -117,13 +110,6 @@
         "price_old": 329.0,
         "url": "www.supersonido.es/p/musical-fidelity-lx2-hpa_",
         "image": "www.supersonido.es/productos/imagenes/producto49052.jpg"
-    },
-    "sony-str-dh190_": {
-        "name": "Sony STR-DH190",
-        "price": 219.0,
-        "price_old": 299.0,
-        "url": "www.supersonido.es/p/sony-str-dh190_",
-        "image": "www.supersonido.es/productos/imagenes/producto47521.jpg"
     },
     "ifi-audio-zen-dac-signature": {
         "name": "IFI Audio ZEN DAC SIGNATURE",
@@ -167,19 +153,19 @@
         "url": "www.supersonido.es/p/sumiko-s0-w",
         "image": "www.supersonido.es/productos/imagenes/producto19182.jpg"
     },
-    "pioneer-pd30ae_": {
-        "name": "Pioneer PD-30AE",
-        "price": 299.0,
-        "price_old": 379.0,
-        "url": "www.supersonido.es/p/pioneer-pd30ae_",
-        "image": "www.supersonido.es/productos/imagenes/producto50345.jpg"
-    },
     "denon-home-250__": {
         "name": "Denon Home 250",
         "price": 299.0,
         "price_old": 499.0,
         "url": "www.supersonido.es/p/denon-home-250__",
         "image": "www.supersonido.es/productos/imagenes/producto41260.jpg"
+    },
+    "pioneer-pd30ae_": {
+        "name": "Pioneer PD-30AE",
+        "price": 299.0,
+        "price_old": 379.0,
+        "url": "www.supersonido.es/p/pioneer-pd30ae_",
+        "image": "www.supersonido.es/productos/imagenes/producto50345.jpg"
     },
     "polkaudio-tl1600_": {
         "name": "Polkaudio TL1600",
@@ -195,19 +181,19 @@
         "url": "www.supersonido.es/p/loewe-klang-s1_",
         "image": "www.supersonido.es/productos/imagenes/producto44954.jpg"
     },
-    "denon-dcd-900ne__": {
-        "name": "Denon DCD-900NE",
-        "price": 349.0,
-        "price_old": 499.0,
-        "url": "www.supersonido.es/p/denon-dcd-900ne__",
-        "image": "www.supersonido.es/productos/imagenes/producto49311.jpg"
-    },
     "nad-bluos": {
         "name": "Nad MDC BluOS 2",
         "price": 349.0,
         "price_old": 499.0,
         "url": "www.supersonido.es/p/nad-bluos",
         "image": "www.supersonido.es/productos/imagenes/producto23316.jpg"
+    },
+    "denon-dcd-900ne__": {
+        "name": "Denon DCD-900NE",
+        "price": 349.0,
+        "price_old": 499.0,
+        "url": "www.supersonido.es/p/denon-dcd-900ne__",
+        "image": "www.supersonido.es/productos/imagenes/producto49311.jpg"
     },
     "monitor-audio-cpwt380_": {
         "name": "Monitor Audio CP-WT380",
@@ -314,13 +300,6 @@
         "url": "www.supersonido.es/p/audiopro-drumfire-blackstar-edition_",
         "image": "www.supersonido.es/productos/imagenes/producto47953.jpg"
     },
-    "bluesound-pulse-mini-2i_": {
-        "name": "Bluesound PULSE MINI 2i",
-        "price": 599.0,
-        "price_old": 699.0,
-        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
-        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
-    },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
         "price": 599.0,
@@ -334,6 +313,13 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/project-maia-ds",
         "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
+    },
+    "bluesound-pulse-mini-2i_": {
+        "name": "Bluesound PULSE MINI 2i",
+        "price": 599.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
+        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
     },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
@@ -370,19 +356,19 @@
         "url": "www.supersonido.es/p/musical-fidelity-m2scd",
         "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
     },
-    "denon-pma-900hne_": {
-        "name": "Denon PMA-900HNE",
-        "price": 699.0,
-        "price_old": 999.0,
-        "url": "www.supersonido.es/p/denon-pma-900hne_",
-        "image": "www.supersonido.es/productos/imagenes/producto49176.jpg"
-    },
     "rel-ht-1003-mkii": {
         "name": "Rel HT/1003 MKII",
         "price": 699.0,
         "price_old": 950.0,
         "url": "www.supersonido.es/p/rel-ht-1003-mkii",
         "image": "www.supersonido.es/productos/imagenes/producto48311.jpg"
+    },
+    "denon-pma-900hne_": {
+        "name": "Denon PMA-900HNE",
+        "price": 699.0,
+        "price_old": 999.0,
+        "url": "www.supersonido.es/p/denon-pma-900hne_",
+        "image": "www.supersonido.es/productos/imagenes/producto49176.jpg"
     },
     "fir-audio-vxv": {
         "name": "Fir Audio VxV",
@@ -517,19 +503,19 @@
         "url": "www.supersonido.es/p/audeze-lcdxc",
         "image": "www.supersonido.es/productos/imagenes/producto16708.jpg"
     },
-    "audio-technica-ath-awas_": {
-        "name": "Audio-Technica ATH-AWAS",
-        "price": 1099.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/audio-technica-ath-awas_",
-        "image": "www.supersonido.es/productos/imagenes/producto49178.jpg"
-    },
     "cayin-n6ii_": {
         "name": "Cayin N6ii",
         "price": 1099.0,
         "price_old": 1399.0,
         "url": "www.supersonido.es/p/cayin-n6ii_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+    },
+    "audio-technica-ath-awas_": {
+        "name": "Audio-Technica ATH-AWAS",
+        "price": 1099.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/audio-technica-ath-awas_",
+        "image": "www.supersonido.es/productos/imagenes/producto49178.jpg"
     },
     "sivga-sendy-peacock_": {
         "name": "Sendy Audio Peacock",
@@ -629,19 +615,19 @@
         "url": "www.supersonido.es/p/sony-xr65a80k.._",
         "image": "www.supersonido.es/productos/imagenes/producto48538.jpg"
     },
-    "klipsch-the-nines_": {
-        "name": "Klipsch THE NINES",
-        "price": 1599.0,
-        "price_old": 1999.0,
-        "url": "www.supersonido.es/p/klipsch-the-nines_",
-        "image": "www.supersonido.es/productos/imagenes/producto50393.jpg"
-    },
     "monitor-audio-gold-100-5g_": {
         "name": "Monitor Audio Gold 100 5G",
         "price": 1599.0,
         "price_old": 2135.0,
         "url": "www.supersonido.es/p/monitor-audio-gold-100-5g_",
         "image": "www.supersonido.es/productos/imagenes/producto50139.jpg"
+    },
+    "klipsch-the-nines_": {
+        "name": "Klipsch THE NINES",
+        "price": 1599.0,
+        "price_old": 1999.0,
+        "url": "www.supersonido.es/p/klipsch-the-nines_",
+        "image": "www.supersonido.es/productos/imagenes/producto50393.jpg"
     },
     "rose-rs201e__": {
         "name": "Rose RS201E",
@@ -783,19 +769,19 @@
         "url": "www.supersonido.es/p/mrspeakers-voce_",
         "image": "www.supersonido.es/productos/imagenes/producto50151.jpg"
     },
-    "isotek-systems-nova": {
-        "name": "Isotek Systems Nova",
-        "price": 2890.0,
-        "price_old": 3990.0,
-        "url": "www.supersonido.es/p/isotek-systems-nova",
-        "image": "www.supersonido.es/productos/imagenes/producto11309.jpg"
-    },
     "q-acoustics-concept-300-stand_ok": {
         "name": "Q-Acoustics Concept 300 + Stand",
         "price": 2890.0,
         "price_old": 4299.0,
         "url": "www.supersonido.es/p/q-acoustics-concept-300-stand_ok",
         "image": "www.supersonido.es/productos/imagenes/producto49042.jpg"
+    },
+    "isotek-systems-nova": {
+        "name": "Isotek Systems Nova",
+        "price": 2890.0,
+        "price_old": 3990.0,
+        "url": "www.supersonido.es/p/isotek-systems-nova",
+        "image": "www.supersonido.es/productos/imagenes/producto11309.jpg"
     },
     "innuos-zenith-mk3_": {
         "name": "Innuos ZENITH MK3",
@@ -1042,19 +1028,19 @@
         "url": "www.supersonido.es/p/jbl-s4700_",
         "image": "www.supersonido.es/productos/imagenes/producto49921.jpg"
     },
-    "audio-research-gs-pre": {
-        "name": "Audio Research GS Pre",
-        "price": 13990.0,
-        "price_old": 18790.0,
-        "url": "www.supersonido.es/p/audio-research-gs-pre",
-        "image": "www.supersonido.es/productos/imagenes/producto18555.jpg"
-    },
     "sonus-faber-serafino-tradition": {
         "name": "Sonus-Faber Serafino Tradition",
         "price": 13990.0,
         "price_old": 21990.0,
         "url": "www.supersonido.es/p/sonus-faber-serafino-tradition",
         "image": "www.supersonido.es/productos/imagenes/producto24711.jpg"
+    },
+    "audio-research-gs-pre": {
+        "name": "Audio Research GS Pre",
+        "price": 13990.0,
+        "price_old": 18790.0,
+        "url": "www.supersonido.es/p/audio-research-gs-pre",
+        "image": "www.supersonido.es/productos/imagenes/producto18555.jpg"
     },
     "krell-industries-evo-403": {
         "name": "Krell Industries Evo 403",
