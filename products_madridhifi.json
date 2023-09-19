@@ -265,13 +265,6 @@
         "url": "https://www.madridhifi.com/p/audibax-pr-42t-white-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
-    "audibax-detroit-1000-dsp-reacondicionado": {
-        "name": "Audibax Detroit 1000 DSP Altavoz Sistema PA 1000W ( REACONDICIONADO )",
-        "price": 384.21,
-        "price_old": 699.99,
-        "url": "https://www.madridhifi.com/p/audibax-detroit-1000-dsp-reacondicionado/",
-        "image": "/public/img/spacer.gif"
-    },
     "audibax-arizona-one-cabeza-movil-reacondicionado": {
         "name": "Audibax ARIZONA Cabeza M\u00f3vil PROFESIONAL Beam 36x3w RGBW ( REACONDICIONADO )",
         "price": 144.22,
@@ -384,13 +377,6 @@
         "url": "https://www.madridhifi.com/p/audibax-tucson-60-white-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
-    "audibax-bar-1818-rgbwauv-reacondicionado": {
-        "name": "Audibax Bar 1818 RGBWAUV Barra LED 18 x 18W LED RGBWA+UV 6 en 1 ( REACONDICIONADO )",
-        "price": 109.61,
-        "price_old": 269.99,
-        "url": "https://www.madridhifi.com/p/audibax-bar-1818-rgbwauv-reacondicionado/",
-        "image": "/public/img/spacer.gif"
-    },
     "audibax-control-192-reacondicionado": {
         "name": "Audibax Control 192 Controlador DMX512 de 192 Canales ( REACONDICIONADO )",
         "price": 77.41,
@@ -480,6 +466,13 @@
         "price": 44.21,
         "price_old": 97.99,
         "url": "https://www.madridhifi.com/p/audibax-snow-600-reacondicionado/",
+        "image": "/public/img/spacer.gif"
+    },
+    "audibax-detroit-1000-dsp-reacondicionado": {
+        "name": "Audibax Detroit 1000 DSP Altavoz Sistema PA 1000W ( REACONDICIONADO )",
+        "price": 384.21,
+        "price_old": 699.99,
+        "url": "https://www.madridhifi.com/p/audibax-detroit-1000-dsp-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
     "audibax-event-water-144-reacondicionado": {
@@ -2407,19 +2400,19 @@
         "url": "https://www.madridhifi.com/p/auriculares-skullcandy-lowrider/",
         "image": "https://www.madridhifi.com/crm/documents/produit/2/8/10010482/photos/listado/auricular-Skullcandy-Lowrider-SC-Purple-Black-Micro-.jpg"
     },
-    "skytec-sp1500-902254": {
-        "name": "Skytec SP1500 Altavoz 15\" 902254",
-        "price": 54.75,
-        "price_old": 79.8,
-        "url": "https://www.madridhifi.com/p/skytec-sp1500-902254/",
-        "image": "https://www.madridhifi.com/crm/documents/produit/1/0/10101901/photos/listado/skytec-woofer-hifi-902254.jpg"
-    },
     "skytec-sl8-reacondicionado": {
         "name": "SKYTEC SL8 Altavoz Pasivo 8\"  400W Unidad 178728 ( REACONDICIONADO )",
         "price": 48.21,
         "price_old": 55.0,
         "url": "https://www.madridhifi.com/p/skytec-sl8-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/1/3/10084231/photos/listado/SKYTEC-178728.png"
+    },
+    "skytec-sp1500-902254": {
+        "name": "Skytec SP1500 Altavoz 15\" 902254",
+        "price": 54.75,
+        "price_old": 79.8,
+        "url": "https://www.madridhifi.com/p/skytec-sp1500-902254/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/1/0/10101901/photos/listado/skytec-woofer-hifi-902254.jpg"
     },
     "sonos-sub-3g-negro-subwoofer-inalambrico-defecto-estetico": {
         "name": "SONOS SUB 3G Negro Subwoofer Inalambrico ( DEFECTO ESTETICO )",
