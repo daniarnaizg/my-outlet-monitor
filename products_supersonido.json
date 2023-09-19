@@ -349,19 +349,19 @@
         "url": "www.supersonido.es/p/musical-fidelity-m2scd",
         "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
     },
-    "denon-pma-900hne_": {
-        "name": "Denon PMA-900HNE",
-        "price": 699.0,
-        "price_old": 999.0,
-        "url": "www.supersonido.es/p/denon-pma-900hne_",
-        "image": "www.supersonido.es/productos/imagenes/producto49176.jpg"
-    },
     "rel-ht-1003-mkii": {
         "name": "Rel HT/1003 MKII",
         "price": 699.0,
         "price_old": 950.0,
         "url": "www.supersonido.es/p/rel-ht-1003-mkii",
         "image": "www.supersonido.es/productos/imagenes/producto48311.jpg"
+    },
+    "denon-pma-900hne_": {
+        "name": "Denon PMA-900HNE",
+        "price": 699.0,
+        "price_old": 999.0,
+        "url": "www.supersonido.es/p/denon-pma-900hne_",
+        "image": "www.supersonido.es/productos/imagenes/producto49176.jpg"
     },
     "fir-audio-vxv": {
         "name": "Fir Audio VxV",
@@ -412,19 +412,19 @@
         "url": "www.supersonido.es/p/primare-i15_",
         "image": "www.supersonido.es/productos/imagenes/producto47536.jpg"
     },
-    "q-acoustics-q-active-200_": {
-        "name": "Q-Acoustics Q Active 200",
-        "price": 899.0,
-        "price_old": 1799.0,
-        "url": "www.supersonido.es/p/q-acoustics-q-active-200_",
-        "image": "www.supersonido.es/productos/imagenes/producto43652.jpg"
-    },
     "grado-gs1000e-gr8e": {
         "name": "Grado GS1000e",
         "price": 899.0,
         "price_old": 1489.0,
         "url": "www.supersonido.es/p/grado-gs1000e-gr8e",
         "image": "www.supersonido.es/productos/imagenes/producto30130.jpg"
+    },
+    "q-acoustics-q-active-200_": {
+        "name": "Q-Acoustics Q Active 200",
+        "price": 899.0,
+        "price_old": 1799.0,
+        "url": "www.supersonido.es/p/q-acoustics-q-active-200_",
+        "image": "www.supersonido.es/productos/imagenes/producto43652.jpg"
     },
     "advance-paris-playstream-a5_": {
         "name": "Advance Paris PLAYSTREAM A5",
@@ -496,19 +496,19 @@
         "url": "www.supersonido.es/p/audeze-lcdxc",
         "image": "www.supersonido.es/productos/imagenes/producto16708.jpg"
     },
-    "cayin-n6ii_": {
-        "name": "Cayin N6ii",
-        "price": 1099.0,
-        "price_old": 1399.0,
-        "url": "www.supersonido.es/p/cayin-n6ii_",
-        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
-    },
     "audio-technica-ath-awas_": {
         "name": "Audio-Technica ATH-AWAS",
         "price": 1099.0,
         "price_old": 1499.0,
         "url": "www.supersonido.es/p/audio-technica-ath-awas_",
         "image": "www.supersonido.es/productos/imagenes/producto49178.jpg"
+    },
+    "cayin-n6ii_": {
+        "name": "Cayin N6ii",
+        "price": 1099.0,
+        "price_old": 1399.0,
+        "url": "www.supersonido.es/p/cayin-n6ii_",
+        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
     },
     "sivga-sendy-peacock_": {
         "name": "Sendy Audio Peacock",
@@ -566,13 +566,6 @@
         "url": "www.supersonido.es/p/unison-research-unico-primo_",
         "image": "www.supersonido.es/productos/imagenes/producto49222.jpg"
     },
-    "acoustune-hs2000mx": {
-        "name": "Acoustune HS2000MX",
-        "price": 1499.0,
-        "price_old": 1999.0,
-        "url": "www.supersonido.es/p/acoustune-hs2000mx",
-        "image": "www.supersonido.es/productos/imagenes/producto46713.jpg"
-    },
     "audio-technica-ath-awkt_": {
         "name": "Audio-Technica ATH-AWKT",
         "price": 1499.0,
@@ -580,12 +573,12 @@
         "url": "www.supersonido.es/p/audio-technica-ath-awkt_",
         "image": "www.supersonido.es/productos/imagenes/producto49179.jpg"
     },
-    "matrix-audio-element-p__": {
-        "name": "Matrix Audio Element P",
-        "price": 1500.0,
-        "price_old": 2799.0,
-        "url": "www.supersonido.es/p/matrix-audio-element-p__",
-        "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
+    "acoustune-hs2000mx": {
+        "name": "Acoustune HS2000MX",
+        "price": 1499.0,
+        "price_old": 1999.0,
+        "url": "www.supersonido.es/p/acoustune-hs2000mx",
+        "image": "www.supersonido.es/productos/imagenes/producto46713.jpg"
     },
     "matrix-audio-element-p_": {
         "name": "Matrix Audio Element P",
@@ -593,6 +586,13 @@
         "price_old": 2799.0,
         "url": "www.supersonido.es/p/matrix-audio-element-p_",
         "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
+    },
+    "matrix-audio-element-p__": {
+        "name": "Matrix Audio Element P",
+        "price": 1500.0,
+        "price_old": 2799.0,
+        "url": "www.supersonido.es/p/matrix-audio-element-p__",
+        "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
     },
     "dynaudio-evoke-20_oc": {
         "name": "Dynaudio Evoke 20",
@@ -1013,6 +1013,13 @@
         "price_old": 23100.0,
         "url": "www.supersonido.es/p/monitor-audio-pl500-ii-oca",
         "image": "www.supersonido.es/productos/imagenes/producto47974.jpg"
+    },
+    "sonus-faber-serafino-tradition": {
+        "name": "Sonus-Faber Serafino Tradition",
+        "price": 12900.0,
+        "price_old": 21990.0,
+        "url": "www.supersonido.es/p/sonus-faber-serafino-tradition",
+        "image": "www.supersonido.es/productos/imagenes/producto24711.jpg"
     },
     "jbl-s4700_": {
         "name": "JBL S4700",
