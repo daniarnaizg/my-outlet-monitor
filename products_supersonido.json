@@ -97,19 +97,19 @@
         "url": "www.supersonido.es/p/loewe-klang-mr1",
         "image": "www.supersonido.es/productos/imagenes/producto47220.jpg"
     },
-    "ifi-audio-zen-dac-signature": {
-        "name": "IFI Audio ZEN DAC SIGNATURE",
-        "price": 219.0,
-        "price_old": 299.0,
-        "url": "www.supersonido.es/p/ifi-audio-zen-dac-signature",
-        "image": "www.supersonido.es/productos/imagenes/producto43929.jpg"
-    },
     "ifi-audio-xdsd": {
         "name": "IFI Audio XDSD",
         "price": 219.0,
         "price_old": 399.0,
         "url": "www.supersonido.es/p/ifi-audio-xdsd",
         "image": "www.supersonido.es/productos/imagenes/producto27468.jpg"
+    },
+    "ifi-audio-zen-dac-signature": {
+        "name": "IFI Audio ZEN DAC SIGNATURE",
+        "price": 219.0,
+        "price_old": 299.0,
+        "url": "www.supersonido.es/p/ifi-audio-zen-dac-signature",
+        "image": "www.supersonido.es/productos/imagenes/producto43929.jpg"
     },
     "audio-technica-at-lpw30tk_": {
         "name": "Audio-Technica AT-LPW30TK",
@@ -188,13 +188,6 @@
         "url": "www.supersonido.es/p/svs-prime-wireless-soundbase",
         "image": "www.supersonido.es/productos/imagenes/producto29129.jpg"
     },
-    "stax-srm-252s": {
-        "name": "Stax SRM-252S",
-        "price": 399.0,
-        "price_old": 580.0,
-        "url": "www.supersonido.es/p/stax-srm-252s",
-        "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
-    },
     "marantz-cd6007_": {
         "name": "Marantz CD6007",
         "price": 399.0,
@@ -208,6 +201,13 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/arcam-solo-uno__",
         "image": "www.supersonido.es/productos/imagenes/producto43169.jpg"
+    },
+    "stax-srm-252s": {
+        "name": "Stax SRM-252S",
+        "price": 399.0,
+        "price_old": 580.0,
+        "url": "www.supersonido.es/p/stax-srm-252s",
+        "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
     },
     "pro-ject-pre-box-ds2-analogue": {
         "name": "Pro-Ject Pre Box DS2 analogue",
@@ -342,19 +342,19 @@
         "url": "www.supersonido.es/p/musical-fidelity-m2scd",
         "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
     },
-    "rel-ht-1003-mkii": {
-        "name": "Rel HT/1003 MKII",
-        "price": 699.0,
-        "price_old": 950.0,
-        "url": "www.supersonido.es/p/rel-ht-1003-mkii",
-        "image": "www.supersonido.es/productos/imagenes/producto48311.jpg"
-    },
     "denon-pma-900hne_": {
         "name": "Denon PMA-900HNE",
         "price": 699.0,
         "price_old": 999.0,
         "url": "www.supersonido.es/p/denon-pma-900hne_",
         "image": "www.supersonido.es/productos/imagenes/producto49176.jpg"
+    },
+    "rel-ht-1003-mkii": {
+        "name": "Rel HT/1003 MKII",
+        "price": 699.0,
+        "price_old": 950.0,
+        "url": "www.supersonido.es/p/rel-ht-1003-mkii",
+        "image": "www.supersonido.es/productos/imagenes/producto48311.jpg"
     },
     "fir-audio-vxv": {
         "name": "Fir Audio VxV",
@@ -405,19 +405,19 @@
         "url": "www.supersonido.es/p/primare-i15_",
         "image": "www.supersonido.es/productos/imagenes/producto47536.jpg"
     },
-    "q-acoustics-q-active-200_": {
-        "name": "Q-Acoustics Q Active 200",
-        "price": 899.0,
-        "price_old": 1799.0,
-        "url": "www.supersonido.es/p/q-acoustics-q-active-200_",
-        "image": "www.supersonido.es/productos/imagenes/producto43652.jpg"
-    },
     "grado-gs1000e-gr8e": {
         "name": "Grado GS1000e",
         "price": 899.0,
         "price_old": 1489.0,
         "url": "www.supersonido.es/p/grado-gs1000e-gr8e",
         "image": "www.supersonido.es/productos/imagenes/producto30130.jpg"
+    },
+    "q-acoustics-q-active-200_": {
+        "name": "Q-Acoustics Q Active 200",
+        "price": 899.0,
+        "price_old": 1799.0,
+        "url": "www.supersonido.es/p/q-acoustics-q-active-200_",
+        "image": "www.supersonido.es/productos/imagenes/producto43652.jpg"
     },
     "advance-paris-playstream-a5_": {
         "name": "Advance Paris PLAYSTREAM A5",
@@ -454,19 +454,19 @@
         "url": "www.supersonido.es/p/wharfedale-evo4-3_",
         "image": "www.supersonido.es/productos/imagenes/producto43301.jpg"
     },
-    "svs-prime-tower-speaker_": {
-        "name": "SVS Prime Tower Speaker",
-        "price": 999.0,
-        "price_old": 1498.0,
-        "url": "www.supersonido.es/p/svs-prime-tower-speaker_",
-        "image": "www.supersonido.es/productos/imagenes/producto47939.jpg"
-    },
     "audeze-euclid_": {
         "name": "Audeze EUCLID",
         "price": 999.0,
         "price_old": 1479.0,
         "url": "www.supersonido.es/p/audeze-euclid_",
         "image": "www.supersonido.es/productos/imagenes/producto49689.jpg"
+    },
+    "svs-prime-tower-speaker_": {
+        "name": "SVS Prime Tower Speaker",
+        "price": 999.0,
+        "price_old": 1498.0,
+        "url": "www.supersonido.es/p/svs-prime-tower-speaker_",
+        "image": "www.supersonido.es/productos/imagenes/producto47939.jpg"
     },
     "atcs-scm7_ocas": {
         "name": "ATC SCM7",
@@ -985,13 +985,6 @@
         "price_old": 21290.0,
         "url": "www.supersonido.es/p/audio-research-ref-dac",
         "image": "www.supersonido.es/productos/imagenes/producto12182.jpg"
-    },
-    "sonus-faber-guarneri-tradition": {
-        "name": "Sonus-Faber Guarneri Tradition",
-        "price": 11490.0,
-        "price_old": 16490.0,
-        "url": "www.supersonido.es/p/sonus-faber-guarneri-tradition",
-        "image": "www.supersonido.es/productos/imagenes/producto24712.jpg"
     },
     "esoteric-f03a_": {
         "name": "Esoteric F-03A",
