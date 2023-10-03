@@ -181,6 +181,13 @@
         "url": "www.supersonido.es/p/monitor-audio-cpwt380_",
         "image": "www.supersonido.es/productos/imagenes/producto26150.jpg"
     },
+    "q-acoustics-m20hd": {
+        "name": "Q-Acoustics M20HD",
+        "price": 399.0,
+        "price_old": 549.0,
+        "url": "www.supersonido.es/p/q-acoustics-m20hd",
+        "image": "www.supersonido.es/productos/imagenes/producto50542.jpg"
+    },
     "svs-prime-wireless-soundbase": {
         "name": "SVS Prime Wireless SoundBase",
         "price": 399.0,
@@ -244,12 +251,12 @@
         "url": "www.supersonido.es/p/denon-home-350_oc",
         "image": "www.supersonido.es/productos/imagenes/producto47540.jpg"
     },
-    "technics-ottava-s-sc-c50OC": {
-        "name": "Technics OTTAVA S SC-C50",
+    "bluesound-nodeoc": {
+        "name": "Bluesound NODE",
         "price": 499.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
-        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
+        "price_old": 649.0,
+        "url": "www.supersonido.es/p/bluesound-nodeoc",
+        "image": "www.supersonido.es/productos/imagenes/producto49313.jpg"
     },
     "shanling-m6-21_": {
         "name": "Shanling M6(21)",
@@ -257,6 +264,13 @@
         "price_old": 599.0,
         "url": "www.supersonido.es/p/shanling-m6-21_",
         "image": "www.supersonido.es/productos/imagenes/producto49367.jpg"
+    },
+    "technics-ottava-s-sc-c50OC": {
+        "name": "Technics OTTAVA S SC-C50",
+        "price": 499.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
+        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
     },
     "loewe-klang-mr5": {
         "name": "Loewe Klang mr5",
@@ -307,19 +321,19 @@
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
-    "advance-paris-playstream-a1_": {
-        "name": "Advance Paris PLAYSTREAM A1",
-        "price": 599.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
-        "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
-    },
     "earmen-tradutto_": {
         "name": "EarMen Tradutto",
         "price": 599.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/earmen-tradutto_",
         "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
+    },
+    "advance-paris-playstream-a1_": {
+        "name": "Advance Paris PLAYSTREAM A1",
+        "price": 599.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
+        "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
     },
     "wharfedale-evo4-2_": {
         "name": "Wharfedale Evo4.2",
@@ -419,19 +433,19 @@
         "url": "www.supersonido.es/p/primare-i15_",
         "image": "www.supersonido.es/productos/imagenes/producto47536.jpg"
     },
-    "q-acoustics-q-active-200_": {
-        "name": "Q-Acoustics Q Active 200",
-        "price": 899.0,
-        "price_old": 1799.0,
-        "url": "www.supersonido.es/p/q-acoustics-q-active-200_",
-        "image": "www.supersonido.es/productos/imagenes/producto43652.jpg"
-    },
     "grado-gs1000e-gr8e": {
         "name": "Grado GS1000e",
         "price": 899.0,
         "price_old": 1489.0,
         "url": "www.supersonido.es/p/grado-gs1000e-gr8e",
         "image": "www.supersonido.es/productos/imagenes/producto30130.jpg"
+    },
+    "q-acoustics-q-active-200_": {
+        "name": "Q-Acoustics Q Active 200",
+        "price": 899.0,
+        "price_old": 1799.0,
+        "url": "www.supersonido.es/p/q-acoustics-q-active-200_",
+        "image": "www.supersonido.es/productos/imagenes/producto43652.jpg"
     },
     "advance-paris-playstream-a5_": {
         "name": "Advance Paris PLAYSTREAM A5",
