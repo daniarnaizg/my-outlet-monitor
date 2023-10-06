@@ -104,19 +104,19 @@
         "url": "https://zococity.es/products/tone-winner-at-300-reacondicionado",
         "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/image_1024x1024_47d70095-5182-4b50-acc2-09be80ad53a3_360x.webp"
     },
-    "hiby-new-r6-reacondicionado": {
-        "name": "HiBy New R6 - Reacondicionado",
-        "price": 679.99,
-        "price_old": 849.99,
-        "url": "https://zococity.es/products/hiby-new-r6-reacondicionado",
-        "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/r6_007fad17-f9d4-4725-a9e2-613c188bebb1_360x.jpg"
-    },
     "fiio-k9-pro-ess-reacondicionado": {
         "name": "FiiO K9 Pro ESS - Reacondicionado",
         "price": 679.99,
         "price_old": 849.99,
         "url": "https://zococity.es/products/fiio-k9-pro-ess-reacondicionado",
         "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/K9-PRO-ESS_cdb07e0e-479d-4f04-a325-82c407c8d55f_360x.jpg"
+    },
+    "hiby-new-r6-reacondicionado": {
+        "name": "HiBy New R6 - Reacondicionado",
+        "price": 679.99,
+        "price_old": 849.99,
+        "url": "https://zococity.es/products/hiby-new-r6-reacondicionado",
+        "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/r6_007fad17-f9d4-4725-a9e2-613c188bebb1_360x.jpg"
     },
     "fiio-q7-reacondicionado": {
         "name": "FiiO Q7 - Reacondicionado",
@@ -174,13 +174,6 @@
         "url": "https://zococity.es/products/xgimi-mogo-pro-reacondicionado-1",
         "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/XGIMIMoGoPRO__01_60eeb541-9f41-4e22-86f0-1007dc34171a_360x.jpg"
     },
-    "marantz-pm6007-negro-reacondicionado": {
-        "name": "Marantz PM6007 - Negro - Reacondicionado",
-        "price": 519.2,
-        "price_old": 649.0,
-        "url": "https://zococity.es/products/marantz-pm6007-negro-reacondicionado",
-        "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/marantz-pm6007_118cfc87-7fe6-4438-a1c9-ebb1dc9753d4_360x.jpg"
-    },
     "klipsch-reference-rp-160m-reacondicionado": {
         "name": "Klipsch Reference RP-160M - Reacondicionado",
         "price": 519.2,
@@ -188,12 +181,12 @@
         "url": "https://zococity.es/products/klipsch-reference-rp-160m-reacondicionado",
         "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/71sni4jkz9l._sl1500_18db88ca-2730-4321-9a22-1f2053b9e1a6_360x.jpg"
     },
-    "terramaster-f5-422-reacondicionado": {
-        "name": "Terramaster F5-422 - Reacondicionado",
-        "price": 479.99,
-        "price_old": 599.99,
-        "url": "https://zococity.es/products/terramaster-f5-422-reacondicionado",
-        "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/files/F5-422_1_a2e10316-f828-489f-97ea-f1ac312aad84_360x.jpg"
+    "marantz-pm6007-negro-reacondicionado": {
+        "name": "Marantz PM6007 - Negro - Reacondicionado",
+        "price": 519.2,
+        "price_old": 649.0,
+        "url": "https://zococity.es/products/marantz-pm6007-negro-reacondicionado",
+        "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/marantz-pm6007_118cfc87-7fe6-4438-a1c9-ebb1dc9753d4_360x.jpg"
     },
     "xgimi-mogo-pro-reacondicionado": {
         "name": "XGIMI MoGo Pro - Reacondicionado",
@@ -201,6 +194,13 @@
         "price_old": 599.99,
         "url": "https://zococity.es/products/xgimi-mogo-pro-reacondicionado",
         "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/XGIMIMoGoPro_01_1fd830c9-319e-42d2-b2d1-4a3856b48bf9_360x.jpg"
+    },
+    "terramaster-f5-422-reacondicionado": {
+        "name": "Terramaster F5-422 - Reacondicionado",
+        "price": 479.99,
+        "price_old": 599.99,
+        "url": "https://zococity.es/products/terramaster-f5-422-reacondicionado",
+        "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/files/F5-422_1_a2e10316-f828-489f-97ea-f1ac312aad84_360x.jpg"
     },
     "klipsch-rp-500m-reacondicionado": {
         "name": "Klipsch RP-500M - Reacondicionado",
@@ -629,6 +629,13 @@
         "url": "https://zococity.es/products/topping-e30-ii-reacondicionado",
         "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/files/E30II_e46e5abc-e038-4939-aa88-5937193eaf53_360x.jpg"
     },
+    "edifier-tws-nb-reacondicionado": {
+        "name": "Edifier TWS NB Reacondicionado",
+        "price": 119.99,
+        "price_old": 149.99,
+        "url": "https://zococity.es/products/edifier-tws-nb-reacondicionado",
+        "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/TWSNB_02_638039f8-8b2c-498d-ac7f-87643fdef680_360x.jpg"
+    },
     "grado-sr80x-reacondicionado": {
         "name": "GRADO SR80x - Reacondicionado",
         "price": 119.2,
@@ -685,12 +692,12 @@
         "url": "https://zococity.es/products/edifier-tws6-reacondicionado",
         "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/tws6_1_1_360x.jpg"
     },
-    "fiio-bta30-pro-reacondicionado": {
-        "name": "FiiO BTA30 Pro - Reacondicionado",
+    "edifier-mr4-reacondicionados": {
+        "name": "Edifier MR4 - Reacondicionados",
         "price": 103.99,
         "price_old": 129.99,
-        "url": "https://zococity.es/products/fiio-bta30-pro-reacondicionado",
-        "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/BTA30Pro_02_fe6aac3c-0d0c-439a-8960-41d66be8ab2c_360x.jpg"
+        "url": "https://zococity.es/products/edifier-mr4-reacondicionados",
+        "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/AV6A0252_fc7defb6-a2ab-4f38-896e-8595f676e9e3_360x.jpg"
     },
     "vulkkano-sub8-reacondicionado": {
         "name": "VULKKANO SUB8 - Reacondicionado",
@@ -699,12 +706,12 @@
         "url": "https://zococity.es/products/vulkkano-sub8-reacondicionado",
         "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/SUB8_360x.jpg"
     },
-    "edifier-mr4-reacondicionados": {
-        "name": "Edifier MR4 - Reacondicionados",
+    "fiio-bta30-pro-reacondicionado": {
+        "name": "FiiO BTA30 Pro - Reacondicionado",
         "price": 103.99,
         "price_old": 129.99,
-        "url": "https://zococity.es/products/edifier-mr4-reacondicionados",
-        "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/AV6A0252_fc7defb6-a2ab-4f38-896e-8595f676e9e3_360x.jpg"
+        "url": "https://zococity.es/products/fiio-bta30-pro-reacondicionado",
+        "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/BTA30Pro_02_fe6aac3c-0d0c-439a-8960-41d66be8ab2c_360x.jpg"
     },
     "v-moda-bassfit-wireless-reacondicionado": {
         "name": "V-Moda Bassfit Wireless Reacondicionado",
@@ -727,19 +734,19 @@
         "url": "https://zococity.es/products/sennheiser-rs2000-reacondicionado",
         "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/product_detail_x2_desktop_rs_2000_set-sennheiser-01_1_1_360x.jpg"
     },
-    "ddhifi-tc35-pro-reacondicionado": {
-        "name": "ddHiFi TC35 Pro - Reacondicionado",
-        "price": 95.99,
-        "price_old": 119.99,
-        "url": "https://zococity.es/products/ddhifi-tc35-pro-reacondicionado",
-        "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/ddhifi-tc-35-pro-typec_1080x_693ebff2-0690-4762-b045-f731d9b1d99d_360x.jpg"
-    },
     "hiby-r2-ii-reacondicionado": {
         "name": "Hiby R2 II - Reacondicionado",
         "price": 95.99,
         "price_old": 119.99,
         "url": "https://zococity.es/products/hiby-r2-ii-reacondicionado",
         "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/files/r2II-2_360x.webp"
+    },
+    "ddhifi-tc35-pro-reacondicionado": {
+        "name": "ddHiFi TC35 Pro - Reacondicionado",
+        "price": 95.99,
+        "price_old": 119.99,
+        "url": "https://zococity.es/products/ddhifi-tc35-pro-reacondicionado",
+        "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/ddhifi-tc-35-pro-typec_1080x_693ebff2-0690-4762-b045-f731d9b1d99d_360x.jpg"
     },
     "copia-de-vulkkano-a4-reacondicionados": {
         "name": "VULKKANO A4 - Reacondicionados",
@@ -804,13 +811,6 @@
         "url": "https://zococity.es/products/denon-scm41-reacondicionado",
         "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/files/denon-scm41-cherry_084297be-e380-4249-bb89-bc98c18e7804_360x.jpg"
     },
-    "topping-tcx1-reacondicionado": {
-        "name": "Topping TCX1 - Reacondicionado",
-        "price": 79.99,
-        "price_old": 99.99,
-        "url": "https://zococity.es/products/topping-tcx1-reacondicionado",
-        "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/ToppingTCX1_01_dbe2f32c-a5b4-4499-8e1f-b8d86e1b0f27_360x.jpg"
-    },
     "edifier-tws5-reacondicionado": {
         "name": "Edifier TWS5 Reacondicionado",
         "price": 79.99,
@@ -824,6 +824,13 @@
         "price_old": 99.99,
         "url": "https://zococity.es/products/edifier-g2000-reacondicionado",
         "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/edifier_g2000-1-1-700x700_1_1_360x.jpg"
+    },
+    "topping-tcx1-reacondicionado": {
+        "name": "Topping TCX1 - Reacondicionado",
+        "price": 79.99,
+        "price_old": 99.99,
+        "url": "https://zococity.es/products/topping-tcx1-reacondicionado",
+        "image": "https://cdn.shopify.com/s/files/1/0528/8008/1052/products/ToppingTCX1_01_dbe2f32c-a5b4-4499-8e1f-b8d86e1b0f27_360x.jpg"
     },
     "vulkkano-sub6-reacondicionados": {
         "name": "VULKKANO SUB6 - Reacondicionados",
