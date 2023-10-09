@@ -188,6 +188,13 @@
         "url": "www.supersonido.es/p/nad-bluos",
         "image": "www.supersonido.es/productos/imagenes/producto23316.jpg"
     },
+    "wharfedale-elysian-1-stands_": {
+        "name": "Wharfedale ELYSIAN 1 STANDS",
+        "price": 359.0,
+        "price_old": 479.0,
+        "url": "www.supersonido.es/p/wharfedale-elysian-1-stands_",
+        "image": "www.supersonido.es/productos/imagenes/producto50594.jpg"
+    },
     "monitor-audio-cpwt380_": {
         "name": "Monitor Audio CP-WT380",
         "price": 363.0,
@@ -391,13 +398,6 @@
         "url": "www.supersonido.es/p/denon-pma-900hne_",
         "image": "www.supersonido.es/productos/imagenes/producto49176.jpg"
     },
-    "fir-audio-vxv": {
-        "name": "Fir Audio VxV",
-        "price": 699.0,
-        "price_old": 1049.0,
-        "url": "www.supersonido.es/p/fir-audio-vxv",
-        "image": "www.supersonido.es/productos/imagenes/producto46826.jpg"
-    },
     "bluesound-pulse-2i_": {
         "name": "Bluesound PULSE 2i",
         "price": 719.0,
@@ -489,13 +489,6 @@
         "url": "www.supersonido.es/p/wharfedale-evo4-3_",
         "image": "www.supersonido.es/productos/imagenes/producto43301.jpg"
     },
-    "atcs-scm7_ocas": {
-        "name": "ATC SCM7",
-        "price": 999.0,
-        "price_old": 1525.0,
-        "url": "www.supersonido.es/p/atcs-scm7_ocas",
-        "image": "www.supersonido.es/productos/imagenes/producto42477.jpg"
-    },
     "audeze-euclid_": {
         "name": "Audeze EUCLID",
         "price": 999.0,
@@ -510,19 +503,19 @@
         "url": "www.supersonido.es/p/svs-prime-tower-speaker_",
         "image": "www.supersonido.es/productos/imagenes/producto47939.jpg"
     },
+    "atcs-scm7_ocas": {
+        "name": "ATC SCM7",
+        "price": 999.0,
+        "price_old": 1525.0,
+        "url": "www.supersonido.es/p/atcs-scm7_ocas",
+        "image": "www.supersonido.es/productos/imagenes/producto42477.jpg"
+    },
     "mrspeakers-ether-flow": {
         "name": "Dan Clark Audio ETHER Flow",
         "price": 1000.0,
         "price_old": 1999.0,
         "url": "www.supersonido.es/p/mrspeakers-ether-flow",
         "image": "www.supersonido.es/productos/imagenes/producto28309.jpg"
-    },
-    "audeze-lcdxc": {
-        "name": "Audeze LCD-XC",
-        "price": 1099.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/audeze-lcdxc",
-        "image": "www.supersonido.es/productos/imagenes/producto16708.jpg"
     },
     "cayin-n6ii_": {
         "name": "Cayin N6ii",
@@ -537,6 +530,13 @@
         "price_old": 1799.0,
         "url": "www.supersonido.es/p/audiolab-omnia_oc",
         "image": "www.supersonido.es/productos/imagenes/producto48757.jpg"
+    },
+    "audeze-lcdxc": {
+        "name": "Audeze LCD-XC",
+        "price": 1099.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/audeze-lcdxc",
+        "image": "www.supersonido.es/productos/imagenes/producto16708.jpg"
     },
     "advance-paris-playstream-a7_": {
         "name": "Advance Paris PLAYSTREAM A7",
@@ -636,19 +636,19 @@
         "url": "www.supersonido.es/p/acoustune-hs2000mx",
         "image": "www.supersonido.es/productos/imagenes/producto46713.jpg"
     },
-    "matrix-audio-element-p__": {
-        "name": "Matrix Audio Element P",
-        "price": 1500.0,
-        "price_old": 2799.0,
-        "url": "www.supersonido.es/p/matrix-audio-element-p__",
-        "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
-    },
     "matrix-audio-element-p_": {
         "name": "Matrix Audio Element P",
         "price": 1500.0,
         "price_old": 2799.0,
         "url": "www.supersonido.es/p/matrix-audio-element-p_",
         "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
+    },
+    "matrix-audio-element-p__": {
+        "name": "Matrix Audio Element P",
+        "price": 1500.0,
+        "price_old": 2799.0,
+        "url": "www.supersonido.es/p/matrix-audio-element-p__",
+        "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
     },
     "dynaudio-evoke-20_oc": {
         "name": "Dynaudio Evoke 20",
@@ -831,6 +831,13 @@
         "price_old": 5999.0,
         "url": "www.supersonido.es/p/anthem-str-integrated-amplifier_",
         "image": "www.supersonido.es/productos/imagenes/producto49864.jpg"
+    },
+    "wharfedale-elysian-1__": {
+        "name": "Wharfedale ELYSIAN 1",
+        "price": 3149.0,
+        "price_old": 4199.0,
+        "url": "www.supersonido.es/p/wharfedale-elysian-1__",
+        "image": "www.supersonido.es/productos/imagenes/producto50595.jpg"
     },
     "jbl-4312g_": {
         "name": "JBL 4312G",
