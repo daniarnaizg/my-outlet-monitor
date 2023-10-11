@@ -48,6 +48,20 @@
         "url": "www.supersonido.es/p/lg-24tn510s",
         "image": "www.supersonido.es/productos/imagenes/producto43870.jpg"
     },
+    "pro-ject-primary-e_": {
+        "name": "Pro-Ject Primary E",
+        "price": 169.0,
+        "price_old": 279.0,
+        "url": "www.supersonido.es/p/pro-ject-primary-e_",
+        "image": "www.supersonido.es/productos/imagenes/producto43945.jpg"
+    },
+    "audiopro-addon-c5a__": {
+        "name": "AudioPro ADDON C5A",
+        "price": 169.0,
+        "price_old": 269.0,
+        "url": "www.supersonido.es/p/audiopro-addon-c5a__",
+        "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
+    },
     "grado-sr225e_OC": {
         "name": "Grado SR225e",
         "price": 169.0,
@@ -61,20 +75,6 @@
         "price_old": 229.0,
         "url": "www.supersonido.es/p/sonos-one._",
         "image": "www.supersonido.es/productos/imagenes/producto50519.jpg"
-    },
-    "audiopro-addon-c5a__": {
-        "name": "AudioPro ADDON C5A",
-        "price": 169.0,
-        "price_old": 269.0,
-        "url": "www.supersonido.es/p/audiopro-addon-c5a__",
-        "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
-    },
-    "pro-ject-primary-e_": {
-        "name": "Pro-Ject Primary E",
-        "price": 169.0,
-        "price_old": 279.0,
-        "url": "www.supersonido.es/p/pro-ject-primary-e_",
-        "image": "www.supersonido.es/productos/imagenes/producto43945.jpg"
     },
     "audio-technica-at-lp2x_": {
         "name": "Audio-Technica AT-LP2X",
@@ -104,19 +104,19 @@
         "url": "www.supersonido.es/p/loewe-klang-mr1",
         "image": "www.supersonido.es/productos/imagenes/producto47220.jpg"
     },
-    "ifi-audio-xdsd": {
-        "name": "IFI Audio XDSD",
-        "price": 219.0,
-        "price_old": 399.0,
-        "url": "www.supersonido.es/p/ifi-audio-xdsd",
-        "image": "www.supersonido.es/productos/imagenes/producto27468.jpg"
-    },
     "ifi-audio-zen-dac-signature": {
         "name": "IFI Audio ZEN DAC SIGNATURE",
         "price": 219.0,
         "price_old": 299.0,
         "url": "www.supersonido.es/p/ifi-audio-zen-dac-signature",
         "image": "www.supersonido.es/productos/imagenes/producto43929.jpg"
+    },
+    "ifi-audio-xdsd": {
+        "name": "IFI Audio XDSD",
+        "price": 219.0,
+        "price_old": 399.0,
+        "url": "www.supersonido.es/p/ifi-audio-xdsd",
+        "image": "www.supersonido.es/productos/imagenes/producto27468.jpg"
     },
     "sony-str-dh190_": {
         "name": "Sony STR-DH190",
@@ -272,19 +272,19 @@
         "url": "www.supersonido.es/p/marantz-melody-x-m-cr612_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49418.jpg"
     },
-    "denon-home-350_oc": {
-        "name": "Denon Home 350",
-        "price": 499.0,
-        "price_old": 699.0,
-        "url": "www.supersonido.es/p/denon-home-350_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto47540.jpg"
-    },
     "dynaudio-emit-20_": {
         "name": "Dynaudio Emit 20",
         "price": 499.0,
         "price_old": 950.0,
         "url": "www.supersonido.es/p/dynaudio-emit-20_",
         "image": "www.supersonido.es/productos/imagenes/producto50564.jpg"
+    },
+    "denon-home-350_oc": {
+        "name": "Denon Home 350",
+        "price": 499.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/denon-home-350_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto47540.jpg"
     },
     "technics-ottava-s-sc-c50OC": {
         "name": "Technics OTTAVA S SC-C50",
