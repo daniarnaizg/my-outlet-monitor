@@ -83,6 +83,13 @@
         "url": "https://www.madridhifi.com/p/alesis-prestige-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/5/9/10192395/photos/listado/Alesis_Prestige-piano-digital.png"
     },
+    "alhambra-z-nature-reacondicionado": {
+        "name": "Alhambra Z-Nature Guitarra Cl\u00e1sica Espa\u00f1ola ( REACONDICIONADO )",
+        "price": 242.61,
+        "price_old": 269.0,
+        "url": "https://www.madridhifi.com/p/alhambra-z-nature-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/3/0/10098803/photos/listado/alhambra-z-nature.png"
+    },
     "alhambra-4p-reacondicionado": {
         "name": "Alhambra 4P Guitarra Clasica ( REACONDICIONADO )",
         "price": 549.21,
@@ -109,7 +116,7 @@
         "price": 314.21,
         "price_old": 469.0,
         "url": "https://www.madridhifi.com/p/alhambra-1c-ht-reacondicionado/",
-        "image": "https://www.madridhifi.com/crm/documents/produit/5/1/10205215/photos/listado/alhambra-1c-ht.jpg"
+        "image": "/public/img/spacer.gif"
     },
     "alto-tx-315-reacondicionado": {
         "name": "Alto Profesional TX 315 Altavoz Amplificado Clase D 350W RMS ( REACONDICIONADO )",
@@ -272,11 +279,25 @@
         "url": "https://www.madridhifi.com/p/ground6t-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
+    "audibax-spark-600-reacondicionado": {
+        "name": "Audibax Spark 600 M\u00e1quina de Fuego Fr\u00edo 600 ( REACONDICIONADO )",
+        "price": 263.21,
+        "price_old": 598.8,
+        "url": "https://www.madridhifi.com/p/audibax-spark-600-reacondicionado/",
+        "image": "/public/img/spacer.gif"
+    },
     "audibax-detroit-1000-dsp-reacondicionado": {
         "name": "Audibax Detroit 1000 DSP Altavoz Sistema PA 1000W ( REACONDICIONADO )",
         "price": 384.21,
         "price_old": 699.99,
         "url": "https://www.madridhifi.com/p/audibax-detroit-1000-dsp-reacondicionado/",
+        "image": "/public/img/spacer.gif"
+    },
+    "audibax-denver-10-reacondicionado": {
+        "name": "Audibax DENVER 10 Altavoz Port\u00e1til Bluetooth con Bater\u00eda ( REACONDICIONADO )",
+        "price": 118.02,
+        "price_old": 279.0,
+        "url": "https://www.madridhifi.com/p/audibax-denver-10-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
     "audibax-smoke-500-reacondicionado": {
@@ -1329,6 +1350,13 @@
         "url": "https://www.madridhifi.com/p/fonestar-pptr-43100-fa-pantalla-de-proyeccion-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
+    "gator-rimictptbm-reacondicionado": {
+        "name": "Gator Frameworks RIMICTPTBM Soporte Tr\u00edpode para Micr\u00f3fono ( REACONDICIONADO )",
+        "price": 23.81,
+        "price_old": 39.0,
+        "url": "https://www.madridhifi.com/p/gator-rimictptbm-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/2/0/10184602/photos/listado/gator-rimictptbm.jpg"
+    },
     "gravity-ls-431-w-reacondicionado": {
         "name": "Gravity LS 431 w Soporte de iluminaci\u00f3n con base cuadrada de acero y opci\u00f3n de montaje para pesos descentrados ( REACONDICIONADO )",
         "price": 133.91,
@@ -1364,6 +1392,20 @@
         "url": "https://www.madridhifi.com/p/ibanez-tcm50-vbs-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/9/7/10094079/photos/listado/ibanez-tcm-50-vbs.jpg"
     },
+    "ibanez-ga5tce-am-reacondicionado": {
+        "name": "Ibanez GA5TCE AM Guitarra Cl\u00e1sica Electrificada ( REACONDICIONADO )",
+        "price": 197.21,
+        "price_old": 259.0,
+        "url": "https://www.madridhifi.com/p/ibanez-ga5tce-am-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/7/9/10094097/photos/listado/Ibanez-GA5TCE-AM-.jpg"
+    },
+    "ibanez-ts9-reacondicionado": {
+        "name": "Ibanez TS9 ( REACONDICIONADO )",
+        "price": 104.21,
+        "price_old": 169.0,
+        "url": "https://www.madridhifi.com/p/ibanez-ts9-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/8/8/10094688/photos/listado/ibanez-ts-9.jpg"
+    },
     "ibanez-pf15ece-bk-reacondicionado": {
         "name": "Ibanez PF15ECE Bk Guitarra Ac\u00fastica Electrificada ( REACONDICIONADO )",
         "price": 193.31,
@@ -1376,14 +1418,14 @@
         "price": 176.61,
         "price_old": 215.0,
         "url": "https://www.madridhifi.com/p/ibanez-gsrm20b-wk-reacondicionado/",
-        "image": "https://www.madridhifi.com/crm/documents/produit/9/5/10146559/photos/listado/ibanez-gsrm20b-wk-cuerpo.jpg"
+        "image": "/public/img/spacer.gif"
     },
     "ibanez-gsr200b-wnf-reacondicionado": {
         "name": "Ibanez GSR200B WNF Bajo El\u00e9ctrico Walnut Flat ( REACONDICIONADO )",
         "price": 218.71,
         "price_old": 289.0,
         "url": "https://www.madridhifi.com/p/ibanez-gsr200b-wnf-reacondicionado/",
-        "image": "https://www.madridhifi.com/crm/documents/produit/1/5/10092951/photos/listado/ibanez-gsr200b-wnf-bass.jpg"
+        "image": "/public/img/spacer.gif"
     },
     "ibanez-aad100-opn-reacondicionado": {
         "name": "Ibanez AAD100 OPN Guitarra Ac\u00fastica Openpore Natural ( REACONDICIONADO )",
@@ -1426,6 +1468,13 @@
         "price_old": 229.0,
         "url": "https://www.madridhifi.com/p/ibanez-pf15-bk-reacondicionado/",
         "image": "/public/img/spacer.gif"
+    },
+    "ibiza-light-lsm900w-reacondicionado": {
+        "name": "IBIZA LIGHT LSM900W Maquina de Humo 900 W, Mando a Distancia ( REACONDICIONADO )",
+        "price": 47.81,
+        "price_old": 99.0,
+        "url": "https://www.madridhifi.com/p/ibiza-light-lsm900w-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/8/8/10096088/photos/listado/MAQUINA-HUMO-IBIZA-LIGHT-LSM900W.jpg"
     },
     "ibiza-sound-port15vhf-bt-reacondicionado": {
         "name": "IBIZA SOUND PORT15VHF-BT Altavoz 15\" Bluetooth con bater\u00eda. ( REACONDICIONADO )",
@@ -1706,6 +1755,13 @@
         "price_old": 899.0,
         "url": "https://www.madridhifi.com/p/marcus-miller-m7-swamp-ash-4-tbk-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/1/5/10158351/photos/listado/marcus-miller-m7-swamp-ash-4-tbk.png"
+    },
+    "mark-mbar-3230-r-reacondicionado": {
+        "name": "MARK MBAR 3230 R L\u00e1ser Barra de Iluminaci\u00f3n ( REACONDICIONADO )",
+        "price": 589.31,
+        "price_old": 969.0,
+        "url": "https://www.madridhifi.com/p/mark-mbar-3230-r-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/6/2/10185926/photos/listado/mark-mbar-3230-r.jpg"
     },
     "mark-mam-50-reacondicionado": {
         "name": "MARK MAM 50 Altavoz Amplificado con Bater\u00eda ( REACONDICIONADO )",
@@ -2036,6 +2092,20 @@
         "url": "https://www.madridhifi.com/p/rcf-ayra-6-pro-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/8/8/10162088/photos/listado/003_AYRA-PRO-6_right.jpg"
     },
+    "rcf-art-912-a-reacondicionado": {
+        "name": "RCF ART 912-A Altavoz Amplificado ( REACONDICIONADO )",
+        "price": 519.31,
+        "price_old": 789.0,
+        "url": "https://www.madridhifi.com/p/rcf-art-912-a-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/1/6/10202261/photos/listado/rcf-art-912-a.jpg"
+    },
+    "rcf-art-912-a-defecto-estetico": {
+        "name": "RCF ART 912-A Altavoz Amplificado ( DEFECTO ESTETICO )",
+        "price": 449.0,
+        "price_old": 707.12,
+        "url": "https://www.madridhifi.com/p/rcf-art-912-a-defecto-estetico/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/1/6/10202261/photos/listado/rcf-art-912-a.jpg"
+    },
     "rega-planar-2-mk2-negro-reacondicionado": {
         "name": "REGA Planar 2 MK2 Negro Giradiscos HiFi ( REACONDICIONADO )",
         "price": 443.71,
@@ -2204,6 +2274,13 @@
         "url": "https://www.madridhifi.com/p/showtec-lampy-20-1u-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/6/5/10225056/photos/listado/showtec-lampy-20-1u.jpg"
     },
+    "shure-blx14e-pg31-reacondicionado": {
+        "name": "SHURE BLX14E PG31 Micr\u00f3fono inalambrico de Diadema ( REACONDICIONADO )",
+        "price": 309.31,
+        "price_old": 399.0,
+        "url": "https://www.madridhifi.com/p/shure-blx14e-pg31-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/9/8/10091989/photos/listado/shure_blx14_p31-oferta.jpg"
+    },
     "shure-cvg12d-b-c-reacondicionado": {
         "name": "SHURE CVG12D-B/C Micr\u00f3fono Flexo 30 cm Cardiode con Base y Previo ( REACONDICIONADO )",
         "price": 198.11,
@@ -2225,12 +2302,33 @@
         "url": "https://www.madridhifi.com/p/skytec-sl8-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/1/3/10084231/photos/listado/SKYTEC-178728.png"
     },
+    "skytec-spl1000eq-reacondicionado": {
+        "name": "SKYTEC SPL1000EQ Etapa de Potencia 2 x 500W 178797 ( REACONDICIONADO )",
+        "price": 96.41,
+        "price_old": 159.0,
+        "url": "https://www.madridhifi.com/p/skytec-spl1000eq-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/8/7/10053478/photos/listado/SPL1000EQ.jpg"
+    },
+    "skytec-max8-reacondicionado": {
+        "name": "max 8 Pareja de Altavoces 2 vias pasivo de 400W 170652 ( REACONDICIONADO )",
+        "price": 82.21,
+        "price_old": 109.0,
+        "url": "https://www.madridhifi.com/p/skytec-max8-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/4/1/10098714/photos/listado/max8.JPG"
+    },
     "skytec-sp1500-902254": {
         "name": "Skytec SP1500 Altavoz 15\" 902254",
         "price": 54.75,
         "price_old": 79.8,
         "url": "https://www.madridhifi.com/p/skytec-sp1500-902254/",
         "image": "https://www.madridhifi.com/crm/documents/produit/1/0/10101901/photos/listado/skytec-woofer-hifi-902254.jpg"
+    },
+    "sonos-five-white-reacondicionado": {
+        "name": "Sonos Five White Altavoz Inalambrico Alta Calidad Blanco ( REACONDICIONADO )",
+        "price": 518.21,
+        "price_old": 701.76,
+        "url": "https://www.madridhifi.com/p/sonos-five-white-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/0/9/10175290/photos/listado/sonos-five-white-altavoces-inalambrico-alta-gama-blanco-.png"
     },
     "sonos-sub-3g-negro-subwoofer-inalambrico-defecto-estetico": {
         "name": "SONOS SUB 3G Negro Subwoofer Inalambrico ( DEFECTO ESTETICO )",
@@ -2245,6 +2343,13 @@
         "price_old": 919.0,
         "url": "https://www.madridhifi.com/p/sonos-amp-amplificador-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/4/9/10146794/photos/listado/sonos-amp-hifi-125watios-wifi-airplay.jpg"
+    },
+    "soundcraft-ui16-reacondicionado": {
+        "name": "SOUNDCRAFT UI16 Mezclador 16 Canales ( REACONDICIONADO )",
+        "price": 453.71,
+        "price_old": 669.0,
+        "url": "https://www.madridhifi.com/p/soundcraft-ui16-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/1/2/10094521/photos/listado/comprar-soundcraft-ui16.jpg"
     },
     "sterling-by-music-man-axis-sub-wh-reacondicionado": {
         "name": "Sterling by Music Man Axis S.U.B WH Guitarra El\u00e9ctrica ( REACONDICIONADO )",
@@ -2456,12 +2561,19 @@
         "url": "https://www.madridhifi.com/p/yamaha-np-32b-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/3/1/10098513/photos/listado/comprar-piano-yamaha-np32b.jpg"
     },
+    "yamaha-mg-16-reacondicionado": {
+        "name": "YAMAHA MG 16 Mezclador 16 Canales ( REACONDICIONADO )",
+        "price": 446.61,
+        "price_old": 529.0,
+        "url": "https://www.madridhifi.com/p/yamaha-mg-16-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/9/2/10088429/photos/listado/YAMAHA-MEZCLADOR-MG16.jpg"
+    },
     "yamaha-erg-121-gpiihll-reacondicionado": {
         "name": "YAMAHA ERG-121 GPIIHll Pack Guitarra con amplificador GA 15ll, YT 100, funda, juego cuerdas, correa, bobinador y p\u00faa. ( REACONDICIONADO )",
         "price": 219.21,
         "price_old": 324.0,
         "url": "https://www.madridhifi.com/p/yamaha-erg-121-gpiihll-reacondicionado/",
-        "image": "https://www.madridhifi.com/crm/documents/produit/0/6/10145260/photos/listado/erg121gpiih.jpg"
+        "image": "/public/img/spacer.gif"
     },
     "yamaha-thr30-ll-awl-reacondicionado": {
         "name": "YAMAHA THR30 ll AWL Wireless Amplificador de Guitarra Ac\u00fastica con Bater\u00eda ( REACONDICIONADO )",
