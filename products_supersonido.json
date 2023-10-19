@@ -62,6 +62,13 @@
         "url": "www.supersonido.es/p/audiopro-addon-c5a__",
         "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
     },
+    "hifiman-sundara-closed": {
+        "name": "HIFIMAN Sundara Closed",
+        "price": 169.0,
+        "price_old": 169.0,
+        "url": "www.supersonido.es/p/hifiman-sundara-closed",
+        "image": "www.supersonido.es/productos/imagenes/producto48859.jpg"
+    },
     "grado-sr225e_OC": {
         "name": "Grado SR225e",
         "price": 169.0,
@@ -321,19 +328,19 @@
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
-    "advance-paris-playstream-a1_": {
-        "name": "Advance Paris PLAYSTREAM A1",
-        "price": 599.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
-        "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
-    },
     "earmen-tradutto_": {
         "name": "EarMen Tradutto",
         "price": 599.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/earmen-tradutto_",
         "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
+    },
+    "advance-paris-playstream-a1_": {
+        "name": "Advance Paris PLAYSTREAM A1",
+        "price": 599.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
+        "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
     },
     "klipsch-the-fives-v2_": {
         "name": "Klipsch THE FIVES V2",
@@ -510,20 +517,6 @@
         "url": "www.supersonido.es/p/mrspeakers-ether-flow",
         "image": "www.supersonido.es/productos/imagenes/producto28309.jpg"
     },
-    "cayin-n6ii_": {
-        "name": "Cayin N6ii",
-        "price": 1099.0,
-        "price_old": 1399.0,
-        "url": "www.supersonido.es/p/cayin-n6ii_",
-        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
-    },
-    "audiolab-omnia_oc": {
-        "name": "Audiolab Omnia",
-        "price": 1099.0,
-        "price_old": 1799.0,
-        "url": "www.supersonido.es/p/audiolab-omnia_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto48757.jpg"
-    },
     "audeze-lcdxc": {
         "name": "Audeze LCD-XC",
         "price": 1099.0,
@@ -537,6 +530,20 @@
         "price_old": 1499.0,
         "url": "www.supersonido.es/p/audeze-lcd-xc-carbon-cup-edition_",
         "image": "www.supersonido.es/productos/imagenes/producto45673.jpg"
+    },
+    "cayin-n6ii_": {
+        "name": "Cayin N6ii",
+        "price": 1099.0,
+        "price_old": 1399.0,
+        "url": "www.supersonido.es/p/cayin-n6ii_",
+        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+    },
+    "audiolab-omnia_oc": {
+        "name": "Audiolab Omnia",
+        "price": 1099.0,
+        "price_old": 1799.0,
+        "url": "www.supersonido.es/p/audiolab-omnia_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto48757.jpg"
     },
     "advance-paris-playstream-a7_": {
         "name": "Advance Paris PLAYSTREAM A7",
@@ -691,13 +698,6 @@
         "price_old": 2650.0,
         "url": "www.supersonido.es/p/naim-xp5-xs_",
         "image": "www.supersonido.es/productos/imagenes/producto41292.jpg"
-    },
-    "jbl-4306_": {
-        "name": "JBL 4306",
-        "price": 1790.0,
-        "price_old": 2399.0,
-        "url": "www.supersonido.es/p/jbl-4306_",
-        "image": "www.supersonido.es/productos/imagenes/producto45874.jpg"
     },
     "benq-w5700_": {
         "name": "BenQ W5700",
