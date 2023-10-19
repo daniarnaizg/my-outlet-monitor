@@ -62,13 +62,6 @@
         "url": "www.supersonido.es/p/audiopro-addon-c5a__",
         "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
     },
-    "hifiman-sundara-closed": {
-        "name": "HIFIMAN Sundara Closed",
-        "price": 169.0,
-        "price_old": 169.0,
-        "url": "www.supersonido.es/p/hifiman-sundara-closed",
-        "image": "www.supersonido.es/productos/imagenes/producto48859.jpg"
-    },
     "grado-sr225e_OC": {
         "name": "Grado SR225e",
         "price": 169.0,
@@ -223,19 +216,19 @@
         "url": "www.supersonido.es/p/monitor-audio-cpwt380_",
         "image": "www.supersonido.es/productos/imagenes/producto26150.jpg"
     },
-    "stax-srm-252s": {
-        "name": "Stax SRM-252S",
-        "price": 399.0,
-        "price_old": 580.0,
-        "url": "www.supersonido.es/p/stax-srm-252s",
-        "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
-    },
     "shanling-m6-21_": {
         "name": "Shanling M6(21)",
         "price": 399.0,
         "price_old": 599.0,
         "url": "www.supersonido.es/p/shanling-m6-21_",
         "image": "www.supersonido.es/productos/imagenes/producto49367.jpg"
+    },
+    "stax-srm-252s": {
+        "name": "Stax SRM-252S",
+        "price": 399.0,
+        "price_old": 580.0,
+        "url": "www.supersonido.es/p/stax-srm-252s",
+        "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
     },
     "loewe-klang-mr3": {
         "name": "Loewe Klang mr3",
@@ -328,19 +321,19 @@
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
-    "earmen-tradutto_": {
-        "name": "EarMen Tradutto",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/earmen-tradutto_",
-        "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
-    },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
         "price": 599.0,
         "price_old": 899.0,
         "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
         "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
+    },
+    "earmen-tradutto_": {
+        "name": "EarMen Tradutto",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/earmen-tradutto_",
+        "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
     },
     "klipsch-the-fives-v2_": {
         "name": "Klipsch THE FIVES V2",
@@ -418,6 +411,13 @@
         "price_old": 899.0,
         "url": "www.supersonido.es/p/audeze-lcd-2-classic___",
         "image": "www.supersonido.es/productos/imagenes/producto41907.jpg"
+    },
+    "acoustune-hs2000mx_": {
+        "name": "Acoustune HS2000MX",
+        "price": 799.0,
+        "price_old": 1999.0,
+        "url": "www.supersonido.es/p/acoustune-hs2000mx_",
+        "image": "www.supersonido.es/productos/imagenes/producto50654.jpg"
     },
     "grado-gs1000e-gr8e": {
         "name": "Grado GS1000e",
@@ -698,6 +698,13 @@
         "price_old": 2650.0,
         "url": "www.supersonido.es/p/naim-xp5-xs_",
         "image": "www.supersonido.es/productos/imagenes/producto41292.jpg"
+    },
+    "jbl-4306_": {
+        "name": "JBL 4306",
+        "price": 1790.0,
+        "price_old": 2399.0,
+        "url": "www.supersonido.es/p/jbl-4306_",
+        "image": "www.supersonido.es/productos/imagenes/producto45874.jpg"
     },
     "benq-w5700_": {
         "name": "BenQ W5700",
