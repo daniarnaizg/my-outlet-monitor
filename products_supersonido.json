@@ -83,13 +83,6 @@
         "url": "www.supersonido.es/p/sennheiser-momentum-true-wireless-2_",
         "image": "www.supersonido.es/productos/imagenes/producto42160.jpg"
     },
-    "lg-24tn510s": {
-        "name": "LG 24TN510S",
-        "price": 149.0,
-        "price_old": 179.0,
-        "url": "www.supersonido.es/p/lg-24tn510s",
-        "image": "www.supersonido.es/productos/imagenes/producto43870.jpg"
-    },
     "sonos-one._": {
         "name": "Sonos One",
         "price": 169.0,
@@ -342,13 +335,6 @@
         "url": "www.supersonido.es/p/rel-ht-1003-mkii",
         "image": "www.supersonido.es/productos/imagenes/producto48311.jpg"
     },
-    "quad-vena-ii-play_": {
-        "name": "Quad Vena II Play",
-        "price": 599.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/quad-vena-ii-play_",
-        "image": "www.supersonido.es/productos/imagenes/producto49223.jpg"
-    },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
         "price": 599.0,
@@ -454,19 +440,19 @@
         "url": "www.supersonido.es/p/acoustune-hs1697ti",
         "image": "www.supersonido.es/productos/imagenes/producto42965.jpg"
     },
-    "isotek-systems-aquarius-evo3": {
-        "name": "Isotek Systems Aquarius EVO3",
-        "price": 899.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/isotek-systems-aquarius-evo3",
-        "image": "www.supersonido.es/productos/imagenes/producto7811.jpg"
-    },
     "atcs-scm7_ocas": {
         "name": "ATC SCM7",
         "price": 899.0,
         "price_old": 1525.0,
         "url": "www.supersonido.es/p/atcs-scm7_ocas",
         "image": "www.supersonido.es/productos/imagenes/producto42477.jpg"
+    },
+    "isotek-systems-aquarius-evo3": {
+        "name": "Isotek Systems Aquarius EVO3",
+        "price": 899.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/isotek-systems-aquarius-evo3",
+        "image": "www.supersonido.es/productos/imagenes/producto7811.jpg"
     },
     "mrspeakers-ether-flow": {
         "name": "Dan Clark Audio ETHER Flow",
@@ -482,19 +468,19 @@
         "url": "www.supersonido.es/p/astell-kern-ak-t9ie_",
         "image": "www.supersonido.es/productos/imagenes/producto45176.jpg"
     },
-    "audiolab-omnia_oc": {
-        "name": "Audiolab Omnia",
-        "price": 989.0,
-        "price_old": 1799.0,
-        "url": "www.supersonido.es/p/audiolab-omnia_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto48757.jpg"
-    },
     "advance-paris-playstream-a7_": {
         "name": "Advance Paris PLAYSTREAM A7",
         "price": 989.0,
         "price_old": 1490.0,
         "url": "www.supersonido.es/p/advance-paris-playstream-a7_",
         "image": "www.supersonido.es/productos/imagenes/producto50512.jpg"
+    },
+    "audiolab-omnia_oc": {
+        "name": "Audiolab Omnia",
+        "price": 989.0,
+        "price_old": 1799.0,
+        "url": "www.supersonido.es/p/audiolab-omnia_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto48757.jpg"
     },
     "dynaudio-evoke-10_oc": {
         "name": "Dynaudio Evoke 10",
@@ -636,19 +622,19 @@
         "url": "www.supersonido.es/p/jbl-4306_",
         "image": "www.supersonido.es/productos/imagenes/producto45874.jpg"
     },
-    "audio-technica-ath-awkt_": {
-        "name": "Audio-Technica ATH-AWKT",
-        "price": 1499.0,
-        "price_old": 1999.0,
-        "url": "www.supersonido.es/p/audio-technica-ath-awkt_",
-        "image": "www.supersonido.es/productos/imagenes/producto49179.jpg"
-    },
     "unison-research-unico-primo_": {
         "name": "Unison Research Unico Primo",
         "price": 1499.0,
         "price_old": 2100.0,
         "url": "www.supersonido.es/p/unison-research-unico-primo_",
         "image": "www.supersonido.es/productos/imagenes/producto49222.jpg"
+    },
+    "audio-technica-ath-awkt_": {
+        "name": "Audio-Technica ATH-AWKT",
+        "price": 1499.0,
+        "price_old": 1999.0,
+        "url": "www.supersonido.es/p/audio-technica-ath-awkt_",
+        "image": "www.supersonido.es/productos/imagenes/producto49179.jpg"
     },
     "matrix-audio-element-p__": {
         "name": "Matrix Audio Element P",
