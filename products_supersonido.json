@@ -335,19 +335,19 @@
         "url": "www.supersonido.es/p/project-maia-ds",
         "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
-    "musical-fidelity-m2scd": {
-        "name": "Musical Fidelity M2SCD",
-        "price": 599.0,
-        "price_old": 1099.0,
-        "url": "www.supersonido.es/p/musical-fidelity-m2scd",
-        "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
-    },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
         "price": 599.0,
         "price_old": 949.0,
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
+    },
+    "musical-fidelity-m2scd": {
+        "name": "Musical Fidelity M2SCD",
+        "price": 599.0,
+        "price_old": 1099.0,
+        "url": "www.supersonido.es/p/musical-fidelity-m2scd",
+        "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
     },
     "shanling-m6-pro-21_": {
         "name": "Shanling M6 PRO (21)",
@@ -517,19 +517,19 @@
         "url": "www.supersonido.es/p/svs-prime-tower-speaker_",
         "image": "www.supersonido.es/productos/imagenes/producto47939.jpg"
     },
-    "audeze-lcdxc": {
-        "name": "Audeze LCD-XC",
-        "price": 1099.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/audeze-lcdxc",
-        "image": "www.supersonido.es/productos/imagenes/producto16708.jpg"
-    },
     "audeze-lcd-xc-carbon-cup-edition_": {
         "name": "Audeze LCD-XC Carbon Cup Edition",
         "price": 1099.0,
         "price_old": 1499.0,
         "url": "www.supersonido.es/p/audeze-lcd-xc-carbon-cup-edition_",
         "image": "www.supersonido.es/productos/imagenes/producto45673.jpg"
+    },
+    "audeze-lcdxc": {
+        "name": "Audeze LCD-XC",
+        "price": 1099.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/audeze-lcdxc",
+        "image": "www.supersonido.es/productos/imagenes/producto16708.jpg"
     },
     "sivga-sendy-peacock_": {
         "name": "Sendy Audio Peacock",
@@ -782,6 +782,13 @@
         "price_old": 3149.0,
         "url": "www.supersonido.es/p/svs-pb-4000-oc",
         "image": "www.supersonido.es/productos/imagenes/producto48256.jpg"
+    },
+    "naim-uniti-atom-headphone-edition__": {
+        "name": "Naim Uniti Atom Headphone Edition",
+        "price": 2699.0,
+        "price_old": 3299.0,
+        "url": "www.supersonido.es/p/naim-uniti-atom-headphone-edition__",
+        "image": "www.supersonido.es/productos/imagenes/producto47957.jpg"
     },
     "dynaudio-xeo-30": {
         "name": "Dynaudio Xeo 30",
