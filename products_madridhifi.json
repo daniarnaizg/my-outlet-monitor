@@ -2463,6 +2463,13 @@
         "url": "https://www.madridhifi.com/p/yamaha-np-32b-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/3/1/10098513/photos/listado/comprar-piano-yamaha-np32b.jpg"
     },
+    "yamaha-np-32wh-reacondicionado": {
+        "name": "YAMAHA NP-32WH Teclado de 76 teclas ( REACONDICIONADO )",
+        "price": 289.11,
+        "price_old": 399.0,
+        "url": "https://www.madridhifi.com/p/yamaha-np-32wh-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/4/1/10098514/photos/listado/piano-yamaha-np32blanco.jpg"
+    },
     "yamaha-c-40-reacondicionado": {
         "name": "YAMAHA C-40-II Guitarra Clasica ( REACONDICIONADO )",
         "price": 117.81,
@@ -2475,20 +2482,13 @@
         "price": 446.61,
         "price_old": 529.0,
         "url": "https://www.madridhifi.com/p/yamaha-mg-16-reacondicionado/",
-        "image": "https://www.madridhifi.com/crm/documents/produit/9/2/10088429/photos/listado/YAMAHA-MEZCLADOR-MG16.jpg"
+        "image": "/public/img/spacer.gif"
     },
     "yamaha-gl-1-guitarra-clasica-gl1-precio-reacondicionado": {
         "name": "YAMAHA GL-1 Guitalele Natural ( REACONDICIONADO )",
         "price": 73.21,
         "price_old": 99.0,
         "url": "https://www.madridhifi.com/p/yamaha-gl-1-guitarra-clasica-gl1-precio-reacondicionado/",
-        "image": "/public/img/spacer.gif"
-    },
-    "yamaha-np-32wh-reacondicionado": {
-        "name": "YAMAHA NP-32WH Teclado de 76 teclas ( REACONDICIONADO )",
-        "price": 289.11,
-        "price_old": 399.0,
-        "url": "https://www.madridhifi.com/p/yamaha-np-32wh-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
     "yamaha-erg-121-gpiihll-reacondicionado": {
@@ -2566,13 +2566,6 @@
         "price": 266.21,
         "price_old": 425.0,
         "url": "https://www.madridhifi.com/p/yamaha-ez300-reacondicionado/",
-        "image": "/public/img/spacer.gif"
-    },
-    "yamaha-revstar-rse20vw-reacondicionado": {
-        "name": "Yamaha RevStar RSE20VW Serie Element Color Vintage White ( REACONDICIONADO )",
-        "price": 366.51,
-        "price_old": 616.0,
-        "url": "https://www.madridhifi.com/p/yamaha-revstar-rse20vw-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
     "yamaha-p-s500wh-reacondicionado": {
