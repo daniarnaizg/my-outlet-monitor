@@ -335,19 +335,19 @@
         "url": "www.supersonido.es/p/project-maia-ds",
         "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
-    "musical-fidelity-m2scd": {
-        "name": "Musical Fidelity M2SCD",
-        "price": 599.0,
-        "price_old": 1099.0,
-        "url": "www.supersonido.es/p/musical-fidelity-m2scd",
-        "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
-    },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
         "price": 599.0,
         "price_old": 949.0,
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
+    },
+    "musical-fidelity-m2scd": {
+        "name": "Musical Fidelity M2SCD",
+        "price": 599.0,
+        "price_old": 1099.0,
+        "url": "www.supersonido.es/p/musical-fidelity-m2scd",
+        "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
     },
     "shanling-m6-pro-21_": {
         "name": "Shanling M6 PRO (21)",
@@ -475,19 +475,19 @@
         "url": "www.supersonido.es/p/dynaudio-evoke-10_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49809.jpg"
     },
-    "wharfedale-evo4-3_": {
-        "name": "Wharfedale Evo4.3",
-        "price": 999.0,
-        "price_old": 1449.0,
-        "url": "www.supersonido.es/p/wharfedale-evo4-3_",
-        "image": "www.supersonido.es/productos/imagenes/producto43301.jpg"
-    },
     "samsung-qe55qn95a__": {
         "name": "Samsung QE55QN95A",
         "price": 999.0,
         "price_old": 1999.0,
         "url": "www.supersonido.es/p/samsung-qe55qn95a__",
         "image": "www.supersonido.es/productos/imagenes/producto47373.jpg"
+    },
+    "wharfedale-evo4-3_": {
+        "name": "Wharfedale Evo4.3",
+        "price": 999.0,
+        "price_old": 1449.0,
+        "url": "www.supersonido.es/p/wharfedale-evo4-3_",
+        "image": "www.supersonido.es/productos/imagenes/producto43301.jpg"
     },
     "primare-spa-22-hd": {
         "name": "Primare SPA 22 HD",
@@ -559,6 +559,13 @@
         "url": "www.supersonido.es/p/sennheiser-hd-820_OC",
         "image": "www.supersonido.es/productos/imagenes/producto49890.jpg"
     },
+    "mrspeakers-ether-flow__": {
+        "name": "Dan Clark Audio ETHER Flow",
+        "price": 1299.0,
+        "price_old": 1999.0,
+        "url": "www.supersonido.es/p/mrspeakers-ether-flow__",
+        "image": "www.supersonido.es/productos/imagenes/producto47944.jpg"
+    },
     "the-chord-company-signaturexl-speaker-cable_": {
         "name": "The Chord Company SignatureXL speaker cable",
         "price": 1325.0,
@@ -593,6 +600,20 @@
         "price_old": 2799.0,
         "url": "www.supersonido.es/p/matrix-audio-element-p_",
         "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
+    },
+    "mrspeakers-ether-c-flow-1-1_": {
+        "name": "Dan Clark Audio ETHER C Flow 1.1",
+        "price": 1399.0,
+        "price_old": 2159.0,
+        "url": "www.supersonido.es/p/mrspeakers-ether-c-flow-1-1_",
+        "image": "www.supersonido.es/productos/imagenes/producto50775.jpg"
+    },
+    "mrspeakers-ether-flow-1-1_": {
+        "name": "Dan Clark Audio ETHER Flow 1.1",
+        "price": 1399.0,
+        "price_old": 2159.0,
+        "url": "www.supersonido.es/p/mrspeakers-ether-flow-1-1_",
+        "image": "www.supersonido.es/productos/imagenes/producto50776.jpg"
     },
     "rose-rs201e__": {
         "name": "Rose RS201E",
@@ -727,19 +748,19 @@
         "url": "www.supersonido.es/p/naim-nait-xs-3_",
         "image": "www.supersonido.es/productos/imagenes/producto47947.jpg"
     },
-    "meze-audio-empyrean_": {
-        "name": "Meze Audio Empyrean",
-        "price": 2399.0,
-        "price_old": 2999.0,
-        "url": "www.supersonido.es/p/meze-audio-empyrean_",
-        "image": "www.supersonido.es/productos/imagenes/producto50663.jpg"
-    },
     "astell-kern-ak240": {
         "name": "Astell&kern AK240",
         "price": 2399.0,
         "price_old": 2399.0,
         "url": "www.supersonido.es/p/astell-kern-ak240",
         "image": "www.supersonido.es/productos/imagenes/producto29954.jpg"
+    },
+    "meze-audio-empyrean_": {
+        "name": "Meze Audio Empyrean",
+        "price": 2399.0,
+        "price_old": 2999.0,
+        "url": "www.supersonido.es/p/meze-audio-empyrean_",
+        "image": "www.supersonido.es/productos/imagenes/producto50663.jpg"
     },
     "sonus-faber-cremona-auditor-m-stands": {
         "name": "Sonus-Faber CREMONA AUDITOR M + STANDS",
@@ -804,6 +825,13 @@
         "url": "www.supersonido.es/p/isotek-systems-nova",
         "image": "www.supersonido.es/productos/imagenes/producto11309.jpg"
     },
+    "electrocompaniet-ec-4-9-2ch": {
+        "name": "Electrocompaniet EC 4.9 2ch",
+        "price": 2890.0,
+        "price_old": 4290.0,
+        "url": "www.supersonido.es/p/electrocompaniet-ec-4-9-2ch",
+        "image": "www.supersonido.es/productos/imagenes/producto5156.jpg"
+    },
     "anthem-str-integrated-amplifier_": {
         "name": "Anthem STR Integrated Amplifier",
         "price": 2990.0,
@@ -832,19 +860,19 @@
         "url": "www.supersonido.es/p/devialet-130-pro_",
         "image": "www.supersonido.es/productos/imagenes/producto48499.jpg"
     },
-    "krell-industries-evo-222-": {
-        "name": "Krell Industries Evo 222",
-        "price": 3990.0,
-        "price_old": 10540.0,
-        "url": "www.supersonido.es/p/krell-industries-evo-222-",
-        "image": "www.supersonido.es/productos/imagenes/producto3644.jpg"
-    },
     "copland-csa-150_": {
         "name": "Copland CSA 150",
         "price": 3990.0,
         "price_old": 5390.0,
         "url": "www.supersonido.es/p/copland-csa-150_",
         "image": "www.supersonido.es/productos/imagenes/producto50008.jpg"
+    },
+    "krell-industries-evo-222-": {
+        "name": "Krell Industries Evo 222",
+        "price": 3990.0,
+        "price_old": 10540.0,
+        "url": "www.supersonido.es/p/krell-industries-evo-222-",
+        "image": "www.supersonido.es/productos/imagenes/producto3644.jpg"
     },
     "jvc-dla-n5b_": {
         "name": "JVC DLA-N5B",
@@ -943,6 +971,13 @@
         "price_old": 7499.0,
         "url": "www.supersonido.es/p/mcintosh-mha150_oc",
         "image": "www.supersonido.es/productos/imagenes/producto50107.jpg"
+    },
+    "electrocompaniet-aw-250-r_": {
+        "name": "Electrocompaniet AW-250-R",
+        "price": 6399.0,
+        "price_old": 7999.0,
+        "url": "www.supersonido.es/p/electrocompaniet-aw-250-r_",
+        "image": "www.supersonido.es/productos/imagenes/producto50778.jpg"
     },
     "unison-research-s9": {
         "name": "Unison Research S9",
