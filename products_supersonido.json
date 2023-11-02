@@ -139,13 +139,6 @@
         "url": "www.supersonido.es/p/rega-planar-1_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49888.jpg"
     },
-    "pioneer-pd30ae_": {
-        "name": "Pioneer PD-30AE",
-        "price": 279.0,
-        "price_old": 379.0,
-        "url": "www.supersonido.es/p/pioneer-pd30ae_",
-        "image": "www.supersonido.es/productos/imagenes/producto50345.jpg"
-    },
     "denon-home-250__": {
         "name": "Denon Home 250",
         "price": 299.0,
@@ -216,19 +209,19 @@
         "url": "www.supersonido.es/p/focal-elegia_of_",
         "image": "www.supersonido.es/productos/imagenes/producto50664.jpg"
     },
-    "shanling-m6-21_": {
-        "name": "Shanling M6(21)",
-        "price": 399.0,
-        "price_old": 599.0,
-        "url": "www.supersonido.es/p/shanling-m6-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49367.jpg"
-    },
     "stax-srm-252s": {
         "name": "Stax SRM-252S",
         "price": 399.0,
         "price_old": 580.0,
         "url": "www.supersonido.es/p/stax-srm-252s",
         "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
+    },
+    "shanling-m6-21_": {
+        "name": "Shanling M6(21)",
+        "price": 399.0,
+        "price_old": 599.0,
+        "url": "www.supersonido.es/p/shanling-m6-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49367.jpg"
     },
     "bluesound-pulse-mini-2i_": {
         "name": "Bluesound PULSE MINI 2i",
@@ -258,13 +251,6 @@
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c30_",
         "image": "www.supersonido.es/productos/imagenes/producto44225.jpg"
     },
-    "earmen-tradutto_": {
-        "name": "EarMen Tradutto",
-        "price": 499.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/earmen-tradutto_",
-        "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
-    },
     "technics-ottava-s-sc-c50OC": {
         "name": "Technics OTTAVA S SC-C50",
         "price": 499.0,
@@ -278,6 +264,13 @@
         "price_old": 699.0,
         "url": "www.supersonido.es/p/denon-home-350_oc",
         "image": "www.supersonido.es/productos/imagenes/producto47540.jpg"
+    },
+    "earmen-tradutto_": {
+        "name": "EarMen Tradutto",
+        "price": 499.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/earmen-tradutto_",
+        "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
     },
     "tag-maclaren-audio-dvd-32flr": {
         "name": "Tag MacLaren Audio DVD-32FLR",
@@ -405,19 +398,19 @@
         "url": "www.supersonido.es/p/bluesound-pulse-2i_",
         "image": "www.supersonido.es/productos/imagenes/producto47297.jpg"
     },
-    "pro-ject-stereo-box-rs": {
-        "name": "Pro-Ject Stereo Box RS",
-        "price": 749.0,
-        "price_old": 999.0,
-        "url": "www.supersonido.es/p/pro-ject-stereo-box-rs",
-        "image": "www.supersonido.es/productos/imagenes/producto16721.jpg"
-    },
     "advance-paris-playstream-a5_": {
         "name": "Advance Paris PLAYSTREAM A5",
         "price": 749.0,
         "price_old": 1199.0,
         "url": "www.supersonido.es/p/advance-paris-playstream-a5_",
         "image": "www.supersonido.es/productos/imagenes/producto47533.jpg"
+    },
+    "pro-ject-stereo-box-rs": {
+        "name": "Pro-Ject Stereo Box RS",
+        "price": 749.0,
+        "price_old": 999.0,
+        "url": "www.supersonido.es/p/pro-ject-stereo-box-rs",
+        "image": "www.supersonido.es/productos/imagenes/producto16721.jpg"
     },
     "sennheiser-ie-800s_oc": {
         "name": "Sennheiser IE 800S",
@@ -503,19 +496,19 @@
         "url": "www.supersonido.es/p/primare-spa-22-hd",
         "image": "www.supersonido.es/productos/imagenes/producto12854.jpg"
     },
-    "audeze-euclid_": {
-        "name": "Audeze EUCLID",
-        "price": 999.0,
-        "price_old": 1479.0,
-        "url": "www.supersonido.es/p/audeze-euclid_",
-        "image": "www.supersonido.es/productos/imagenes/producto49689.jpg"
-    },
     "cayin-n6ii_": {
         "name": "Cayin N6ii",
         "price": 999.0,
         "price_old": 1399.0,
         "url": "www.supersonido.es/p/cayin-n6ii_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+    },
+    "audeze-euclid_": {
+        "name": "Audeze EUCLID",
+        "price": 999.0,
+        "price_old": 1479.0,
+        "url": "www.supersonido.es/p/audeze-euclid_",
+        "image": "www.supersonido.es/productos/imagenes/producto49689.jpg"
     },
     "audeze-lcdxc": {
         "name": "Audeze LCD-XC",
