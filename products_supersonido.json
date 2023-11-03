@@ -55,13 +55,6 @@
         "url": "www.supersonido.es/p/grado-sr225e_OC",
         "image": "www.supersonido.es/productos/imagenes/producto43486.jpg"
     },
-    "sonos-one.": {
-        "name": "Sonos One",
-        "price": 149.0,
-        "price_old": 229.0,
-        "url": "www.supersonido.es/p/sonos-one.",
-        "image": "www.supersonido.es/productos/imagenes/producto27350.jpg"
-    },
     "audiopro-addon-c5a__": {
         "name": "AudioPro ADDON C5A",
         "price": 149.0,
@@ -75,6 +68,13 @@
         "price_old": 189.0,
         "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
         "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
+    },
+    "sonos-one.": {
+        "name": "Sonos One",
+        "price": 149.0,
+        "price_old": 229.0,
+        "url": "www.supersonido.es/p/sonos-one.",
+        "image": "www.supersonido.es/productos/imagenes/producto27350.jpg"
     },
     "sennheiser-momentum-true-wireless-2_": {
         "name": "Sennheiser Momentum True Wireless 2",
@@ -97,19 +97,19 @@
         "url": "www.supersonido.es/p/ifi-audio-xdsd",
         "image": "www.supersonido.es/productos/imagenes/producto27468.jpg"
     },
-    "loewe-klang-mr1": {
-        "name": "Loewe Klang mr1",
-        "price": 219.0,
-        "price_old": 299.0,
-        "url": "www.supersonido.es/p/loewe-klang-mr1",
-        "image": "www.supersonido.es/productos/imagenes/producto47220.jpg"
-    },
     "ifi-audio-zen-dac-signature": {
         "name": "IFI Audio ZEN DAC SIGNATURE",
         "price": 219.0,
         "price_old": 299.0,
         "url": "www.supersonido.es/p/ifi-audio-zen-dac-signature",
         "image": "www.supersonido.es/productos/imagenes/producto43929.jpg"
+    },
+    "loewe-klang-mr1": {
+        "name": "Loewe Klang mr1",
+        "price": 219.0,
+        "price_old": 299.0,
+        "url": "www.supersonido.es/p/loewe-klang-mr1",
+        "image": "www.supersonido.es/productos/imagenes/producto47220.jpg"
     },
     "bose-quietcomfort-45": {
         "name": "Bose QuietComfort 45",
@@ -321,19 +321,19 @@
         "url": "www.supersonido.es/p/project-maia-ds",
         "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
-    "musical-fidelity-m2scd": {
-        "name": "Musical Fidelity M2SCD",
-        "price": 599.0,
-        "price_old": 1099.0,
-        "url": "www.supersonido.es/p/musical-fidelity-m2scd",
-        "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
-    },
     "rel-ht-1003-mkii": {
         "name": "Rel HT/1003 MKII",
         "price": 599.0,
         "price_old": 950.0,
         "url": "www.supersonido.es/p/rel-ht-1003-mkii",
         "image": "www.supersonido.es/productos/imagenes/producto48311.jpg"
+    },
+    "musical-fidelity-m2scd": {
+        "name": "Musical Fidelity M2SCD",
+        "price": 599.0,
+        "price_old": 1099.0,
+        "url": "www.supersonido.es/p/musical-fidelity-m2scd",
+        "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
     },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
@@ -390,6 +390,13 @@
         "price_old": 1489.0,
         "url": "www.supersonido.es/p/grado-gs1000e-gr8e",
         "image": "www.supersonido.es/productos/imagenes/producto30130.jpg"
+    },
+    "pro-ject-dac-box-rs-silver": {
+        "name": "Pro-Ject DAC Box RS",
+        "price": 699.0,
+        "price_old": 1099.0,
+        "url": "www.supersonido.es/p/pro-ject-dac-box-rs-silver",
+        "image": "www.supersonido.es/productos/imagenes/producto16717.jpg"
     },
     "bluesound-pulse-2i_": {
         "name": "Bluesound PULSE 2i",
@@ -545,6 +552,20 @@
         "url": "www.supersonido.es/p/primare-i15-prisma",
         "image": "www.supersonido.es/productos/imagenes/producto50094.jpg"
     },
+    "primare-r35_": {
+        "name": "Primare R35",
+        "price": 1199.0,
+        "price_old": 1590.0,
+        "url": "www.supersonido.es/p/primare-r35_",
+        "image": "www.supersonido.es/productos/imagenes/producto50788.jpg"
+    },
+    "primare-sc-15-prisma": {
+        "name": "Primare SC 15 Prisma",
+        "price": 1199.0,
+        "price_old": 1590.0,
+        "url": "www.supersonido.es/p/primare-sc-15-prisma",
+        "image": "www.supersonido.es/productos/imagenes/producto29464.jpg"
+    },
     "martinlogan-motion-vision-x-exdemo": {
         "name": "Martin-Logan Motion Vision X",
         "price": 1249.0,
@@ -664,19 +685,19 @@
         "url": "www.supersonido.es/p/dynaudio-evoke-20_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49810.jpg"
     },
-    "klipsch-the-nines_": {
-        "name": "Klipsch THE NINES",
-        "price": 1599.0,
-        "price_old": 1999.0,
-        "url": "www.supersonido.es/p/klipsch-the-nines_",
-        "image": "www.supersonido.es/productos/imagenes/producto50393.jpg"
-    },
     "monitor-audio-gold-100-5g_": {
         "name": "Monitor Audio Gold 100 5G",
         "price": 1599.0,
         "price_old": 2135.0,
         "url": "www.supersonido.es/p/monitor-audio-gold-100-5g_",
         "image": "www.supersonido.es/productos/imagenes/producto50139.jpg"
+    },
+    "klipsch-the-nines_": {
+        "name": "Klipsch THE NINES",
+        "price": 1599.0,
+        "price_old": 1999.0,
+        "url": "www.supersonido.es/p/klipsch-the-nines_",
+        "image": "www.supersonido.es/productos/imagenes/producto50393.jpg"
     },
     "unison-research-simply-italy_oc": {
         "name": "Unison Research SIMPLY ITALY",
@@ -811,12 +832,12 @@
         "url": "www.supersonido.es/p/svs-pb-4000-oc",
         "image": "www.supersonido.es/productos/imagenes/producto48256.jpg"
     },
-    "naim-uniti-atom-headphone-edition__": {
-        "name": "Naim Uniti Atom Headphone Edition",
-        "price": 2699.0,
-        "price_old": 3299.0,
-        "url": "www.supersonido.es/p/naim-uniti-atom-headphone-edition__",
-        "image": "www.supersonido.es/productos/imagenes/producto47957.jpg"
+    "primare-i25-prisma_": {
+        "name": "Primare I25 Prisma",
+        "price": 2590.0,
+        "price_old": 3790.0,
+        "url": "www.supersonido.es/p/primare-i25-prisma_",
+        "image": "www.supersonido.es/productos/imagenes/producto50789.jpg"
     },
     "dynaudio-xeo-30": {
         "name": "Dynaudio Xeo 30",
@@ -824,6 +845,13 @@
         "price_old": 3599.0,
         "url": "www.supersonido.es/p/dynaudio-xeo-30",
         "image": "www.supersonido.es/productos/imagenes/producto27009.jpg"
+    },
+    "naim-uniti-atom-headphone-edition__": {
+        "name": "Naim Uniti Atom Headphone Edition",
+        "price": 2699.0,
+        "price_old": 3299.0,
+        "url": "www.supersonido.es/p/naim-uniti-atom-headphone-edition__",
+        "image": "www.supersonido.es/productos/imagenes/producto47957.jpg"
     },
     "wharfedale-elysian-1_": {
         "name": "Wharfedale ELYSIAN 1",
@@ -839,6 +867,13 @@
         "url": "www.supersonido.es/p/mrspeakers-voce_",
         "image": "www.supersonido.es/productos/imagenes/producto50151.jpg"
     },
+    "isotek-systems-nova": {
+        "name": "Isotek Systems Nova",
+        "price": 2890.0,
+        "price_old": 3990.0,
+        "url": "www.supersonido.es/p/isotek-systems-nova",
+        "image": "www.supersonido.es/productos/imagenes/producto11309.jpg"
+    },
     "electrocompaniet-ec-4-9-2ch": {
         "name": "Electrocompaniet EC 4.9 2ch",
         "price": 2890.0,
@@ -846,12 +881,12 @@
         "url": "www.supersonido.es/p/electrocompaniet-ec-4-9-2ch",
         "image": "www.supersonido.es/productos/imagenes/producto5156.jpg"
     },
-    "isotek-systems-nova": {
-        "name": "Isotek Systems Nova",
-        "price": 2890.0,
-        "price_old": 3990.0,
-        "url": "www.supersonido.es/p/isotek-systems-nova",
-        "image": "www.supersonido.es/productos/imagenes/producto11309.jpg"
+    "primare-i35dac_": {
+        "name": "Primare I35DAC",
+        "price": 2990.0,
+        "price_old": 4390.0,
+        "url": "www.supersonido.es/p/primare-i35dac_",
+        "image": "www.supersonido.es/productos/imagenes/producto50790.jpg"
     },
     "anthem-str-integrated-amplifier_": {
         "name": "Anthem STR Integrated Amplifier",
@@ -873,6 +908,13 @@
         "price_old": 4199.0,
         "url": "www.supersonido.es/p/wharfedale-elysian-1__",
         "image": "www.supersonido.es/productos/imagenes/producto50595.jpg"
+    },
+    "primare-i35-prisma_": {
+        "name": "Primare I35 Prisma",
+        "price": 3290.0,
+        "price_old": 4790.0,
+        "url": "www.supersonido.es/p/primare-i35-prisma_",
+        "image": "www.supersonido.es/productos/imagenes/producto50791.jpg"
     },
     "marantz-sc-11s1-sm-11s1": {
         "name": "Marantz SC-11S1+SM-11S1",
