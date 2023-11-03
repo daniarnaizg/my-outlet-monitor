@@ -62,19 +62,19 @@
         "url": "www.supersonido.es/p/sonos-one.",
         "image": "www.supersonido.es/productos/imagenes/producto27350.jpg"
     },
-    "audiopro-addon-c5a__": {
-        "name": "AudioPro ADDON C5A",
-        "price": 149.0,
-        "price_old": 269.0,
-        "url": "www.supersonido.es/p/audiopro-addon-c5a__",
-        "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
-    },
     "ifi-audio-hip-dac-2_": {
         "name": "IFI Audio Hip-dac 2",
         "price": 149.0,
         "price_old": 189.0,
         "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
         "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
+    },
+    "audiopro-addon-c5a__": {
+        "name": "AudioPro ADDON C5A",
+        "price": 149.0,
+        "price_old": 269.0,
+        "url": "www.supersonido.es/p/audiopro-addon-c5a__",
+        "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
     },
     "sennheiser-momentum-true-wireless-2_": {
         "name": "Sennheiser Momentum True Wireless 2",
@@ -433,19 +433,19 @@
         "url": "www.supersonido.es/p/acoustune-hs1697ti",
         "image": "www.supersonido.es/productos/imagenes/producto42965.jpg"
     },
-    "atcs-scm7_ocas": {
-        "name": "ATC SCM7",
-        "price": 899.0,
-        "price_old": 1525.0,
-        "url": "www.supersonido.es/p/atcs-scm7_ocas",
-        "image": "www.supersonido.es/productos/imagenes/producto42477.jpg"
-    },
     "audiolab-omnia_oc": {
         "name": "Audiolab Omnia",
         "price": 899.0,
         "price_old": 1799.0,
         "url": "www.supersonido.es/p/audiolab-omnia_oc",
         "image": "www.supersonido.es/productos/imagenes/producto48757.jpg"
+    },
+    "atcs-scm7_ocas": {
+        "name": "ATC SCM7",
+        "price": 899.0,
+        "price_old": 1525.0,
+        "url": "www.supersonido.es/p/atcs-scm7_ocas",
+        "image": "www.supersonido.es/productos/imagenes/producto42477.jpg"
     },
     "mrspeakers-ether-flow": {
         "name": "Dan Clark Audio ETHER Flow",
@@ -482,13 +482,6 @@
         "url": "www.supersonido.es/p/samsung-qe55qn95a__",
         "image": "www.supersonido.es/productos/imagenes/producto47373.jpg"
     },
-    "wharfedale-evo4-3_": {
-        "name": "Wharfedale Evo4.3",
-        "price": 999.0,
-        "price_old": 1449.0,
-        "url": "www.supersonido.es/p/wharfedale-evo4-3_",
-        "image": "www.supersonido.es/productos/imagenes/producto43301.jpg"
-    },
     "primare-spa-22-hd": {
         "name": "Primare SPA 22 HD",
         "price": 999.0,
@@ -496,12 +489,12 @@
         "url": "www.supersonido.es/p/primare-spa-22-hd",
         "image": "www.supersonido.es/productos/imagenes/producto12854.jpg"
     },
-    "cayin-n6ii_": {
-        "name": "Cayin N6ii",
+    "wharfedale-evo4-3_": {
+        "name": "Wharfedale Evo4.3",
         "price": 999.0,
-        "price_old": 1399.0,
-        "url": "www.supersonido.es/p/cayin-n6ii_",
-        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+        "price_old": 1449.0,
+        "url": "www.supersonido.es/p/wharfedale-evo4-3_",
+        "image": "www.supersonido.es/productos/imagenes/producto43301.jpg"
     },
     "audeze-euclid_": {
         "name": "Audeze EUCLID",
@@ -509,6 +502,13 @@
         "price_old": 1479.0,
         "url": "www.supersonido.es/p/audeze-euclid_",
         "image": "www.supersonido.es/productos/imagenes/producto49689.jpg"
+    },
+    "cayin-n6ii_": {
+        "name": "Cayin N6ii",
+        "price": 999.0,
+        "price_old": 1399.0,
+        "url": "www.supersonido.es/p/cayin-n6ii_",
+        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
     },
     "audeze-lcdxc": {
         "name": "Audeze LCD-XC",
@@ -1048,13 +1048,6 @@
         "price_old": 11290.0,
         "url": "www.supersonido.es/p/audio-research-vsi75-exdemo",
         "image": "www.supersonido.es/productos/imagenes/producto20176.jpg"
-    },
-    "audio-research-reference-6": {
-        "name": "Audio Research Reference 6",
-        "price": 8900.0,
-        "price_old": 16590.0,
-        "url": "www.supersonido.es/p/audio-research-reference-6",
-        "image": "www.supersonido.es/productos/imagenes/producto21571.jpg"
     },
     "audio-research-ref-dac-dlna": {
         "name": "Audio Research REF DAC",
