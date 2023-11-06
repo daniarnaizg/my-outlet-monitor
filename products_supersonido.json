@@ -244,19 +244,19 @@
         "url": "www.supersonido.es/p/loewe-klang-mr3",
         "image": "www.supersonido.es/productos/imagenes/producto47219.jpg"
     },
-    "qacoustics-qi80cp_": {
-        "name": "Q-Acoustics QI 80 CP",
-        "price": 449.0,
-        "price_old": 720.0,
-        "url": "www.supersonido.es/p/qacoustics-qi80cp_",
-        "image": "www.supersonido.es/productos/imagenes/producto49855.jpg"
-    },
     "klipsch-rp-500m-ii_": {
         "name": "Klipsch RP-500M II",
         "price": 449.0,
         "price_old": 599.0,
         "url": "www.supersonido.es/p/klipsch-rp-500m-ii_",
         "image": "www.supersonido.es/productos/imagenes/producto50786.jpg"
+    },
+    "qacoustics-qi80cp_": {
+        "name": "Q-Acoustics QI 80 CP",
+        "price": 449.0,
+        "price_old": 720.0,
+        "url": "www.supersonido.es/p/qacoustics-qi80cp_",
+        "image": "www.supersonido.es/productos/imagenes/producto49855.jpg"
     },
     "technics-ottava-s-sc-c30_": {
         "name": "Technics OTTAVA S SC-C30",
@@ -293,19 +293,19 @@
         "url": "www.supersonido.es/p/earmen-tradutto_",
         "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
     },
-    "tag-maclaren-audio-dvd-32flr": {
-        "name": "Tag MacLaren Audio DVD-32FLR",
-        "price": 500.0,
-        "price_old": 2999.0,
-        "url": "www.supersonido.es/p/tag-maclaren-audio-dvd-32flr",
-        "image": "www.supersonido.es/productos/imagenes/producto713.jpg"
-    },
     "q-acoustics-m20-hd-link-1_": {
         "name": "Q-Acoustics M20 HD + LINK 1",
         "price": 500.0,
         "price_old": 698.0,
         "url": "www.supersonido.es/p/q-acoustics-m20-hd-link-1_",
         "image": "www.supersonido.es/productos/imagenes/producto50721.jpg"
+    },
+    "tag-maclaren-audio-dvd-32flr": {
+        "name": "Tag MacLaren Audio DVD-32FLR",
+        "price": 500.0,
+        "price_old": 2999.0,
+        "url": "www.supersonido.es/p/tag-maclaren-audio-dvd-32flr",
+        "image": "www.supersonido.es/productos/imagenes/producto713.jpg"
     },
     "loewe-klang-mr5": {
         "name": "Loewe Klang mr5",
@@ -328,13 +328,6 @@
         "url": "www.supersonido.es/p/wharfedale-evo4-2_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49914.jpg"
     },
-    "denon-home-350__": {
-        "name": "Denon Home 350",
-        "price": 549.0,
-        "price_old": 699.0,
-        "url": "www.supersonido.es/p/denon-home-350__",
-        "image": "www.supersonido.es/productos/imagenes/producto44264.jpg"
-    },
     "audioquest-diamond-usb-1-5m": {
         "name": "Audioquest Diamond Usb 1,5m",
         "price": 549.0,
@@ -342,19 +335,12 @@
         "url": "www.supersonido.es/p/audioquest-diamond-usb-1-5m",
         "image": "www.supersonido.es/productos/imagenes/producto50153.jpg"
     },
-    "shanling-m6-pro-21_": {
-        "name": "Shanling M6 PRO (21)",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
-    },
-    "advance-paris-playstream-a1_": {
-        "name": "Advance Paris PLAYSTREAM A1",
-        "price": 599.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
-        "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
+    "denon-home-350__": {
+        "name": "Denon Home 350",
+        "price": 549.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/denon-home-350__",
+        "image": "www.supersonido.es/productos/imagenes/producto44264.jpg"
     },
     "project-maia-ds": {
         "name": "Pro-Ject MaiA DS",
@@ -383,6 +369,20 @@
         "price_old": 949.0,
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
+    },
+    "shanling-m6-pro-21_": {
+        "name": "Shanling M6 PRO (21)",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
+    },
+    "advance-paris-playstream-a1_": {
+        "name": "Advance Paris PLAYSTREAM A1",
+        "price": 599.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
+        "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
     },
     "martin-logan-bravado": {
         "name": "Martin-Logan Bravado",
@@ -433,19 +433,19 @@
         "url": "www.supersonido.es/p/pro-ject-stereo-box-rs",
         "image": "www.supersonido.es/productos/imagenes/producto16721.jpg"
     },
-    "focal-clear_": {
-        "name": "FOCAL Clear",
-        "price": 799.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/focal-clear_",
-        "image": "www.supersonido.es/productos/imagenes/producto50662.jpg"
-    },
     "sennheiser-ie-800s_oc": {
         "name": "Sennheiser IE 800S",
         "price": 799.0,
         "price_old": 999.0,
         "url": "www.supersonido.es/p/sennheiser-ie-800s_oc",
         "image": "www.supersonido.es/productos/imagenes/producto50611.jpg"
+    },
+    "focal-clear_": {
+        "name": "FOCAL Clear",
+        "price": 799.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/focal-clear_",
+        "image": "www.supersonido.es/productos/imagenes/producto50662.jpg"
     },
     "q-acoustics-q-active-200_": {
         "name": "Q-Acoustics Q Active 200",
@@ -622,6 +622,13 @@
         "url": "www.supersonido.es/p/the-chord-company-signaturexl-speaker-cable_",
         "image": "www.supersonido.es/productos/imagenes/producto50156.jpg"
     },
+    "anthem-mrx-540_": {
+        "name": "Anthem MRX 540",
+        "price": 1349.0,
+        "price_old": 1990.0,
+        "url": "www.supersonido.es/p/anthem-mrx-540_",
+        "image": "www.supersonido.es/productos/imagenes/producto50754.jpg"
+    },
     "rel-t9x_": {
         "name": "Rel T9x",
         "price": 1349.0,
@@ -635,13 +642,6 @@
         "price_old": 1799.0,
         "url": "www.supersonido.es/p/technics-sl-1210gr-egk_",
         "image": "www.supersonido.es/productos/imagenes/producto50604.jpg"
-    },
-    "anthem-mrx-540_": {
-        "name": "Anthem MRX 540",
-        "price": 1349.0,
-        "price_old": 1990.0,
-        "url": "www.supersonido.es/p/anthem-mrx-540_",
-        "image": "www.supersonido.es/productos/imagenes/producto50754.jpg"
     },
     "matrix-audio-element-p_": {
         "name": "Matrix Audio Element P",
@@ -734,6 +734,13 @@
         "url": "www.supersonido.es/p/sony-xr65x95k_",
         "image": "www.supersonido.es/productos/imagenes/producto49227.jpg"
     },
+    "pro-ject-x8_": {
+        "name": "Pro-Ject X8-SP",
+        "price": 1729.0,
+        "price_old": 2299.0,
+        "url": "www.supersonido.es/p/pro-ject-x8_",
+        "image": "www.supersonido.es/productos/imagenes/producto50806.jpg"
+    },
     "naim-xp5-xs_": {
         "name": "Naim XP5 XS",
         "price": 1750.0,
@@ -811,19 +818,19 @@
         "url": "www.supersonido.es/p/naim-nait-xs-3_",
         "image": "www.supersonido.es/productos/imagenes/producto47947.jpg"
     },
-    "meze-audio-empyrean_": {
-        "name": "Meze Audio Empyrean",
-        "price": 2399.0,
-        "price_old": 2999.0,
-        "url": "www.supersonido.es/p/meze-audio-empyrean_",
-        "image": "www.supersonido.es/productos/imagenes/producto50663.jpg"
-    },
     "astell-kern-ak240": {
         "name": "Astell&kern AK240",
         "price": 2399.0,
         "price_old": 2399.0,
         "url": "www.supersonido.es/p/astell-kern-ak240",
         "image": "www.supersonido.es/productos/imagenes/producto29954.jpg"
+    },
+    "meze-audio-empyrean_": {
+        "name": "Meze Audio Empyrean",
+        "price": 2399.0,
+        "price_old": 2999.0,
+        "url": "www.supersonido.es/p/meze-audio-empyrean_",
+        "image": "www.supersonido.es/productos/imagenes/producto50663.jpg"
     },
     "sonus-faber-cremona-auditor-m-stands": {
         "name": "Sonus-Faber CREMONA AUDITOR M + STANDS",
