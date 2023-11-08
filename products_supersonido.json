@@ -34,6 +34,13 @@
         "url": "www.supersonido.es/p/marantz-vs3003_",
         "image": "www.supersonido.es/productos/imagenes/producto48453.jpg"
     },
+    "audio-technica-at-lp60x__": {
+        "name": "Audio-Technica AT-LP60X",
+        "price": 130.0,
+        "price_old": 159.0,
+        "url": "www.supersonido.es/p/audio-technica-at-lp60x__",
+        "image": "www.supersonido.es/productos/imagenes/producto49584.jpg"
+    },
     "grado-sr125x_OC": {
         "name": "Grado SR125x",
         "price": 139.0,
@@ -62,13 +69,6 @@
         "url": "www.supersonido.es/p/sennheiser-momentum-true-wireless-2_",
         "image": "www.supersonido.es/productos/imagenes/producto42160.jpg"
     },
-    "audiopro-addon-c5a__": {
-        "name": "AudioPro ADDON C5A",
-        "price": 149.0,
-        "price_old": 269.0,
-        "url": "www.supersonido.es/p/audiopro-addon-c5a__",
-        "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
-    },
     "ifi-audio-hip-dac-2_": {
         "name": "IFI Audio Hip-dac 2",
         "price": 149.0,
@@ -76,12 +76,19 @@
         "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
         "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
     },
-    "pro-ject-primary-e_": {
-        "name": "Pro-Ject Primary E",
-        "price": 169.0,
-        "price_old": 279.0,
-        "url": "www.supersonido.es/p/pro-ject-primary-e_",
-        "image": "www.supersonido.es/productos/imagenes/producto43945.jpg"
+    "audiopro-addon-c5a__": {
+        "name": "AudioPro ADDON C5A",
+        "price": 149.0,
+        "price_old": 269.0,
+        "url": "www.supersonido.es/p/audiopro-addon-c5a__",
+        "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
+    },
+    "audio-technica-at-lp60xusb_": {
+        "name": "Audio-Technica AT-LP60XUSB",
+        "price": 150.0,
+        "price_old": 179.0,
+        "url": "www.supersonido.es/p/audio-technica-at-lp60xusb_",
+        "image": "www.supersonido.es/productos/imagenes/producto46486.jpg"
     },
     "sonos-one._": {
         "name": "Sonos One",
@@ -89,6 +96,13 @@
         "price_old": 229.0,
         "url": "www.supersonido.es/p/sonos-one._",
         "image": "www.supersonido.es/productos/imagenes/producto50519.jpg"
+    },
+    "pro-ject-primary-e_": {
+        "name": "Pro-Ject Primary E",
+        "price": 169.0,
+        "price_old": 279.0,
+        "url": "www.supersonido.es/p/pro-ject-primary-e_",
+        "image": "www.supersonido.es/productos/imagenes/producto43945.jpg"
     },
     "ifi-audio-xdsd": {
         "name": "IFI Audio XDSD",
@@ -363,19 +377,19 @@
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
-    "shanling-m6-pro-21_": {
-        "name": "Shanling M6 PRO (21)",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
-    },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
         "price": 599.0,
         "price_old": 899.0,
         "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
         "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
+    },
+    "shanling-m6-pro-21_": {
+        "name": "Shanling M6 PRO (21)",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
     "martin-logan-bravado": {
         "name": "Martin-Logan Bravado",
