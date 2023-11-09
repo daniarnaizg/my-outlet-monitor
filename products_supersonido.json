@@ -69,19 +69,19 @@
         "url": "www.supersonido.es/p/sennheiser-momentum-true-wireless-2_",
         "image": "www.supersonido.es/productos/imagenes/producto42160.jpg"
     },
-    "ifi-audio-hip-dac-2_": {
-        "name": "IFI Audio Hip-dac 2",
-        "price": 149.0,
-        "price_old": 189.0,
-        "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
-        "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
-    },
     "audiopro-addon-c5a__": {
         "name": "AudioPro ADDON C5A",
         "price": 149.0,
         "price_old": 269.0,
         "url": "www.supersonido.es/p/audiopro-addon-c5a__",
         "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
+    },
+    "ifi-audio-hip-dac-2_": {
+        "name": "IFI Audio Hip-dac 2",
+        "price": 149.0,
+        "price_old": 189.0,
+        "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
+        "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
     },
     "audio-technica-at-lp60xusb_": {
         "name": "Audio-Technica AT-LP60XUSB",
@@ -349,6 +349,13 @@
         "url": "www.supersonido.es/p/wharfedale-evo4-2_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49914.jpg"
     },
+    "denon-home-350__": {
+        "name": "Denon Home 350",
+        "price": 549.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/denon-home-350__",
+        "image": "www.supersonido.es/productos/imagenes/producto44264.jpg"
+    },
     "audioquest-diamond-usb-1-5m": {
         "name": "Audioquest Diamond Usb 1,5m",
         "price": 549.0,
@@ -356,12 +363,19 @@
         "url": "www.supersonido.es/p/audioquest-diamond-usb-1-5m",
         "image": "www.supersonido.es/productos/imagenes/producto50153.jpg"
     },
-    "denon-home-350__": {
-        "name": "Denon Home 350",
-        "price": 549.0,
-        "price_old": 699.0,
-        "url": "www.supersonido.es/p/denon-home-350__",
-        "image": "www.supersonido.es/productos/imagenes/producto44264.jpg"
+    "shanling-m6-pro-21_": {
+        "name": "Shanling M6 PRO (21)",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
+    },
+    "advance-paris-playstream-a1_": {
+        "name": "Advance Paris PLAYSTREAM A1",
+        "price": 599.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
+        "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
     },
     "project-maia-ds": {
         "name": "Pro-Ject MaiA DS",
@@ -383,20 +397,6 @@
         "price_old": 949.0,
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
-    },
-    "advance-paris-playstream-a1_": {
-        "name": "Advance Paris PLAYSTREAM A1",
-        "price": 599.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
-        "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
-    },
-    "shanling-m6-pro-21_": {
-        "name": "Shanling M6 PRO (21)",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
     "martin-logan-bravado": {
         "name": "Martin-Logan Bravado",
@@ -551,6 +551,13 @@
         "price_old": 1499.0,
         "url": "www.supersonido.es/p/audeze-lcdxc",
         "image": "www.supersonido.es/productos/imagenes/producto16708.jpg"
+    },
+    "rega-elex-mk4_": {
+        "name": "Rega ELEX MK4",
+        "price": 1149.0,
+        "price_old": 1449.0,
+        "url": "www.supersonido.es/p/rega-elex-mk4_",
+        "image": "www.supersonido.es/productos/imagenes/producto49988.jpg"
     },
     "sivga-sendy-peacock_": {
         "name": "Sendy Audio Peacock",
