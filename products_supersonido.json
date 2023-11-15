@@ -90,19 +90,19 @@
         "url": "www.supersonido.es/p/audio-technica-at-lp60xusb_",
         "image": "www.supersonido.es/productos/imagenes/producto46486.jpg"
     },
-    "pro-ject-primary-e_": {
-        "name": "Pro-Ject Primary E",
-        "price": 169.0,
-        "price_old": 279.0,
-        "url": "www.supersonido.es/p/pro-ject-primary-e_",
-        "image": "www.supersonido.es/productos/imagenes/producto43945.jpg"
-    },
     "sonos-one._": {
         "name": "Sonos One",
         "price": 169.0,
         "price_old": 229.0,
         "url": "www.supersonido.es/p/sonos-one._",
         "image": "www.supersonido.es/productos/imagenes/producto50519.jpg"
+    },
+    "pro-ject-primary-e_": {
+        "name": "Pro-Ject Primary E",
+        "price": 169.0,
+        "price_old": 279.0,
+        "url": "www.supersonido.es/p/pro-ject-primary-e_",
+        "image": "www.supersonido.es/productos/imagenes/producto43945.jpg"
     },
     "yamaha-rs202d_": {
         "name": "Yamaha R-S202D",
@@ -632,7 +632,7 @@
     "rel-t9x_": {
         "name": "Rel T9x",
         "price": 1349.0,
-        "price_old": 1690.0,
+        "price_old": 1790.0,
         "url": "www.supersonido.es/p/rel-t9x_",
         "image": "www.supersonido.es/productos/imagenes/producto50518.jpg"
     },
@@ -1125,6 +1125,13 @@
         "price_old": 16990.0,
         "url": "www.supersonido.es/p/esoteric-f03a_",
         "image": "www.supersonido.es/productos/imagenes/producto50169.jpg"
+    },
+    "naim-solstice-special-edition": {
+        "name": "Naim Solstice Special Edition",
+        "price": 12750.0,
+        "price_old": 17000.0,
+        "url": "www.supersonido.es/p/naim-solstice-special-edition",
+        "image": "www.supersonido.es/productos/imagenes/producto45472.jpg"
     },
     "monitor-audio-pl500-ii-oca": {
         "name": "Monitor Audio PL500 II",
