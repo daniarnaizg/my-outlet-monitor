@@ -132,6 +132,13 @@
         "url": "www.supersonido.es/p/bose-quietcomfort-45",
         "image": "www.supersonido.es/productos/imagenes/producto46011.jpg"
     },
+    "quad-era-1_": {
+        "name": "Quad ERA-1",
+        "price": 249.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/quad-era-1_",
+        "image": "www.supersonido.es/productos/imagenes/producto29461.jpg"
+    },
     "acoustune-hs1300ss_": {
         "name": "Acoustune HS1300SS",
         "price": 259.0,
@@ -377,19 +384,19 @@
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
-    "shanling-m6-pro-21_": {
-        "name": "Shanling M6 PRO (21)",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
-    },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
         "price": 599.0,
         "price_old": 899.0,
         "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
         "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
+    },
+    "shanling-m6-pro-21_": {
+        "name": "Shanling M6 PRO (21)",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
     "martin-logan-bravado": {
         "name": "Martin-Logan Bravado",
@@ -510,13 +517,6 @@
         "url": "www.supersonido.es/p/primare-spa-22-hd",
         "image": "www.supersonido.es/productos/imagenes/producto12854.jpg"
     },
-    "audeze-euclid_": {
-        "name": "Audeze EUCLID",
-        "price": 999.0,
-        "price_old": 1479.0,
-        "url": "www.supersonido.es/p/audeze-euclid_",
-        "image": "www.supersonido.es/productos/imagenes/producto49689.jpg"
-    },
     "cayin-n6ii_": {
         "name": "Cayin N6ii",
         "price": 999.0,
@@ -530,6 +530,13 @@
         "price_old": 1449.0,
         "url": "www.supersonido.es/p/wharfedale-evo4-3_",
         "image": "www.supersonido.es/productos/imagenes/producto43301.jpg"
+    },
+    "audeze-euclid_": {
+        "name": "Audeze EUCLID",
+        "price": 999.0,
+        "price_old": 1479.0,
+        "url": "www.supersonido.es/p/audeze-euclid_",
+        "image": "www.supersonido.es/productos/imagenes/producto49689.jpg"
     },
     "audeze-lcdxc": {
         "name": "Audeze LCD-XC",
