@@ -90,19 +90,19 @@
         "url": "www.supersonido.es/p/yamaha-rs202d_",
         "image": "www.supersonido.es/productos/imagenes/producto49010.jpg"
     },
-    "q-acoustics-q-3010i_oc": {
-        "name": "Q-Acoustics Q3010i",
-        "price": 200.0,
-        "price_old": 299.0,
-        "url": "www.supersonido.es/p/q-acoustics-q-3010i_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto48880.jpg"
-    },
     "ifi-audio-xdsd": {
         "name": "IFI Audio XDSD",
         "price": 200.0,
         "price_old": 399.0,
         "url": "www.supersonido.es/p/ifi-audio-xdsd",
         "image": "www.supersonido.es/productos/imagenes/producto27468.jpg"
+    },
+    "q-acoustics-q-3010i_oc": {
+        "name": "Q-Acoustics Q3010i",
+        "price": 200.0,
+        "price_old": 299.0,
+        "url": "www.supersonido.es/p/q-acoustics-q-3010i_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto48880.jpg"
     },
     "loewe-klang-mr1": {
         "name": "Loewe Klang mr1",
@@ -215,13 +215,6 @@
         "price_old": 605.0,
         "url": "www.supersonido.es/p/monitor-audio-cpwt380_",
         "image": "www.supersonido.es/productos/imagenes/producto26150.jpg"
-    },
-    "wharfedale-evo4-1-oc": {
-        "name": "Wharfedale Evo4.1",
-        "price": 399.0,
-        "price_old": 649.0,
-        "url": "www.supersonido.es/p/wharfedale-evo4-1-oc",
-        "image": "www.supersonido.es/productos/imagenes/producto50723.jpg"
     },
     "shanling-m6-21_": {
         "name": "Shanling M6(21)",
@@ -356,19 +349,19 @@
         "url": "www.supersonido.es/p/project-maia-ds",
         "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
-    "shanling-m6-pro-21_": {
-        "name": "Shanling M6 PRO (21)",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
-    },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
         "price": 599.0,
         "price_old": 899.0,
         "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
         "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
+    },
+    "shanling-m6-pro-21_": {
+        "name": "Shanling M6 PRO (21)",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
     "martin-logan-bravado": {
         "name": "Martin-Logan Bravado",
