@@ -34,19 +34,19 @@
         "url": "www.supersonido.es/p/marantz-vs3003_",
         "image": "www.supersonido.es/productos/imagenes/producto48453.jpg"
     },
-    "ifi-audio-hip-dac-2_": {
-        "name": "IFI Audio Hip-dac 2",
-        "price": 149.0,
-        "price_old": 189.0,
-        "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
-        "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
-    },
     "audiopro-addon-c5a__": {
         "name": "AudioPro ADDON C5A",
         "price": 149.0,
         "price_old": 269.0,
         "url": "www.supersonido.es/p/audiopro-addon-c5a__",
         "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
+    },
+    "ifi-audio-hip-dac-2_": {
+        "name": "IFI Audio Hip-dac 2",
+        "price": 149.0,
+        "price_old": 189.0,
+        "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
+        "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
     },
     "grado-sr225e_OC": {
         "name": "Grado SR225e",
@@ -236,13 +236,6 @@
         "price_old": 649.0,
         "url": "www.supersonido.es/p/loewe-klang-mr5",
         "image": "www.supersonido.es/productos/imagenes/producto47120.jpg"
-    },
-    "audioquest-diamond-usb-1-5m": {
-        "name": "Audioquest Diamond Usb 1,5m",
-        "price": 549.0,
-        "price_old": 929.0,
-        "url": "www.supersonido.es/p/audioquest-diamond-usb-1-5m",
-        "image": "www.supersonido.es/productos/imagenes/producto50153.jpg"
     },
     "wharfedale-evo4-2_oc": {
         "name": "Wharfedale Evo4.2",
@@ -482,19 +475,19 @@
         "url": "www.supersonido.es/p/roksan-attessa-streaming-amplifier_",
         "image": "www.supersonido.es/productos/imagenes/producto50113.jpg"
     },
-    "sennheiser-hd-820_OC": {
-        "name": "Sennheiser HD 820",
-        "price": 1299.0,
-        "price_old": 1999.0,
-        "url": "www.supersonido.es/p/sennheiser-hd-820_OC",
-        "image": "www.supersonido.es/productos/imagenes/producto49890.jpg"
-    },
     "mrspeakers-ether-flow__": {
         "name": "Dan Clark Audio ETHER Flow",
         "price": 1299.0,
         "price_old": 1999.0,
         "url": "www.supersonido.es/p/mrspeakers-ether-flow__",
         "image": "www.supersonido.es/productos/imagenes/producto47944.jpg"
+    },
+    "sennheiser-hd-820_OC": {
+        "name": "Sennheiser HD 820",
+        "price": 1299.0,
+        "price_old": 1999.0,
+        "url": "www.supersonido.es/p/sennheiser-hd-820_OC",
+        "image": "www.supersonido.es/productos/imagenes/producto49890.jpg"
     },
     "rel-t9x_": {
         "name": "Rel T9x",
