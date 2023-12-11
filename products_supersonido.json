@@ -48,12 +48,12 @@
         "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
         "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
     },
-    "audio-technica-at-lp60xusb_": {
-        "name": "Audio-Technica AT-LP60XUSB",
-        "price": 150.0,
-        "price_old": 179.0,
-        "url": "www.supersonido.es/p/audio-technica-at-lp60xusb_",
-        "image": "www.supersonido.es/productos/imagenes/producto46486.jpg"
+    "ifi-audio-xdsd": {
+        "name": "IFI Audio XDSD",
+        "price": 200.0,
+        "price_old": 399.0,
+        "url": "www.supersonido.es/p/ifi-audio-xdsd",
+        "image": "www.supersonido.es/productos/imagenes/producto27468.jpg"
     },
     "q-acoustics-q-3010i_oc": {
         "name": "Q-Acoustics Q3010i",
@@ -62,12 +62,12 @@
         "url": "www.supersonido.es/p/q-acoustics-q-3010i_oc",
         "image": "www.supersonido.es/productos/imagenes/producto48880.jpg"
     },
-    "ifi-audio-xdsd": {
-        "name": "IFI Audio XDSD",
-        "price": 200.0,
-        "price_old": 399.0,
-        "url": "www.supersonido.es/p/ifi-audio-xdsd",
-        "image": "www.supersonido.es/productos/imagenes/producto27468.jpg"
+    "loewe-klang-mr1": {
+        "name": "Loewe Klang mr1",
+        "price": 219.0,
+        "price_old": 299.0,
+        "url": "www.supersonido.es/p/loewe-klang-mr1",
+        "image": "www.supersonido.es/productos/imagenes/producto47220.jpg"
     },
     "ifi-audio-zen-dac-signature": {
         "name": "IFI Audio ZEN DAC SIGNATURE",
@@ -75,13 +75,6 @@
         "price_old": 299.0,
         "url": "www.supersonido.es/p/ifi-audio-zen-dac-signature",
         "image": "www.supersonido.es/productos/imagenes/producto43929.jpg"
-    },
-    "loewe-klang-mr1": {
-        "name": "Loewe Klang mr1",
-        "price": 219.0,
-        "price_old": 299.0,
-        "url": "www.supersonido.es/p/loewe-klang-mr1",
-        "image": "www.supersonido.es/productos/imagenes/producto47220.jpg"
     },
     "audio-technica-at-lpw30bk_": {
         "name": "Audio-Technica AT-LPW30BK",
@@ -125,13 +118,6 @@
         "url": "www.supersonido.es/p/ifi-audio-go-pod_",
         "image": "www.supersonido.es/productos/imagenes/producto50560.jpg"
     },
-    "audeze-maxwell-playstation_oc": {
-        "name": "Audeze MAXWELL PLAYSTATION",
-        "price": 349.0,
-        "price_old": 399.0,
-        "url": "www.supersonido.es/p/audeze-maxwell-playstation_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto50833.jpg"
-    },
     "nad-bluos": {
         "name": "Nad MDC BluOS 2",
         "price": 349.0,
@@ -153,19 +139,19 @@
         "url": "www.supersonido.es/p/monitor-audio-cpwt380_",
         "image": "www.supersonido.es/productos/imagenes/producto26150.jpg"
     },
-    "stax-srm-252s": {
-        "name": "Stax SRM-252S",
-        "price": 399.0,
-        "price_old": 580.0,
-        "url": "www.supersonido.es/p/stax-srm-252s",
-        "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
-    },
     "shanling-m6-21_": {
         "name": "Shanling M6(21)",
         "price": 399.0,
         "price_old": 599.0,
         "url": "www.supersonido.es/p/shanling-m6-21_",
         "image": "www.supersonido.es/productos/imagenes/producto49367.jpg"
+    },
+    "stax-srm-252s": {
+        "name": "Stax SRM-252S",
+        "price": 399.0,
+        "price_old": 580.0,
+        "url": "www.supersonido.es/p/stax-srm-252s",
+        "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
     },
     "loewe-klang-mr3": {
         "name": "Loewe Klang mr3",
@@ -293,19 +279,19 @@
         "url": "www.supersonido.es/p/pro-ject-stereo-box-rs",
         "image": "www.supersonido.es/productos/imagenes/producto16721.jpg"
     },
-    "hifiman-arya-stealth-magnets_": {
-        "name": "HIFIMAN Arya Stealth Magnets",
-        "price": 749.0,
-        "price_old": 999.0,
-        "url": "www.supersonido.es/p/hifiman-arya-stealth-magnets_",
-        "image": "www.supersonido.es/productos/imagenes/producto50877.jpg"
-    },
     "advance-paris-playstream-a5_": {
         "name": "Advance Paris PLAYSTREAM A5",
         "price": 749.0,
         "price_old": 1199.0,
         "url": "www.supersonido.es/p/advance-paris-playstream-a5_",
         "image": "www.supersonido.es/productos/imagenes/producto47533.jpg"
+    },
+    "hifiman-arya-stealth-magnets_": {
+        "name": "HIFIMAN Arya Stealth Magnets",
+        "price": 749.0,
+        "price_old": 999.0,
+        "url": "www.supersonido.es/p/hifiman-arya-stealth-magnets_",
+        "image": "www.supersonido.es/productos/imagenes/producto50877.jpg"
     },
     "q-acoustics-5040_": {
         "name": "Q-Acoustics 5040",
