@@ -76,6 +76,13 @@
         "url": "www.supersonido.es/p/pro-ject-primary-e_",
         "image": "www.supersonido.es/productos/imagenes/producto43945.jpg"
     },
+    "ifi-audio-xdsd": {
+        "name": "IFI Audio XDSD",
+        "price": 200.0,
+        "price_old": 399.0,
+        "url": "www.supersonido.es/p/ifi-audio-xdsd",
+        "image": "www.supersonido.es/productos/imagenes/producto27468.jpg"
+    },
     "q-acoustics-q-3010i_oc": {
         "name": "Q-Acoustics Q3010i",
         "price": 200.0,
@@ -258,19 +265,19 @@
         "url": "www.supersonido.es/p/wharfedale-evo4-2_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49914.jpg"
     },
-    "project-maia-ds": {
-        "name": "Pro-Ject MaiA DS",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/project-maia-ds",
-        "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
-    },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
         "price": 599.0,
         "price_old": 949.0,
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
+    },
+    "project-maia-ds": {
+        "name": "Pro-Ject MaiA DS",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/project-maia-ds",
+        "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
     "astell-kern-ak-t9ie_": {
         "name": "Astell&kern AK T9iE",
@@ -419,20 +426,6 @@
         "url": "www.supersonido.es/p/loewe-wee-see-55",
         "image": "www.supersonido.es/productos/imagenes/producto46140.jpg"
     },
-    "primare-sc-15-prisma": {
-        "name": "Primare SC 15 Prisma",
-        "price": 1199.0,
-        "price_old": 1590.0,
-        "url": "www.supersonido.es/p/primare-sc-15-prisma",
-        "image": "www.supersonido.es/productos/imagenes/producto29464.jpg"
-    },
-    "primare-r35_": {
-        "name": "Primare R35",
-        "price": 1199.0,
-        "price_old": 1590.0,
-        "url": "www.supersonido.es/p/primare-r35_",
-        "image": "www.supersonido.es/productos/imagenes/producto50788.jpg"
-    },
     "primare-i15-prisma": {
         "name": "Primare I15 Prisma",
         "price": 1199.0,
@@ -446,6 +439,20 @@
         "price_old": 1599.0,
         "url": "www.supersonido.es/p/pro-ject-box-15-ds2_",
         "image": "www.supersonido.es/productos/imagenes/producto50803.jpg"
+    },
+    "primare-sc-15-prisma": {
+        "name": "Primare SC 15 Prisma",
+        "price": 1199.0,
+        "price_old": 1590.0,
+        "url": "www.supersonido.es/p/primare-sc-15-prisma",
+        "image": "www.supersonido.es/productos/imagenes/producto29464.jpg"
+    },
+    "primare-r35_": {
+        "name": "Primare R35",
+        "price": 1199.0,
+        "price_old": 1590.0,
+        "url": "www.supersonido.es/p/primare-r35_",
+        "image": "www.supersonido.es/productos/imagenes/producto50788.jpg"
     },
     "martinlogan-motion-vision-x-exdemo": {
         "name": "Martin-Logan Motion Vision X",
@@ -461,19 +468,19 @@
         "url": "www.supersonido.es/p/roksan-attessa-streaming-amplifier_",
         "image": "www.supersonido.es/productos/imagenes/producto50113.jpg"
     },
-    "sennheiser-hd-820_OC": {
-        "name": "Sennheiser HD 820",
-        "price": 1299.0,
-        "price_old": 1999.0,
-        "url": "www.supersonido.es/p/sennheiser-hd-820_OC",
-        "image": "www.supersonido.es/productos/imagenes/producto49890.jpg"
-    },
     "mrspeakers-ether-flow__": {
         "name": "Dan Clark Audio ETHER Flow",
         "price": 1299.0,
         "price_old": 1999.0,
         "url": "www.supersonido.es/p/mrspeakers-ether-flow__",
         "image": "www.supersonido.es/productos/imagenes/producto47944.jpg"
+    },
+    "sennheiser-hd-820_OC": {
+        "name": "Sennheiser HD 820",
+        "price": 1299.0,
+        "price_old": 1999.0,
+        "url": "www.supersonido.es/p/sennheiser-hd-820_OC",
+        "image": "www.supersonido.es/productos/imagenes/producto49890.jpg"
     },
     "rel-t9x_": {
         "name": "Rel T9x",
@@ -594,13 +601,6 @@
         "url": "www.supersonido.es/p/anthem-mca-225-gen-2_",
         "image": "www.supersonido.es/productos/imagenes/producto50079.jpg"
     },
-    "musical-fidelity-m6si_": {
-        "name": "Musical Fidelity M6si",
-        "price": 1899.0,
-        "price_old": 2799.0,
-        "url": "www.supersonido.es/p/musical-fidelity-m6si_",
-        "image": "www.supersonido.es/productos/imagenes/producto42458.jpg"
-    },
     "martin-logan-em-esl-c_": {
         "name": "Martin-Logan EM-ESL C",
         "price": 1990.0,
@@ -615,19 +615,19 @@
         "url": "www.supersonido.es/p/focal-arche",
         "image": "www.supersonido.es/productos/imagenes/producto29616.jpg"
     },
-    "meze-audio-empyrean_": {
-        "name": "Meze Audio Empyrean",
-        "price": 2199.0,
-        "price_old": 2999.0,
-        "url": "www.supersonido.es/p/meze-audio-empyrean_",
-        "image": "www.supersonido.es/productos/imagenes/producto50663.jpg"
-    },
     "mrspeakers-ether-2_": {
         "name": "Dan Clark Audio ETHER 2",
         "price": 2199.0,
         "price_old": 2759.0,
         "url": "www.supersonido.es/p/mrspeakers-ether-2_",
         "image": "www.supersonido.es/productos/imagenes/producto50756.jpg"
+    },
+    "meze-audio-empyrean_": {
+        "name": "Meze Audio Empyrean",
+        "price": 2199.0,
+        "price_old": 2999.0,
+        "url": "www.supersonido.es/p/meze-audio-empyrean_",
+        "image": "www.supersonido.es/productos/imagenes/producto50663.jpg"
     },
     "naim-nait-xs-3_": {
         "name": "Naim NAIT XS 3",
