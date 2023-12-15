@@ -83,12 +83,12 @@
         "url": "www.supersonido.es/p/q-acoustics-q-3010i_oc",
         "image": "www.supersonido.es/productos/imagenes/producto48880.jpg"
     },
-    "ifi-audio-xdsd": {
-        "name": "IFI Audio XDSD",
-        "price": 200.0,
-        "price_old": 399.0,
-        "url": "www.supersonido.es/p/ifi-audio-xdsd",
-        "image": "www.supersonido.es/productos/imagenes/producto27468.jpg"
+    "loewe-klang-mr1": {
+        "name": "Loewe Klang mr1",
+        "price": 219.0,
+        "price_old": 299.0,
+        "url": "www.supersonido.es/p/loewe-klang-mr1",
+        "image": "www.supersonido.es/productos/imagenes/producto47220.jpg"
     },
     "ifi-audio-zen-dac-signature": {
         "name": "IFI Audio ZEN DAC SIGNATURE",
@@ -96,13 +96,6 @@
         "price_old": 299.0,
         "url": "www.supersonido.es/p/ifi-audio-zen-dac-signature",
         "image": "www.supersonido.es/productos/imagenes/producto43929.jpg"
-    },
-    "loewe-klang-mr1": {
-        "name": "Loewe Klang mr1",
-        "price": 219.0,
-        "price_old": 299.0,
-        "url": "www.supersonido.es/p/loewe-klang-mr1",
-        "image": "www.supersonido.es/productos/imagenes/producto47220.jpg"
     },
     "audio-technica-at-lpw30bk_": {
         "name": "Audio-Technica AT-LPW30BK",
@@ -174,13 +167,6 @@
         "url": "www.supersonido.es/p/monitor-audio-cpwt380_",
         "image": "www.supersonido.es/productos/imagenes/producto26150.jpg"
     },
-    "stax-srm-252s": {
-        "name": "Stax SRM-252S",
-        "price": 399.0,
-        "price_old": 580.0,
-        "url": "www.supersonido.es/p/stax-srm-252s",
-        "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
-    },
     "shanling-m6-21_": {
         "name": "Shanling M6(21)",
         "price": 399.0,
@@ -194,6 +180,13 @@
         "price_old": 599.0,
         "url": "www.supersonido.es/p/rotel-cd11mkii_",
         "image": "www.supersonido.es/productos/imagenes/producto50887.jpg"
+    },
+    "stax-srm-252s": {
+        "name": "Stax SRM-252S",
+        "price": 399.0,
+        "price_old": 580.0,
+        "url": "www.supersonido.es/p/stax-srm-252s",
+        "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
     },
     "loewe-klang-mr3": {
         "name": "Loewe Klang mr3",
@@ -265,19 +258,19 @@
         "url": "www.supersonido.es/p/wharfedale-evo4-2_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49914.jpg"
     },
-    "isotek-systems-sirius-evo3_": {
-        "name": "Isotek Systems Sirius EVO3",
-        "price": 599.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
-        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
-    },
     "project-maia-ds": {
         "name": "Pro-Ject MaiA DS",
         "price": 599.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/project-maia-ds",
         "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
+    },
+    "isotek-systems-sirius-evo3_": {
+        "name": "Isotek Systems Sirius EVO3",
+        "price": 599.0,
+        "price_old": 949.0,
+        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
+        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
     "astell-kern-ak-t9ie_": {
         "name": "Astell&kern AK T9iE",
@@ -426,20 +419,6 @@
         "url": "www.supersonido.es/p/loewe-wee-see-55",
         "image": "www.supersonido.es/productos/imagenes/producto46140.jpg"
     },
-    "primare-i15-prisma": {
-        "name": "Primare I15 Prisma",
-        "price": 1199.0,
-        "price_old": 1890.0,
-        "url": "www.supersonido.es/p/primare-i15-prisma",
-        "image": "www.supersonido.es/productos/imagenes/producto50094.jpg"
-    },
-    "pro-ject-box-15-ds2_": {
-        "name": "Pro-Ject Speaker Box 15 DS2",
-        "price": 1199.0,
-        "price_old": 1599.0,
-        "url": "www.supersonido.es/p/pro-ject-box-15-ds2_",
-        "image": "www.supersonido.es/productos/imagenes/producto50803.jpg"
-    },
     "primare-sc-15-prisma": {
         "name": "Primare SC 15 Prisma",
         "price": 1199.0,
@@ -453,6 +432,20 @@
         "price_old": 1590.0,
         "url": "www.supersonido.es/p/primare-r35_",
         "image": "www.supersonido.es/productos/imagenes/producto50788.jpg"
+    },
+    "primare-i15-prisma": {
+        "name": "Primare I15 Prisma",
+        "price": 1199.0,
+        "price_old": 1890.0,
+        "url": "www.supersonido.es/p/primare-i15-prisma",
+        "image": "www.supersonido.es/productos/imagenes/producto50094.jpg"
+    },
+    "pro-ject-box-15-ds2_": {
+        "name": "Pro-Ject Speaker Box 15 DS2",
+        "price": 1199.0,
+        "price_old": 1599.0,
+        "url": "www.supersonido.es/p/pro-ject-box-15-ds2_",
+        "image": "www.supersonido.es/productos/imagenes/producto50803.jpg"
     },
     "martinlogan-motion-vision-x-exdemo": {
         "name": "Martin-Logan Motion Vision X",
