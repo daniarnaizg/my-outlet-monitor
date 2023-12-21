@@ -48,6 +48,13 @@
         "url": "https://www.madridhifi.com/p/akg-k-371-auriculares-negros-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/5/9/10162695/photos/listado/AKG K-371-Pro.png"
     },
+    "akg-k52-auriculares-pro-reacondicionado": {
+        "name": "AKG K52 Auriculares Profesionales ( REACONDICIONADO )",
+        "price": 28.81,
+        "price_old": 65.0,
+        "url": "https://www.madridhifi.com/p/akg-k52-auriculares-pro-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/4/9/10098494/photos/listado/K52-AKG-AURICULAR-PRO.jpg"
+    },
     "alhambra-z-nature-reacondicionado": {
         "name": "Alhambra Z-Nature Guitarra Cl\u00e1sica Espa\u00f1ola ( REACONDICIONADO )",
         "price": 242.61,
@@ -75,6 +82,13 @@
         "price_old": 769.0,
         "url": "https://www.madridhifi.com/p/alhambra-3c-cw-e1-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/8/8/10110988/photos/listado/alhambra-3c-cw-e1-comprar.jpg"
+    },
+    "alhambra-1c-ht-reacondicionado": {
+        "name": "Alhambra 1C HT Guitarra Cl\u00e1sica + Funda ( REACONDICIONADO )",
+        "price": 314.21,
+        "price_old": 469.0,
+        "url": "https://www.madridhifi.com/p/alhambra-1c-ht-reacondicionado/",
+        "image": "/public/img/spacer.gif"
     },
     "alhambra-z-nature-ct-ez-reacondicionado": {
         "name": "Alhambra Z-Nature CT EZ Guitarra Electroac\u00fastica + Funda ( REACONDICIONADO )",
@@ -202,12 +216,19 @@
         "url": "https://www.madridhifi.com/p/audibax-dallas-300-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/2/8/10146782/photos/listado/audibax-dallas-300-verde.png"
     },
+    "audibax-pad8-reacondicionado": {
+        "name": "Audibax PAD8 Pad Monitores Estudio de 6,5\" a 8\" ( REACONDICIONADO )",
+        "price": 7.21,
+        "price_old": 14.5,
+        "url": "https://www.madridhifi.com/p/audibax-pad8-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/7/1/10107917/photos/listado/audibax-pad8-pad-monitor-de-aislamiento-aislamiento.jpg"
+    },
     "audibax-tucson-200-black-reacondicionado": {
         "name": "Audibax Tucson 200 Black Altavoz Pasivo Columna para Exterior 200W  ( REACONDICIONADO )",
         "price": 114.71,
         "price_old": 199.99,
         "url": "https://www.madridhifi.com/p/audibax-tucson-200-black-reacondicionado/",
-        "image": "https://www.madridhifi.com/crm/documents/produit/8/9/10223798/photos/listado/Tucson-200-BK-altavoz-columna-exterior-comprar.jpg"
+        "image": "/public/img/spacer.gif"
     },
     "audibax-event-78-reacondicionado": {
         "name": "Audibax Event 78 Foco con Bater\u00eda de iluminaci\u00f3n estructural WiFi 72W LED RGBWAUV \u2013 6 en 1 ( REACONDICIONADO )",
@@ -230,6 +251,20 @@
         "url": "https://www.madridhifi.com/p/ground6t-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
+    "audibax-missouri-rack-a-reacondicionado": {
+        "name": "Audibax Missouri Rack A Micr\u00f3fono Inal\u00e1mbrico UHF Doble de Mano Rack ( REACONDICIONADO )",
+        "price": 107.91,
+        "price_old": 259.99,
+        "url": "https://www.madridhifi.com/p/audibax-missouri-rack-a-reacondicionado/",
+        "image": "/public/img/spacer.gif"
+    },
+    "audibax-boston-30-reacondicionado": {
+        "name": "Audibax Boston 30 Cabeza M\u00f3vil Spot 30w + Anillo LED ( REACONDICIONADO )",
+        "price": 78.91,
+        "price_old": 229.0,
+        "url": "https://www.madridhifi.com/p/audibax-boston-30-reacondicionado/",
+        "image": "/public/img/spacer.gif"
+    },
     "audibax-orion-5-white-reacondicionado": {
         "name": "Audibax Orion 5 White Pareja Altavoces Pasivos Blanco ( REACONDICIONADO )",
         "price": 36.22,
@@ -249,6 +284,13 @@
         "price": 26.41,
         "price_old": 99.99,
         "url": "https://www.madridhifi.com/p/audibax-berlin-1800-black-pro-pack-reacondicionado/",
+        "image": "/public/img/spacer.gif"
+    },
+    "audibax-dsp12s-reacondicionado": {
+        "name": "Audibax DSP12s Subwoofer Activo 12 Pulgadas 400W ( REACONDICIONADO )",
+        "price": 257.31,
+        "price_old": 418.99,
+        "url": "https://www.madridhifi.com/p/audibax-dsp12s-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
     "cs5t-reacondicionado": {
@@ -298,6 +340,13 @@
         "price": 69.0,
         "price_old": 149.0,
         "url": "https://www.madridhifi.com/p/maleta-flightcase-para-mezcladores-cds-de-12-pioneer-denon-defecto-estetico/",
+        "image": "/public/img/spacer.gif"
+    },
+    "audibax-iowa-pix-300-reacondicionado": {
+        "name": "Audibax Iowa Pix 300 Zoom Motorizado RGBw Cabeza M\u00f3vil 19 Leds x 15W ( REACONDICIONADO )",
+        "price": 168.51,
+        "price_old": 299.0,
+        "url": "https://www.madridhifi.com/p/audibax-iowa-pix-300-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
     "audibax-pro-joliet-350-fresnel-reacondicionado": {
@@ -412,6 +461,13 @@
         "url": "https://www.madridhifi.com/p/behringer-hlc-660m-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
+    "behringer-hc-2000bnc-reacondicionado": {
+        "name": "BEHRINGER HC 2000BNC Auriculares Bluetooth inalambricos Cancelador de Ruido ( REACONDICIONADO )",
+        "price": 33.91,
+        "price_old": 89.0,
+        "url": "https://www.madridhifi.com/p/behringer-hc-2000bnc-reacondicionado/",
+        "image": "/public/img/spacer.gif"
+    },
     "behringer-pk108-reacondicionado": {
         "name": "Behringer PK108 Altavoz Pasivo 8\" 350W Negro ( REACONDICIONADO )",
         "price": 49.21,
@@ -473,6 +529,13 @@
         "price": 249.71,
         "price_old": 329.0,
         "url": "https://www.madridhifi.com/p/behringer-stage-tri-led-bundle-st1-reacondicionado/",
+        "image": "/public/img/spacer.gif"
+    },
+    "behringer-xd80usb-reacondicionado": {
+        "name": "BEHRINGER XD80USB Bateria Percusi\u00f3n Kit, XD-80 USB ( REACONDICIONADO )",
+        "price": 348.81,
+        "price_old": 399.0,
+        "url": "https://www.madridhifi.com/p/behringer-xd80usb-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
     "blackstar-silverline-standard-reacondicionado": {
@@ -1266,6 +1329,13 @@
         "url": "https://www.madridhifi.com/p/line-6-relay-g10-ll-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/5/0/10190505/photos/listado/LINE-6-RELAY-G10-ll-Transmisor-Inalambrico-2,4GHz.png"
     },
+    "m-audio-bx8-d3-reacondicionado": {
+        "name": "M AUDIO BX8 D3 Monitor ( REACONDICIONADO )",
+        "price": 147.91,
+        "price_old": 165.0,
+        "url": "https://www.madridhifi.com/p/m-audio-bx8-d3-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/8/4/10115748/photos/listado/M-AUDIO-BX8-D3.jpg"
+    },
     "mackie-cr5-x-reacondicionado": {
         "name": "Mackie CR5-X Monitor de Estudio ( REACONDICIONADO )",
         "price": 169.51,
@@ -1279,6 +1349,13 @@
         "price_old": 699.0,
         "url": "https://www.madridhifi.com/p/mackie-ip-18s-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/1/2/10148621/photos/listado/mackie-ip-18s.jpg"
+    },
+    "mackie-thump-212-reacondicionado": {
+        "name": "Mackie Thump 212 Altavoz Activo profesional 12\" 1400w ( REACONDICIONADO )",
+        "price": 359.31,
+        "price_old": 499.0,
+        "url": "https://www.madridhifi.com/p/mackie-thump-212-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/2/2/10223322/photos/listado/Mackie-Thump-212-Altavoz-Activo-profesional.jpg"
     },
     "marcus-miller-m7-swamp-ash-4-tbk-reacondicionado": {
         "name": "Marcus Miller M7 Swamp Ash-4 Trans Black 2nd Gen Bajo El\u00e9ctrico 4 Cuerdas  ( REACONDICIONADO )",
@@ -1455,12 +1532,26 @@
         "url": "https://www.madridhifi.com/p/ortofon-concorde-mkii-twin-digital-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/2/7/10130272/photos/listado/CC Digital_Twin.jpg"
     },
+    "party-fog-1200-led-reacondicionado": {
+        "name": "Party FOG 1200 LED Maquina de Humo 1200w con Led  ( REACONDICIONADO )",
+        "price": 59.21,
+        "price_old": 99.0,
+        "url": "https://www.madridhifi.com/p/party-fog-1200-led-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/9/9/10134999/photos/listado/Party-FOG-1200-LED.jpg"
+    },
     "pioneer-dj-xprs102-reacondicionado": {
         "name": "Pioneer Dj XPRS102 Altavoz Amplificado Profesional ( REACONDICIONADO )",
         "price": 485.31,
         "price_old": 799.0,
         "url": "https://www.madridhifi.com/p/pioneer-dj-xprs102-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/2/8/10241382/photos/listado/XPRS2_F10_angle_221124-2.png"
+    },
+    "pioneer-dj-ddj-flx4-reacondicionado": {
+        "name": "Pioneer DJ DDJ FLX4 - Controlador Dj de 2 canales ( REACONDICIONADO )",
+        "price": 255.21,
+        "price_old": 329.0,
+        "url": "https://www.madridhifi.com/p/pioneer-dj-ddj-flx4-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/4/6/10237464/photos/listado/Pioneer-Dj-DDJ-FLX4-Controladora-Dj.jpg"
     },
     "polk-audio-s30-elite-white-reacondicionado": {
         "name": "Polk audio S30 Elite WHite Altavoz Central Signature Elites Serie ( REACONDICIONADO )",
@@ -1693,6 +1784,13 @@
         "url": "https://www.madridhifi.com/p/shure-blx14e-pg31-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/9/8/10091989/photos/listado/shure_blx14_p31-oferta.jpg"
     },
+    "shure-se215k-black-reacondicionado": {
+        "name": "Shure SE215K Black ( REACONDICIONADO )",
+        "price": 99.71,
+        "price_old": 129.0,
+        "url": "https://www.madridhifi.com/p/shure-se215k-black-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/9/1/10036619/photos/listado/SE215K-AURICULAR.jpg"
+    },
     "shure-cvg12d-b-c-reacondicionado": {
         "name": "SHURE CVG12D-B/C Micr\u00f3fono Flexo 30 cm Cardiode con Base y Previo ( REACONDICIONADO )",
         "price": 198.11,
@@ -1798,6 +1896,13 @@
         "url": "https://www.madridhifi.com/p/taylor-be-717e-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/5/9/10199795/photos/listado/taylor-be-717e-cuerpo.jpg"
     },
+    "tc-helicon-switch-6-reacondicionado": {
+        "name": "TC Helicon Switch-6  Pedal Footswitch de 6 Interruptores Multiefectos para Guitarra y Voces ( REACONDICIONADO )",
+        "price": 69.31,
+        "price_old": 109.0,
+        "url": "https://www.madridhifi.com/p/tc-helicon-switch-6-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/2/4/10145042/photos/listado/tc-helicon-switch-6-pedal.png"
+    },
     "teac-tn-180-bt-w-giradiscos-bluetooth-blanco-reacondicionado": {
         "name": "TEAC TN-180BT W Giradiscos HiFi Bluetooth Blanco. Previo Phono incluido. TN180BT-W ( REACONDICIONADO )",
         "price": 143.22,
@@ -1840,6 +1945,13 @@
         "url": "https://www.madridhifi.com/p/walkasse-wc-laptop-esp-defecto-estetico/",
         "image": "https://www.madridhifi.com/crm/documents/produit/4/8/10201284/photos/listado/Walkasse-WC-LAPTOP-ESP-Soporte-para-ordenador-extraible.jpg"
     },
+    "wiibo-string-15-altavoces-hifi-estanteria-100w-reacondicionado": {
+        "name": "Wiibo String 15 Altavoces HiFi Estanteria 100w Pareja ( REACONDICIONADO )",
+        "price": 49.71,
+        "price_old": 119.0,
+        "url": "https://www.madridhifi.com/p/wiibo-string-15-altavoces-hifi-estanteria-100w-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/4/5/10156754/photos/listado/Wiibo-string-15--altavoces-estanteria-hifi.jpg"
+    },
     "wiibo-neo-100-v2-black-reacondicionado": {
         "name": "Wiibo Neo 100 V2 Black Altavoces Vintage Estanteria Bluetooth HiFi Activos 100w Pareja ( REACONDICIONADO )",
         "price": 98.22,
@@ -1853,6 +1965,13 @@
         "price_old": 129.0,
         "url": "https://www.madridhifi.com/p/wiibo-string-15-v2-black-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/6/6/10189466/photos/listado/wiibo_string15_v2_black_altavoces_estanteria_comprar.jpg"
+    },
+    "xvive-u4-reacondicionado": {
+        "name": "XVIVE U4 Monitor Wireless System Sistema de Monitorizaci\u00f3n In-Ear Digital Inal\u00e1mbrico ( REACONDICIONADO )",
+        "price": 181.71,
+        "price_old": 259.0,
+        "url": "https://www.madridhifi.com/p/xvive-u4-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/0/5/10182750/photos/listado/XVIVE-U4-Monitor-Wireless-System-Sistema-de-Monitorizacion-In-Ear-Digital-Inalambrico.png"
     },
     "yamaha-np-32wh-reacondicionado": {
         "name": "YAMAHA NP-32WH Teclado de 76 teclas ( REACONDICIONADO )",
