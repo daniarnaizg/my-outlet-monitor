@@ -34,19 +34,19 @@
         "url": "https://www.madridhifi.com/p/american-dj-rayzer-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/5/2/10147625/photos/listado/american-dj-rayzer.jpg"
     },
-    "akg-k52-auriculares-pro-reacondicionado": {
-        "name": "AKG K52 Auriculares Profesionales ( REACONDICIONADO )",
-        "price": 28.81,
-        "price_old": 65.0,
-        "url": "https://www.madridhifi.com/p/akg-k52-auriculares-pro-reacondicionado/",
-        "image": "https://www.madridhifi.com/crm/documents/produit/4/9/10098494/photos/listado/K52-AKG-AURICULAR-PRO.jpg"
-    },
     "akg-k-371-auriculares-negros-reacondicionado": {
         "name": "AKG K-371 Auriculares Negros ( REACONDICIONADO )",
         "price": 119.41,
         "price_old": 199.0,
         "url": "https://www.madridhifi.com/p/akg-k-371-auriculares-negros-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/5/9/10162695/photos/listado/AKG K-371-Pro.png"
+    },
+    "akg-k52-auriculares-pro-reacondicionado": {
+        "name": "AKG K52 Auriculares Profesionales ( REACONDICIONADO )",
+        "price": 28.81,
+        "price_old": 65.0,
+        "url": "https://www.madridhifi.com/p/akg-k52-auriculares-pro-reacondicionado/",
+        "image": "https://www.madridhifi.com/crm/documents/produit/4/9/10098494/photos/listado/K52-AKG-AURICULAR-PRO.jpg"
     },
     "alhambra-z-nature-reacondicionado": {
         "name": "Alhambra Z-Nature Guitarra Cl\u00e1sica Espa\u00f1ola ( REACONDICIONADO )",
@@ -209,6 +209,13 @@
         "url": "https://www.madridhifi.com/p/audibax-pad8-reacondicionado/",
         "image": "https://www.madridhifi.com/crm/documents/produit/7/1/10107917/photos/listado/audibax-pad8-pad-monitor-de-aislamiento-aislamiento.jpg"
     },
+    "audibax-bar-252-reacondicionado": {
+        "name": "Audibax BAR-252 Barra Led DMX 8 Segmentos ( REACONDICIONADO )",
+        "price": 57.61,
+        "price_old": 119.0,
+        "url": "https://www.madridhifi.com/p/audibax-bar-252-reacondicionado/",
+        "image": "/public/img/spacer.gif"
+    },
     "audibax-event-78-reacondicionado": {
         "name": "Audibax Event 78 Foco con Bater\u00eda de iluminaci\u00f3n estructural WiFi 72W LED RGBWAUV \u2013 6 en 1 ( REACONDICIONADO )",
         "price": 159.81,
@@ -235,13 +242,6 @@
         "price": 36.22,
         "price_old": 36.22,
         "url": "https://www.madridhifi.com/p/audibax-orion-5-white-reacondicionado/",
-        "image": "/public/img/spacer.gif"
-    },
-    "audibax-bar-252-reacondicionado": {
-        "name": "Audibax BAR-252 Barra Led DMX 8 Segmentos ( REACONDICIONADO )",
-        "price": 57.61,
-        "price_old": 119.0,
-        "url": "https://www.madridhifi.com/p/audibax-bar-252-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
     "audibax-dsp12s-reacondicionado": {
