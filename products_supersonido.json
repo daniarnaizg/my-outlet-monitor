@@ -41,13 +41,6 @@
         "url": "www.supersonido.es/p/audiopro-addon-c5a__",
         "image": "www.supersonido.es/productos/imagenes/producto33149.jpg"
     },
-    "grado-sr225e_OC": {
-        "name": "Grado SR225e",
-        "price": 149.0,
-        "price_old": 279.0,
-        "url": "www.supersonido.es/p/grado-sr225e_OC",
-        "image": "www.supersonido.es/productos/imagenes/producto43486.jpg"
-    },
     "audio-technica-at-lp60xusb_": {
         "name": "Audio-Technica AT-LP60XUSB",
         "price": 150.0,
@@ -153,19 +146,19 @@
         "url": "www.supersonido.es/p/monitor-audio-cpwt380_",
         "image": "www.supersonido.es/productos/imagenes/producto26150.jpg"
     },
-    "shanling-m6-21_": {
-        "name": "Shanling M6(21)",
-        "price": 399.0,
-        "price_old": 599.0,
-        "url": "www.supersonido.es/p/shanling-m6-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49367.jpg"
-    },
     "stax-srm-252s": {
         "name": "Stax SRM-252S",
         "price": 399.0,
         "price_old": 580.0,
         "url": "www.supersonido.es/p/stax-srm-252s",
         "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
+    },
+    "shanling-m6-21_": {
+        "name": "Shanling M6(21)",
+        "price": 399.0,
+        "price_old": 599.0,
+        "url": "www.supersonido.es/p/shanling-m6-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49367.jpg"
     },
     "loewe-klang-mr3": {
         "name": "Loewe Klang mr3",
@@ -230,27 +223,6 @@
         "url": "www.supersonido.es/p/loewe-klang-mr5",
         "image": "www.supersonido.es/productos/imagenes/producto47120.jpg"
     },
-    "advance-paris-playstream-a1_": {
-        "name": "Advance Paris PLAYSTREAM A1",
-        "price": 599.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
-        "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
-    },
-    "shanling-m6-pro-21_": {
-        "name": "Shanling M6 PRO (21)",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
-    },
-    "astell-kern-ak-t9ie_": {
-        "name": "Astell&kern AK T9iE",
-        "price": 599.0,
-        "price_old": 1199.0,
-        "url": "www.supersonido.es/p/astell-kern-ak-t9ie_",
-        "image": "www.supersonido.es/productos/imagenes/producto45176.jpg"
-    },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
         "price": 599.0,
@@ -264,6 +236,27 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/project-maia-ds",
         "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
+    },
+    "astell-kern-ak-t9ie_": {
+        "name": "Astell&kern AK T9iE",
+        "price": 599.0,
+        "price_old": 1199.0,
+        "url": "www.supersonido.es/p/astell-kern-ak-t9ie_",
+        "image": "www.supersonido.es/productos/imagenes/producto45176.jpg"
+    },
+    "advance-paris-playstream-a1_": {
+        "name": "Advance Paris PLAYSTREAM A1",
+        "price": 599.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
+        "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
+    },
+    "shanling-m6-pro-21_": {
+        "name": "Shanling M6 PRO (21)",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
     "martin-logan-bravado": {
         "name": "Martin-Logan Bravado",
