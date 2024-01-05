@@ -41,6 +41,13 @@
         "url": "www.supersonido.es/p/audio-technica-at-lp60xusb_",
         "image": "www.supersonido.es/productos/imagenes/producto46486.jpg"
     },
+    "audio-technica-at-lp60xbt_": {
+        "name": "Audio-Technica AT-LP60XBT",
+        "price": 169.0,
+        "price_old": 229.0,
+        "url": "www.supersonido.es/p/audio-technica-at-lp60xbt_",
+        "image": "www.supersonido.es/productos/imagenes/producto46437.jpg"
+    },
     "loewe-klang-mr1": {
         "name": "Loewe Klang mr1",
         "price": 219.0,
@@ -139,13 +146,6 @@
         "url": "www.supersonido.es/p/loewe-klang-mr3",
         "image": "www.supersonido.es/productos/imagenes/producto47219.jpg"
     },
-    "technics-ottava-s-sc-c30_": {
-        "name": "Technics OTTAVA S SC-C30",
-        "price": 449.0,
-        "price_old": 599.0,
-        "url": "www.supersonido.es/p/technics-ottava-s-sc-c30_",
-        "image": "www.supersonido.es/productos/imagenes/producto44225.jpg"
-    },
     "klipsch-rp-500m-ii_": {
         "name": "Klipsch RP-500M II",
         "price": 449.0,
@@ -153,12 +153,12 @@
         "url": "www.supersonido.es/p/klipsch-rp-500m-ii_",
         "image": "www.supersonido.es/productos/imagenes/producto50786.jpg"
     },
-    "denon-home-350__": {
-        "name": "Denon Home 350",
-        "price": 499.0,
-        "price_old": 699.0,
-        "url": "www.supersonido.es/p/denon-home-350__",
-        "image": "www.supersonido.es/productos/imagenes/producto44264.jpg"
+    "technics-ottava-s-sc-c30_": {
+        "name": "Technics OTTAVA S SC-C30",
+        "price": 449.0,
+        "price_old": 599.0,
+        "url": "www.supersonido.es/p/technics-ottava-s-sc-c30_",
+        "image": "www.supersonido.es/productos/imagenes/producto44225.jpg"
     },
     "earmen-tradutto_": {
         "name": "EarMen Tradutto",
@@ -174,12 +174,12 @@
         "url": "www.supersonido.es/p/astell-kern-ak-zero1_",
         "image": "www.supersonido.es/productos/imagenes/producto50902.jpg"
     },
-    "q-acoustics-m20-hd-link-1_": {
-        "name": "Q-Acoustics M20 HD + LINK 1",
-        "price": 500.0,
-        "price_old": 698.0,
-        "url": "www.supersonido.es/p/q-acoustics-m20-hd-link-1_",
-        "image": "www.supersonido.es/productos/imagenes/producto50721.jpg"
+    "denon-home-350__": {
+        "name": "Denon Home 350",
+        "price": 499.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/denon-home-350__",
+        "image": "www.supersonido.es/productos/imagenes/producto44264.jpg"
     },
     "tag-maclaren-audio-dvd-32flr": {
         "name": "Tag MacLaren Audio DVD-32FLR",
@@ -188,26 +188,19 @@
         "url": "www.supersonido.es/p/tag-maclaren-audio-dvd-32flr",
         "image": "www.supersonido.es/productos/imagenes/producto713.jpg"
     },
+    "q-acoustics-m20-hd-link-1_": {
+        "name": "Q-Acoustics M20 HD + LINK 1",
+        "price": 500.0,
+        "price_old": 698.0,
+        "url": "www.supersonido.es/p/q-acoustics-m20-hd-link-1_",
+        "image": "www.supersonido.es/productos/imagenes/producto50721.jpg"
+    },
     "loewe-klang-mr5": {
         "name": "Loewe Klang mr5",
         "price": 519.0,
         "price_old": 649.0,
         "url": "www.supersonido.es/p/loewe-klang-mr5",
         "image": "www.supersonido.es/productos/imagenes/producto47120.jpg"
-    },
-    "isotek-systems-sirius-evo3_": {
-        "name": "Isotek Systems Sirius EVO3",
-        "price": 599.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
-        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
-    },
-    "project-maia-ds": {
-        "name": "Pro-Ject MaiA DS",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/project-maia-ds",
-        "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
     "astell-kern-ak-t9ie_": {
         "name": "Astell&kern AK T9iE",
@@ -229,6 +222,20 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/shanling-m6-pro-21_",
         "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
+    },
+    "isotek-systems-sirius-evo3_": {
+        "name": "Isotek Systems Sirius EVO3",
+        "price": 599.0,
+        "price_old": 949.0,
+        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
+        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
+    },
+    "project-maia-ds": {
+        "name": "Pro-Ject MaiA DS",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/project-maia-ds",
+        "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
     "martin-logan-bravado": {
         "name": "Martin-Logan Bravado",
@@ -398,6 +405,13 @@
         "url": "www.supersonido.es/p/mrspeakers-ether-flow__",
         "image": "www.supersonido.es/productos/imagenes/producto47944.jpg"
     },
+    "mofi-electronics-studiodeck__": {
+        "name": "Mofi Electronics STUDIODECK",
+        "price": 1299.0,
+        "price_old": 1599.0,
+        "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
+        "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
+    },
     "sennheiser-hd-820_OC": {
         "name": "Sennheiser HD 820",
         "price": 1299.0,
@@ -524,6 +538,13 @@
         "url": "www.supersonido.es/p/rotel-s14_oc",
         "image": "www.supersonido.es/productos/imagenes/producto50108.jpg"
     },
+    "mofi-electronics-ultradeck_": {
+        "name": "Mofi Electronics UltraDeck",
+        "price": 1849.0,
+        "price_old": 2599.0,
+        "url": "www.supersonido.es/p/mofi-electronics-ultradeck_",
+        "image": "www.supersonido.es/productos/imagenes/producto50994.jpg"
+    },
     "technics-sl-g700e_ou": {
         "name": "Technics SL-G700E",
         "price": 1890.0,
@@ -586,6 +607,13 @@
         "price_old": 5490.0,
         "url": "www.supersonido.es/p/sonus-faber-cremona-auditor-m-stands",
         "image": "www.supersonido.es/productos/imagenes/producto45660.jpg"
+    },
+    "mofi-electronics-ultradeck-m-rea": {
+        "name": "Mofi Electronics UltraDeck + M",
+        "price": 2499.0,
+        "price_old": 3299.0,
+        "url": "www.supersonido.es/p/mofi-electronics-ultradeck-m-rea",
+        "image": "www.supersonido.es/productos/imagenes/producto50995.jpg"
     },
     "q-acoustics-concept-300-stand_ok": {
         "name": "Q-Acoustics Concept 300 + Stand",
