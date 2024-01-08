@@ -1,10 +1,24 @@
 {
+    "ifi-audio-uno_oc": {
+        "name": "IFI Audio ZEN UNO",
+        "price": 59.0,
+        "price_old": 79.0,
+        "url": "www.supersonido.es/p/ifi-audio-uno_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto50999.jpg"
+    },
     "samsung-wmn-m25ea-xc": {
         "name": "Samsung WMN-M25EA/XC",
         "price": 69.0,
         "price_old": 89.0,
         "url": "www.supersonido.es/p/samsung-wmn-m25ea-xc",
         "image": "www.supersonido.es/productos/imagenes/producto30804.jpg"
+    },
+    "norstone-stylum-1-black_oc": {
+        "name": "NorStone Stylum 1",
+        "price": 80.0,
+        "price_old": 119.0,
+        "url": "www.supersonido.es/p/norstone-stylum-1-black_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto51000.jpg"
     },
     "norstone-stylum-1-black_": {
         "name": "NorStone Stylum 1",
@@ -97,6 +111,13 @@
         "url": "www.supersonido.es/p/rega-planar-1-plusoc",
         "image": "www.supersonido.es/productos/imagenes/producto46744.jpg"
     },
+    "sony-str-dh590_oc": {
+        "name": "Sony STR-DH590",
+        "price": 329.0,
+        "price_old": 449.0,
+        "url": "www.supersonido.es/p/sony-str-dh590_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto51001.jpg"
+    },
     "nad-bluos": {
         "name": "Nad MDC BluOS 2",
         "price": 349.0,
@@ -118,19 +139,19 @@
         "url": "www.supersonido.es/p/monitor-audio-cpwt380_",
         "image": "www.supersonido.es/productos/imagenes/producto26150.jpg"
     },
-    "shanling-m6-21_": {
-        "name": "Shanling M6(21)",
-        "price": 399.0,
-        "price_old": 599.0,
-        "url": "www.supersonido.es/p/shanling-m6-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49367.jpg"
-    },
     "stax-srm-252s": {
         "name": "Stax SRM-252S",
         "price": 399.0,
         "price_old": 580.0,
         "url": "www.supersonido.es/p/stax-srm-252s",
         "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
+    },
+    "shanling-m6-21_": {
+        "name": "Shanling M6(21)",
+        "price": 399.0,
+        "price_old": 599.0,
+        "url": "www.supersonido.es/p/shanling-m6-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49367.jpg"
     },
     "loewe-klang-mr3": {
         "name": "Loewe Klang mr3",
@@ -153,13 +174,6 @@
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c30_",
         "image": "www.supersonido.es/productos/imagenes/producto44225.jpg"
     },
-    "earmen-tradutto_": {
-        "name": "EarMen Tradutto",
-        "price": 499.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/earmen-tradutto_",
-        "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
-    },
     "astell-kern-ak-zero1_": {
         "name": "Astell&kern AK ZERO1",
         "price": 499.0,
@@ -173,6 +187,13 @@
         "price_old": 699.0,
         "url": "www.supersonido.es/p/denon-home-350__",
         "image": "www.supersonido.es/productos/imagenes/producto44264.jpg"
+    },
+    "earmen-tradutto_": {
+        "name": "EarMen Tradutto",
+        "price": 499.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/earmen-tradutto_",
+        "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
     },
     "tag-maclaren-audio-dvd-32flr": {
         "name": "Tag MacLaren Audio DVD-32FLR",
@@ -195,26 +216,12 @@
         "url": "www.supersonido.es/p/loewe-klang-mr5",
         "image": "www.supersonido.es/productos/imagenes/producto47120.jpg"
     },
-    "astell-kern-ak-t9ie_": {
-        "name": "Astell&kern AK T9iE",
-        "price": 599.0,
-        "price_old": 1199.0,
-        "url": "www.supersonido.es/p/astell-kern-ak-t9ie_",
-        "image": "www.supersonido.es/productos/imagenes/producto45176.jpg"
-    },
-    "advance-paris-playstream-a1_": {
-        "name": "Advance Paris PLAYSTREAM A1",
-        "price": 599.0,
+    "wharfedale-evo4-2_oc": {
+        "name": "Wharfedale Evo4.2",
+        "price": 549.0,
         "price_old": 899.0,
-        "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
-        "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
-    },
-    "shanling-m6-pro-21_": {
-        "name": "Shanling M6 PRO (21)",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
+        "url": "www.supersonido.es/p/wharfedale-evo4-2_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto49914.jpg"
     },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
@@ -229,6 +236,34 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/project-maia-ds",
         "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
+    },
+    "astell-kern-ak-t9ie_": {
+        "name": "Astell&kern AK T9iE",
+        "price": 599.0,
+        "price_old": 1199.0,
+        "url": "www.supersonido.es/p/astell-kern-ak-t9ie_",
+        "image": "www.supersonido.es/productos/imagenes/producto45176.jpg"
+    },
+    "shanling-m6-pro-21_": {
+        "name": "Shanling M6 PRO (21)",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
+    },
+    "magnat-transpuls-800a_": {
+        "name": "Magnat Transpuls 800A",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/magnat-transpuls-800a_",
+        "image": "www.supersonido.es/productos/imagenes/producto46564.jpg"
+    },
+    "advance-paris-playstream-a1_": {
+        "name": "Advance Paris PLAYSTREAM A1",
+        "price": 599.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
+        "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
     },
     "martin-logan-bravado": {
         "name": "Martin-Logan Bravado",
@@ -321,6 +356,13 @@
         "url": "www.supersonido.es/p/cayin-n6ii_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
     },
+    "audeze-lcdx__": {
+        "name": "Audeze LCD-X",
+        "price": 1049.0,
+        "price_old": 1399.0,
+        "url": "www.supersonido.es/p/audeze-lcdx__",
+        "image": "www.supersonido.es/productos/imagenes/producto41906.jpg"
+    },
     "q-acoustics-5040_": {
         "name": "Q-Acoustics 5040",
         "price": 1050.0,
@@ -398,19 +440,19 @@
         "url": "www.supersonido.es/p/mrspeakers-ether-flow__",
         "image": "www.supersonido.es/productos/imagenes/producto47944.jpg"
     },
-    "mofi-electronics-studiodeck__": {
-        "name": "Mofi Electronics STUDIODECK",
-        "price": 1299.0,
-        "price_old": 1599.0,
-        "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
-        "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
-    },
     "sennheiser-hd-820_OC": {
         "name": "Sennheiser HD 820",
         "price": 1299.0,
         "price_old": 1999.0,
         "url": "www.supersonido.es/p/sennheiser-hd-820_OC",
         "image": "www.supersonido.es/productos/imagenes/producto49890.jpg"
+    },
+    "mofi-electronics-studiodeck__": {
+        "name": "Mofi Electronics STUDIODECK",
+        "price": 1299.0,
+        "price_old": 1599.0,
+        "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
+        "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
     },
     "the-chord-company-signaturexl-speaker-cable_": {
         "name": "The Chord Company SignatureXL speaker cable",
