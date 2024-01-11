@@ -90,12 +90,26 @@
         "url": "www.supersonido.es/p/rega-planar-1-plusoc",
         "image": "www.supersonido.es/productos/imagenes/producto46744.jpg"
     },
+    "q-acoustics-5090_": {
+        "name": "Q-Acoustics 5090",
+        "price": 329.0,
+        "price_old": 499.0,
+        "url": "www.supersonido.es/p/q-acoustics-5090_",
+        "image": "www.supersonido.es/productos/imagenes/producto51006.jpg"
+    },
     "sony-str-dh590_oc": {
         "name": "Sony STR-DH590",
         "price": 329.0,
         "price_old": 449.0,
         "url": "www.supersonido.es/p/sony-str-dh590_oc",
         "image": "www.supersonido.es/productos/imagenes/producto51001.jpg"
+    },
+    "panasonic-dp-ub820__": {
+        "name": "Panasonic DP-UB820EGK",
+        "price": 339.0,
+        "price_old": 469.0,
+        "url": "www.supersonido.es/p/panasonic-dp-ub820__",
+        "image": "www.supersonido.es/productos/imagenes/producto51004.jpg"
     },
     "nad-bluos": {
         "name": "Nad MDC BluOS 2",
@@ -118,19 +132,19 @@
         "url": "www.supersonido.es/p/monitor-audio-cpwt380_",
         "image": "www.supersonido.es/productos/imagenes/producto26150.jpg"
     },
-    "bluesound-pulse-mini-2i_": {
-        "name": "Bluesound PULSE MINI 2i",
-        "price": 399.0,
-        "price_old": 649.0,
-        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
-        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
-    },
     "shanling-m6-21_": {
         "name": "Shanling M6(21)",
         "price": 399.0,
         "price_old": 599.0,
         "url": "www.supersonido.es/p/shanling-m6-21_",
         "image": "www.supersonido.es/productos/imagenes/producto49367.jpg"
+    },
+    "bluesound-pulse-mini-2i_": {
+        "name": "Bluesound PULSE MINI 2i",
+        "price": 399.0,
+        "price_old": 649.0,
+        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
+        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
     },
     "stax-srm-252s": {
         "name": "Stax SRM-252S",
@@ -209,19 +223,19 @@
         "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
         "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
     },
-    "magnat-transpuls-800a_": {
-        "name": "Magnat Transpuls 800A",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/magnat-transpuls-800a_",
-        "image": "www.supersonido.es/productos/imagenes/producto46564.jpg"
-    },
     "shanling-m6-pro-21_": {
         "name": "Shanling M6 PRO (21)",
         "price": 599.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/shanling-m6-pro-21_",
         "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
+    },
+    "magnat-transpuls-800a_": {
+        "name": "Magnat Transpuls 800A",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/magnat-transpuls-800a_",
+        "image": "www.supersonido.es/productos/imagenes/producto46564.jpg"
     },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
@@ -292,6 +306,13 @@
         "price_old": 1149.0,
         "url": "www.supersonido.es/p/acoustune-hs1697ti",
         "image": "www.supersonido.es/productos/imagenes/producto42965.jpg"
+    },
+    "panasonic-dp-ub9000eg1-multizona_": {
+        "name": "Panasonic DP-UB9000EG1 Multizona",
+        "price": 849.0,
+        "price_old": 1199.0,
+        "url": "www.supersonido.es/p/panasonic-dp-ub9000eg1-multizona_",
+        "image": "www.supersonido.es/productos/imagenes/producto51005.jpg"
     },
     "mrspeakers-ether-flow": {
         "name": "Dan Clark Audio ETHER Flow",
@@ -405,19 +426,19 @@
         "url": "www.supersonido.es/p/mrspeakers-ether-flow__",
         "image": "www.supersonido.es/productos/imagenes/producto47944.jpg"
     },
-    "mofi-electronics-studiodeck__": {
-        "name": "Mofi Electronics STUDIODECK",
-        "price": 1299.0,
-        "price_old": 1599.0,
-        "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
-        "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
-    },
     "sennheiser-hd-820_OC": {
         "name": "Sennheiser HD 820",
         "price": 1299.0,
         "price_old": 1999.0,
         "url": "www.supersonido.es/p/sennheiser-hd-820_OC",
         "image": "www.supersonido.es/productos/imagenes/producto49890.jpg"
+    },
+    "mofi-electronics-studiodeck__": {
+        "name": "Mofi Electronics STUDIODECK",
+        "price": 1299.0,
+        "price_old": 1599.0,
+        "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
+        "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
     },
     "the-chord-company-signaturexl-speaker-cable_": {
         "name": "The Chord Company SignatureXL speaker cable",
