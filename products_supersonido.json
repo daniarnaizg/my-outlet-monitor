@@ -62,19 +62,19 @@
         "url": "www.supersonido.es/p/pro-ject-e1-standard_",
         "image": "www.supersonido.es/productos/imagenes/producto51070.jpg"
     },
-    "ifi-audio-go-bar__": {
-        "name": "IFI Audio GO bar",
-        "price": 249.0,
-        "price_old": 329.0,
-        "url": "www.supersonido.es/p/ifi-audio-go-bar__",
-        "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
-    },
     "hifiman-sundara_": {
         "name": "HIFIMAN Sundara",
         "price": 249.0,
         "price_old": 349.0,
         "url": "www.supersonido.es/p/hifiman-sundara_",
         "image": "www.supersonido.es/productos/imagenes/producto44086.jpg"
+    },
+    "ifi-audio-go-bar__": {
+        "name": "IFI Audio GO bar",
+        "price": 249.0,
+        "price_old": 329.0,
+        "url": "www.supersonido.es/p/ifi-audio-go-bar__",
+        "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
     },
     "fiio-fa7": {
         "name": "Fiio FA7",
@@ -131,13 +131,6 @@
         "price_old": 499.0,
         "url": "www.supersonido.es/p/nad-bluos",
         "image": "www.supersonido.es/productos/imagenes/producto23316.jpg"
-    },
-    "martin-logan-motion-2i": {
-        "name": "Martin-Logan Motion 2i",
-        "price": 349.0,
-        "price_old": 559.0,
-        "url": "www.supersonido.es/p/martin-logan-motion-2i",
-        "image": "www.supersonido.es/productos/imagenes/producto26591.jpg"
     },
     "rega-p1-plus_occ": {
         "name": "Rega Planar 1 PLUS",
@@ -454,19 +447,19 @@
         "url": "www.supersonido.es/p/mrspeakers-ether-flow__",
         "image": "www.supersonido.es/productos/imagenes/producto47944.jpg"
     },
-    "mofi-electronics-studiodeck__": {
-        "name": "Mofi Electronics STUDIODECK",
-        "price": 1299.0,
-        "price_old": 1599.0,
-        "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
-        "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
-    },
     "sennheiser-hd-820_OC": {
         "name": "Sennheiser HD 820",
         "price": 1299.0,
         "price_old": 1999.0,
         "url": "www.supersonido.es/p/sennheiser-hd-820_OC",
         "image": "www.supersonido.es/productos/imagenes/producto49890.jpg"
+    },
+    "mofi-electronics-studiodeck__": {
+        "name": "Mofi Electronics STUDIODECK",
+        "price": 1299.0,
+        "price_old": 1599.0,
+        "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
+        "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
     },
     "matrix-audio-element-p_": {
         "name": "Matrix Audio Element P",
