@@ -20,13 +20,6 @@
         "url": "www.supersonido.es/p/meze-audio-mini-xlr-ofc-standard-cables_",
         "image": "www.supersonido.es/productos/imagenes/producto50893.jpg"
     },
-    "ifi-audio-zen-dac-v-2_oca": {
-        "name": "IFI Audio ZEN DAC V.2",
-        "price": 159.0,
-        "price_old": 199.0,
-        "url": "www.supersonido.es/p/ifi-audio-zen-dac-v-2_oca",
-        "image": "www.supersonido.es/productos/imagenes/producto47969.jpg"
-    },
     "audio-technica-at-lp60xbt_": {
         "name": "Audio-Technica AT-LP60XBT",
         "price": 169.0,
@@ -55,19 +48,19 @@
         "url": "www.supersonido.es/p/pro-ject-e1-standard_",
         "image": "www.supersonido.es/productos/imagenes/producto51070.jpg"
     },
-    "hifiman-sundara_": {
-        "name": "HIFIMAN Sundara",
-        "price": 249.0,
-        "price_old": 349.0,
-        "url": "www.supersonido.es/p/hifiman-sundara_",
-        "image": "www.supersonido.es/productos/imagenes/producto44086.jpg"
-    },
     "ifi-audio-go-bar__": {
         "name": "IFI Audio GO bar",
         "price": 249.0,
         "price_old": 329.0,
         "url": "www.supersonido.es/p/ifi-audio-go-bar__",
         "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
+    },
+    "hifiman-sundara_": {
+        "name": "HIFIMAN Sundara",
+        "price": 249.0,
+        "price_old": 349.0,
+        "url": "www.supersonido.es/p/hifiman-sundara_",
+        "image": "www.supersonido.es/productos/imagenes/producto44086.jpg"
     },
     "fiio-fa7": {
         "name": "Fiio FA7",
@@ -230,13 +223,6 @@
         "url": "www.supersonido.es/p/q-acoustics-m20-hd-link-1_",
         "image": "www.supersonido.es/productos/imagenes/producto50721.jpg"
     },
-    "isotek-systems-sirius-evo3_": {
-        "name": "Isotek Systems Sirius EVO3",
-        "price": 599.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
-        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
-    },
     "astell-kern-ak-t9ie_": {
         "name": "Astell&kern AK T9iE",
         "price": 599.0,
@@ -251,13 +237,6 @@
         "url": "www.supersonido.es/p/magnat-transpuls-800a_",
         "image": "www.supersonido.es/productos/imagenes/producto46564.jpg"
     },
-    "shanling-m6-pro-21_": {
-        "name": "Shanling M6 PRO (21)",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
-    },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
         "price": 599.0,
@@ -265,12 +244,26 @@
         "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
         "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
     },
+    "shanling-m6-pro-21_": {
+        "name": "Shanling M6 PRO (21)",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
+    },
     "project-maia-ds": {
         "name": "Pro-Ject MaiA DS",
         "price": 599.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/project-maia-ds",
         "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
+    },
+    "isotek-systems-sirius-evo3_": {
+        "name": "Isotek Systems Sirius EVO3",
+        "price": 599.0,
+        "price_old": 949.0,
+        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
+        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
     "martin-logan-bravado": {
         "name": "Martin-Logan Bravado",
@@ -615,19 +608,19 @@
         "url": "www.supersonido.es/p/sony-ht-a9-sasw5_",
         "image": "www.supersonido.es/productos/imagenes/producto51071.jpg"
     },
-    "meze-audio-empyrean_": {
-        "name": "Meze Audio Empyrean",
-        "price": 2199.0,
-        "price_old": 2999.0,
-        "url": "www.supersonido.es/p/meze-audio-empyrean_",
-        "image": "www.supersonido.es/productos/imagenes/producto50663.jpg"
-    },
     "mrspeakers-ether-2_": {
         "name": "Dan Clark Audio ETHER 2",
         "price": 2199.0,
         "price_old": 2759.0,
         "url": "www.supersonido.es/p/mrspeakers-ether-2_",
         "image": "www.supersonido.es/productos/imagenes/producto50756.jpg"
+    },
+    "meze-audio-empyrean_": {
+        "name": "Meze Audio Empyrean",
+        "price": 2199.0,
+        "price_old": 2999.0,
+        "url": "www.supersonido.es/p/meze-audio-empyrean_",
+        "image": "www.supersonido.es/productos/imagenes/producto50663.jpg"
     },
     "astell-kern-ak240": {
         "name": "Astell&kern AK240",
