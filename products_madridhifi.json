@@ -41,18 +41,18 @@
         "url": "https://www.madridhifi.com/p/afx-light-fl6-icolor-60z-defecto-estetico/",
         "image": "/public/img/spacer.gif"
     },
-    "aiwa-apx-600bt-giradiscos-hi-fi-reacondicionado": {
-        "name": "AIWA APX-680BT Giradiscos Hi-Fi Bluetooth USB con Previo Phono ( REACONDICIONADO )",
-        "price": 149.81,
-        "price_old": 219.99,
-        "url": "https://www.madridhifi.com/p/aiwa-apx-600bt-giradiscos-hi-fi-reacondicionado/",
-        "image": "/public/img/spacer.gif"
-    },
     "aiwa-ebtw-850-reacondicionado": {
         "name": "AIWA EBTW-850 Auriculares Bluetooth con Cancelacion de Ruido, Qualcomm APT-X ( REACONDICIONADO )",
         "price": 36.91,
         "price_old": 89.99,
         "url": "https://www.madridhifi.com/p/aiwa-ebtw-850-reacondicionado/",
+        "image": "/public/img/spacer.gif"
+    },
+    "aiwa-apx-600bt-giradiscos-hi-fi-reacondicionado": {
+        "name": "AIWA APX-680BT Giradiscos Hi-Fi Bluetooth USB con Previo Phono ( REACONDICIONADO )",
+        "price": 149.81,
+        "price_old": 219.99,
+        "url": "https://www.madridhifi.com/p/aiwa-apx-600bt-giradiscos-hi-fi-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
     "aiwa-amr-200dab-reacondicionado": {
@@ -1350,13 +1350,6 @@
         "url": "https://www.madridhifi.com/p/fender-cd-60sce-black-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
-    "fender-fa-125-black-defecto-estetico": {
-        "name": "Fender FA-125 Black ( DEFECTO ESTETICO )",
-        "price": 75.0,
-        "price_old": 142.8,
-        "url": "https://www.madridhifi.com/p/fender-fa-125-black-defecto-estetico/",
-        "image": "/public/img/spacer.gif"
-    },
     "fender-player-telecaster-mn-tpl-reacondicionado": {
         "name": "Fender Player Telecaster MN Tidepool. Guitarra El\u00e9ctrica ( REACONDICIONADO )",
         "price": 597.21,
@@ -1518,18 +1511,18 @@
         "url": "https://www.madridhifi.com/p/squier-sonic-0373900506-defecto-estetico/",
         "image": "/public/img/spacer.gif"
     },
-    "skytec-spb-10-reacondicionado": {
-        "name": "Fenton SPB-10 Conjunto Altavoces Activos 10\" 178440 ( REACONDICIONADO )",
-        "price": 123.21,
-        "price_old": 149.0,
-        "url": "https://www.madridhifi.com/p/skytec-spb-10-reacondicionado/",
-        "image": "/public/img/spacer.gif"
-    },
     "fenton-rp165-reacondicionado": {
         "name": "FENTON RP165 Giradiscos de Madera 102154 ( REACONDICIONADO )",
         "price": 97.21,
         "price_old": 157.24,
         "url": "https://www.madridhifi.com/p/fenton-rp165-reacondicionado/",
+        "image": "/public/img/spacer.gif"
+    },
+    "skytec-spb-10-reacondicionado": {
+        "name": "Fenton SPB-10 Conjunto Altavoces Activos 10\" 178440 ( REACONDICIONADO )",
+        "price": 123.21,
+        "price_old": 149.0,
+        "url": "https://www.madridhifi.com/p/skytec-spb-10-reacondicionado/",
         "image": "/public/img/spacer.gif"
     },
     "fenton-fpl1000-reacondicionado": {
