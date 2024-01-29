@@ -111,19 +111,19 @@
         "url": "www.supersonido.es/p/fiio-fa7",
         "image": "www.supersonido.es/productos/imagenes/producto29348.jpg"
     },
-    "klipsch-rp-500m_": {
-        "name": "Klipsch RP-500M",
-        "price": 249.0,
-        "price_old": 599.0,
-        "url": "www.supersonido.es/p/klipsch-rp-500m_",
-        "image": "www.supersonido.es/productos/imagenes/producto51080.jpg"
-    },
     "klipsch-r10sw-_": {
         "name": "Klipsch R-10SW",
         "price": 249.0,
         "price_old": 399.0,
         "url": "www.supersonido.es/p/klipsch-r10sw-_",
         "image": "www.supersonido.es/productos/imagenes/producto48991.jpg"
+    },
+    "klipsch-rp-500m_": {
+        "name": "Klipsch RP-500M",
+        "price": 249.0,
+        "price_old": 599.0,
+        "url": "www.supersonido.es/p/klipsch-rp-500m_",
+        "image": "www.supersonido.es/productos/imagenes/producto51080.jpg"
     },
     "pro-ject-e1-standard_": {
         "name": "Pro-Ject E1 Standard",
@@ -223,6 +223,13 @@
         "url": "www.supersonido.es/p/audeze-maxwell-xbox",
         "image": "www.supersonido.es/productos/imagenes/producto48821.jpg"
     },
+    "bluesound-pulse-mini-2i_": {
+        "name": "Bluesound PULSE MINI 2i",
+        "price": 399.0,
+        "price_old": 649.0,
+        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
+        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
+    },
     "shanling-m6-21_": {
         "name": "Shanling M6(21)",
         "price": 399.0,
@@ -307,12 +314,12 @@
         "url": "www.supersonido.es/p/q-acoustics-m20-hd-link-1_",
         "image": "www.supersonido.es/productos/imagenes/producto50721.jpg"
     },
-    "isotek-systems-sirius-evo3_": {
-        "name": "Isotek Systems Sirius EVO3",
+    "magnat-transpuls-800a_": {
+        "name": "Magnat Transpuls 800A",
         "price": 599.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
-        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/magnat-transpuls-800a_",
+        "image": "www.supersonido.es/productos/imagenes/producto46564.jpg"
     },
     "astell-kern-ak-t9ie_": {
         "name": "Astell&kern AK T9iE",
@@ -328,12 +335,12 @@
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
         "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
     },
-    "magnat-transpuls-800a_": {
-        "name": "Magnat Transpuls 800A",
+    "shanling-m6-pro-21_": {
+        "name": "Shanling M6 PRO (21)",
         "price": 599.0,
         "price_old": 799.0,
-        "url": "www.supersonido.es/p/magnat-transpuls-800a_",
-        "image": "www.supersonido.es/productos/imagenes/producto46564.jpg"
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
     "wharfedale-evo4-2_oc": {
         "name": "Wharfedale Evo4.2",
@@ -342,19 +349,19 @@
         "url": "www.supersonido.es/p/wharfedale-evo4-2_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49914.jpg"
     },
+    "isotek-systems-sirius-evo3_": {
+        "name": "Isotek Systems Sirius EVO3",
+        "price": 599.0,
+        "price_old": 949.0,
+        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
+        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
+    },
     "project-maia-ds": {
         "name": "Pro-Ject MaiA DS",
         "price": 599.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/project-maia-ds",
         "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
-    },
-    "shanling-m6-pro-21_": {
-        "name": "Shanling M6 PRO (21)",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
     "sony-sa-sw5_": {
         "name": "Sony SA-SW5",
@@ -531,19 +538,19 @@
         "url": "www.supersonido.es/p/loewe-wee-see-55",
         "image": "www.supersonido.es/productos/imagenes/producto46140.jpg"
     },
-    "primare-sc-15-prisma": {
-        "name": "Primare SC 15 Prisma",
-        "price": 1199.0,
-        "price_old": 1590.0,
-        "url": "www.supersonido.es/p/primare-sc-15-prisma",
-        "image": "www.supersonido.es/productos/imagenes/producto29464.jpg"
-    },
     "primare-r35_": {
         "name": "Primare R35",
         "price": 1199.0,
         "price_old": 1590.0,
         "url": "www.supersonido.es/p/primare-r35_",
         "image": "www.supersonido.es/productos/imagenes/producto50788.jpg"
+    },
+    "primare-sc-15-prisma": {
+        "name": "Primare SC 15 Prisma",
+        "price": 1199.0,
+        "price_old": 1590.0,
+        "url": "www.supersonido.es/p/primare-sc-15-prisma",
+        "image": "www.supersonido.es/productos/imagenes/producto29464.jpg"
     },
     "pro-ject-box-15-ds2_": {
         "name": "Pro-Ject Speaker Box 15 DS2",
@@ -790,19 +797,19 @@
         "url": "www.supersonido.es/p/mrspeakers-voce_",
         "image": "www.supersonido.es/productos/imagenes/producto50151.jpg"
     },
-    "electrocompaniet-ec-4-9-2ch": {
-        "name": "Electrocompaniet EC 4.9 2ch",
-        "price": 2890.0,
-        "price_old": 4290.0,
-        "url": "www.supersonido.es/p/electrocompaniet-ec-4-9-2ch",
-        "image": "www.supersonido.es/productos/imagenes/producto5156.jpg"
-    },
     "isotek-systems-nova": {
         "name": "Isotek Systems Nova",
         "price": 2890.0,
         "price_old": 3990.0,
         "url": "www.supersonido.es/p/isotek-systems-nova",
         "image": "www.supersonido.es/productos/imagenes/producto11309.jpg"
+    },
+    "electrocompaniet-ec-4-9-2ch": {
+        "name": "Electrocompaniet EC 4.9 2ch",
+        "price": 2890.0,
+        "price_old": 4290.0,
+        "url": "www.supersonido.es/p/electrocompaniet-ec-4-9-2ch",
+        "image": "www.supersonido.es/productos/imagenes/producto5156.jpg"
     },
     "primare-i35dac_": {
         "name": "Primare I35DAC",
@@ -853,19 +860,19 @@
         "url": "www.supersonido.es/p/sony-vpl-vw590es_",
         "image": "www.supersonido.es/productos/imagenes/producto47122.jpg"
     },
-    "copland-csa-150_": {
-        "name": "Copland CSA 150",
-        "price": 3990.0,
-        "price_old": 5390.0,
-        "url": "www.supersonido.es/p/copland-csa-150_",
-        "image": "www.supersonido.es/productos/imagenes/producto50008.jpg"
-    },
     "krell-industries-evo-222-": {
         "name": "Krell Industries Evo 222",
         "price": 3990.0,
         "price_old": 10540.0,
         "url": "www.supersonido.es/p/krell-industries-evo-222-",
         "image": "www.supersonido.es/productos/imagenes/producto3644.jpg"
+    },
+    "copland-csa-150_": {
+        "name": "Copland CSA 150",
+        "price": 3990.0,
+        "price_old": 5390.0,
+        "url": "www.supersonido.es/p/copland-csa-150_",
+        "image": "www.supersonido.es/productos/imagenes/producto50008.jpg"
     },
     "jbl-hdi-3800_": {
         "name": "JBL HDI-3800",
