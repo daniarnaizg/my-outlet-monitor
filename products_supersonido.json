@@ -41,13 +41,6 @@
         "url": "www.supersonido.es/p/ifi-audio-zen-dac-signature",
         "image": "www.supersonido.es/productos/imagenes/producto43929.jpg"
     },
-    "sony-str-dh190_": {
-        "name": "Sony STR-DH190",
-        "price": 219.0,
-        "price_old": 299.0,
-        "url": "www.supersonido.es/p/sony-str-dh190_",
-        "image": "www.supersonido.es/productos/imagenes/producto47521.jpg"
-    },
     "ifi-audio-go-bar__": {
         "name": "IFI Audio GO bar",
         "price": 249.0,
@@ -299,6 +292,13 @@
         "price_old": 1099.0,
         "url": "www.supersonido.es/p/pro-ject-dac-box-rs-silver",
         "image": "www.supersonido.es/productos/imagenes/producto16717.jpg"
+    },
+    "pro-ject-x2_": {
+        "name": "Pro-Ject X2",
+        "price": 699.0,
+        "price_old": 1299.0,
+        "url": "www.supersonido.es/p/pro-ject-x2_",
+        "image": "www.supersonido.es/productos/imagenes/producto46386.jpg"
     },
     "ruark-audio-r3s_": {
         "name": "Ruark Audio R3S",
@@ -573,19 +573,19 @@
         "url": "www.supersonido.es/p/technics-sl-g700e_ou",
         "image": "www.supersonido.es/productos/imagenes/producto50603.jpg"
     },
-    "stax-srm-007tii": {
-        "name": "Stax SRM-007TII",
-        "price": 1899.0,
-        "price_old": 2950.0,
-        "url": "www.supersonido.es/p/stax-srm-007tii",
-        "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
-    },
     "anthem-mca-225-gen-2_": {
         "name": "Anthem MCA 225 GEN 2",
         "price": 1899.0,
         "price_old": 2599.0,
         "url": "www.supersonido.es/p/anthem-mca-225-gen-2_",
         "image": "www.supersonido.es/productos/imagenes/producto50079.jpg"
+    },
+    "stax-srm-007tii": {
+        "name": "Stax SRM-007TII",
+        "price": 1899.0,
+        "price_old": 2950.0,
+        "url": "www.supersonido.es/p/stax-srm-007tii",
+        "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
     },
     "martin-logan-em-esl-c_": {
         "name": "Martin-Logan EM-ESL C",
