@@ -83,13 +83,6 @@
         "url": "www.supersonido.es/p/audio-technica-at-lp60xbt_",
         "image": "www.supersonido.es/productos/imagenes/producto46437.jpg"
     },
-    "magnat-supreme-1002": {
-        "name": "Magnat Supreme 1002",
-        "price": 199.0,
-        "price_old": 399.0,
-        "url": "www.supersonido.es/p/magnat-supreme-1002",
-        "image": "www.supersonido.es/productos/imagenes/producto17593.jpg"
-    },
     "pro-ject-primary-e_oc": {
         "name": "Pro-Ject Primary E",
         "price": 199.0,
@@ -230,6 +223,13 @@
         "url": "www.supersonido.es/p/q-acoustics-m20hdoca",
         "image": "www.supersonido.es/productos/imagenes/producto51002.jpg"
     },
+    "shanling-m6-21_": {
+        "name": "Shanling M6(21)",
+        "price": 399.0,
+        "price_old": 599.0,
+        "url": "www.supersonido.es/p/shanling-m6-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49367.jpg"
+    },
     "bluesound-pulse-mini-2i_": {
         "name": "Bluesound PULSE MINI 2i",
         "price": 399.0,
@@ -243,13 +243,6 @@
         "price_old": 449.0,
         "url": "www.supersonido.es/p/audeze-maxwell-xbox",
         "image": "www.supersonido.es/productos/imagenes/producto48821.jpg"
-    },
-    "shanling-m6-21_": {
-        "name": "Shanling M6(21)",
-        "price": 399.0,
-        "price_old": 599.0,
-        "url": "www.supersonido.es/p/shanling-m6-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49367.jpg"
     },
     "stax-srm-252s": {
         "name": "Stax SRM-252S",
@@ -349,6 +342,13 @@
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
         "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
     },
+    "shanling-m6-pro-21_": {
+        "name": "Shanling M6 PRO (21)",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
+    },
     "wharfedale-evo4-2_oc": {
         "name": "Wharfedale Evo4.2",
         "price": 599.0,
@@ -369,13 +369,6 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/project-maia-ds",
         "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
-    },
-    "shanling-m6-pro-21_": {
-        "name": "Shanling M6 PRO (21)",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
     "sony-sa-sw5_": {
         "name": "Sony SA-SW5",
@@ -405,19 +398,19 @@
         "url": "www.supersonido.es/p/musical-fidelity-m2scd",
         "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
     },
-    "pro-ject-dac-box-rs-silver": {
-        "name": "Pro-Ject DAC Box RS",
-        "price": 699.0,
-        "price_old": 1099.0,
-        "url": "www.supersonido.es/p/pro-ject-dac-box-rs-silver",
-        "image": "www.supersonido.es/productos/imagenes/producto16717.jpg"
-    },
     "pro-ject-x2_": {
         "name": "Pro-Ject X2",
         "price": 699.0,
         "price_old": 1299.0,
         "url": "www.supersonido.es/p/pro-ject-x2_",
         "image": "www.supersonido.es/productos/imagenes/producto46386.jpg"
+    },
+    "pro-ject-dac-box-rs-silver": {
+        "name": "Pro-Ject DAC Box RS",
+        "price": 699.0,
+        "price_old": 1099.0,
+        "url": "www.supersonido.es/p/pro-ject-dac-box-rs-silver",
+        "image": "www.supersonido.es/productos/imagenes/producto16717.jpg"
     },
     "ruark-audio-r3s_": {
         "name": "Ruark Audio R3S",
@@ -804,19 +797,19 @@
         "url": "www.supersonido.es/p/mrspeakers-voce_",
         "image": "www.supersonido.es/productos/imagenes/producto50151.jpg"
     },
-    "electrocompaniet-ec-4-9-2ch": {
-        "name": "Electrocompaniet EC 4.9 2ch",
-        "price": 2890.0,
-        "price_old": 4290.0,
-        "url": "www.supersonido.es/p/electrocompaniet-ec-4-9-2ch",
-        "image": "www.supersonido.es/productos/imagenes/producto5156.jpg"
-    },
     "isotek-systems-nova": {
         "name": "Isotek Systems Nova",
         "price": 2890.0,
         "price_old": 3990.0,
         "url": "www.supersonido.es/p/isotek-systems-nova",
         "image": "www.supersonido.es/productos/imagenes/producto11309.jpg"
+    },
+    "electrocompaniet-ec-4-9-2ch": {
+        "name": "Electrocompaniet EC 4.9 2ch",
+        "price": 2890.0,
+        "price_old": 4290.0,
+        "url": "www.supersonido.es/p/electrocompaniet-ec-4-9-2ch",
+        "image": "www.supersonido.es/productos/imagenes/producto5156.jpg"
     },
     "primare-i35dac_": {
         "name": "Primare I35DAC",
