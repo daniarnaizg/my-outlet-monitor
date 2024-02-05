@@ -76,12 +76,26 @@
         "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
         "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
     },
+    "campfire-audio-satsuma_": {
+        "name": "Campfire Audio Satsuma",
+        "price": 149.0,
+        "price_old": 219.99,
+        "url": "www.supersonido.es/p/campfire-audio-satsuma_",
+        "image": "www.supersonido.es/productos/imagenes/producto51155.jpg"
+    },
     "audio-technica-at-lp60xbt_": {
         "name": "Audio-Technica AT-LP60XBT",
         "price": 169.0,
         "price_old": 229.0,
         "url": "www.supersonido.es/p/audio-technica-at-lp60xbt_",
         "image": "www.supersonido.es/productos/imagenes/producto46437.jpg"
+    },
+    "campfire-audio-honeydew_": {
+        "name": "Campfire Audio Honeydew",
+        "price": 189.0,
+        "price_old": 269.99,
+        "url": "www.supersonido.es/p/campfire-audio-honeydew_",
+        "image": "www.supersonido.es/productos/imagenes/producto51154.jpg"
     },
     "sivga-oriole_": {
         "name": "Sivga Oriole",
@@ -209,13 +223,6 @@
         "url": "www.supersonido.es/p/audeze-maxwell-xbox",
         "image": "www.supersonido.es/productos/imagenes/producto48821.jpg"
     },
-    "stax-srm-252s": {
-        "name": "Stax SRM-252S",
-        "price": 399.0,
-        "price_old": 580.0,
-        "url": "www.supersonido.es/p/stax-srm-252s",
-        "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
-    },
     "shanling-m6-21_": {
         "name": "Shanling M6(21)",
         "price": 399.0,
@@ -229,6 +236,13 @@
         "price_old": 649.0,
         "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
         "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
+    },
+    "stax-srm-252s": {
+        "name": "Stax SRM-252S",
+        "price": 399.0,
+        "price_old": 580.0,
+        "url": "www.supersonido.es/p/stax-srm-252s",
+        "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
     },
     "lumene-movie-palace-premium-multi-300c": {
         "name": "Lumene Movie Palace Premium Multi 300C",
@@ -355,6 +369,13 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/martin-logan-bravado",
         "image": "www.supersonido.es/productos/imagenes/producto44417.jpg"
+    },
+    "campfire-audio-vega-2020_": {
+        "name": "Campfire Audio Vega 2020",
+        "price": 649.0,
+        "price_old": 949.0,
+        "url": "www.supersonido.es/p/campfire-audio-vega-2020_",
+        "image": "www.supersonido.es/productos/imagenes/producto51156.jpg"
     },
     "rega-planar-3-exact_": {
         "name": "Rega Planar 3 + Exact",
@@ -643,19 +664,19 @@
         "url": "www.supersonido.es/p/technics-sl-g700e_ou",
         "image": "www.supersonido.es/productos/imagenes/producto50603.jpg"
     },
-    "stax-srm-007tii": {
-        "name": "Stax SRM-007TII",
-        "price": 1899.0,
-        "price_old": 2950.0,
-        "url": "www.supersonido.es/p/stax-srm-007tii",
-        "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
-    },
     "anthem-mca-225-gen-2_": {
         "name": "Anthem MCA 225 GEN 2",
         "price": 1899.0,
         "price_old": 2599.0,
         "url": "www.supersonido.es/p/anthem-mca-225-gen-2_",
         "image": "www.supersonido.es/productos/imagenes/producto50079.jpg"
+    },
+    "stax-srm-007tii": {
+        "name": "Stax SRM-007TII",
+        "price": 1899.0,
+        "price_old": 2950.0,
+        "url": "www.supersonido.es/p/stax-srm-007tii",
+        "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
     },
     "martin-logan-em-esl-c_": {
         "name": "Martin-Logan EM-ESL C",
@@ -692,19 +713,19 @@
         "url": "www.supersonido.es/p/sony-ht-a9-sasw5_",
         "image": "www.supersonido.es/productos/imagenes/producto51071.jpg"
     },
-    "mrspeakers-ether-2_": {
-        "name": "Dan Clark Audio ETHER 2",
-        "price": 2199.0,
-        "price_old": 2759.0,
-        "url": "www.supersonido.es/p/mrspeakers-ether-2_",
-        "image": "www.supersonido.es/productos/imagenes/producto50756.jpg"
-    },
     "meze-audio-empyrean_": {
         "name": "Meze Audio Empyrean",
         "price": 2199.0,
         "price_old": 2999.0,
         "url": "www.supersonido.es/p/meze-audio-empyrean_",
         "image": "www.supersonido.es/productos/imagenes/producto50663.jpg"
+    },
+    "mrspeakers-ether-2_": {
+        "name": "Dan Clark Audio ETHER 2",
+        "price": 2199.0,
+        "price_old": 2759.0,
+        "url": "www.supersonido.es/p/mrspeakers-ether-2_",
+        "image": "www.supersonido.es/productos/imagenes/producto50756.jpg"
     },
     "astell-kern-ak240": {
         "name": "Astell&kern AK240",
