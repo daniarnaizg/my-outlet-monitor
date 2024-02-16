@@ -41,6 +41,13 @@
         "url": "www.supersonido.es/p/grado-sr125x_OC",
         "image": "www.supersonido.es/productos/imagenes/producto49911.jpg"
     },
+    "sony-srs-lsr200_": {
+        "name": "Sony SRS-LSR200",
+        "price": 129.0,
+        "price_old": 178.0,
+        "url": "www.supersonido.es/p/sony-srs-lsr200_",
+        "image": "www.supersonido.es/productos/imagenes/producto51301.jpg"
+    },
     "meze-audio-mini-xlr-ofc-standard-cables_": {
         "name": "Meze Audio MINI XLR OFC STANDARD CABLES",
         "price": 139.0,
@@ -272,19 +279,19 @@
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c30_",
         "image": "www.supersonido.es/productos/imagenes/producto44225.jpg"
     },
-    "earmen-tradutto_": {
-        "name": "EarMen Tradutto",
-        "price": 499.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/earmen-tradutto_",
-        "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
-    },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
         "price": 499.0,
         "price_old": 899.0,
         "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
         "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
+    },
+    "earmen-tradutto_": {
+        "name": "EarMen Tradutto",
+        "price": 499.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/earmen-tradutto_",
+        "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
     },
     "astell-kern-ak-zero1_": {
         "name": "Astell&kern AK ZERO1",
@@ -559,13 +566,6 @@
         "url": "www.supersonido.es/p/loewe-wee-see-55",
         "image": "www.supersonido.es/productos/imagenes/producto46140.jpg"
     },
-    "pro-ject-box-15-ds2_": {
-        "name": "Pro-Ject Speaker Box 15 DS2",
-        "price": 1199.0,
-        "price_old": 1599.0,
-        "url": "www.supersonido.es/p/pro-ject-box-15-ds2_",
-        "image": "www.supersonido.es/productos/imagenes/producto50803.jpg"
-    },
     "primare-sc-15-prisma": {
         "name": "Primare SC 15 Prisma",
         "price": 1199.0,
@@ -579,6 +579,13 @@
         "price_old": 1590.0,
         "url": "www.supersonido.es/p/primare-r35_",
         "image": "www.supersonido.es/productos/imagenes/producto50788.jpg"
+    },
+    "pro-ject-box-15-ds2_": {
+        "name": "Pro-Ject Speaker Box 15 DS2",
+        "price": 1199.0,
+        "price_old": 1599.0,
+        "url": "www.supersonido.es/p/pro-ject-box-15-ds2_",
+        "image": "www.supersonido.es/productos/imagenes/producto50803.jpg"
     },
     "unison-research-simply-italy____": {
         "name": "Unison Research SIMPLY ITALY",
@@ -944,19 +951,19 @@
         "url": "www.supersonido.es/p/devialet-130-pro_",
         "image": "www.supersonido.es/productos/imagenes/producto48499.jpg"
     },
-    "copland-csa-150_": {
-        "name": "Copland CSA 150",
-        "price": 3990.0,
-        "price_old": 5390.0,
-        "url": "www.supersonido.es/p/copland-csa-150_",
-        "image": "www.supersonido.es/productos/imagenes/producto50008.jpg"
-    },
     "krell-industries-evo-222-": {
         "name": "Krell Industries Evo 222",
         "price": 3990.0,
         "price_old": 10540.0,
         "url": "www.supersonido.es/p/krell-industries-evo-222-",
         "image": "www.supersonido.es/productos/imagenes/producto3644.jpg"
+    },
+    "copland-csa-150_": {
+        "name": "Copland CSA 150",
+        "price": 3990.0,
+        "price_old": 5390.0,
+        "url": "www.supersonido.es/p/copland-csa-150_",
+        "image": "www.supersonido.es/productos/imagenes/producto50008.jpg"
     },
     "sony-vpl-vw590es_": {
         "name": "Sony VPL-VW590ES",
