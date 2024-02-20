@@ -83,6 +83,13 @@
         "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
         "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
     },
+    "forza-audioworks-noir-hybrid-hpc": {
+        "name": "Forza Audioworks NOIR HYBRID HPC",
+        "price": 150.0,
+        "price_old": 304.0,
+        "url": "www.supersonido.es/p/forza-audioworks-noir-hybrid-hpc",
+        "image": "www.supersonido.es/productos/imagenes/producto51309.jpg"
+    },
     "the-chord-company-shawline-digital-1bnc-to-1bnc_": {
         "name": "The Chord Company Shawline Digital 1BNC to 1BNC",
         "price": 150.0,
@@ -153,19 +160,19 @@
         "url": "www.supersonido.es/p/rega-planar-1-plusoc",
         "image": "www.supersonido.es/productos/imagenes/producto46744.jpg"
     },
-    "wharfedale-diamond-12-1_": {
-        "name": "Wharfedale Diamond 12.1",
-        "price": 299.0,
-        "price_old": 399.0,
-        "url": "www.supersonido.es/p/wharfedale-diamond-12-1_",
-        "image": "www.supersonido.es/productos/imagenes/producto47584.jpg"
-    },
     "klipsch-the-three-ii_": {
         "name": "Klipsch THE THREE II",
         "price": 299.0,
         "price_old": 529.0,
         "url": "www.supersonido.es/p/klipsch-the-three-ii_",
         "image": "www.supersonido.es/productos/imagenes/producto51242.jpg"
+    },
+    "wharfedale-diamond-12-1_": {
+        "name": "Wharfedale Diamond 12.1",
+        "price": 299.0,
+        "price_old": 399.0,
+        "url": "www.supersonido.es/p/wharfedale-diamond-12-1_",
+        "image": "www.supersonido.es/productos/imagenes/producto47584.jpg"
     },
     "pro-ject-a1_": {
         "name": "Pro-Ject A1",
@@ -265,19 +272,19 @@
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c30_",
         "image": "www.supersonido.es/productos/imagenes/producto44225.jpg"
     },
-    "advance-paris-playstream-a1_": {
-        "name": "Advance Paris PLAYSTREAM A1",
-        "price": 499.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
-        "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
-    },
     "earmen-tradutto_": {
         "name": "EarMen Tradutto",
         "price": 499.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/earmen-tradutto_",
         "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
+    },
+    "advance-paris-playstream-a1_": {
+        "name": "Advance Paris PLAYSTREAM A1",
+        "price": 499.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
+        "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
     },
     "astell-kern-ak-zero1_": {
         "name": "Astell&kern AK ZERO1",
@@ -468,19 +475,19 @@
         "url": "www.supersonido.es/p/monitor-audio-silver-100-7g-limited-edition_",
         "image": "www.supersonido.es/productos/imagenes/producto51235.jpg"
     },
-    "wharfedale-evo4-3_": {
-        "name": "Wharfedale Evo4.3",
-        "price": 999.0,
-        "price_old": 1449.0,
-        "url": "www.supersonido.es/p/wharfedale-evo4-3_",
-        "image": "www.supersonido.es/productos/imagenes/producto43301.jpg"
-    },
     "cayin-n6ii_": {
         "name": "Cayin N6ii",
         "price": 999.0,
         "price_old": 1399.0,
         "url": "www.supersonido.es/p/cayin-n6ii_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+    },
+    "wharfedale-evo4-3_": {
+        "name": "Wharfedale Evo4.3",
+        "price": 999.0,
+        "price_old": 1449.0,
+        "url": "www.supersonido.es/p/wharfedale-evo4-3_",
+        "image": "www.supersonido.es/productos/imagenes/producto43301.jpg"
     },
     "primare-i15-prisma": {
         "name": "Primare I15 Prisma",
@@ -692,13 +699,6 @@
         "url": "www.supersonido.es/p/cayin-cs-6-ph_",
         "image": "www.supersonido.es/productos/imagenes/producto51252.jpg"
     },
-    "ifi-audio-pro-ican-signature_": {
-        "name": "IFI Audio Pro iCAN Signature",
-        "price": 1799.0,
-        "price_old": 2249.0,
-        "url": "www.supersonido.es/p/ifi-audio-pro-ican-signature_",
-        "image": "www.supersonido.es/productos/imagenes/producto51306.jpg"
-    },
     "rotel-s14_oc": {
         "name": "Rotel S14",
         "price": 1799.0,
@@ -712,6 +712,13 @@
         "price_old": 3599.0,
         "url": "www.supersonido.es/p/dynaudio-xeo-30",
         "image": "www.supersonido.es/productos/imagenes/producto27009.jpg"
+    },
+    "ifi-audio-pro-ican-signature_": {
+        "name": "IFI Audio Pro iCAN Signature",
+        "price": 1799.0,
+        "price_old": 2249.0,
+        "url": "www.supersonido.es/p/ifi-audio-pro-ican-signature_",
+        "image": "www.supersonido.es/productos/imagenes/producto51306.jpg"
     },
     "mofi-electronics-ultradeck_": {
         "name": "Mofi Electronics UltraDeck",
@@ -783,19 +790,19 @@
         "url": "www.supersonido.es/p/sony-ht-a9-sasw5_",
         "image": "www.supersonido.es/productos/imagenes/producto51071.jpg"
     },
-    "meze-audio-empyrean_": {
-        "name": "Meze Audio Empyrean",
-        "price": 2199.0,
-        "price_old": 2999.0,
-        "url": "www.supersonido.es/p/meze-audio-empyrean_",
-        "image": "www.supersonido.es/productos/imagenes/producto50663.jpg"
-    },
     "mrspeakers-ether-2_": {
         "name": "Dan Clark Audio ETHER 2",
         "price": 2199.0,
         "price_old": 2759.0,
         "url": "www.supersonido.es/p/mrspeakers-ether-2_",
         "image": "www.supersonido.es/productos/imagenes/producto50756.jpg"
+    },
+    "meze-audio-empyrean_": {
+        "name": "Meze Audio Empyrean",
+        "price": 2199.0,
+        "price_old": 2999.0,
+        "url": "www.supersonido.es/p/meze-audio-empyrean_",
+        "image": "www.supersonido.es/productos/imagenes/producto50663.jpg"
     },
     "svs-ultra-tower_": {
         "name": "SVS Ultra Tower",
