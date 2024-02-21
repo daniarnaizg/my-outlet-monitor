@@ -20,6 +20,13 @@
         "url": "www.supersonido.es/p/hifiman-he400se_",
         "image": "www.supersonido.es/productos/imagenes/producto51100.jpg"
     },
+    "grado-sr80x_oc": {
+        "name": "Grado SR80x",
+        "price": 100.0,
+        "price_old": 149.0,
+        "url": "www.supersonido.es/p/grado-sr80x_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto48628.jpg"
+    },
     "audiopro-addon-t3oc": {
         "name": "AudioPro Addon T3",
         "price": 119.0,
@@ -62,19 +69,19 @@
         "url": "www.supersonido.es/p/fonestar-vinyl-13",
         "image": "www.supersonido.es/productos/imagenes/producto43997.jpg"
     },
-    "ifi-audio-hip-dac-2_": {
-        "name": "IFI Audio Hip-dac 2",
-        "price": 149.0,
-        "price_old": 189.0,
-        "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
-        "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
-    },
     "campfire-audio-satsuma_": {
         "name": "Campfire Audio Satsuma",
         "price": 149.0,
         "price_old": 219.99,
         "url": "www.supersonido.es/p/campfire-audio-satsuma_",
         "image": "www.supersonido.es/productos/imagenes/producto51155.jpg"
+    },
+    "ifi-audio-hip-dac-2_": {
+        "name": "IFI Audio Hip-dac 2",
+        "price": 149.0,
+        "price_old": 189.0,
+        "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
+        "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
     },
     "forza-audioworks-noir-hybrid-hpc": {
         "name": "Forza Audioworks NOIR HYBRID HPC",
@@ -103,6 +110,13 @@
         "price_old": 229.99,
         "url": "www.supersonido.es/p/arylic-s50-pro__",
         "image": "www.supersonido.es/productos/imagenes/producto51243.jpg"
+    },
+    "grado-sr225x_OC": {
+        "name": "Grado SR225x",
+        "price": 179.0,
+        "price_old": 279.0,
+        "url": "www.supersonido.es/p/grado-sr225x_OC",
+        "image": "www.supersonido.es/productos/imagenes/producto51323.jpg"
     },
     "campfire-audio-honeydew_": {
         "name": "Campfire Audio Honeydew",
@@ -272,6 +286,13 @@
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c30_",
         "image": "www.supersonido.es/productos/imagenes/producto44225.jpg"
     },
+    "astell-kern-ak-zero1_": {
+        "name": "Astell&kern AK ZERO1",
+        "price": 499.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/astell-kern-ak-zero1_",
+        "image": "www.supersonido.es/productos/imagenes/producto50902.jpg"
+    },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
         "price": 499.0,
@@ -285,13 +306,6 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/earmen-tradutto_",
         "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
-    },
-    "astell-kern-ak-zero1_": {
-        "name": "Astell&kern AK ZERO1",
-        "price": 499.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/astell-kern-ak-zero1_",
-        "image": "www.supersonido.es/productos/imagenes/producto50902.jpg"
     },
     "denon-home-350__": {
         "name": "Denon Home 350",
@@ -349,13 +363,6 @@
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
-    "technics-ottava-s-sc-c50OC": {
-        "name": "Technics OTTAVA S SC-C50",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
-        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
-    },
     "shanling-m6-pro-21_": {
         "name": "Shanling M6 PRO (21)",
         "price": 599.0,
@@ -369,6 +376,13 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/magnat-transpuls-800a_",
         "image": "www.supersonido.es/productos/imagenes/producto46564.jpg"
+    },
+    "technics-ottava-s-sc-c50OC": {
+        "name": "Technics OTTAVA S SC-C50",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
+        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
     },
     "sony-sa-sw5_": {
         "name": "Sony SA-SW5",
@@ -517,19 +531,19 @@
         "url": "www.supersonido.es/p/svs-ultra-surround_",
         "image": "www.supersonido.es/productos/imagenes/producto51280.jpg"
     },
-    "dynaudio-emit-30_": {
-        "name": "Dynaudio Emit 30",
-        "price": 1125.0,
-        "price_old": 1500.0,
-        "url": "www.supersonido.es/p/dynaudio-emit-30_",
-        "image": "www.supersonido.es/productos/imagenes/producto51245.jpg"
-    },
     "dynaudio-evoke-10_oc": {
         "name": "Dynaudio Evoke 10",
         "price": 1125.0,
         "price_old": 1500.0,
         "url": "www.supersonido.es/p/dynaudio-evoke-10_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49809.jpg"
+    },
+    "dynaudio-emit-30_": {
+        "name": "Dynaudio Emit 30",
+        "price": 1125.0,
+        "price_old": 1500.0,
+        "url": "www.supersonido.es/p/dynaudio-emit-30_",
+        "image": "www.supersonido.es/productos/imagenes/producto51245.jpg"
     },
     "jbl-hdi-1600_": {
         "name": "JBL HDI-1600",
@@ -552,13 +566,6 @@
         "url": "www.supersonido.es/p/loewe-wee-see-55",
         "image": "www.supersonido.es/productos/imagenes/producto46140.jpg"
     },
-    "pro-ject-box-15-ds2_": {
-        "name": "Pro-Ject Speaker Box 15 DS2",
-        "price": 1199.0,
-        "price_old": 1599.0,
-        "url": "www.supersonido.es/p/pro-ject-box-15-ds2_",
-        "image": "www.supersonido.es/productos/imagenes/producto50803.jpg"
-    },
     "primare-sc-15-prisma": {
         "name": "Primare SC 15 Prisma",
         "price": 1199.0,
@@ -572,6 +579,13 @@
         "price_old": 1590.0,
         "url": "www.supersonido.es/p/primare-r35_",
         "image": "www.supersonido.es/productos/imagenes/producto50788.jpg"
+    },
+    "pro-ject-box-15-ds2_": {
+        "name": "Pro-Ject Speaker Box 15 DS2",
+        "price": 1199.0,
+        "price_old": 1599.0,
+        "url": "www.supersonido.es/p/pro-ject-box-15-ds2_",
+        "image": "www.supersonido.es/productos/imagenes/producto50803.jpg"
     },
     "unison-research-simply-italy____": {
         "name": "Unison Research SIMPLY ITALY",
@@ -706,6 +720,13 @@
         "url": "www.supersonido.es/p/astell-kern-pathfinder_",
         "image": "www.supersonido.es/productos/imagenes/producto50976.jpg"
     },
+    "ifi-audio-pro-ican-signature_": {
+        "name": "IFI Audio Pro iCAN Signature",
+        "price": 1699.0,
+        "price_old": 2249.0,
+        "url": "www.supersonido.es/p/ifi-audio-pro-ican-signature_",
+        "image": "www.supersonido.es/productos/imagenes/producto51306.jpg"
+    },
     "naim-xp5-xs_": {
         "name": "Naim XP5 XS",
         "price": 1750.0,
@@ -720,13 +741,6 @@
         "url": "www.supersonido.es/p/cayin-cs-6-ph_",
         "image": "www.supersonido.es/productos/imagenes/producto51252.jpg"
     },
-    "dynaudio-xeo-30": {
-        "name": "Dynaudio Xeo 30",
-        "price": 1799.0,
-        "price_old": 3599.0,
-        "url": "www.supersonido.es/p/dynaudio-xeo-30",
-        "image": "www.supersonido.es/productos/imagenes/producto27009.jpg"
-    },
     "rotel-s14_oc": {
         "name": "Rotel S14",
         "price": 1799.0,
@@ -734,12 +748,12 @@
         "url": "www.supersonido.es/p/rotel-s14_oc",
         "image": "www.supersonido.es/productos/imagenes/producto50108.jpg"
     },
-    "ifi-audio-pro-ican-signature_": {
-        "name": "IFI Audio Pro iCAN Signature",
+    "dynaudio-xeo-30": {
+        "name": "Dynaudio Xeo 30",
         "price": 1799.0,
-        "price_old": 2249.0,
-        "url": "www.supersonido.es/p/ifi-audio-pro-ican-signature_",
-        "image": "www.supersonido.es/productos/imagenes/producto51306.jpg"
+        "price_old": 3599.0,
+        "url": "www.supersonido.es/p/dynaudio-xeo-30",
+        "image": "www.supersonido.es/productos/imagenes/producto27009.jpg"
     },
     "mofi-electronics-ultradeck_": {
         "name": "Mofi Electronics UltraDeck",
@@ -958,19 +972,19 @@
         "url": "www.supersonido.es/p/sony-vpl-vw590es_",
         "image": "www.supersonido.es/productos/imagenes/producto47122.jpg"
     },
-    "copland-csa-150_": {
-        "name": "Copland CSA 150",
-        "price": 3990.0,
-        "price_old": 5390.0,
-        "url": "www.supersonido.es/p/copland-csa-150_",
-        "image": "www.supersonido.es/productos/imagenes/producto50008.jpg"
-    },
     "krell-industries-evo-222-": {
         "name": "Krell Industries Evo 222",
         "price": 3990.0,
         "price_old": 10540.0,
         "url": "www.supersonido.es/p/krell-industries-evo-222-",
         "image": "www.supersonido.es/productos/imagenes/producto3644.jpg"
+    },
+    "copland-csa-150_": {
+        "name": "Copland CSA 150",
+        "price": 3990.0,
+        "price_old": 5390.0,
+        "url": "www.supersonido.es/p/copland-csa-150_",
+        "image": "www.supersonido.es/productos/imagenes/producto50008.jpg"
     },
     "jbl-hdi-3800_": {
         "name": "JBL HDI-3800",
