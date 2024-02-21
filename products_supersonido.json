@@ -69,19 +69,19 @@
         "url": "www.supersonido.es/p/fonestar-vinyl-13",
         "image": "www.supersonido.es/productos/imagenes/producto43997.jpg"
     },
-    "ifi-audio-hip-dac-2_": {
-        "name": "IFI Audio Hip-dac 2",
-        "price": 149.0,
-        "price_old": 189.0,
-        "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
-        "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
-    },
     "campfire-audio-satsuma_": {
         "name": "Campfire Audio Satsuma",
         "price": 149.0,
         "price_old": 219.99,
         "url": "www.supersonido.es/p/campfire-audio-satsuma_",
         "image": "www.supersonido.es/productos/imagenes/producto51155.jpg"
+    },
+    "ifi-audio-hip-dac-2_": {
+        "name": "IFI Audio Hip-dac 2",
+        "price": 149.0,
+        "price_old": 189.0,
+        "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
+        "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
     },
     "forza-audioworks-noir-hybrid-hpc": {
         "name": "Forza Audioworks NOIR HYBRID HPC",
@@ -159,6 +159,13 @@
         "price_old": 299.0,
         "url": "www.supersonido.es/p/pro-ject-e1-standard_",
         "image": "www.supersonido.es/productos/imagenes/producto51070.jpg"
+    },
+    "audio-technica-at-lp120x_oc": {
+        "name": "Audio-Technica AT-LP120XUSB",
+        "price": 249.0,
+        "price_old": 349.0,
+        "url": "www.supersonido.es/p/audio-technica-at-lp120x_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto48976.jpg"
     },
     "rega-planar-1_oc": {
         "name": "Rega Planar 1",
@@ -363,6 +370,13 @@
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
+    "shanling-m6-pro-21_": {
+        "name": "Shanling M6 PRO (21)",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
+    },
     "magnat-transpuls-800a_": {
         "name": "Magnat Transpuls 800A",
         "price": 599.0,
@@ -376,13 +390,6 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
         "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
-    },
-    "shanling-m6-pro-21_": {
-        "name": "Shanling M6 PRO (21)",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
     "ruark-audio-r3s_": {
         "name": "Ruark Audio R3S",
