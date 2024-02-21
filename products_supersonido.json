@@ -69,19 +69,19 @@
         "url": "www.supersonido.es/p/fonestar-vinyl-13",
         "image": "www.supersonido.es/productos/imagenes/producto43997.jpg"
     },
-    "campfire-audio-satsuma_": {
-        "name": "Campfire Audio Satsuma",
-        "price": 149.0,
-        "price_old": 219.99,
-        "url": "www.supersonido.es/p/campfire-audio-satsuma_",
-        "image": "www.supersonido.es/productos/imagenes/producto51155.jpg"
-    },
     "ifi-audio-hip-dac-2_": {
         "name": "IFI Audio Hip-dac 2",
         "price": 149.0,
         "price_old": 189.0,
         "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
         "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
+    },
+    "campfire-audio-satsuma_": {
+        "name": "Campfire Audio Satsuma",
+        "price": 149.0,
+        "price_old": 219.99,
+        "url": "www.supersonido.es/p/campfire-audio-satsuma_",
+        "image": "www.supersonido.es/productos/imagenes/producto51155.jpg"
     },
     "forza-audioworks-noir-hybrid-hpc": {
         "name": "Forza Audioworks NOIR HYBRID HPC",
@@ -363,13 +363,6 @@
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
-    "shanling-m6-pro-21_": {
-        "name": "Shanling M6 PRO (21)",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
-    },
     "magnat-transpuls-800a_": {
         "name": "Magnat Transpuls 800A",
         "price": 599.0,
@@ -383,6 +376,13 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
         "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
+    },
+    "shanling-m6-pro-21_": {
+        "name": "Shanling M6 PRO (21)",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
     "ruark-audio-r3s_": {
         "name": "Ruark Audio R3S",
@@ -559,6 +559,13 @@
         "url": "www.supersonido.es/p/loewe-wee-see-55",
         "image": "www.supersonido.es/productos/imagenes/producto46140.jpg"
     },
+    "pro-ject-box-15-ds2_": {
+        "name": "Pro-Ject Speaker Box 15 DS2",
+        "price": 1199.0,
+        "price_old": 1599.0,
+        "url": "www.supersonido.es/p/pro-ject-box-15-ds2_",
+        "image": "www.supersonido.es/productos/imagenes/producto50803.jpg"
+    },
     "primare-sc-15-prisma": {
         "name": "Primare SC 15 Prisma",
         "price": 1199.0,
@@ -572,13 +579,6 @@
         "price_old": 1590.0,
         "url": "www.supersonido.es/p/primare-r35_",
         "image": "www.supersonido.es/productos/imagenes/producto50788.jpg"
-    },
-    "pro-ject-box-15-ds2_": {
-        "name": "Pro-Ject Speaker Box 15 DS2",
-        "price": 1199.0,
-        "price_old": 1599.0,
-        "url": "www.supersonido.es/p/pro-ject-box-15-ds2_",
-        "image": "www.supersonido.es/productos/imagenes/producto50803.jpg"
     },
     "unison-research-simply-italy____": {
         "name": "Unison Research SIMPLY ITALY",
@@ -656,13 +656,6 @@
         "price_old": 2100.0,
         "url": "www.supersonido.es/p/unison-research-unico-primo_",
         "image": "www.supersonido.es/productos/imagenes/producto49222.jpg"
-    },
-    "dynaudio-emit-50_": {
-        "name": "Dynaudio Emit 50",
-        "price": 1500.0,
-        "price_old": 2000.0,
-        "url": "www.supersonido.es/p/dynaudio-emit-50_",
-        "image": "www.supersonido.es/productos/imagenes/producto51246.jpg"
     },
     "matrix-audio-element-p__": {
         "name": "Matrix Audio Element P",
@@ -958,19 +951,19 @@
         "url": "www.supersonido.es/p/sony-vpl-vw590es_",
         "image": "www.supersonido.es/productos/imagenes/producto47122.jpg"
     },
-    "krell-industries-evo-222-": {
-        "name": "Krell Industries Evo 222",
-        "price": 3990.0,
-        "price_old": 10540.0,
-        "url": "www.supersonido.es/p/krell-industries-evo-222-",
-        "image": "www.supersonido.es/productos/imagenes/producto3644.jpg"
-    },
     "copland-csa-150_": {
         "name": "Copland CSA 150",
         "price": 3990.0,
         "price_old": 5390.0,
         "url": "www.supersonido.es/p/copland-csa-150_",
         "image": "www.supersonido.es/productos/imagenes/producto50008.jpg"
+    },
+    "krell-industries-evo-222-": {
+        "name": "Krell Industries Evo 222",
+        "price": 3990.0,
+        "price_old": 10540.0,
+        "url": "www.supersonido.es/p/krell-industries-evo-222-",
+        "image": "www.supersonido.es/productos/imagenes/producto3644.jpg"
     },
     "jbl-hdi-3800_": {
         "name": "JBL HDI-3800",
