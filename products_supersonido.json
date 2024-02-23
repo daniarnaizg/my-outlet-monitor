@@ -90,19 +90,19 @@
         "url": "www.supersonido.es/p/fonestar-vinyl-13",
         "image": "www.supersonido.es/productos/imagenes/producto43997.jpg"
     },
-    "campfire-audio-satsuma_": {
-        "name": "Campfire Audio Satsuma",
-        "price": 149.0,
-        "price_old": 219.99,
-        "url": "www.supersonido.es/p/campfire-audio-satsuma_",
-        "image": "www.supersonido.es/productos/imagenes/producto51155.jpg"
-    },
     "ifi-audio-hip-dac-2_": {
         "name": "IFI Audio Hip-dac 2",
         "price": 149.0,
         "price_old": 189.0,
         "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
         "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
+    },
+    "campfire-audio-satsuma_": {
+        "name": "Campfire Audio Satsuma",
+        "price": 149.0,
+        "price_old": 219.99,
+        "url": "www.supersonido.es/p/campfire-audio-satsuma_",
+        "image": "www.supersonido.es/productos/imagenes/producto51155.jpg"
     },
     "forza-audioworks-noir-hybrid-hpc": {
         "name": "Forza Audioworks NOIR HYBRID HPC",
@@ -167,6 +167,13 @@
         "url": "www.supersonido.es/p/ifi-audio-zen-dac-signature",
         "image": "www.supersonido.es/productos/imagenes/producto43929.jpg"
     },
+    "audiopro-addon-c10__": {
+        "name": "AudioPro ADDON C10",
+        "price": 249.0,
+        "price_old": 350.0,
+        "url": "www.supersonido.es/p/audiopro-addon-c10__",
+        "image": "www.supersonido.es/productos/imagenes/producto47962.jpg"
+    },
     "pro-ject-e1-standard_": {
         "name": "Pro-Ject E1 Standard",
         "price": 249.0,
@@ -180,13 +187,6 @@
         "price_old": 349.0,
         "url": "www.supersonido.es/p/audio-technica-at-lp120x_oc",
         "image": "www.supersonido.es/productos/imagenes/producto48976.jpg"
-    },
-    "audiopro-addon-c10__": {
-        "name": "AudioPro ADDON C10",
-        "price": 249.0,
-        "price_old": 350.0,
-        "url": "www.supersonido.es/p/audiopro-addon-c10__",
-        "image": "www.supersonido.es/productos/imagenes/producto47962.jpg"
     },
     "rega-planar-1_oc": {
         "name": "Rega Planar 1",
@@ -202,19 +202,19 @@
         "url": "www.supersonido.es/p/rega-planar-1-plusoc",
         "image": "www.supersonido.es/productos/imagenes/producto46744.jpg"
     },
-    "klipsch-the-three-ii_": {
-        "name": "Klipsch THE THREE II",
-        "price": 299.0,
-        "price_old": 529.0,
-        "url": "www.supersonido.es/p/klipsch-the-three-ii_",
-        "image": "www.supersonido.es/productos/imagenes/producto51242.jpg"
-    },
     "wharfedale-diamond-12-1_": {
         "name": "Wharfedale Diamond 12.1",
         "price": 299.0,
         "price_old": 399.0,
         "url": "www.supersonido.es/p/wharfedale-diamond-12-1_",
         "image": "www.supersonido.es/productos/imagenes/producto47584.jpg"
+    },
+    "klipsch-the-three-ii_": {
+        "name": "Klipsch THE THREE II",
+        "price": 299.0,
+        "price_old": 529.0,
+        "url": "www.supersonido.es/p/klipsch-the-three-ii_",
+        "image": "www.supersonido.es/productos/imagenes/producto51242.jpg"
     },
     "pro-ject-a1_": {
         "name": "Pro-Ject A1",
