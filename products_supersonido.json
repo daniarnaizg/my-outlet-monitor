@@ -209,13 +209,6 @@
         "url": "www.supersonido.es/p/audio-technica-at-lp60xbt_",
         "image": "www.supersonido.es/productos/imagenes/producto46437.jpg"
     },
-    "pro-ject-accu-box-s2-chrome_": {
-        "name": "Pro-Ject Accu Box S2 Chrome",
-        "price": 199.0,
-        "price_old": 259.0,
-        "url": "www.supersonido.es/p/pro-ject-accu-box-s2-chrome_",
-        "image": "www.supersonido.es/productos/imagenes/producto51310.jpg"
-    },
     "ibasso-amp13_": {
         "name": "Ibasso AMP13",
         "price": 199.0,
@@ -229,6 +222,13 @@
         "price_old": 249.0,
         "url": "www.supersonido.es/p/sivga-oriole_",
         "image": "www.supersonido.es/productos/imagenes/producto51127.jpg"
+    },
+    "pro-ject-accu-box-s2-chrome_": {
+        "name": "Pro-Ject Accu Box S2 Chrome",
+        "price": 199.0,
+        "price_old": 259.0,
+        "url": "www.supersonido.es/p/pro-ject-accu-box-s2-chrome_",
+        "image": "www.supersonido.es/productos/imagenes/producto51310.jpg"
     },
     "ifi-audio-zen-dac-signature": {
         "name": "IFI Audio ZEN DAC SIGNATURE",
@@ -902,19 +902,19 @@
         "url": "www.supersonido.es/p/jbl-sa750_",
         "image": "www.supersonido.es/productos/imagenes/producto51363.jpg"
     },
-    "astell-kern-pathfinder_": {
-        "name": "Astell&kern PATHFINDER",
-        "price": 1699.0,
-        "price_old": 2299.0,
-        "url": "www.supersonido.es/p/astell-kern-pathfinder_",
-        "image": "www.supersonido.es/productos/imagenes/producto50976.jpg"
-    },
     "ifi-audio-pro-ican-signature_": {
         "name": "IFI Audio Pro iCAN Signature",
         "price": 1699.0,
         "price_old": 2249.0,
         "url": "www.supersonido.es/p/ifi-audio-pro-ican-signature_",
         "image": "www.supersonido.es/productos/imagenes/producto51306.jpg"
+    },
+    "astell-kern-pathfinder_": {
+        "name": "Astell&kern PATHFINDER",
+        "price": 1699.0,
+        "price_old": 2299.0,
+        "url": "www.supersonido.es/p/astell-kern-pathfinder_",
+        "image": "www.supersonido.es/productos/imagenes/producto50976.jpg"
     },
     "cayin-cs-6-ph_": {
         "name": "Cayin CS 6 PH",
@@ -1118,6 +1118,13 @@
         "price_old": 4299.0,
         "url": "www.supersonido.es/p/isotek-systems-sigmas_",
         "image": "www.supersonido.es/productos/imagenes/producto50780.jpg"
+    },
+    "jbl-l100-classic_": {
+        "name": "JBL L100 Classic",
+        "price": 3000.0,
+        "price_old": 5199.0,
+        "url": "www.supersonido.es/p/jbl-l100-classic_",
+        "image": "www.supersonido.es/productos/imagenes/producto45357.jpg"
     },
     "jvc-lx-nz30_": {
         "name": "JVC LX-NZ30",
