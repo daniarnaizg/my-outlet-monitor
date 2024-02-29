@@ -447,19 +447,19 @@
         "url": "www.supersonido.es/p/astell-kern-ak-zero1_",
         "image": "www.supersonido.es/productos/imagenes/producto50902.jpg"
     },
-    "advance-paris-playstream-a1_": {
-        "name": "Advance Paris PLAYSTREAM A1",
-        "price": 499.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
-        "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
-    },
     "earmen-tradutto_": {
         "name": "EarMen Tradutto",
         "price": 499.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/earmen-tradutto_",
         "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
+    },
+    "advance-paris-playstream-a1_": {
+        "name": "Advance Paris PLAYSTREAM A1",
+        "price": 499.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
+        "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
     },
     "denon-home-350__": {
         "name": "Denon Home 350",
@@ -544,6 +544,13 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
         "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
+    },
+    "naim-fraimlite": {
+        "name": "Naim FraimLite",
+        "price": 600.0,
+        "price_old": 2096.0,
+        "url": "www.supersonido.es/p/naim-fraimlite",
+        "image": "www.supersonido.es/productos/imagenes/producto51381.jpg"
     },
     "ruark-audio-r3s_": {
         "name": "Ruark Audio R3S",
@@ -902,19 +909,19 @@
         "url": "www.supersonido.es/p/jbl-sa750_",
         "image": "www.supersonido.es/productos/imagenes/producto51363.jpg"
     },
-    "ifi-audio-pro-ican-signature_": {
-        "name": "IFI Audio Pro iCAN Signature",
-        "price": 1699.0,
-        "price_old": 2249.0,
-        "url": "www.supersonido.es/p/ifi-audio-pro-ican-signature_",
-        "image": "www.supersonido.es/productos/imagenes/producto51306.jpg"
-    },
     "astell-kern-pathfinder_": {
         "name": "Astell&kern PATHFINDER",
         "price": 1699.0,
         "price_old": 2299.0,
         "url": "www.supersonido.es/p/astell-kern-pathfinder_",
         "image": "www.supersonido.es/productos/imagenes/producto50976.jpg"
+    },
+    "ifi-audio-pro-ican-signature_": {
+        "name": "IFI Audio Pro iCAN Signature",
+        "price": 1699.0,
+        "price_old": 2249.0,
+        "url": "www.supersonido.es/p/ifi-audio-pro-ican-signature_",
+        "image": "www.supersonido.es/productos/imagenes/producto51306.jpg"
     },
     "cayin-cs-6-ph_": {
         "name": "Cayin CS 6 PH",
