@@ -188,19 +188,19 @@
         "url": "www.supersonido.es/p/ibasso-amp8-mk2_",
         "image": "www.supersonido.es/productos/imagenes/producto51377.jpg"
     },
-    "audio-technica-at-lp60xbt_": {
-        "name": "Audio-Technica AT-LP60XBT",
-        "price": 169.0,
-        "price_old": 229.0,
-        "url": "www.supersonido.es/p/audio-technica-at-lp60xbt_",
-        "image": "www.supersonido.es/productos/imagenes/producto46437.jpg"
-    },
     "polkaudio-s35_": {
         "name": "Polkaudio S35",
         "price": 169.0,
         "price_old": 349.0,
         "url": "www.supersonido.es/p/polkaudio-s35_",
         "image": "www.supersonido.es/productos/imagenes/producto51341.jpg"
+    },
+    "audio-technica-at-lp60xbt_": {
+        "name": "Audio-Technica AT-LP60XBT",
+        "price": 169.0,
+        "price_old": 229.0,
+        "url": "www.supersonido.es/p/audio-technica-at-lp60xbt_",
+        "image": "www.supersonido.es/productos/imagenes/producto46437.jpg"
     },
     "ibasso-amp13_": {
         "name": "Ibasso AMP13",
@@ -440,19 +440,19 @@
         "url": "www.supersonido.es/p/astell-kern-ak-zero1_",
         "image": "www.supersonido.es/productos/imagenes/producto50902.jpg"
     },
-    "earmen-tradutto_": {
-        "name": "EarMen Tradutto",
-        "price": 499.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/earmen-tradutto_",
-        "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
-    },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
         "price": 499.0,
         "price_old": 899.0,
         "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
         "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
+    },
+    "earmen-tradutto_": {
+        "name": "EarMen Tradutto",
+        "price": 499.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/earmen-tradutto_",
+        "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
     },
     "denon-home-350__": {
         "name": "Denon Home 350",
@@ -496,19 +496,19 @@
         "url": "www.supersonido.es/p/denon-avr-x2800h_",
         "image": "www.supersonido.es/productos/imagenes/producto51290.jpg"
     },
-    "wharfedale-evo4-2_oc": {
-        "name": "Wharfedale Evo4.2",
-        "price": 599.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/wharfedale-evo4-2_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto49914.jpg"
-    },
     "wharfedale-diamond-12-3_": {
         "name": "Wharfedale Diamond 12.3",
         "price": 599.0,
         "price_old": 849.0,
         "url": "www.supersonido.es/p/wharfedale-diamond-12-3_",
         "image": "www.supersonido.es/productos/imagenes/producto51236.jpg"
+    },
+    "wharfedale-evo4-2_oc": {
+        "name": "Wharfedale Evo4.2",
+        "price": 599.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/wharfedale-evo4-2_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto49914.jpg"
     },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
@@ -1042,13 +1042,6 @@
         "url": "www.supersonido.es/p/astell-kern-ak240",
         "image": "www.supersonido.es/productos/imagenes/producto29954.jpg"
     },
-    "jbl-hdi-3600_": {
-        "name": "JBL HDI-3600",
-        "price": 2399.0,
-        "price_old": 3199.0,
-        "url": "www.supersonido.es/p/jbl-hdi-3600_",
-        "image": "www.supersonido.es/productos/imagenes/producto46918.jpg"
-    },
     "mofi-electronics-ultradeck-m-rea": {
         "name": "Mofi Electronics UltraDeck + M",
         "price": 2499.0,
@@ -1181,13 +1174,6 @@
         "price_old": 6999.0,
         "url": "www.supersonido.es/p/sony-vpl-vw590es_",
         "image": "www.supersonido.es/productos/imagenes/producto47122.jpg"
-    },
-    "jbl-hdi-3800_": {
-        "name": "JBL HDI-3800",
-        "price": 3999.0,
-        "price_old": 5499.0,
-        "url": "www.supersonido.es/p/jbl-hdi-3800_",
-        "image": "www.supersonido.es/productos/imagenes/producto50002.jpg"
     },
     "anthem-str-integrated-amplifier_oc": {
         "name": "Anthem STR Integrated Amplifier",
