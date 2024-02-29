@@ -1,11 +1,4 @@
 {
-    "qed-profile-stereo___": {
-        "name": "QED Profile Stereo 1m",
-        "price": 10.0,
-        "price_old": 25.0,
-        "url": "www.supersonido.es/p/qed-profile-stereo___",
-        "image": "www.supersonido.es/productos/imagenes/producto51373.jpg"
-    },
     "qed-profile-stereo__": {
         "name": "QED Profile Stereo 3m",
         "price": 17.0,
@@ -202,6 +195,13 @@
         "url": "www.supersonido.es/p/audio-technica-at-lp60xbt_",
         "image": "www.supersonido.es/productos/imagenes/producto46437.jpg"
     },
+    "pro-ject-accu-box-s2-chrome_": {
+        "name": "Pro-Ject Accu Box S2 Chrome",
+        "price": 199.0,
+        "price_old": 259.0,
+        "url": "www.supersonido.es/p/pro-ject-accu-box-s2-chrome_",
+        "image": "www.supersonido.es/productos/imagenes/producto51310.jpg"
+    },
     "ibasso-amp13_": {
         "name": "Ibasso AMP13",
         "price": 199.0,
@@ -215,13 +215,6 @@
         "price_old": 249.0,
         "url": "www.supersonido.es/p/sivga-oriole_",
         "image": "www.supersonido.es/productos/imagenes/producto51127.jpg"
-    },
-    "pro-ject-accu-box-s2-chrome_": {
-        "name": "Pro-Ject Accu Box S2 Chrome",
-        "price": 199.0,
-        "price_old": 259.0,
-        "url": "www.supersonido.es/p/pro-ject-accu-box-s2-chrome_",
-        "image": "www.supersonido.es/productos/imagenes/producto51310.jpg"
     },
     "ifi-audio-zen-dac-signature": {
         "name": "IFI Audio ZEN DAC SIGNATURE",
@@ -496,19 +489,19 @@
         "url": "www.supersonido.es/p/denon-avr-x2800h_",
         "image": "www.supersonido.es/productos/imagenes/producto51290.jpg"
     },
-    "wharfedale-diamond-12-3_": {
-        "name": "Wharfedale Diamond 12.3",
-        "price": 599.0,
-        "price_old": 849.0,
-        "url": "www.supersonido.es/p/wharfedale-diamond-12-3_",
-        "image": "www.supersonido.es/productos/imagenes/producto51236.jpg"
-    },
     "wharfedale-evo4-2_oc": {
         "name": "Wharfedale Evo4.2",
         "price": 599.0,
         "price_old": 899.0,
         "url": "www.supersonido.es/p/wharfedale-evo4-2_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49914.jpg"
+    },
+    "wharfedale-diamond-12-3_": {
+        "name": "Wharfedale Diamond 12.3",
+        "price": 599.0,
+        "price_old": 849.0,
+        "url": "www.supersonido.es/p/wharfedale-diamond-12-3_",
+        "image": "www.supersonido.es/productos/imagenes/producto51236.jpg"
     },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
@@ -524,19 +517,19 @@
         "url": "www.supersonido.es/p/shanling-m6-pro-21_",
         "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
-    "technics-ottava-s-sc-c50OC": {
-        "name": "Technics OTTAVA S SC-C50",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
-        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
-    },
     "magnat-transpuls-800a_": {
         "name": "Magnat Transpuls 800A",
         "price": 599.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/magnat-transpuls-800a_",
         "image": "www.supersonido.es/productos/imagenes/producto46564.jpg"
+    },
+    "technics-ottava-s-sc-c50OC": {
+        "name": "Technics OTTAVA S SC-C50",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
+        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
     },
     "naim-fraimlite": {
         "name": "Naim FraimLite",
@@ -657,13 +650,6 @@
         "url": "www.supersonido.es/p/primare-i15-prisma",
         "image": "www.supersonido.es/productos/imagenes/producto50094.jpg"
     },
-    "roksan-attessa-streaming-amplifier_": {
-        "name": "Roksan Attessa Streaming Amplifier",
-        "price": 999.0,
-        "price_old": 1970.0,
-        "url": "www.supersonido.es/p/roksan-attessa-streaming-amplifier_",
-        "image": "www.supersonido.es/productos/imagenes/producto50113.jpg"
-    },
     "advance-paris-playstream-a7_": {
         "name": "Advance Paris PLAYSTREAM A7",
         "price": 999.0,
@@ -677,6 +663,13 @@
         "price_old": 2999.0,
         "url": "www.supersonido.es/p/technics-sug30eg",
         "image": "www.supersonido.es/productos/imagenes/producto23596.jpg"
+    },
+    "roksan-attessa-streaming-amplifier_": {
+        "name": "Roksan Attessa Streaming Amplifier",
+        "price": 999.0,
+        "price_old": 1970.0,
+        "url": "www.supersonido.es/p/roksan-attessa-streaming-amplifier_",
+        "image": "www.supersonido.es/productos/imagenes/producto50113.jpg"
     },
     "svs-ultra-surround_": {
         "name": "SVS Ultra Surround",
@@ -761,13 +754,6 @@
         "price_old": 1599.0,
         "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
         "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
-    },
-    "naim-xp5-xs_": {
-        "name": "Naim XP5 XS",
-        "price": 1325.0,
-        "price_old": 2650.0,
-        "url": "www.supersonido.es/p/naim-xp5-xs_",
-        "image": "www.supersonido.es/productos/imagenes/producto41292.jpg"
     },
     "matrix-audio-element-p_": {
         "name": "Matrix Audio Element P",
@@ -1063,19 +1049,19 @@
         "url": "www.supersonido.es/p/sonus-faber-sonetto-iii_",
         "image": "www.supersonido.es/productos/imagenes/producto41922.jpg"
     },
-    "roon-labs-nucleus-plus_": {
-        "name": "Roon Labs Nucleus Plus",
-        "price": 2799.0,
-        "price_old": 3499.0,
-        "url": "www.supersonido.es/p/roon-labs-nucleus-plus_",
-        "image": "www.supersonido.es/productos/imagenes/producto51278.jpg"
-    },
     "mrspeakers-voce_": {
         "name": "Dan Clark Audio VOCE",
         "price": 2799.0,
         "price_old": 3999.0,
         "url": "www.supersonido.es/p/mrspeakers-voce_",
         "image": "www.supersonido.es/productos/imagenes/producto50151.jpg"
+    },
+    "roon-labs-nucleus-plus_": {
+        "name": "Roon Labs Nucleus Plus",
+        "price": 2799.0,
+        "price_old": 3499.0,
+        "url": "www.supersonido.es/p/roon-labs-nucleus-plus_",
+        "image": "www.supersonido.es/productos/imagenes/producto51278.jpg"
     },
     "electrocompaniet-ec-4-9-2ch": {
         "name": "Electrocompaniet EC 4.9 2ch",
@@ -1105,19 +1091,26 @@
         "url": "www.supersonido.es/p/krell-industries-evo-222-",
         "image": "www.supersonido.es/productos/imagenes/producto3644.jpg"
     },
+    "jbl-l100-classic": {
+        "name": "JBL L100 Classic",
+        "price": 2995.0,
+        "price_old": 5199.0,
+        "url": "www.supersonido.es/p/jbl-l100-classic",
+        "image": "www.supersonido.es/productos/imagenes/producto32395.jpg"
+    },
+    "jbl-l100-classic_": {
+        "name": "JBL L100 Classic",
+        "price": 2995.0,
+        "price_old": 5199.0,
+        "url": "www.supersonido.es/p/jbl-l100-classic_",
+        "image": "www.supersonido.es/productos/imagenes/producto45357.jpg"
+    },
     "isotek-systems-sigmas_": {
         "name": "Isotek Systems Sigmas EVO 3",
         "price": 2999.0,
         "price_old": 4299.0,
         "url": "www.supersonido.es/p/isotek-systems-sigmas_",
         "image": "www.supersonido.es/productos/imagenes/producto50780.jpg"
-    },
-    "jbl-l100-classic_": {
-        "name": "JBL L100 Classic",
-        "price": 3000.0,
-        "price_old": 5199.0,
-        "url": "www.supersonido.es/p/jbl-l100-classic_",
-        "image": "www.supersonido.es/productos/imagenes/producto45357.jpg"
     },
     "jvc-lx-nz30_": {
         "name": "JVC LX-NZ30",
@@ -1160,6 +1153,13 @@
         "price_old": 4990.0,
         "url": "www.supersonido.es/p/devialet-130-pro_",
         "image": "www.supersonido.es/productos/imagenes/producto48499.jpg"
+    },
+    "feliks-audio-arioso_": {
+        "name": "Feliks Audio Arioso",
+        "price": 3990.0,
+        "price_old": 6499.0,
+        "url": "www.supersonido.es/p/feliks-audio-arioso_",
+        "image": "www.supersonido.es/productos/imagenes/producto50010.jpg"
     },
     "copland-csa-150_": {
         "name": "Copland CSA 150",
