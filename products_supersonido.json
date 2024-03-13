@@ -55,6 +55,13 @@
         "url": "www.supersonido.es/p/ibasso-it01x_",
         "image": "www.supersonido.es/productos/imagenes/producto51376.jpg"
     },
+    "arylic-b50": {
+        "name": "Arylic B50",
+        "price": 99.0,
+        "price_old": 189.0,
+        "url": "www.supersonido.es/p/arylic-b50",
+        "image": "www.supersonido.es/productos/imagenes/producto48997.jpg"
+    },
     "hifiman-he400se_": {
         "name": "HIFIMAN HE400se",
         "price": 99.0,
@@ -111,19 +118,26 @@
         "url": "www.supersonido.es/p/fonestar-vinyl-13",
         "image": "www.supersonido.es/productos/imagenes/producto43997.jpg"
     },
-    "campfire-audio-satsuma_": {
-        "name": "Campfire Audio Satsuma",
-        "price": 149.0,
-        "price_old": 219.99,
-        "url": "www.supersonido.es/p/campfire-audio-satsuma_",
-        "image": "www.supersonido.es/productos/imagenes/producto51155.jpg"
-    },
     "ifi-audio-hip-dac-2_": {
         "name": "IFI Audio Hip-dac 2",
         "price": 149.0,
         "price_old": 189.0,
         "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
         "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
+    },
+    "hifiman-sundara-closed_": {
+        "name": "HIFIMAN Sundara Closed",
+        "price": 149.0,
+        "price_old": 479.0,
+        "url": "www.supersonido.es/p/hifiman-sundara-closed_",
+        "image": "www.supersonido.es/productos/imagenes/producto50309.jpg"
+    },
+    "campfire-audio-satsuma_": {
+        "name": "Campfire Audio Satsuma",
+        "price": 149.0,
+        "price_old": 219.99,
+        "url": "www.supersonido.es/p/campfire-audio-satsuma_",
+        "image": "www.supersonido.es/productos/imagenes/producto51155.jpg"
     },
     "forza-audioworks-noir-hybrid-hpc": {
         "name": "Forza Audioworks NOIR HYBRID HPC",
@@ -188,12 +202,12 @@
         "url": "www.supersonido.es/p/ifi-audio-zen-dac-signature",
         "image": "www.supersonido.es/productos/imagenes/producto43929.jpg"
     },
-    "ifi-audio-go-bar__": {
-        "name": "IFI Audio GO bar",
-        "price": 249.0,
-        "price_old": 329.0,
-        "url": "www.supersonido.es/p/ifi-audio-go-bar__",
-        "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
+    "hifiman-sundara_": {
+        "name": "HIFIMAN Sundara",
+        "price": 239.0,
+        "price_old": 349.0,
+        "url": "www.supersonido.es/p/hifiman-sundara_",
+        "image": "www.supersonido.es/productos/imagenes/producto44086.jpg"
     },
     "audiopro-addon-c10__": {
         "name": "AudioPro ADDON C10",
@@ -201,6 +215,13 @@
         "price_old": 350.0,
         "url": "www.supersonido.es/p/audiopro-addon-c10__",
         "image": "www.supersonido.es/productos/imagenes/producto47962.jpg"
+    },
+    "ifi-audio-go-bar__": {
+        "name": "IFI Audio GO bar",
+        "price": 249.0,
+        "price_old": 329.0,
+        "url": "www.supersonido.es/p/ifi-audio-go-bar__",
+        "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
     },
     "pro-ject-e1-standard_": {
         "name": "Pro-Ject E1 Standard",
@@ -314,19 +335,19 @@
         "url": "www.supersonido.es/p/monitor-audio-bronze-50_",
         "image": "www.supersonido.es/productos/imagenes/producto51233.jpg"
     },
-    "rega-p1-plus_occ": {
-        "name": "Rega Planar 1 PLUS",
-        "price": 349.0,
-        "price_old": 449.0,
-        "url": "www.supersonido.es/p/rega-p1-plus_occ",
-        "image": "www.supersonido.es/productos/imagenes/producto51034.jpg"
-    },
     "klipsch-aw650_": {
         "name": "Klipsch AW-650",
         "price": 349.0,
         "price_old": 549.0,
         "url": "www.supersonido.es/p/klipsch-aw650_",
         "image": "www.supersonido.es/productos/imagenes/producto51352.jpg"
+    },
+    "rega-p1-plus_occ": {
+        "name": "Rega Planar 1 PLUS",
+        "price": 349.0,
+        "price_old": 449.0,
+        "url": "www.supersonido.es/p/rega-p1-plus_occ",
+        "image": "www.supersonido.es/productos/imagenes/producto51034.jpg"
     },
     "rega-planar-2-mkii_": {
         "name": "Rega Planar 2 MKII",
@@ -391,6 +412,13 @@
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c30_",
         "image": "www.supersonido.es/productos/imagenes/producto44225.jpg"
     },
+    "astell-kern-ak-zero1_": {
+        "name": "Astell&kern AK ZERO1",
+        "price": 499.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/astell-kern-ak-zero1_",
+        "image": "www.supersonido.es/productos/imagenes/producto50902.jpg"
+    },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
         "price": 499.0,
@@ -411,13 +439,6 @@
         "price_old": 699.0,
         "url": "www.supersonido.es/p/denon-home-350__",
         "image": "www.supersonido.es/productos/imagenes/producto44264.jpg"
-    },
-    "astell-kern-ak-zero1_": {
-        "name": "Astell&kern AK ZERO1",
-        "price": 499.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/astell-kern-ak-zero1_",
-        "image": "www.supersonido.es/productos/imagenes/producto50902.jpg"
     },
     "q-acoustics-m20-hd-link-1_": {
         "name": "Q-Acoustics M20 HD + LINK 1",
@@ -454,12 +475,12 @@
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
-    "shanling-m6-pro-21_": {
-        "name": "Shanling M6 PRO (21)",
+    "magnat-transpuls-800a_": {
+        "name": "Magnat Transpuls 800A",
         "price": 599.0,
         "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
+        "url": "www.supersonido.es/p/magnat-transpuls-800a_",
+        "image": "www.supersonido.es/productos/imagenes/producto46564.jpg"
     },
     "technics-ottava-s-sc-c50OC": {
         "name": "Technics OTTAVA S SC-C50",
@@ -468,12 +489,12 @@
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
         "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
     },
-    "magnat-transpuls-800a_": {
-        "name": "Magnat Transpuls 800A",
+    "shanling-m6-pro-21_": {
+        "name": "Shanling M6 PRO (21)",
         "price": 599.0,
         "price_old": 799.0,
-        "url": "www.supersonido.es/p/magnat-transpuls-800a_",
-        "image": "www.supersonido.es/productos/imagenes/producto46564.jpg"
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
     "naim-fraimlite": {
         "name": "Naim FraimLite",
@@ -573,13 +594,6 @@
         "url": "www.supersonido.es/p/primare-i15-prisma",
         "image": "www.supersonido.es/productos/imagenes/producto50094.jpg"
     },
-    "advance-paris-playstream-a7_": {
-        "name": "Advance Paris PLAYSTREAM A7",
-        "price": 999.0,
-        "price_old": 1490.0,
-        "url": "www.supersonido.es/p/advance-paris-playstream-a7_",
-        "image": "www.supersonido.es/productos/imagenes/producto50512.jpg"
-    },
     "roksan-attessa-streaming-amplifier_": {
         "name": "Roksan Attessa Streaming Amplifier",
         "price": 999.0,
@@ -593,6 +607,13 @@
         "price_old": 2999.0,
         "url": "www.supersonido.es/p/technics-sug30eg",
         "image": "www.supersonido.es/productos/imagenes/producto23596.jpg"
+    },
+    "advance-paris-playstream-a7_": {
+        "name": "Advance Paris PLAYSTREAM A7",
+        "price": 999.0,
+        "price_old": 1490.0,
+        "url": "www.supersonido.es/p/advance-paris-playstream-a7_",
+        "image": "www.supersonido.es/productos/imagenes/producto50512.jpg"
     },
     "svs-ultra-surround_": {
         "name": "SVS Ultra Surround",
