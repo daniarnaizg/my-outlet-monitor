@@ -139,19 +139,19 @@
         "url": "www.supersonido.es/p/campfire-audio-satsuma_",
         "image": "www.supersonido.es/productos/imagenes/producto51155.jpg"
     },
-    "hifiman-sundara-closed_": {
-        "name": "HIFIMAN Sundara Closed",
-        "price": 149.0,
-        "price_old": 479.0,
-        "url": "www.supersonido.es/p/hifiman-sundara-closed_",
-        "image": "www.supersonido.es/productos/imagenes/producto50309.jpg"
-    },
     "ifi-audio-hip-dac-2_": {
         "name": "IFI Audio Hip-dac 2",
         "price": 149.0,
         "price_old": 189.0,
         "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
         "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
+    },
+    "hifiman-sundara-closed_": {
+        "name": "HIFIMAN Sundara Closed",
+        "price": 149.0,
+        "price_old": 479.0,
+        "url": "www.supersonido.es/p/hifiman-sundara-closed_",
+        "image": "www.supersonido.es/productos/imagenes/producto50309.jpg"
     },
     "forza-audioworks-noir-hybrid-hpc": {
         "name": "Forza Audioworks NOIR HYBRID HPC",
@@ -174,13 +174,6 @@
         "url": "www.supersonido.es/p/the-chord-company-shawline-digital-1bnc-to-1bnc_",
         "image": "www.supersonido.es/productos/imagenes/producto51241.jpg"
     },
-    "ibasso-amp8-mk2_": {
-        "name": "Ibasso AMP8 MK2",
-        "price": 159.0,
-        "price_old": 219.0,
-        "url": "www.supersonido.es/p/ibasso-amp8-mk2_",
-        "image": "www.supersonido.es/productos/imagenes/producto51377.jpg"
-    },
     "grado-sr225x_OC": {
         "name": "Grado SR225x",
         "price": 169.0,
@@ -195,19 +188,19 @@
         "url": "www.supersonido.es/p/pro-ject-accu-box-s2-chrome_",
         "image": "www.supersonido.es/productos/imagenes/producto51310.jpg"
     },
-    "ibasso-amp13_": {
-        "name": "Ibasso AMP13",
-        "price": 199.0,
-        "price_old": 269.0,
-        "url": "www.supersonido.es/p/ibasso-amp13_",
-        "image": "www.supersonido.es/productos/imagenes/producto51378.jpg"
-    },
     "sivga-oriole_": {
         "name": "Sivga Oriole",
         "price": 199.0,
         "price_old": 249.0,
         "url": "www.supersonido.es/p/sivga-oriole_",
         "image": "www.supersonido.es/productos/imagenes/producto51127.jpg"
+    },
+    "ibasso-amp13_": {
+        "name": "Ibasso AMP13",
+        "price": 199.0,
+        "price_old": 269.0,
+        "url": "www.supersonido.es/p/ibasso-amp13_",
+        "image": "www.supersonido.es/productos/imagenes/producto51378.jpg"
     },
     "hifiman-sundara_": {
         "name": "HIFIMAN Sundara",
@@ -216,19 +209,19 @@
         "url": "www.supersonido.es/p/hifiman-sundara_",
         "image": "www.supersonido.es/productos/imagenes/producto44086.jpg"
     },
-    "ifi-audio-go-bar__": {
-        "name": "IFI Audio GO bar",
-        "price": 249.0,
-        "price_old": 329.0,
-        "url": "www.supersonido.es/p/ifi-audio-go-bar__",
-        "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
+    "jbl-stage-a130_": {
+        "name": "JBL Stage A130",
+        "price": 239.0,
+        "price_old": 299.0,
+        "url": "www.supersonido.es/p/jbl-stage-a130_",
+        "image": "www.supersonido.es/productos/imagenes/producto51454.jpg"
     },
-    "audiopro-addon-c10__": {
-        "name": "AudioPro ADDON C10",
+    "grado-sr325x_": {
+        "name": "Grado SR325x",
         "price": 249.0,
-        "price_old": 350.0,
-        "url": "www.supersonido.es/p/audiopro-addon-c10__",
-        "image": "www.supersonido.es/productos/imagenes/producto47962.jpg"
+        "price_old": 359.0,
+        "url": "www.supersonido.es/p/grado-sr325x_",
+        "image": "www.supersonido.es/productos/imagenes/producto47579.jpg"
     },
     "pro-ject-e1-standard_": {
         "name": "Pro-Ject E1 Standard",
@@ -237,12 +230,19 @@
         "url": "www.supersonido.es/p/pro-ject-e1-standard_",
         "image": "www.supersonido.es/productos/imagenes/producto51070.jpg"
     },
-    "grado-sr325x_": {
-        "name": "Grado SR325x",
+    "audiopro-addon-c10__": {
+        "name": "AudioPro ADDON C10",
         "price": 249.0,
-        "price_old": 359.0,
-        "url": "www.supersonido.es/p/grado-sr325x_",
-        "image": "www.supersonido.es/productos/imagenes/producto47579.jpg"
+        "price_old": 350.0,
+        "url": "www.supersonido.es/p/audiopro-addon-c10__",
+        "image": "www.supersonido.es/productos/imagenes/producto47962.jpg"
+    },
+    "ifi-audio-go-bar__": {
+        "name": "IFI Audio GO bar",
+        "price": 249.0,
+        "price_old": 329.0,
+        "url": "www.supersonido.es/p/ifi-audio-go-bar__",
+        "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
     },
     "the-chord-company-silent-mount-sm7_": {
         "name": "The Chord Company Silent Mount SM7",
@@ -264,6 +264,13 @@
         "price_old": 449.0,
         "url": "www.supersonido.es/p/rega-planar-1-plusoc",
         "image": "www.supersonido.es/productos/imagenes/producto46744.jpg"
+    },
+    "klipsch-the-three-ii_": {
+        "name": "Klipsch THE THREE II",
+        "price": 299.0,
+        "price_old": 529.0,
+        "url": "www.supersonido.es/p/klipsch-the-three-ii_",
+        "image": "www.supersonido.es/productos/imagenes/producto51242.jpg"
     },
     "the-chord-company-chordohmic-ground-aray-rca_": {
         "name": "The Chord Company ChordOhmic Ground ARAY\tRCA",
@@ -299,13 +306,6 @@
         "price_old": 650.0,
         "url": "www.supersonido.es/p/the-chord-company-chordohmic-ground-aray-hdmi_",
         "image": "www.supersonido.es/productos/imagenes/producto51357.jpg"
-    },
-    "klipsch-the-three-ii_": {
-        "name": "Klipsch THE THREE II",
-        "price": 299.0,
-        "price_old": 529.0,
-        "url": "www.supersonido.es/p/klipsch-the-three-ii_",
-        "image": "www.supersonido.es/productos/imagenes/producto51242.jpg"
     },
     "pro-ject-a1_": {
         "name": "Pro-Ject A1",
@@ -419,13 +419,6 @@
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c30_",
         "image": "www.supersonido.es/productos/imagenes/producto44225.jpg"
     },
-    "astell-kern-ak-zero1_": {
-        "name": "Astell&kern AK ZERO1",
-        "price": 499.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/astell-kern-ak-zero1_",
-        "image": "www.supersonido.es/productos/imagenes/producto50902.jpg"
-    },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
         "price": 499.0,
@@ -446,6 +439,13 @@
         "price_old": 699.0,
         "url": "www.supersonido.es/p/denon-home-350__",
         "image": "www.supersonido.es/productos/imagenes/producto44264.jpg"
+    },
+    "astell-kern-ak-zero1_": {
+        "name": "Astell&kern AK ZERO1",
+        "price": 499.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/astell-kern-ak-zero1_",
+        "image": "www.supersonido.es/productos/imagenes/producto50902.jpg"
     },
     "q-acoustics-m20-hd-link-1_": {
         "name": "Q-Acoustics M20 HD + LINK 1",
@@ -482,13 +482,6 @@
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
-    "magnat-transpuls-800a_": {
-        "name": "Magnat Transpuls 800A",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/magnat-transpuls-800a_",
-        "image": "www.supersonido.es/productos/imagenes/producto46564.jpg"
-    },
     "technics-ottava-s-sc-c50OC": {
         "name": "Technics OTTAVA S SC-C50",
         "price": 599.0,
@@ -503,6 +496,13 @@
         "url": "www.supersonido.es/p/shanling-m6-pro-21_",
         "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
+    "magnat-transpuls-800a_": {
+        "name": "Magnat Transpuls 800A",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/magnat-transpuls-800a_",
+        "image": "www.supersonido.es/productos/imagenes/producto46564.jpg"
+    },
     "naim-fraimlite": {
         "name": "Naim FraimLite",
         "price": 600.0,
@@ -510,19 +510,19 @@
         "url": "www.supersonido.es/p/naim-fraimlite",
         "image": "www.supersonido.es/productos/imagenes/producto51381.jpg"
     },
-    "ruark-audio-r3s_": {
-        "name": "Ruark Audio R3S",
-        "price": 629.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/ruark-audio-r3s_",
-        "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
-    },
     "martin-logan-bravado": {
         "name": "Martin-Logan Bravado",
         "price": 629.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/martin-logan-bravado",
         "image": "www.supersonido.es/productos/imagenes/producto44417.jpg"
+    },
+    "ruark-audio-r3s_": {
+        "name": "Ruark Audio R3S",
+        "price": 629.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/ruark-audio-r3s_",
+        "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
     },
     "campfire-audio-vega-2020_": {
         "name": "Campfire Audio Vega 2020",
@@ -601,12 +601,12 @@
         "url": "www.supersonido.es/p/primare-i15-prisma",
         "image": "www.supersonido.es/productos/imagenes/producto50094.jpg"
     },
-    "advance-paris-playstream-a7_": {
-        "name": "Advance Paris PLAYSTREAM A7",
+    "technics-sug30eg": {
+        "name": "Technics SU-G30EG",
         "price": 999.0,
-        "price_old": 1490.0,
-        "url": "www.supersonido.es/p/advance-paris-playstream-a7_",
-        "image": "www.supersonido.es/productos/imagenes/producto50512.jpg"
+        "price_old": 2999.0,
+        "url": "www.supersonido.es/p/technics-sug30eg",
+        "image": "www.supersonido.es/productos/imagenes/producto23596.jpg"
     },
     "roksan-attessa-streaming-amplifier_": {
         "name": "Roksan Attessa Streaming Amplifier",
@@ -615,12 +615,12 @@
         "url": "www.supersonido.es/p/roksan-attessa-streaming-amplifier_",
         "image": "www.supersonido.es/productos/imagenes/producto50113.jpg"
     },
-    "technics-sug30eg": {
-        "name": "Technics SU-G30EG",
+    "advance-paris-playstream-a7_": {
+        "name": "Advance Paris PLAYSTREAM A7",
         "price": 999.0,
-        "price_old": 2999.0,
-        "url": "www.supersonido.es/p/technics-sug30eg",
-        "image": "www.supersonido.es/productos/imagenes/producto23596.jpg"
+        "price_old": 1490.0,
+        "url": "www.supersonido.es/p/advance-paris-playstream-a7_",
+        "image": "www.supersonido.es/productos/imagenes/producto50512.jpg"
     },
     "svs-ultra-surround_": {
         "name": "SVS Ultra Surround",
@@ -762,19 +762,19 @@
         "url": "www.supersonido.es/p/ibasso-dx320-x",
         "image": "www.supersonido.es/productos/imagenes/producto48066.jpg"
     },
-    "technics-sl-1200gr-egs": {
-        "name": "Technics SL-1200GR-EGS",
-        "price": 1499.0,
-        "price_old": 1799.0,
-        "url": "www.supersonido.es/p/technics-sl-1200gr-egs",
-        "image": "www.supersonido.es/productos/imagenes/producto24474.jpg"
-    },
     "technics-sl-1210gr-egk_": {
         "name": "Technics SL-1210GR-EGK",
         "price": 1499.0,
         "price_old": 1799.0,
         "url": "www.supersonido.es/p/technics-sl-1210gr-egk_",
         "image": "www.supersonido.es/productos/imagenes/producto50604.jpg"
+    },
+    "technics-sl-1200gr-egs": {
+        "name": "Technics SL-1200GR-EGS",
+        "price": 1499.0,
+        "price_old": 1799.0,
+        "url": "www.supersonido.es/p/technics-sl-1200gr-egs",
+        "image": "www.supersonido.es/productos/imagenes/producto24474.jpg"
     },
     "audio-technica-ath-awkt_": {
         "name": "Audio-Technica ATH-AWKT",
