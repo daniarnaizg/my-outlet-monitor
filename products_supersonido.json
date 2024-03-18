@@ -139,19 +139,19 @@
         "url": "www.supersonido.es/p/fonestar-vinyl-13",
         "image": "www.supersonido.es/productos/imagenes/producto43997.jpg"
     },
-    "hifiman-sundara-closed_": {
-        "name": "HIFIMAN Sundara Closed",
-        "price": 149.0,
-        "price_old": 479.0,
-        "url": "www.supersonido.es/p/hifiman-sundara-closed_",
-        "image": "www.supersonido.es/productos/imagenes/producto50309.jpg"
-    },
     "ifi-audio-hip-dac-2_": {
         "name": "IFI Audio Hip-dac 2",
         "price": 149.0,
         "price_old": 189.0,
         "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
         "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
+    },
+    "hifiman-sundara-closed_": {
+        "name": "HIFIMAN Sundara Closed",
+        "price": 149.0,
+        "price_old": 479.0,
+        "url": "www.supersonido.es/p/hifiman-sundara-closed_",
+        "image": "www.supersonido.es/productos/imagenes/producto50309.jpg"
     },
     "forza-audioworks-noir-hybrid-hpc": {
         "name": "Forza Audioworks NOIR HYBRID HPC",
@@ -188,6 +188,13 @@
         "url": "www.supersonido.es/p/pro-ject-accu-box-s2-chrome_",
         "image": "www.supersonido.es/productos/imagenes/producto51310.jpg"
     },
+    "ibasso-amp13_": {
+        "name": "Ibasso AMP13",
+        "price": 199.0,
+        "price_old": 269.0,
+        "url": "www.supersonido.es/p/ibasso-amp13_",
+        "image": "www.supersonido.es/productos/imagenes/producto51378.jpg"
+    },
     "sivga-oriole_": {
         "name": "Sivga Oriole",
         "price": 199.0,
@@ -195,12 +202,19 @@
         "url": "www.supersonido.es/p/sivga-oriole_",
         "image": "www.supersonido.es/productos/imagenes/producto51127.jpg"
     },
-    "ibasso-amp13_": {
-        "name": "Ibasso AMP13",
-        "price": 199.0,
-        "price_old": 269.0,
-        "url": "www.supersonido.es/p/ibasso-amp13_",
-        "image": "www.supersonido.es/productos/imagenes/producto51378.jpg"
+    "audioquest-slip-db-14-4-2m": {
+        "name": "Audioquest SLIP-DB 14/4 2m",
+        "price": 200.0,
+        "price_old": 200.0,
+        "url": "www.supersonido.es/p/audioquest-slip-db-14-4-2m",
+        "image": "www.supersonido.es/productos/imagenes/producto51463.jpg"
+    },
+    "audioquest-slip-db-14-4-2m_": {
+        "name": "Audioquest SLIP-DB 14/4 2,5m",
+        "price": 215.0,
+        "price_old": 215.0,
+        "url": "www.supersonido.es/p/audioquest-slip-db-14-4-2m_",
+        "image": "www.supersonido.es/productos/imagenes/producto51464.jpg"
     },
     "ifi-audio-zen-dac-signature": {
         "name": "IFI Audio ZEN DAC SIGNATURE",
@@ -503,6 +517,13 @@
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
+    "shanling-m6-pro-21_": {
+        "name": "Shanling M6 PRO (21)",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
+    },
     "magnat-transpuls-800a_": {
         "name": "Magnat Transpuls 800A",
         "price": 599.0,
@@ -516,13 +537,6 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
         "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
-    },
-    "shanling-m6-pro-21_": {
-        "name": "Shanling M6 PRO (21)",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
     "naim-fraimlite": {
         "name": "Naim FraimLite",
@@ -629,19 +643,19 @@
         "url": "www.supersonido.es/p/advance-paris-playstream-a7_",
         "image": "www.supersonido.es/productos/imagenes/producto50512.jpg"
     },
-    "roksan-attessa-streaming-amplifier_": {
-        "name": "Roksan Attessa Streaming Amplifier",
-        "price": 999.0,
-        "price_old": 1999.0,
-        "url": "www.supersonido.es/p/roksan-attessa-streaming-amplifier_",
-        "image": "www.supersonido.es/productos/imagenes/producto50113.jpg"
-    },
     "technics-sug30eg": {
         "name": "Technics SU-G30EG",
         "price": 999.0,
         "price_old": 2999.0,
         "url": "www.supersonido.es/p/technics-sug30eg",
         "image": "www.supersonido.es/productos/imagenes/producto23596.jpg"
+    },
+    "roksan-attessa-streaming-amplifier_": {
+        "name": "Roksan Attessa Streaming Amplifier",
+        "price": 999.0,
+        "price_old": 1999.0,
+        "url": "www.supersonido.es/p/roksan-attessa-streaming-amplifier_",
+        "image": "www.supersonido.es/productos/imagenes/producto50113.jpg"
     },
     "svs-ultra-surround_": {
         "name": "SVS Ultra Surround",
@@ -776,19 +790,19 @@
         "url": "www.supersonido.es/p/ibasso-dx320-x",
         "image": "www.supersonido.es/productos/imagenes/producto48066.jpg"
     },
-    "technics-sl-1200gr-egs": {
-        "name": "Technics SL-1200GR-EGS",
-        "price": 1499.0,
-        "price_old": 1799.0,
-        "url": "www.supersonido.es/p/technics-sl-1200gr-egs",
-        "image": "www.supersonido.es/productos/imagenes/producto24474.jpg"
-    },
     "technics-sl-1210gr-egk_": {
         "name": "Technics SL-1210GR-EGK",
         "price": 1499.0,
         "price_old": 1799.0,
         "url": "www.supersonido.es/p/technics-sl-1210gr-egk_",
         "image": "www.supersonido.es/productos/imagenes/producto50604.jpg"
+    },
+    "technics-sl-1200gr-egs": {
+        "name": "Technics SL-1200GR-EGS",
+        "price": 1499.0,
+        "price_old": 1799.0,
+        "url": "www.supersonido.es/p/technics-sl-1200gr-egs",
+        "image": "www.supersonido.es/productos/imagenes/producto24474.jpg"
     },
     "audio-technica-ath-awkt_": {
         "name": "Audio-Technica ATH-AWKT",
@@ -860,19 +874,19 @@
         "url": "www.supersonido.es/p/sony-xr65x95k_",
         "image": "www.supersonido.es/productos/imagenes/producto49227.jpg"
     },
-    "astell-kern-pathfinder_": {
-        "name": "Astell&kern PATHFINDER",
-        "price": 1699.0,
-        "price_old": 2299.0,
-        "url": "www.supersonido.es/p/astell-kern-pathfinder_",
-        "image": "www.supersonido.es/productos/imagenes/producto50976.jpg"
-    },
     "ifi-audio-pro-ican-signature_": {
         "name": "IFI Audio Pro iCAN Signature",
         "price": 1699.0,
         "price_old": 2249.0,
         "url": "www.supersonido.es/p/ifi-audio-pro-ican-signature_",
         "image": "www.supersonido.es/productos/imagenes/producto51306.jpg"
+    },
+    "astell-kern-pathfinder_": {
+        "name": "Astell&kern PATHFINDER",
+        "price": 1699.0,
+        "price_old": 2299.0,
+        "url": "www.supersonido.es/p/astell-kern-pathfinder_",
+        "image": "www.supersonido.es/productos/imagenes/producto50976.jpg"
     },
     "cayin-cs-6-ph_": {
         "name": "Cayin CS 6 PH",
