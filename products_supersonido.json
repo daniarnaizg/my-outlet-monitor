@@ -55,19 +55,19 @@
         "url": "www.supersonido.es/p/ibasso-it01x_",
         "image": "www.supersonido.es/productos/imagenes/producto51376.jpg"
     },
-    "arylic-b50": {
-        "name": "Arylic B50",
-        "price": 99.0,
-        "price_old": 189.0,
-        "url": "www.supersonido.es/p/arylic-b50",
-        "image": "www.supersonido.es/productos/imagenes/producto48997.jpg"
-    },
     "hifiman-he400se_": {
         "name": "HIFIMAN HE400se",
         "price": 99.0,
         "price_old": 129.0,
         "url": "www.supersonido.es/p/hifiman-he400se_",
         "image": "www.supersonido.es/productos/imagenes/producto51100.jpg"
+    },
+    "arylic-b50": {
+        "name": "Arylic B50",
+        "price": 99.0,
+        "price_old": 189.0,
+        "url": "www.supersonido.es/p/arylic-b50",
+        "image": "www.supersonido.es/productos/imagenes/producto48997.jpg"
     },
     "supra-cables-eff-ixlr*_": {
         "name": "Supra Cables EFF-IXLR",
@@ -286,6 +286,13 @@
         "url": "www.supersonido.es/p/ifi-audio-go-pod_",
         "image": "www.supersonido.es/productos/imagenes/producto50560.jpg"
     },
+    "klipsch-the-three-ii_": {
+        "name": "Klipsch THE THREE II",
+        "price": 299.0,
+        "price_old": 529.0,
+        "url": "www.supersonido.es/p/klipsch-the-three-ii_",
+        "image": "www.supersonido.es/productos/imagenes/producto51242.jpg"
+    },
     "the-chord-company-chordohmic-ground-aray-rca_": {
         "name": "The Chord Company ChordOhmic Ground ARAY\tRCA",
         "price": 299.0,
@@ -313,13 +320,6 @@
         "price_old": 650.0,
         "url": "www.supersonido.es/p/the-chord-company-chordohmic-ground-aray-hdmi_",
         "image": "www.supersonido.es/productos/imagenes/producto51357.jpg"
-    },
-    "klipsch-the-three-ii_": {
-        "name": "Klipsch THE THREE II",
-        "price": 299.0,
-        "price_old": 529.0,
-        "url": "www.supersonido.es/p/klipsch-the-three-ii_",
-        "image": "www.supersonido.es/productos/imagenes/producto51242.jpg"
     },
     "pro-ject-a1_": {
         "name": "Pro-Ject A1",
@@ -552,19 +552,19 @@
         "url": "www.supersonido.es/p/campfire-audio-vega-2020_",
         "image": "www.supersonido.es/productos/imagenes/producto51156.jpg"
     },
-    "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra": {
-        "name": "Pro-Ject Pre-Box S2 Digital DAC +  Stream Box S2 Ultra",
-        "price": 699.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
-        "image": "www.supersonido.es/productos/imagenes/producto51311.jpg"
-    },
     "pro-ject-dac-box-rs-silver": {
         "name": "Pro-Ject DAC Box RS",
         "price": 699.0,
         "price_old": 1099.0,
         "url": "www.supersonido.es/p/pro-ject-dac-box-rs-silver",
         "image": "www.supersonido.es/productos/imagenes/producto16717.jpg"
+    },
+    "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra": {
+        "name": "Pro-Ject Pre-Box S2 Digital DAC +  Stream Box S2 Ultra",
+        "price": 699.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
+        "image": "www.supersonido.es/productos/imagenes/producto51311.jpg"
     },
     "dynaudio-emit-20_": {
         "name": "Dynaudio Emit 20",
@@ -790,20 +790,6 @@
         "url": "www.supersonido.es/p/ibasso-dx320-x",
         "image": "www.supersonido.es/productos/imagenes/producto48066.jpg"
     },
-    "technics-sl-1200gr-egs": {
-        "name": "Technics SL-1200GR-EGS",
-        "price": 1499.0,
-        "price_old": 1799.0,
-        "url": "www.supersonido.es/p/technics-sl-1200gr-egs",
-        "image": "www.supersonido.es/productos/imagenes/producto24474.jpg"
-    },
-    "technics-sl-1210gr-egk_": {
-        "name": "Technics SL-1210GR-EGK",
-        "price": 1499.0,
-        "price_old": 1799.0,
-        "url": "www.supersonido.es/p/technics-sl-1210gr-egk_",
-        "image": "www.supersonido.es/productos/imagenes/producto50604.jpg"
-    },
     "audio-technica-ath-awkt_": {
         "name": "Audio-Technica ATH-AWKT",
         "price": 1499.0,
@@ -902,6 +888,13 @@
         "url": "www.supersonido.es/p/cayin-cs-6-ph_",
         "image": "www.supersonido.es/productos/imagenes/producto51252.jpg"
     },
+    "dynaudio-xeo-30": {
+        "name": "Dynaudio Xeo 30",
+        "price": 1799.0,
+        "price_old": 3599.0,
+        "url": "www.supersonido.es/p/dynaudio-xeo-30",
+        "image": "www.supersonido.es/productos/imagenes/producto27009.jpg"
+    },
     "rotel-dt-6000_": {
         "name": "Rotel DT-6000",
         "price": 1799.0,
@@ -915,13 +908,6 @@
         "price_old": 2699.0,
         "url": "www.supersonido.es/p/rotel-s14_oc",
         "image": "www.supersonido.es/productos/imagenes/producto50108.jpg"
-    },
-    "dynaudio-xeo-30": {
-        "name": "Dynaudio Xeo 30",
-        "price": 1799.0,
-        "price_old": 3599.0,
-        "url": "www.supersonido.es/p/dynaudio-xeo-30",
-        "image": "www.supersonido.es/productos/imagenes/producto27009.jpg"
     },
     "lg-hu85ls": {
         "name": "LG HU85LS",
@@ -951,6 +937,13 @@
         "url": "www.supersonido.es/p/jbl-4305p_",
         "image": "www.supersonido.es/productos/imagenes/producto48193.jpg"
     },
+    "stax-srm-007tii": {
+        "name": "Stax SRM-007TII",
+        "price": 1899.0,
+        "price_old": 2950.0,
+        "url": "www.supersonido.es/p/stax-srm-007tii",
+        "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
+    },
     "anthem-mca-225-gen-2_": {
         "name": "Anthem MCA 225 GEN 2",
         "price": 1899.0,
@@ -964,13 +957,6 @@
         "price_old": 2399.0,
         "url": "www.supersonido.es/p/astell-kern-acro-ca1000___",
         "image": "www.supersonido.es/productos/imagenes/producto46481.jpg"
-    },
-    "stax-srm-007tii": {
-        "name": "Stax SRM-007TII",
-        "price": 1899.0,
-        "price_old": 2950.0,
-        "url": "www.supersonido.es/p/stax-srm-007tii",
-        "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
     },
     "martin-logan-em-esl-c_": {
         "name": "Martin-Logan EM-ESL C",
@@ -1007,19 +993,19 @@
         "url": "www.supersonido.es/p/q-acoustics-concept-300-stand_ok",
         "image": "www.supersonido.es/productos/imagenes/producto49042.jpg"
     },
-    "meze-audio-empyrean_": {
-        "name": "Meze Audio Empyrean",
-        "price": 2199.0,
-        "price_old": 2999.0,
-        "url": "www.supersonido.es/p/meze-audio-empyrean_",
-        "image": "www.supersonido.es/productos/imagenes/producto50663.jpg"
-    },
     "mrspeakers-ether-2_": {
         "name": "Dan Clark Audio ETHER 2",
         "price": 2199.0,
         "price_old": 2759.0,
         "url": "www.supersonido.es/p/mrspeakers-ether-2_",
         "image": "www.supersonido.es/productos/imagenes/producto50756.jpg"
+    },
+    "meze-audio-empyrean_": {
+        "name": "Meze Audio Empyrean",
+        "price": 2199.0,
+        "price_old": 2999.0,
+        "url": "www.supersonido.es/p/meze-audio-empyrean_",
+        "image": "www.supersonido.es/productos/imagenes/producto50663.jpg"
     },
     "svs-ultra-tower_": {
         "name": "SVS Ultra Tower",
@@ -1056,19 +1042,19 @@
         "url": "www.supersonido.es/p/primare-i25-prisma",
         "image": "www.supersonido.es/productos/imagenes/producto29827.jpg"
     },
-    "sonus-faber-sonetto-iii_": {
-        "name": "Sonus Faber Sonetto III",
-        "price": 2699.0,
-        "price_old": 3899.0,
-        "url": "www.supersonido.es/p/sonus-faber-sonetto-iii_",
-        "image": "www.supersonido.es/productos/imagenes/producto41922.jpg"
-    },
     "samsung-qe75qn800b__oc": {
         "name": "Samsung QE75QN800B",
         "price": 2699.0,
         "price_old": 4999.0,
         "url": "www.supersonido.es/p/samsung-qe75qn800b__oc",
         "image": "www.supersonido.es/productos/imagenes/producto51399.jpg"
+    },
+    "sonus-faber-sonetto-iii_": {
+        "name": "Sonus Faber Sonetto III",
+        "price": 2699.0,
+        "price_old": 3899.0,
+        "url": "www.supersonido.es/p/sonus-faber-sonetto-iii_",
+        "image": "www.supersonido.es/productos/imagenes/producto41922.jpg"
     },
     "mrspeakers-voce_": {
         "name": "Dan Clark Audio VOCE",
@@ -1398,5 +1384,12 @@
         "price_old": 28990.0,
         "url": "www.supersonido.es/p/wilson-audio-sabrinax",
         "image": "www.supersonido.es/productos/imagenes/producto43904.jpg"
+    },
+    "wilson-audio-sasha-daw": {
+        "name": "Wilson Audio Sasha DAW",
+        "price": 36990.0,
+        "price_old": 53990.0,
+        "url": "www.supersonido.es/p/wilson-audio-sasha-daw",
+        "image": "www.supersonido.es/productos/imagenes/producto32981.jpg"
     }
 }
