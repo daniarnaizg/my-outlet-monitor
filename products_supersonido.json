@@ -20,13 +20,6 @@
         "url": "www.supersonido.es/p/audioquest-forest-hdmi-18-0-6m",
         "image": "www.supersonido.es/productos/imagenes/producto9255.jpg"
     },
-    "the-chord-company-clearway-digital-rca-bnc_": {
-        "name": "The Chord Company Clearway Digital RCA/BNC",
-        "price": 60.0,
-        "price_old": 119.0,
-        "url": "www.supersonido.es/p/the-chord-company-clearway-digital-rca-bnc_",
-        "image": "www.supersonido.es/productos/imagenes/producto51368.jpg"
-    },
     "audioquest-usb-b-to-c-cinnamon_": {
         "name": "Audioquest USB B to C - Cinnamon",
         "price": 69.0,
@@ -160,13 +153,6 @@
         "url": "www.supersonido.es/p/grado-sr225x_OC",
         "image": "www.supersonido.es/productos/imagenes/producto51323.jpg"
     },
-    "sivga-oriole_": {
-        "name": "Sivga Oriole",
-        "price": 199.0,
-        "price_old": 249.0,
-        "url": "www.supersonido.es/p/sivga-oriole_",
-        "image": "www.supersonido.es/productos/imagenes/producto51127.jpg"
-    },
     "q-acoustics-q-3010i_oc2": {
         "name": "Q-Acoustics Q3010i",
         "price": 199.0,
@@ -187,6 +173,13 @@
         "price_old": 259.0,
         "url": "www.supersonido.es/p/pro-ject-accu-box-s2-chrome_",
         "image": "www.supersonido.es/productos/imagenes/producto51310.jpg"
+    },
+    "sivga-oriole_": {
+        "name": "Sivga Oriole",
+        "price": 199.0,
+        "price_old": 249.0,
+        "url": "www.supersonido.es/p/sivga-oriole_",
+        "image": "www.supersonido.es/productos/imagenes/producto51127.jpg"
     },
     "audioquest-slip-db-14-4-2m": {
         "name": "Audioquest SLIP-DB 14/4 2m",
@@ -412,12 +405,12 @@
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c30_",
         "image": "www.supersonido.es/productos/imagenes/producto44225.jpg"
     },
-    "bluesound-pulse-2i_": {
-        "name": "Bluesound PULSE 2i",
+    "earmen-tradutto_": {
+        "name": "EarMen Tradutto",
         "price": 499.0,
         "price_old": 799.0,
-        "url": "www.supersonido.es/p/bluesound-pulse-2i_",
-        "image": "www.supersonido.es/productos/imagenes/producto47297.jpg"
+        "url": "www.supersonido.es/p/earmen-tradutto_",
+        "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
     },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
@@ -426,19 +419,19 @@
         "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
         "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
     },
+    "bluesound-pulse-2i_": {
+        "name": "Bluesound PULSE 2i",
+        "price": 499.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/bluesound-pulse-2i_",
+        "image": "www.supersonido.es/productos/imagenes/producto47297.jpg"
+    },
     "astell-kern-ak-zero1_": {
         "name": "Astell&kern AK ZERO1",
         "price": 499.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/astell-kern-ak-zero1_",
         "image": "www.supersonido.es/productos/imagenes/producto50902.jpg"
-    },
-    "earmen-tradutto_": {
-        "name": "EarMen Tradutto",
-        "price": 499.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/earmen-tradutto_",
-        "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
     },
     "denon-home-350__": {
         "name": "Denon Home 350",
@@ -482,19 +475,19 @@
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
-    "technics-ottava-s-sc-c50OC": {
-        "name": "Technics OTTAVA S SC-C50",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
-        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
-    },
     "magnat-transpuls-800a_": {
         "name": "Magnat Transpuls 800A",
         "price": 599.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/magnat-transpuls-800a_",
         "image": "www.supersonido.es/productos/imagenes/producto46564.jpg"
+    },
+    "technics-ottava-s-sc-c50OC": {
+        "name": "Technics OTTAVA S SC-C50",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
+        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
     },
     "shanling-m6-pro-21_": {
         "name": "Shanling M6 PRO (21)",
