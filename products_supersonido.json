@@ -41,19 +41,19 @@
         "url": "www.supersonido.es/p/ibasso-it01x_",
         "image": "www.supersonido.es/productos/imagenes/producto51376.jpg"
     },
-    "arylic-b50": {
-        "name": "Arylic B50",
-        "price": 99.0,
-        "price_old": 189.0,
-        "url": "www.supersonido.es/p/arylic-b50",
-        "image": "www.supersonido.es/productos/imagenes/producto48997.jpg"
-    },
     "hifiman-he400se_": {
         "name": "HIFIMAN HE400se",
         "price": 99.0,
         "price_old": 129.0,
         "url": "www.supersonido.es/p/hifiman-he400se_",
         "image": "www.supersonido.es/productos/imagenes/producto51100.jpg"
+    },
+    "arylic-b50": {
+        "name": "Arylic B50",
+        "price": 99.0,
+        "price_old": 189.0,
+        "url": "www.supersonido.es/p/arylic-b50",
+        "image": "www.supersonido.es/productos/imagenes/producto48997.jpg"
     },
     "yamaha-ns-p20": {
         "name": "Yamaha NS-P20",
@@ -97,19 +97,19 @@
         "url": "www.supersonido.es/p/sony-srs-lsr200_",
         "image": "www.supersonido.es/productos/imagenes/producto51301.jpg"
     },
-    "sivga-robin-sv021_": {
-        "name": "Sivga Robin SV021",
-        "price": 139.0,
-        "price_old": 179.0,
-        "url": "www.supersonido.es/p/sivga-robin-sv021_",
-        "image": "www.supersonido.es/productos/imagenes/producto46520.jpg"
-    },
     "meze-audio-mini-xlr-ofc-standard-cables_": {
         "name": "Meze Audio MINI XLR OFC STANDARD CABLES",
         "price": 139.0,
         "price_old": 219.0,
         "url": "www.supersonido.es/p/meze-audio-mini-xlr-ofc-standard-cables_",
         "image": "www.supersonido.es/productos/imagenes/producto50893.jpg"
+    },
+    "sivga-robin-sv021_": {
+        "name": "Sivga Robin SV021",
+        "price": 139.0,
+        "price_old": 179.0,
+        "url": "www.supersonido.es/p/sivga-robin-sv021_",
+        "image": "www.supersonido.es/productos/imagenes/producto46520.jpg"
     },
     "fonestar-vinyl-13": {
         "name": "Fonestar VINYL-13",
@@ -173,6 +173,13 @@
         "price_old": 259.0,
         "url": "www.supersonido.es/p/pro-ject-accu-box-s2-chrome_",
         "image": "www.supersonido.es/productos/imagenes/producto51310.jpg"
+    },
+    "ifi-audio-zen-can-signature-6xx_": {
+        "name": "IFI Audio ZEN CAN Signature 6XX",
+        "price": 199.0,
+        "price_old": 299.0,
+        "url": "www.supersonido.es/p/ifi-audio-zen-can-signature-6xx_",
+        "image": "www.supersonido.es/productos/imagenes/producto46372.jpg"
     },
     "sivga-oriole_": {
         "name": "Sivga Oriole",
@@ -1035,19 +1042,19 @@
         "url": "www.supersonido.es/p/sonus-faber-sonetto-iii_",
         "image": "www.supersonido.es/productos/imagenes/producto41922.jpg"
     },
-    "roon-labs-nucleus-plus_": {
-        "name": "Roon Labs Nucleus Plus",
-        "price": 2799.0,
-        "price_old": 3499.0,
-        "url": "www.supersonido.es/p/roon-labs-nucleus-plus_",
-        "image": "www.supersonido.es/productos/imagenes/producto51278.jpg"
-    },
     "mrspeakers-voce_": {
         "name": "Dan Clark Audio VOCE",
         "price": 2799.0,
         "price_old": 3999.0,
         "url": "www.supersonido.es/p/mrspeakers-voce_",
         "image": "www.supersonido.es/productos/imagenes/producto50151.jpg"
+    },
+    "roon-labs-nucleus-plus_": {
+        "name": "Roon Labs Nucleus Plus",
+        "price": 2799.0,
+        "price_old": 3499.0,
+        "url": "www.supersonido.es/p/roon-labs-nucleus-plus_",
+        "image": "www.supersonido.es/productos/imagenes/producto51278.jpg"
     },
     "electrocompaniet-ec-4-9-2ch": {
         "name": "Electrocompaniet EC 4.9 2ch",
