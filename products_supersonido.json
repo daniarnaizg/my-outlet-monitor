@@ -22,7 +22,7 @@
     },
     "ortofon-2m-red_": {
         "name": "Ortofon 2M Red",
-        "price": 49.0,
+        "price": 54.0,
         "price_old": 99.0,
         "url": "www.supersonido.es/p/ortofon-2m-red_",
         "image": "www.supersonido.es/productos/imagenes/producto51567.jpg"
@@ -244,12 +244,19 @@
         "url": "www.supersonido.es/p/pro-ject-stereo-box-ds_",
         "image": "www.supersonido.es/productos/imagenes/producto50800.jpg"
     },
-    "rega-planar-1-plusoc": {
-        "name": "Rega Planar 1 PLUS",
-        "price": 280.0,
+    "denon-heos-link-hs2_": {
+        "name": "Denon HEOS Link HS2",
+        "price": 299.0,
+        "price_old": 399.0,
+        "url": "www.supersonido.es/p/denon-heos-link-hs2_",
+        "image": "www.supersonido.es/productos/imagenes/producto50910.jpg"
+    },
+    "pro-ject-a1_": {
+        "name": "Pro-Ject A1",
+        "price": 299.0,
         "price_old": 449.0,
-        "url": "www.supersonido.es/p/rega-planar-1-plusoc",
-        "image": "www.supersonido.es/productos/imagenes/producto46744.jpg"
+        "url": "www.supersonido.es/p/pro-ject-a1_",
+        "image": "www.supersonido.es/productos/imagenes/producto49549.jpg"
     },
     "klipsch-the-three-ii_": {
         "name": "Klipsch THE THREE II",
@@ -285,20 +292,6 @@
         "price_old": 650.0,
         "url": "www.supersonido.es/p/the-chord-company-chordohmic-ground-aray-hdmi_",
         "image": "www.supersonido.es/productos/imagenes/producto51357.jpg"
-    },
-    "denon-heos-link-hs2_": {
-        "name": "Denon HEOS Link HS2",
-        "price": 299.0,
-        "price_old": 399.0,
-        "url": "www.supersonido.es/p/denon-heos-link-hs2_",
-        "image": "www.supersonido.es/productos/imagenes/producto50910.jpg"
-    },
-    "pro-ject-a1_": {
-        "name": "Pro-Ject A1",
-        "price": 299.0,
-        "price_old": 449.0,
-        "url": "www.supersonido.es/p/pro-ject-a1_",
-        "image": "www.supersonido.es/productos/imagenes/producto49549.jpg"
     },
     "ifi-audio-go-pod_": {
         "name": "IFI Audio GO pod",
@@ -895,19 +888,19 @@
         "url": "www.supersonido.es/p/q-acoustics-concept-300-stand_ok",
         "image": "www.supersonido.es/productos/imagenes/producto49042.jpg"
     },
-    "mrspeakers-ether-2_": {
-        "name": "Dan Clark Audio ETHER 2",
-        "price": 2199.0,
-        "price_old": 2759.0,
-        "url": "www.supersonido.es/p/mrspeakers-ether-2_",
-        "image": "www.supersonido.es/productos/imagenes/producto50756.jpg"
-    },
     "meze-audio-empyrean_": {
         "name": "Meze Audio Empyrean",
         "price": 2199.0,
         "price_old": 2999.0,
         "url": "www.supersonido.es/p/meze-audio-empyrean_",
         "image": "www.supersonido.es/productos/imagenes/producto50663.jpg"
+    },
+    "mrspeakers-ether-2_": {
+        "name": "Dan Clark Audio ETHER 2",
+        "price": 2199.0,
+        "price_old": 2759.0,
+        "url": "www.supersonido.es/p/mrspeakers-ether-2_",
+        "image": "www.supersonido.es/productos/imagenes/producto50756.jpg"
     },
     "svs-ultra-tower_": {
         "name": "SVS Ultra Tower",
