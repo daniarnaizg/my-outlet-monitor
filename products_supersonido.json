@@ -69,19 +69,19 @@
         "url": "www.supersonido.es/p/yamaha-ns-p20",
         "image": "www.supersonido.es/productos/imagenes/producto8822.jpg"
     },
-    "supra-cables-eff-ixlr*_": {
-        "name": "Supra Cables EFF-IXLR",
-        "price": 99.0,
-        "price_old": 186.0,
-        "url": "www.supersonido.es/p/supra-cables-eff-ixlr*_",
-        "image": "www.supersonido.es/productos/imagenes/producto51459.jpg"
-    },
     "loewe-wee-hear-2": {
         "name": "Loewe WEE HEAR 2",
         "price": 99.0,
         "price_old": 169.0,
         "url": "www.supersonido.es/p/loewe-wee-hear-2",
         "image": "www.supersonido.es/productos/imagenes/producto46142.jpg"
+    },
+    "supra-cables-eff-ixlr*_": {
+        "name": "Supra Cables EFF-IXLR",
+        "price": 99.0,
+        "price_old": 186.0,
+        "url": "www.supersonido.es/p/supra-cables-eff-ixlr*_",
+        "image": "www.supersonido.es/productos/imagenes/producto51459.jpg"
     },
     "grado-sr80x_oc": {
         "name": "Grado SR80x",
@@ -195,19 +195,19 @@
         "url": "www.supersonido.es/p/sony-str-dh190_",
         "image": "www.supersonido.es/productos/imagenes/producto47521.jpg"
     },
-    "sonos-era-100_": {
-        "name": "Sonos Era 100",
-        "price": 229.0,
-        "price_old": 279.0,
-        "url": "www.supersonido.es/p/sonos-era-100_",
-        "image": "www.supersonido.es/productos/imagenes/producto51548.jpg"
-    },
     "q-acoustics-q-3010i_": {
         "name": "Q-Acoustics Q3010i",
         "price": 229.0,
         "price_old": 299.0,
         "url": "www.supersonido.es/p/q-acoustics-q-3010i_",
         "image": "www.supersonido.es/productos/imagenes/producto29840.jpg"
+    },
+    "sonos-era-100_": {
+        "name": "Sonos Era 100",
+        "price": 229.0,
+        "price_old": 279.0,
+        "url": "www.supersonido.es/p/sonos-era-100_",
+        "image": "www.supersonido.es/productos/imagenes/producto51548.jpg"
     },
     "ifi-audio-zen-dac-signature": {
         "name": "IFI Audio ZEN DAC SIGNATURE",
@@ -223,13 +223,6 @@
         "url": "www.supersonido.es/p/hifiman-sundara_",
         "image": "www.supersonido.es/productos/imagenes/producto44086.jpg"
     },
-    "ifi-audio-go-bar__": {
-        "name": "IFI Audio GO bar",
-        "price": 249.0,
-        "price_old": 329.0,
-        "url": "www.supersonido.es/p/ifi-audio-go-bar__",
-        "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
-    },
     "audiopro-addon-c10__": {
         "name": "AudioPro ADDON C10",
         "price": 249.0,
@@ -243,6 +236,13 @@
         "price_old": 350.0,
         "url": "www.supersonido.es/p/audiopro-d-1",
         "image": "www.supersonido.es/productos/imagenes/producto43369.jpg"
+    },
+    "ifi-audio-go-bar__": {
+        "name": "IFI Audio GO bar",
+        "price": 249.0,
+        "price_old": 329.0,
+        "url": "www.supersonido.es/p/ifi-audio-go-bar__",
+        "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
     },
     "rega-planar-1_oc": {
         "name": "Rega Planar 1",
@@ -335,13 +335,6 @@
         "url": "www.supersonido.es/p/rega-p1-plus_occ",
         "image": "www.supersonido.es/productos/imagenes/producto51034.jpg"
     },
-    "rega-planar-2-mkii_": {
-        "name": "Rega Planar 2 MKII",
-        "price": 359.0,
-        "price_old": 559.0,
-        "url": "www.supersonido.es/p/rega-planar-2-mkii_",
-        "image": "www.supersonido.es/productos/imagenes/producto47950.jpg"
-    },
     "monitor-audio-cpwt380_": {
         "name": "Monitor Audio CP-WT380",
         "price": 363.0,
@@ -405,12 +398,12 @@
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c30_",
         "image": "www.supersonido.es/productos/imagenes/producto44225.jpg"
     },
-    "earmen-tradutto_": {
-        "name": "EarMen Tradutto",
+    "bluesound-pulse-2i_": {
+        "name": "Bluesound PULSE 2i",
         "price": 499.0,
         "price_old": 799.0,
-        "url": "www.supersonido.es/p/earmen-tradutto_",
-        "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
+        "url": "www.supersonido.es/p/bluesound-pulse-2i_",
+        "image": "www.supersonido.es/productos/imagenes/producto47297.jpg"
     },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
@@ -419,19 +412,19 @@
         "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
         "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
     },
-    "bluesound-pulse-2i_": {
-        "name": "Bluesound PULSE 2i",
-        "price": 499.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/bluesound-pulse-2i_",
-        "image": "www.supersonido.es/productos/imagenes/producto47297.jpg"
-    },
     "astell-kern-ak-zero1_": {
         "name": "Astell&kern AK ZERO1",
         "price": 499.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/astell-kern-ak-zero1_",
         "image": "www.supersonido.es/productos/imagenes/producto50902.jpg"
+    },
+    "earmen-tradutto_": {
+        "name": "EarMen Tradutto",
+        "price": 499.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/earmen-tradutto_",
+        "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
     },
     "q-acoustics-q-b12_OC": {
         "name": "Q-Acoustics Q B12",
@@ -454,6 +447,20 @@
         "url": "www.supersonido.es/p/q-acoustics-m20-hd-link-1_",
         "image": "www.supersonido.es/productos/imagenes/producto50721.jpg"
     },
+    "isotek-systems-sirius-evo3_": {
+        "name": "Isotek Systems Sirius EVO3",
+        "price": 599.0,
+        "price_old": 949.0,
+        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
+        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
+    },
+    "project-maia-ds": {
+        "name": "Pro-Ject MaiA DS",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/project-maia-ds",
+        "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
+    },
     "magnat-transpuls-800a_": {
         "name": "Magnat Transpuls 800A",
         "price": 599.0,
@@ -475,19 +482,12 @@
         "url": "www.supersonido.es/p/shanling-m6-pro-21_",
         "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
-    "project-maia-ds": {
-        "name": "Pro-Ject MaiA DS",
-        "price": 599.0,
+    "ruark-audio-r3s_": {
+        "name": "Ruark Audio R3S",
+        "price": 629.0,
         "price_old": 799.0,
-        "url": "www.supersonido.es/p/project-maia-ds",
-        "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
-    },
-    "isotek-systems-sirius-evo3_": {
-        "name": "Isotek Systems Sirius EVO3",
-        "price": 599.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
-        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
+        "url": "www.supersonido.es/p/ruark-audio-r3s_",
+        "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
     },
     "martin-logan-bravado": {
         "name": "Martin-Logan Bravado",
@@ -495,13 +495,6 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/martin-logan-bravado",
         "image": "www.supersonido.es/productos/imagenes/producto44417.jpg"
-    },
-    "ruark-audio-r3s_": {
-        "name": "Ruark Audio R3S",
-        "price": 629.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/ruark-audio-r3s_",
-        "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
     },
     "campfire-audio-vega-2020_": {
         "name": "Campfire Audio Vega 2020",
@@ -964,6 +957,13 @@
         "price_old": 2399.0,
         "url": "www.supersonido.es/p/astell-kern-ak240",
         "image": "www.supersonido.es/productos/imagenes/producto29954.jpg"
+    },
+    "unison-research-s6_ocasion_": {
+        "name": "Unison Research S6",
+        "price": 2490.0,
+        "price_old": 4500.0,
+        "url": "www.supersonido.es/p/unison-research-s6_ocasion_",
+        "image": "www.supersonido.es/productos/imagenes/producto49508.jpg"
     },
     "mofi-electronics-ultradeck-m-rea": {
         "name": "Mofi Electronics UltraDeck + M",
