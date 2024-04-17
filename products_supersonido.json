@@ -104,19 +104,19 @@
         "url": "www.supersonido.es/p/audio-technica-at-lp60xusb_",
         "image": "www.supersonido.es/productos/imagenes/producto46486.jpg"
     },
-    "meze-audio-mini-xlr-ofc-standard-cables_": {
-        "name": "Meze Audio MINI XLR OFC STANDARD CABLES",
-        "price": 139.0,
-        "price_old": 219.0,
-        "url": "www.supersonido.es/p/meze-audio-mini-xlr-ofc-standard-cables_",
-        "image": "www.supersonido.es/productos/imagenes/producto50893.jpg"
-    },
     "sivga-robin-sv021_": {
         "name": "Sivga Robin SV021",
         "price": 139.0,
         "price_old": 179.0,
         "url": "www.supersonido.es/p/sivga-robin-sv021_",
         "image": "www.supersonido.es/productos/imagenes/producto46520.jpg"
+    },
+    "meze-audio-mini-xlr-ofc-standard-cables_": {
+        "name": "Meze Audio MINI XLR OFC STANDARD CABLES",
+        "price": 139.0,
+        "price_old": 219.0,
+        "url": "www.supersonido.es/p/meze-audio-mini-xlr-ofc-standard-cables_",
+        "image": "www.supersonido.es/productos/imagenes/producto50893.jpg"
     },
     "ifi-audio-hip-dac-2_": {
         "name": "IFI Audio Hip-dac 2",
@@ -391,13 +391,6 @@
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c30_",
         "image": "www.supersonido.es/productos/imagenes/producto44225.jpg"
     },
-    "earmen-tradutto_": {
-        "name": "EarMen Tradutto",
-        "price": 499.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/earmen-tradutto_",
-        "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
-    },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
         "price": 499.0,
@@ -418,6 +411,13 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/bluesound-pulse-2i_",
         "image": "www.supersonido.es/productos/imagenes/producto47297.jpg"
+    },
+    "earmen-tradutto_": {
+        "name": "EarMen Tradutto",
+        "price": 499.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/earmen-tradutto_",
+        "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
     },
     "q-acoustics-q-b12_OC": {
         "name": "Q-Acoustics Q B12",
@@ -733,6 +733,13 @@
         "price_old": 1999.0,
         "url": "www.supersonido.es/p/samsung-the-frame-tq65ls03bg",
         "image": "www.supersonido.es/productos/imagenes/producto49763.jpg"
+    },
+    "innuos-zenmini-mk3_oca": {
+        "name": "Innuos ZENMINI MK3",
+        "price": 1499.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/innuos-zenmini-mk3_oca",
+        "image": "www.supersonido.es/productos/imagenes/producto51651.jpg"
     },
     "reavon-ubr-x200_": {
         "name": "Reavon UBR-X200",
