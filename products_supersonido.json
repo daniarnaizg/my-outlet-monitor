@@ -146,6 +146,13 @@
         "url": "www.supersonido.es/p/forza-audioworks-noir-hybrid-hpc",
         "image": "www.supersonido.es/productos/imagenes/producto51309.jpg"
     },
+    "ifi-audio-zen-phono": {
+        "name": "IFI Audio ZEN Phono",
+        "price": 159.0,
+        "price_old": 199.0,
+        "url": "www.supersonido.es/p/ifi-audio-zen-phono",
+        "image": "www.supersonido.es/productos/imagenes/producto42762.jpg"
+    },
     "grado-sr225x_OC": {
         "name": "Grado SR225x",
         "price": 169.0,
@@ -216,19 +223,19 @@
         "url": "www.supersonido.es/p/q-acoustics-q-3010i_",
         "image": "www.supersonido.es/productos/imagenes/producto29840.jpg"
     },
-    "sonos-era-100_": {
-        "name": "Sonos Era 100",
-        "price": 229.0,
-        "price_old": 279.0,
-        "url": "www.supersonido.es/p/sonos-era-100_",
-        "image": "www.supersonido.es/productos/imagenes/producto51548.jpg"
-    },
     "ifi-audio-zen-dac-signature": {
         "name": "IFI Audio ZEN DAC SIGNATURE",
         "price": 229.0,
         "price_old": 299.0,
         "url": "www.supersonido.es/p/ifi-audio-zen-dac-signature",
         "image": "www.supersonido.es/productos/imagenes/producto43929.jpg"
+    },
+    "sonos-era-100_": {
+        "name": "Sonos Era 100",
+        "price": 229.0,
+        "price_old": 279.0,
+        "url": "www.supersonido.es/p/sonos-era-100_",
+        "image": "www.supersonido.es/productos/imagenes/producto51548.jpg"
     },
     "hifiman-sundara_": {
         "name": "HIFIMAN Sundara",
@@ -482,19 +489,19 @@
         "url": "www.supersonido.es/p/magnat-transpuls-800a_",
         "image": "www.supersonido.es/productos/imagenes/producto46564.jpg"
     },
-    "technics-ottava-s-sc-c50OC": {
-        "name": "Technics OTTAVA S SC-C50",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
-        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
-    },
     "shanling-m6-pro-21_": {
         "name": "Shanling M6 PRO (21)",
         "price": 599.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/shanling-m6-pro-21_",
         "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
+    },
+    "technics-ottava-s-sc-c50OC": {
+        "name": "Technics OTTAVA S SC-C50",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
+        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
     },
     "ruark-audio-r3s_": {
         "name": "Ruark Audio R3S",
