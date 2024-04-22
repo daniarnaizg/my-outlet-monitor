@@ -41,19 +41,19 @@
         "url": "www.supersonido.es/p/ibasso-it01x_",
         "image": "www.supersonido.es/productos/imagenes/producto51376.jpg"
     },
-    "hifiman-he400se_": {
-        "name": "HIFIMAN HE400se",
-        "price": 99.0,
-        "price_old": 129.0,
-        "url": "www.supersonido.es/p/hifiman-he400se_",
-        "image": "www.supersonido.es/productos/imagenes/producto51100.jpg"
-    },
     "arylic-b50": {
         "name": "Arylic B50",
         "price": 99.0,
         "price_old": 189.0,
         "url": "www.supersonido.es/p/arylic-b50",
         "image": "www.supersonido.es/productos/imagenes/producto48997.jpg"
+    },
+    "hifiman-he400se_": {
+        "name": "HIFIMAN HE400se",
+        "price": 99.0,
+        "price_old": 129.0,
+        "url": "www.supersonido.es/p/hifiman-he400se_",
+        "image": "www.supersonido.es/productos/imagenes/producto51100.jpg"
     },
     "yamaha-ns-p20": {
         "name": "Yamaha NS-P20",
@@ -110,13 +110,6 @@
         "price_old": 179.0,
         "url": "www.supersonido.es/p/audio-technica-at-lp60xusb_",
         "image": "www.supersonido.es/productos/imagenes/producto46486.jpg"
-    },
-    "sivga-robin-sv021_": {
-        "name": "Sivga Robin SV021",
-        "price": 139.0,
-        "price_old": 179.0,
-        "url": "www.supersonido.es/p/sivga-robin-sv021_",
-        "image": "www.supersonido.es/productos/imagenes/producto46520.jpg"
     },
     "meze-audio-mini-xlr-ofc-standard-cables_": {
         "name": "Meze Audio MINI XLR OFC STANDARD CABLES",
@@ -209,19 +202,19 @@
         "url": "www.supersonido.es/p/panasonic-sc-pmx90_oc",
         "image": "www.supersonido.es/productos/imagenes/producto51095.jpg"
     },
-    "sonos-era-100_": {
-        "name": "Sonos Era 100",
-        "price": 229.0,
-        "price_old": 279.0,
-        "url": "www.supersonido.es/p/sonos-era-100_",
-        "image": "www.supersonido.es/productos/imagenes/producto51548.jpg"
-    },
     "q-acoustics-q-3010i_": {
         "name": "Q-Acoustics Q3010i",
         "price": 229.0,
         "price_old": 299.0,
         "url": "www.supersonido.es/p/q-acoustics-q-3010i_",
         "image": "www.supersonido.es/productos/imagenes/producto29840.jpg"
+    },
+    "sonos-era-100_": {
+        "name": "Sonos Era 100",
+        "price": 229.0,
+        "price_old": 279.0,
+        "url": "www.supersonido.es/p/sonos-era-100_",
+        "image": "www.supersonido.es/productos/imagenes/producto51548.jpg"
     },
     "ifi-audio-zen-dac-signature": {
         "name": "IFI Audio ZEN DAC SIGNATURE",
@@ -237,6 +230,13 @@
         "url": "www.supersonido.es/p/hifiman-sundara_",
         "image": "www.supersonido.es/productos/imagenes/producto44086.jpg"
     },
+    "ifi-audio-go-bar__": {
+        "name": "IFI Audio GO bar",
+        "price": 249.0,
+        "price_old": 329.0,
+        "url": "www.supersonido.es/p/ifi-audio-go-bar__",
+        "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
+    },
     "audiopro-addon-c10__": {
         "name": "AudioPro ADDON C10",
         "price": 249.0,
@@ -250,13 +250,6 @@
         "price_old": 350.0,
         "url": "www.supersonido.es/p/audiopro-d-1",
         "image": "www.supersonido.es/productos/imagenes/producto43369.jpg"
-    },
-    "ifi-audio-go-bar__": {
-        "name": "IFI Audio GO bar",
-        "price": 249.0,
-        "price_old": 329.0,
-        "url": "www.supersonido.es/p/ifi-audio-go-bar__",
-        "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
     },
     "rega-planar-1_oc": {
         "name": "Rega Planar 1",
@@ -356,19 +349,19 @@
         "url": "www.supersonido.es/p/audiolab-6000cdt_",
         "image": "www.supersonido.es/productos/imagenes/producto51636.jpg"
     },
-    "denon-home-sound-bar-550__": {
-        "name": "Denon HOME SOUND BAR 550",
-        "price": 399.0,
-        "price_old": 649.0,
-        "url": "www.supersonido.es/p/denon-home-sound-bar-550__",
-        "image": "www.supersonido.es/productos/imagenes/producto48154.jpg"
-    },
     "audioquest-yukon-xlr_": {
         "name": "Audioquest Yukon XLR",
         "price": 399.0,
         "price_old": 639.0,
         "url": "www.supersonido.es/p/audioquest-yukon-xlr_",
         "image": "www.supersonido.es/productos/imagenes/producto51460.jpg"
+    },
+    "denon-home-sound-bar-550__": {
+        "name": "Denon HOME SOUND BAR 550",
+        "price": 399.0,
+        "price_old": 649.0,
+        "url": "www.supersonido.es/p/denon-home-sound-bar-550__",
+        "image": "www.supersonido.es/productos/imagenes/producto48154.jpg"
     },
     "bluesound-pulse-mini-2i_": {
         "name": "Bluesound PULSE MINI 2i",
@@ -475,19 +468,19 @@
         "url": "www.supersonido.es/p/magnat-transpuls-800a_",
         "image": "www.supersonido.es/productos/imagenes/producto46564.jpg"
     },
-    "shanling-m6-pro-21_": {
-        "name": "Shanling M6 PRO (21)",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
-    },
     "technics-ottava-s-sc-c50OC": {
         "name": "Technics OTTAVA S SC-C50",
         "price": 599.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
         "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
+    },
+    "shanling-m6-pro-21_": {
+        "name": "Shanling M6 PRO (21)",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
     "ruark-audio-r3s_": {
         "name": "Ruark Audio R3S",
@@ -503,19 +496,19 @@
         "url": "www.supersonido.es/p/martin-logan-bravado",
         "image": "www.supersonido.es/productos/imagenes/producto44417.jpg"
     },
-    "campfire-audio-vega-2020_": {
-        "name": "Campfire Audio Vega 2020",
-        "price": 649.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/campfire-audio-vega-2020_",
-        "image": "www.supersonido.es/productos/imagenes/producto51156.jpg"
-    },
     "bluesound-node-x__": {
         "name": "Bluesound NODE X",
         "price": 649.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/bluesound-node-x__",
         "image": "www.supersonido.es/productos/imagenes/producto51675.jpg"
+    },
+    "campfire-audio-vega-2020_": {
+        "name": "Campfire Audio Vega 2020",
+        "price": 649.0,
+        "price_old": 949.0,
+        "url": "www.supersonido.es/p/campfire-audio-vega-2020_",
+        "image": "www.supersonido.es/productos/imagenes/producto51156.jpg"
     },
     "quad-vena-ii-play_oc": {
         "name": "Quad Vena II Play",
@@ -579,13 +572,6 @@
         "price_old": 1099.0,
         "url": "www.supersonido.es/p/musical-fidelity-m2scd",
         "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
-    },
-    "cayin-mt-35mk2-plus_": {
-        "name": "Cayin MT-35MK2 PLUS",
-        "price": 799.0,
-        "price_old": 1390.0,
-        "url": "www.supersonido.es/p/cayin-mt-35mk2-plus_",
-        "image": "www.supersonido.es/productos/imagenes/producto51615.jpg"
     },
     "audeze-lcd-gx_": {
         "name": "Audeze LCD-GX",
@@ -664,19 +650,19 @@
         "url": "www.supersonido.es/p/sivga-sendy-peacock_",
         "image": "www.supersonido.es/productos/imagenes/producto49897.jpg"
     },
-    "rega-elex-mk4_": {
-        "name": "Rega ELEX MK4",
-        "price": 1199.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/rega-elex-mk4_",
-        "image": "www.supersonido.es/productos/imagenes/producto49988.jpg"
-    },
     "loewe-wee-see-55": {
         "name": "Loewe WEE SEE 55",
         "price": 1199.0,
         "price_old": 1699.0,
         "url": "www.supersonido.es/p/loewe-wee-see-55",
         "image": "www.supersonido.es/productos/imagenes/producto46140.jpg"
+    },
+    "rega-elex-mk4_": {
+        "name": "Rega ELEX MK4",
+        "price": 1199.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/rega-elex-mk4_",
+        "image": "www.supersonido.es/productos/imagenes/producto49988.jpg"
     },
     "pro-ject-box-15-ds2_": {
         "name": "Pro-Ject Speaker Box 15 DS2",
@@ -748,6 +734,13 @@
         "url": "www.supersonido.es/p/jbl-4306_",
         "image": "www.supersonido.es/productos/imagenes/producto45874.jpg"
     },
+    "audio-technica-ath-awkt_": {
+        "name": "Audio-Technica ATH-AWKT",
+        "price": 1499.0,
+        "price_old": 1999.0,
+        "url": "www.supersonido.es/p/audio-technica-ath-awkt_",
+        "image": "www.supersonido.es/productos/imagenes/producto49179.jpg"
+    },
     "samsung-the-frame-tq65ls03bg": {
         "name": "Samsung The Frame TQ65LS03BG",
         "price": 1499.0,
@@ -761,13 +754,6 @@
         "price_old": 1849.0,
         "url": "www.supersonido.es/p/reavon-ubr-x200_",
         "image": "www.supersonido.es/productos/imagenes/producto51498.jpg"
-    },
-    "audio-technica-ath-awkt_": {
-        "name": "Audio-Technica ATH-AWKT",
-        "price": 1499.0,
-        "price_old": 1999.0,
-        "url": "www.supersonido.es/p/audio-technica-ath-awkt_",
-        "image": "www.supersonido.es/productos/imagenes/producto49179.jpg"
     },
     "matrix-audio-element-p__": {
         "name": "Matrix Audio Element P",
@@ -818,19 +804,19 @@
         "url": "www.supersonido.es/p/sony-xr65x95k_",
         "image": "www.supersonido.es/productos/imagenes/producto49227.jpg"
     },
-    "astell-kern-pathfinder_": {
-        "name": "Astell&kern PATHFINDER",
-        "price": 1699.0,
-        "price_old": 2299.0,
-        "url": "www.supersonido.es/p/astell-kern-pathfinder_",
-        "image": "www.supersonido.es/productos/imagenes/producto50976.jpg"
-    },
     "ifi-audio-pro-ican-signature_": {
         "name": "IFI Audio Pro iCAN Signature",
         "price": 1699.0,
         "price_old": 2249.0,
         "url": "www.supersonido.es/p/ifi-audio-pro-ican-signature_",
         "image": "www.supersonido.es/productos/imagenes/producto51306.jpg"
+    },
+    "astell-kern-pathfinder_": {
+        "name": "Astell&kern PATHFINDER",
+        "price": 1699.0,
+        "price_old": 2299.0,
+        "url": "www.supersonido.es/p/astell-kern-pathfinder_",
+        "image": "www.supersonido.es/productos/imagenes/producto50976.jpg"
     },
     "dynaudio-xeo-30": {
         "name": "Dynaudio Xeo 30",
@@ -881,13 +867,6 @@
         "url": "www.supersonido.es/p/jbl-4305p_",
         "image": "www.supersonido.es/productos/imagenes/producto48193.jpg"
     },
-    "stax-srm-007tii": {
-        "name": "Stax SRM-007TII",
-        "price": 1899.0,
-        "price_old": 2950.0,
-        "url": "www.supersonido.es/p/stax-srm-007tii",
-        "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
-    },
     "anthem-mca-225-gen-2_": {
         "name": "Anthem MCA 225 GEN 2",
         "price": 1899.0,
@@ -901,6 +880,13 @@
         "price_old": 2399.0,
         "url": "www.supersonido.es/p/astell-kern-acro-ca1000___",
         "image": "www.supersonido.es/productos/imagenes/producto46481.jpg"
+    },
+    "stax-srm-007tii": {
+        "name": "Stax SRM-007TII",
+        "price": 1899.0,
+        "price_old": 2950.0,
+        "url": "www.supersonido.es/p/stax-srm-007tii",
+        "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
     },
     "martin-logan-em-esl-c_": {
         "name": "Martin-Logan EM-ESL C",
@@ -1007,19 +993,19 @@
         "url": "www.supersonido.es/p/sonus-faber-sonetto-iii_",
         "image": "www.supersonido.es/productos/imagenes/producto41922.jpg"
     },
-    "mrspeakers-voce_": {
-        "name": "Dan Clark Audio VOCE",
-        "price": 2799.0,
-        "price_old": 3999.0,
-        "url": "www.supersonido.es/p/mrspeakers-voce_",
-        "image": "www.supersonido.es/productos/imagenes/producto50151.jpg"
-    },
     "roon-labs-nucleus-plus_": {
         "name": "Roon Labs Nucleus Plus",
         "price": 2799.0,
         "price_old": 3499.0,
         "url": "www.supersonido.es/p/roon-labs-nucleus-plus_",
         "image": "www.supersonido.es/productos/imagenes/producto51278.jpg"
+    },
+    "mrspeakers-voce_": {
+        "name": "Dan Clark Audio VOCE",
+        "price": 2799.0,
+        "price_old": 3999.0,
+        "url": "www.supersonido.es/p/mrspeakers-voce_",
+        "image": "www.supersonido.es/productos/imagenes/producto50151.jpg"
     },
     "matrix-audio-x-sabre-3_oca": {
         "name": "Matrix Audio X-SABRE 3",
@@ -1042,19 +1028,19 @@
         "url": "www.supersonido.es/p/isotek-systems-nova",
         "image": "www.supersonido.es/productos/imagenes/producto11309.jpg"
     },
-    "primare-i35dac_": {
-        "name": "Primare I35DAC",
-        "price": 2990.0,
-        "price_old": 4390.0,
-        "url": "www.supersonido.es/p/primare-i35dac_",
-        "image": "www.supersonido.es/productos/imagenes/producto50790.jpg"
-    },
     "krell-industries-evo-222-": {
         "name": "Krell Industries Evo 222",
         "price": 2990.0,
         "price_old": 10540.0,
         "url": "www.supersonido.es/p/krell-industries-evo-222-",
         "image": "www.supersonido.es/productos/imagenes/producto3644.jpg"
+    },
+    "primare-i35dac_": {
+        "name": "Primare I35DAC",
+        "price": 2990.0,
+        "price_old": 4390.0,
+        "url": "www.supersonido.es/p/primare-i35dac_",
+        "image": "www.supersonido.es/productos/imagenes/producto50790.jpg"
     },
     "samsung-qe75qn800b__oc": {
         "name": "Samsung QE75QN800B",
