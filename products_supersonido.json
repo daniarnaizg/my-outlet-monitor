@@ -174,6 +174,13 @@
         "url": "www.supersonido.es/p/hifiman-sundara_",
         "image": "www.supersonido.es/productos/imagenes/producto44086.jpg"
     },
+    "ifi-audio-go-bar__": {
+        "name": "IFI Audio GO bar",
+        "price": 249.0,
+        "price_old": 329.0,
+        "url": "www.supersonido.es/p/ifi-audio-go-bar__",
+        "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
+    },
     "audiopro-d-1": {
         "name": "AudioPro Drumfire D-1",
         "price": 249.0,
@@ -187,13 +194,6 @@
         "price_old": 350.0,
         "url": "www.supersonido.es/p/audiopro-addon-c10__",
         "image": "www.supersonido.es/productos/imagenes/producto47962.jpg"
-    },
-    "ifi-audio-go-bar__": {
-        "name": "IFI Audio GO bar",
-        "price": 249.0,
-        "price_old": 329.0,
-        "url": "www.supersonido.es/p/ifi-audio-go-bar__",
-        "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
     },
     "grado-sr325x_": {
         "name": "Grado SR325x",
@@ -286,13 +286,6 @@
         "url": "www.supersonido.es/p/ruark-audio-mrx",
         "image": "www.supersonido.es/productos/imagenes/producto32028.jpg"
     },
-    "rega-p1-plus_occ": {
-        "name": "Rega Planar 1 PLUS",
-        "price": 349.0,
-        "price_old": 449.0,
-        "url": "www.supersonido.es/p/rega-p1-plus_occ",
-        "image": "www.supersonido.es/productos/imagenes/producto51034.jpg"
-    },
     "monitor-audio-cpwt380_": {
         "name": "Monitor Audio CP-WT380",
         "price": 363.0,
@@ -363,13 +356,6 @@
         "url": "www.supersonido.es/p/bluesound-pulse-2i_",
         "image": "www.supersonido.es/productos/imagenes/producto47297.jpg"
     },
-    "astell-kern-ak-zero1_": {
-        "name": "Astell&kern AK ZERO1",
-        "price": 499.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/astell-kern-ak-zero1_",
-        "image": "www.supersonido.es/productos/imagenes/producto50902.jpg"
-    },
     "advance-paris-playstream-a1_": {
         "name": "Advance Paris PLAYSTREAM A1",
         "price": 499.0,
@@ -383,6 +369,13 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/earmen-tradutto_",
         "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
+    },
+    "astell-kern-ak-zero1_": {
+        "name": "Astell&kern AK ZERO1",
+        "price": 499.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/astell-kern-ak-zero1_",
+        "image": "www.supersonido.es/productos/imagenes/producto50902.jpg"
     },
     "denon-home-350__": {
         "name": "Denon Home 350",
@@ -419,19 +412,12 @@
         "url": "www.supersonido.es/p/project-maia-ds",
         "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
-    "magnat-transpuls-800a_": {
-        "name": "Magnat Transpuls 800A",
+    "shanling-m6-pro-21_": {
+        "name": "Shanling M6 PRO (21)",
         "price": 599.0,
         "price_old": 799.0,
-        "url": "www.supersonido.es/p/magnat-transpuls-800a_",
-        "image": "www.supersonido.es/productos/imagenes/producto46564.jpg"
-    },
-    "ruark-audio-r3s_": {
-        "name": "Ruark Audio R3S",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/ruark-audio-r3s_",
-        "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
     "technics-ottava-s-sc-c50OC": {
         "name": "Technics OTTAVA S SC-C50",
@@ -440,12 +426,19 @@
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
         "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
     },
-    "shanling-m6-pro-21_": {
-        "name": "Shanling M6 PRO (21)",
+    "ruark-audio-r3s_": {
+        "name": "Ruark Audio R3S",
         "price": 599.0,
         "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
+        "url": "www.supersonido.es/p/ruark-audio-r3s_",
+        "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
+    },
+    "magnat-transpuls-800a_": {
+        "name": "Magnat Transpuls 800A",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/magnat-transpuls-800a_",
+        "image": "www.supersonido.es/productos/imagenes/producto46564.jpg"
     },
     "martin-logan-bravado": {
         "name": "Martin-Logan Bravado",
@@ -643,19 +636,19 @@
         "url": "www.supersonido.es/p/pro-ject-box-15-ds2_",
         "image": "www.supersonido.es/productos/imagenes/producto50803.jpg"
     },
-    "mofi-electronics-studiodeck__": {
-        "name": "Mofi Electronics STUDIODECK",
-        "price": 1299.0,
-        "price_old": 1599.0,
-        "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
-        "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
-    },
     "mrspeakers-ether-flow": {
         "name": "Dan Clark Audio ETHER Flow",
         "price": 1299.0,
         "price_old": 1999.0,
         "url": "www.supersonido.es/p/mrspeakers-ether-flow",
         "image": "www.supersonido.es/productos/imagenes/producto28309.jpg"
+    },
+    "mofi-electronics-studiodeck__": {
+        "name": "Mofi Electronics STUDIODECK",
+        "price": 1299.0,
+        "price_old": 1599.0,
+        "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
+        "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
     },
     "matrix-audio-element-p_": {
         "name": "Matrix Audio Element P",
