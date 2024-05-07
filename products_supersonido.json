@@ -153,13 +153,6 @@
         "url": "www.supersonido.es/p/ifi-audio-go-bar__",
         "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
     },
-    "rega-planar-1_oc": {
-        "name": "Rega Planar 1",
-        "price": 249.0,
-        "price_old": 349.0,
-        "url": "www.supersonido.es/p/rega-planar-1_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto49888.jpg"
-    },
     "audiopro-d-1": {
         "name": "AudioPro Drumfire D-1",
         "price": 249.0,
@@ -173,6 +166,13 @@
         "price_old": 350.0,
         "url": "www.supersonido.es/p/audiopro-addon-c10__",
         "image": "www.supersonido.es/productos/imagenes/producto47962.jpg"
+    },
+    "rega-planar-1_oc": {
+        "name": "Rega Planar 1",
+        "price": 249.0,
+        "price_old": 349.0,
+        "url": "www.supersonido.es/p/rega-planar-1_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto49888.jpg"
     },
     "grado-sr325x_": {
         "name": "Grado SR325x",
@@ -244,6 +244,13 @@
         "url": "www.supersonido.es/p/ifi-audio-go-pod_",
         "image": "www.supersonido.es/productos/imagenes/producto50560.jpg"
     },
+    "audeze-maxwell-playstation_oc": {
+        "name": "Audeze MAXWELL PLAYSTATION",
+        "price": 329.0,
+        "price_old": 399.0,
+        "url": "www.supersonido.es/p/audeze-maxwell-playstation_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto50833.jpg"
+    },
     "denon-home-sound-bar-550__": {
         "name": "Denon HOME SOUND BAR 550",
         "price": 329.0,
@@ -314,19 +321,19 @@
         "url": "www.supersonido.es/p/bluesound-pulse-2i_",
         "image": "www.supersonido.es/productos/imagenes/producto47297.jpg"
     },
-    "advance-paris-playstream-a1_": {
-        "name": "Advance Paris PLAYSTREAM A1",
-        "price": 499.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
-        "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
-    },
     "earmen-tradutto_": {
         "name": "EarMen Tradutto",
         "price": 499.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/earmen-tradutto_",
         "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
+    },
+    "advance-paris-playstream-a1_": {
+        "name": "Advance Paris PLAYSTREAM A1",
+        "price": 499.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
+        "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
     },
     "astell-kern-ak-zero1_": {
         "name": "Astell&kern AK ZERO1",
@@ -356,13 +363,6 @@
         "url": "www.supersonido.es/p/q-acoustics-m20-hd-link-1_",
         "image": "www.supersonido.es/productos/imagenes/producto50721.jpg"
     },
-    "magnat-transpuls-800a_": {
-        "name": "Magnat Transpuls 800A",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/magnat-transpuls-800a_",
-        "image": "www.supersonido.es/productos/imagenes/producto46564.jpg"
-    },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
         "price": 599.0,
@@ -377,13 +377,6 @@
         "url": "www.supersonido.es/p/project-maia-ds",
         "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
-    "ruark-audio-r3s_": {
-        "name": "Ruark Audio R3S",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/ruark-audio-r3s_",
-        "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
-    },
     "technics-ottava-s-sc-c50OC": {
         "name": "Technics OTTAVA S SC-C50",
         "price": 599.0,
@@ -397,6 +390,20 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/shanling-m6-pro-21_",
         "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
+    },
+    "ruark-audio-r3s_": {
+        "name": "Ruark Audio R3S",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/ruark-audio-r3s_",
+        "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
+    },
+    "magnat-transpuls-800a_": {
+        "name": "Magnat Transpuls 800A",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/magnat-transpuls-800a_",
+        "image": "www.supersonido.es/productos/imagenes/producto46564.jpg"
     },
     "martin-logan-bravado": {
         "name": "Martin-Logan Bravado",
