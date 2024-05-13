@@ -111,13 +111,6 @@
         "url": "www.supersonido.es/p/audioquest-slip-db-14-4-2m_",
         "image": "www.supersonido.es/productos/imagenes/producto51464.jpg"
     },
-    "q-acoustics-q-3010i_": {
-        "name": "Q-Acoustics Q3010i",
-        "price": 229.0,
-        "price_old": 299.0,
-        "url": "www.supersonido.es/p/q-acoustics-q-3010i_",
-        "image": "www.supersonido.es/productos/imagenes/producto29840.jpg"
-    },
     "sonos-era-100_": {
         "name": "Sonos Era 100",
         "price": 229.0,
@@ -335,6 +328,13 @@
         "url": "www.supersonido.es/p/denon-dra-800h___",
         "image": "www.supersonido.es/productos/imagenes/producto46766.jpg"
     },
+    "bluesound-pulse-2i_": {
+        "name": "Bluesound PULSE 2i",
+        "price": 499.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/bluesound-pulse-2i_",
+        "image": "www.supersonido.es/productos/imagenes/producto47297.jpg"
+    },
     "astell-kern-ak-zero1_": {
         "name": "Astell&kern AK ZERO1",
         "price": 499.0,
@@ -348,13 +348,6 @@
         "price_old": 899.0,
         "url": "www.supersonido.es/p/advance-paris-playstream-a1_",
         "image": "www.supersonido.es/productos/imagenes/producto50086.jpg"
-    },
-    "bluesound-pulse-2i_": {
-        "name": "Bluesound PULSE 2i",
-        "price": 499.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/bluesound-pulse-2i_",
-        "image": "www.supersonido.es/productos/imagenes/producto47297.jpg"
     },
     "earmen-tradutto_": {
         "name": "EarMen Tradutto",
@@ -538,19 +531,19 @@
         "url": "www.supersonido.es/p/innuos-pulsemini_oca",
         "image": "www.supersonido.es/productos/imagenes/producto51385.jpg"
     },
-    "kef-lsx-ii_": {
-        "name": "KEF LSX II",
-        "price": 975.0,
-        "price_old": 1399.0,
-        "url": "www.supersonido.es/p/kef-lsx-ii_",
-        "image": "www.supersonido.es/productos/imagenes/producto51730.jpg"
-    },
     "monitor-audio-silver-100-7g-limited-edition_": {
         "name": "Monitor Audio Silver 100 7G Limited Edition",
         "price": 975.0,
         "price_old": 1300.0,
         "url": "www.supersonido.es/p/monitor-audio-silver-100-7g-limited-edition_",
         "image": "www.supersonido.es/productos/imagenes/producto51235.jpg"
+    },
+    "kef-lsx-ii_": {
+        "name": "KEF LSX II",
+        "price": 975.0,
+        "price_old": 1399.0,
+        "url": "www.supersonido.es/p/kef-lsx-ii_",
+        "image": "www.supersonido.es/productos/imagenes/producto51730.jpg"
     },
     "wharfedale-evo4-3_": {
         "name": "Wharfedale Evo4.3",
@@ -650,6 +643,13 @@
         "url": "www.supersonido.es/p/matrix-audio-element-p__",
         "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
     },
+    "ferrum-erco": {
+        "name": "Ferrum ERCO",
+        "price": 1399.0,
+        "price_old": 1795.0,
+        "url": "www.supersonido.es/p/ferrum-erco",
+        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
+    },
     "mrspeakers-ether-c-flow-1-1_": {
         "name": "Dan Clark Audio ETHER C Flow 1.1",
         "price": 1399.0,
@@ -663,13 +663,6 @@
         "price_old": 2159.0,
         "url": "www.supersonido.es/p/mrspeakers-ether-flow-1-1_",
         "image": "www.supersonido.es/productos/imagenes/producto50776.jpg"
-    },
-    "ferrum-erco": {
-        "name": "Ferrum ERCO",
-        "price": 1399.0,
-        "price_old": 1795.0,
-        "url": "www.supersonido.es/p/ferrum-erco",
-        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
     },
     "jbl-4306_": {
         "name": "JBL 4306",
@@ -741,19 +734,19 @@
         "url": "www.supersonido.es/p/ifi-audio-pro-ican-signature_",
         "image": "www.supersonido.es/productos/imagenes/producto51306.jpg"
     },
-    "kef-ls-50-wireless-ii_": {
-        "name": "KEF LS-50 Wireless II",
-        "price": 1749.0,
-        "price_old": 2299.0,
-        "url": "www.supersonido.es/p/kef-ls-50-wireless-ii_",
-        "image": "www.supersonido.es/productos/imagenes/producto51729.jpg"
-    },
     "kef-ls-50-wireless-ii_oc": {
         "name": "KEF LS-50 Wireless II",
         "price": 1749.0,
         "price_old": 2299.0,
         "url": "www.supersonido.es/p/kef-ls-50-wireless-ii_oc",
         "image": "www.supersonido.es/productos/imagenes/producto51863.jpg"
+    },
+    "kef-ls-50-wireless-ii_": {
+        "name": "KEF LS-50 Wireless II",
+        "price": 1749.0,
+        "price_old": 2299.0,
+        "url": "www.supersonido.es/p/kef-ls-50-wireless-ii_",
+        "image": "www.supersonido.es/productos/imagenes/producto51729.jpg"
     },
     "rotel-dt-6000_": {
         "name": "Rotel DT-6000",
@@ -790,6 +783,13 @@
         "url": "www.supersonido.es/p/technics-sl-g700e_ou",
         "image": "www.supersonido.es/productos/imagenes/producto50603.jpg"
     },
+    "stax-srm-007tii": {
+        "name": "Stax SRM-007TII",
+        "price": 1899.0,
+        "price_old": 2950.0,
+        "url": "www.supersonido.es/p/stax-srm-007tii",
+        "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
+    },
     "anthem-mca-225-gen-2_": {
         "name": "Anthem MCA 225 GEN 2",
         "price": 1899.0,
@@ -803,13 +803,6 @@
         "price_old": 2399.0,
         "url": "www.supersonido.es/p/astell-kern-acro-ca1000___",
         "image": "www.supersonido.es/productos/imagenes/producto46481.jpg"
-    },
-    "stax-srm-007tii": {
-        "name": "Stax SRM-007TII",
-        "price": 1899.0,
-        "price_old": 2950.0,
-        "url": "www.supersonido.es/p/stax-srm-007tii",
-        "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
     },
     "martin-logan-em-esl-c_": {
         "name": "Martin-Logan EM-ESL C",
@@ -909,19 +902,19 @@
         "url": "www.supersonido.es/p/sonus-faber-sonetto-iii_",
         "image": "www.supersonido.es/productos/imagenes/producto41922.jpg"
     },
-    "roon-labs-nucleus-plus_": {
-        "name": "Roon Labs Nucleus Plus",
-        "price": 2799.0,
-        "price_old": 3499.0,
-        "url": "www.supersonido.es/p/roon-labs-nucleus-plus_",
-        "image": "www.supersonido.es/productos/imagenes/producto51278.jpg"
-    },
     "mrspeakers-voce_": {
         "name": "Dan Clark Audio VOCE",
         "price": 2799.0,
         "price_old": 3999.0,
         "url": "www.supersonido.es/p/mrspeakers-voce_",
         "image": "www.supersonido.es/productos/imagenes/producto50151.jpg"
+    },
+    "roon-labs-nucleus-plus_": {
+        "name": "Roon Labs Nucleus Plus",
+        "price": 2799.0,
+        "price_old": 3499.0,
+        "url": "www.supersonido.es/p/roon-labs-nucleus-plus_",
+        "image": "www.supersonido.es/productos/imagenes/producto51278.jpg"
     },
     "matrix-audio-x-sabre-3_oca": {
         "name": "Matrix Audio X-SABRE 3",
