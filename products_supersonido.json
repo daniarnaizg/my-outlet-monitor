@@ -237,13 +237,6 @@
         "url": "www.supersonido.es/p/the-chord-company-chordohmic-ground-aray-hdmi_",
         "image": "www.supersonido.es/productos/imagenes/producto51357.jpg"
     },
-    "boston-acoustics-a250": {
-        "name": "Boston Acoustics A250",
-        "price": 299.0,
-        "price_old": 600.0,
-        "url": "www.supersonido.es/p/boston-acoustics-a250",
-        "image": "www.supersonido.es/productos/imagenes/producto9455.jpg"
-    },
     "ifi-audio-go-pod_": {
         "name": "IFI Audio GO pod",
         "price": 299.0,
@@ -391,19 +384,19 @@
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
+    "magnat-transpuls-800a_": {
+        "name": "Magnat Transpuls 800A",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/magnat-transpuls-800a_",
+        "image": "www.supersonido.es/productos/imagenes/producto46564.jpg"
+    },
     "technics-ottava-s-sc-c50OC": {
         "name": "Technics OTTAVA S SC-C50",
         "price": 599.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
         "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
-    },
-    "shanling-m6-pro-21_": {
-        "name": "Shanling M6 PRO (21)",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
     "ruark-audio-r3s_": {
         "name": "Ruark Audio R3S",
@@ -412,12 +405,12 @@
         "url": "www.supersonido.es/p/ruark-audio-r3s_",
         "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
     },
-    "magnat-transpuls-800a_": {
-        "name": "Magnat Transpuls 800A",
+    "shanling-m6-pro-21_": {
+        "name": "Shanling M6 PRO (21)",
         "price": 599.0,
         "price_old": 799.0,
-        "url": "www.supersonido.es/p/magnat-transpuls-800a_",
-        "image": "www.supersonido.es/productos/imagenes/producto46564.jpg"
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
     "monitor-audio-bronze-200_": {
         "name": "Monitor Audio Bronze 200",
@@ -433,19 +426,19 @@
         "url": "www.supersonido.es/p/martin-logan-bravado",
         "image": "www.supersonido.es/productos/imagenes/producto44417.jpg"
     },
-    "svs-prime-wireless-pro-soundbase__": {
-        "name": "SVS Prime Wireless Pro SoundBase",
-        "price": 649.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/svs-prime-wireless-pro-soundbase__",
-        "image": "www.supersonido.es/productos/imagenes/producto51825.jpg"
-    },
     "campfire-audio-vega-2020_": {
         "name": "Campfire Audio Vega 2020",
         "price": 649.0,
         "price_old": 949.0,
         "url": "www.supersonido.es/p/campfire-audio-vega-2020_",
         "image": "www.supersonido.es/productos/imagenes/producto51156.jpg"
+    },
+    "svs-prime-wireless-pro-soundbase__": {
+        "name": "SVS Prime Wireless Pro SoundBase",
+        "price": 649.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/svs-prime-wireless-pro-soundbase__",
+        "image": "www.supersonido.es/productos/imagenes/producto51825.jpg"
     },
     "leak-stereo-130_": {
         "name": "Leak Stereo 130",
