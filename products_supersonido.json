@@ -76,19 +76,19 @@
         "url": "www.supersonido.es/p/grado-sr225x_OC",
         "image": "www.supersonido.es/productos/imagenes/producto51323.jpg"
     },
-    "pro-ject-primary-e__": {
-        "name": "Pro-Ject Primary E",
-        "price": 199.0,
-        "price_old": 279.0,
-        "url": "www.supersonido.es/p/pro-ject-primary-e__",
-        "image": "www.supersonido.es/productos/imagenes/producto46765.jpg"
-    },
     "ifi-audio-zen-dac-signature": {
         "name": "IFI Audio ZEN DAC SIGNATURE",
         "price": 199.0,
         "price_old": 299.0,
         "url": "www.supersonido.es/p/ifi-audio-zen-dac-signature",
         "image": "www.supersonido.es/productos/imagenes/producto43929.jpg"
+    },
+    "pro-ject-primary-e__": {
+        "name": "Pro-Ject Primary E",
+        "price": 199.0,
+        "price_old": 279.0,
+        "url": "www.supersonido.es/p/pro-ject-primary-e__",
+        "image": "www.supersonido.es/productos/imagenes/producto46765.jpg"
     },
     "sivga-oriole_": {
         "name": "Sivga Oriole",
@@ -482,6 +482,13 @@
         "url": "www.supersonido.es/p/samsung-the-serif-qe50ls01bb",
         "image": "www.supersonido.es/productos/imagenes/producto47099.jpg"
     },
+    "samsung-tq43ls03bg_": {
+        "name": "Samsung The Frame TQ43LS03BG",
+        "price": 749.0,
+        "price_old": 999.0,
+        "url": "www.supersonido.es/p/samsung-tq43ls03bg_",
+        "image": "www.supersonido.es/productos/imagenes/producto51978.jpg"
+    },
     "kef-lsx": {
         "name": "KEF LSX",
         "price": 775.0,
@@ -678,13 +685,6 @@
         "url": "www.supersonido.es/p/anthem-mrx-540_",
         "image": "www.supersonido.es/productos/imagenes/producto50754.jpg"
     },
-    "matrix-audio-element-p_": {
-        "name": "Matrix Audio Element P",
-        "price": 1390.0,
-        "price_old": 2799.0,
-        "url": "www.supersonido.es/p/matrix-audio-element-p_",
-        "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
-    },
     "matrix-audio-element-p__": {
         "name": "Matrix Audio Element P",
         "price": 1390.0,
@@ -692,12 +692,12 @@
         "url": "www.supersonido.es/p/matrix-audio-element-p__",
         "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
     },
-    "ferrum-erco": {
-        "name": "Ferrum ERCO",
-        "price": 1399.0,
-        "price_old": 1795.0,
-        "url": "www.supersonido.es/p/ferrum-erco",
-        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
+    "matrix-audio-element-p_": {
+        "name": "Matrix Audio Element P",
+        "price": 1390.0,
+        "price_old": 2799.0,
+        "url": "www.supersonido.es/p/matrix-audio-element-p_",
+        "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
     },
     "mrspeakers-ether-c-flow-1-1_": {
         "name": "Dan Clark Audio ETHER C Flow 1.1",
@@ -712,6 +712,13 @@
         "price_old": 2159.0,
         "url": "www.supersonido.es/p/mrspeakers-ether-flow-1-1_",
         "image": "www.supersonido.es/productos/imagenes/producto50776.jpg"
+    },
+    "ferrum-erco": {
+        "name": "Ferrum ERCO",
+        "price": 1399.0,
+        "price_old": 1795.0,
+        "url": "www.supersonido.es/p/ferrum-erco",
+        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
     },
     "samsung-the-frame-tq65ls03bg": {
         "name": "Samsung The Frame TQ65LS03BG",
