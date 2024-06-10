@@ -41,13 +41,6 @@
         "url": "www.supersonido.es/p/meze-audio-mini-xlr-ofc-standard-cables_",
         "image": "www.supersonido.es/productos/imagenes/producto50893.jpg"
     },
-    "wiim-pro_oc": {
-        "name": "Wiim Pro",
-        "price": 139.0,
-        "price_old": 179.0,
-        "url": "www.supersonido.es/p/wiim-pro_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto52005.jpg"
-    },
     "ifi-audio-hip-dac-2_": {
         "name": "IFI Audio Hip-dac 2",
         "price": 149.0,
@@ -139,19 +132,19 @@
         "url": "www.supersonido.es/p/technics-eah-az80_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49912.jpg"
     },
-    "hifiman-sundara_": {
-        "name": "HIFIMAN Sundara",
-        "price": 239.0,
-        "price_old": 349.0,
-        "url": "www.supersonido.es/p/hifiman-sundara_",
-        "image": "www.supersonido.es/productos/imagenes/producto44086.jpg"
-    },
     "sivga-luan_": {
         "name": "Sivga Luan",
         "price": 239.0,
         "price_old": 349.0,
         "url": "www.supersonido.es/p/sivga-luan_",
         "image": "www.supersonido.es/productos/imagenes/producto51916.jpg"
+    },
+    "hifiman-sundara_": {
+        "name": "HIFIMAN Sundara",
+        "price": 239.0,
+        "price_old": 349.0,
+        "url": "www.supersonido.es/p/hifiman-sundara_",
+        "image": "www.supersonido.es/productos/imagenes/producto44086.jpg"
     },
     "wharfedale-vista-200s_": {
         "name": "Wharfedale Vista 200S",
@@ -160,26 +153,19 @@
         "url": "www.supersonido.es/p/wharfedale-vista-200s_",
         "image": "www.supersonido.es/productos/imagenes/producto51501.jpg"
     },
-    "rega-planar-1_oco": {
-        "name": "Rega Planar 1",
-        "price": 249.0,
-        "price_old": 349.0,
-        "url": "www.supersonido.es/p/rega-planar-1_oco",
-        "image": "www.supersonido.es/productos/imagenes/producto51962.jpg"
-    },
-    "rega-planar-1_oc": {
-        "name": "Rega Planar 1",
-        "price": 249.0,
-        "price_old": 349.0,
-        "url": "www.supersonido.es/p/rega-planar-1_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto49888.jpg"
-    },
     "audiopro-d-1": {
         "name": "AudioPro Drumfire D-1",
         "price": 249.0,
         "price_old": 350.0,
         "url": "www.supersonido.es/p/audiopro-d-1",
         "image": "www.supersonido.es/productos/imagenes/producto43369.jpg"
+    },
+    "rega-planar-1_oco": {
+        "name": "Rega Planar 1",
+        "price": 249.0,
+        "price_old": 349.0,
+        "url": "www.supersonido.es/p/rega-planar-1_oco",
+        "image": "www.supersonido.es/productos/imagenes/producto51962.jpg"
     },
     "ifi-audio-go-bar__": {
         "name": "IFI Audio GO bar",
@@ -482,19 +468,19 @@
         "url": "www.supersonido.es/p/quad-vena-ii-play_oc",
         "image": "www.supersonido.es/productos/imagenes/producto51634.jpg"
     },
-    "samsung-the-serif-qe50ls01bb": {
-        "name": "Samsung The Serif QE50LS01BB",
-        "price": 749.0,
-        "price_old": 1199.0,
-        "url": "www.supersonido.es/p/samsung-the-serif-qe50ls01bb",
-        "image": "www.supersonido.es/productos/imagenes/producto47099.jpg"
-    },
     "pro-ject-stereo-box-rs": {
         "name": "Pro-Ject Stereo Box RS",
         "price": 749.0,
         "price_old": 999.0,
         "url": "www.supersonido.es/p/pro-ject-stereo-box-rs",
         "image": "www.supersonido.es/productos/imagenes/producto16721.jpg"
+    },
+    "samsung-the-serif-qe50ls01bb": {
+        "name": "Samsung The Serif QE50LS01BB",
+        "price": 749.0,
+        "price_old": 1199.0,
+        "url": "www.supersonido.es/p/samsung-the-serif-qe50ls01bb",
+        "image": "www.supersonido.es/productos/imagenes/producto47099.jpg"
     },
     "samsung-tq43ls03bg_": {
         "name": "Samsung The Frame TQ43LS03BG",
@@ -699,19 +685,19 @@
         "url": "www.supersonido.es/p/anthem-mrx-540_",
         "image": "www.supersonido.es/productos/imagenes/producto50754.jpg"
     },
-    "matrix-audio-element-p_": {
-        "name": "Matrix Audio Element P",
-        "price": 1390.0,
-        "price_old": 2799.0,
-        "url": "www.supersonido.es/p/matrix-audio-element-p_",
-        "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
-    },
     "matrix-audio-element-p__": {
         "name": "Matrix Audio Element P",
         "price": 1390.0,
         "price_old": 2799.0,
         "url": "www.supersonido.es/p/matrix-audio-element-p__",
         "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
+    },
+    "matrix-audio-element-p_": {
+        "name": "Matrix Audio Element P",
+        "price": 1390.0,
+        "price_old": 2799.0,
+        "url": "www.supersonido.es/p/matrix-audio-element-p_",
+        "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
     },
     "ferrum-erco": {
         "name": "Ferrum ERCO",
@@ -888,13 +874,6 @@
         "url": "www.supersonido.es/p/meze-audio-empyrean_",
         "image": "www.supersonido.es/productos/imagenes/producto50663.jpg"
     },
-    "sony-ht-a9-sasw5_": {
-        "name": "Sony HT-A9 + SASW5",
-        "price": 2099.0,
-        "price_old": 2600.0,
-        "url": "www.supersonido.es/p/sony-ht-a9-sasw5_",
-        "image": "www.supersonido.es/productos/imagenes/producto51071.jpg"
-    },
     "svs-ultra-tower_": {
         "name": "SVS Ultra Tower",
         "price": 2249.0,
@@ -986,19 +965,19 @@
         "url": "www.supersonido.es/p/primare-i35dac_",
         "image": "www.supersonido.es/productos/imagenes/producto50790.jpg"
     },
-    "samsung-lsp9t-the-premiere_": {
-        "name": "Samsung SP-LSP9T The Premiere",
-        "price": 2999.0,
-        "price_old": 6499.0,
-        "url": "www.supersonido.es/p/samsung-lsp9t-the-premiere_",
-        "image": "www.supersonido.es/productos/imagenes/producto51276.jpg"
-    },
     "samsung-qe75qn800b__oc": {
         "name": "Samsung QE75QN800B",
         "price": 2999.0,
         "price_old": 4999.0,
         "url": "www.supersonido.es/p/samsung-qe75qn800b__oc",
         "image": "www.supersonido.es/productos/imagenes/producto51399.jpg"
+    },
+    "samsung-lsp9t-the-premiere_": {
+        "name": "Samsung SP-LSP9T The Premiere",
+        "price": 2999.0,
+        "price_old": 6499.0,
+        "url": "www.supersonido.es/p/samsung-lsp9t-the-premiere_",
+        "image": "www.supersonido.es/productos/imagenes/producto51276.jpg"
     },
     "isotek-systems-sigmas_": {
         "name": "Isotek Systems Sigmas EVO 3",
