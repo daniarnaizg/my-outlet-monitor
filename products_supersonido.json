@@ -55,19 +55,19 @@
         "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
         "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
     },
-    "forza-audioworks-noir-hybrid-hpc": {
-        "name": "Forza Audioworks NOIR HYBRID HPC",
-        "price": 150.0,
-        "price_old": 304.0,
-        "url": "www.supersonido.es/p/forza-audioworks-noir-hybrid-hpc",
-        "image": "www.supersonido.es/productos/imagenes/producto51309.jpg"
-    },
     "the-chord-company-shawline-digital-1bnc-to-1bnc_": {
         "name": "The Chord Company Shawline Digital 1BNC to 1BNC",
         "price": 150.0,
         "price_old": 295.0,
         "url": "www.supersonido.es/p/the-chord-company-shawline-digital-1bnc-to-1bnc_",
         "image": "www.supersonido.es/productos/imagenes/producto51241.jpg"
+    },
+    "forza-audioworks-noir-hybrid-hpc": {
+        "name": "Forza Audioworks NOIR HYBRID HPC",
+        "price": 150.0,
+        "price_old": 304.0,
+        "url": "www.supersonido.es/p/forza-audioworks-noir-hybrid-hpc",
+        "image": "www.supersonido.es/productos/imagenes/producto51309.jpg"
     },
     "grado-sr225x_OC": {
         "name": "Grado SR225x",
@@ -139,13 +139,6 @@
         "url": "www.supersonido.es/p/sivga-luan_",
         "image": "www.supersonido.es/productos/imagenes/producto51916.jpg"
     },
-    "hifiman-sundara_": {
-        "name": "HIFIMAN Sundara",
-        "price": 239.0,
-        "price_old": 349.0,
-        "url": "www.supersonido.es/p/hifiman-sundara_",
-        "image": "www.supersonido.es/productos/imagenes/producto44086.jpg"
-    },
     "wharfedale-vista-200s_": {
         "name": "Wharfedale Vista 200S",
         "price": 239.0,
@@ -153,12 +146,12 @@
         "url": "www.supersonido.es/p/wharfedale-vista-200s_",
         "image": "www.supersonido.es/productos/imagenes/producto51501.jpg"
     },
-    "audiopro-d-1": {
-        "name": "AudioPro Drumfire D-1",
-        "price": 249.0,
-        "price_old": 350.0,
-        "url": "www.supersonido.es/p/audiopro-d-1",
-        "image": "www.supersonido.es/productos/imagenes/producto43369.jpg"
+    "hifiman-sundara_": {
+        "name": "HIFIMAN Sundara",
+        "price": 239.0,
+        "price_old": 349.0,
+        "url": "www.supersonido.es/p/hifiman-sundara_",
+        "image": "www.supersonido.es/productos/imagenes/producto44086.jpg"
     },
     "ifi-audio-go-bar__": {
         "name": "IFI Audio GO bar",
@@ -166,6 +159,13 @@
         "price_old": 329.0,
         "url": "www.supersonido.es/p/ifi-audio-go-bar__",
         "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
+    },
+    "audiopro-d-1": {
+        "name": "AudioPro Drumfire D-1",
+        "price": 249.0,
+        "price_old": 350.0,
+        "url": "www.supersonido.es/p/audiopro-d-1",
+        "image": "www.supersonido.es/productos/imagenes/producto43369.jpg"
     },
     "the-chord-company-silent-mount-sm7_": {
         "name": "The Chord Company Silent Mount SM7",
@@ -384,19 +384,19 @@
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
         "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
     },
-    "shanling-m6-pro-21_": {
-        "name": "Shanling M6 PRO (21)",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
-    },
     "svs-sb-1000-pro_oca": {
         "name": "SVS SB-1000 Pro",
         "price": 599.0,
         "price_old": 749.0,
         "url": "www.supersonido.es/p/svs-sb-1000-pro_oca",
         "image": "www.supersonido.es/productos/imagenes/producto50733.jpg"
+    },
+    "shanling-m6-pro-21_": {
+        "name": "Shanling M6 PRO (21)",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
     "monitor-audio-bronze-200_": {
         "name": "Monitor Audio Bronze 200",
@@ -412,19 +412,19 @@
         "url": "www.supersonido.es/p/martin-logan-bravado",
         "image": "www.supersonido.es/productos/imagenes/producto44417.jpg"
     },
-    "svs-prime-wireless-pro-soundbase__": {
-        "name": "SVS Prime Wireless Pro SoundBase",
-        "price": 649.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/svs-prime-wireless-pro-soundbase__",
-        "image": "www.supersonido.es/productos/imagenes/producto51825.jpg"
-    },
     "campfire-audio-vega-2020_": {
         "name": "Campfire Audio Vega 2020",
         "price": 649.0,
         "price_old": 949.0,
         "url": "www.supersonido.es/p/campfire-audio-vega-2020_",
         "image": "www.supersonido.es/productos/imagenes/producto51156.jpg"
+    },
+    "svs-prime-wireless-pro-soundbase__": {
+        "name": "SVS Prime Wireless Pro SoundBase",
+        "price": 649.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/svs-prime-wireless-pro-soundbase__",
+        "image": "www.supersonido.es/productos/imagenes/producto51825.jpg"
     },
     "leak-stereo-130_": {
         "name": "Leak Stereo 130",
@@ -586,13 +586,6 @@
         "price_old": 1299.0,
         "url": "www.supersonido.es/p/hifiman-jade-ii-system",
         "image": "www.supersonido.es/productos/imagenes/producto44117.jpg"
-    },
-    "monitor-audio-silver-100-7g-limited-edition_": {
-        "name": "Monitor Audio Silver 100 7G Limited Edition",
-        "price": 975.0,
-        "price_old": 1300.0,
-        "url": "www.supersonido.es/p/monitor-audio-silver-100-7g-limited-edition_",
-        "image": "www.supersonido.es/productos/imagenes/producto51235.jpg"
     },
     "audeze-lcdxc_ocasion_": {
         "name": "Audeze LCD-XC",
@@ -832,19 +825,19 @@
         "url": "www.supersonido.es/p/stax-srm-007tii",
         "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
     },
-    "astell-kern-acro-ca1000___": {
-        "name": "Astell&kern ACRO CA1000",
-        "price": 1899.0,
-        "price_old": 2399.0,
-        "url": "www.supersonido.es/p/astell-kern-acro-ca1000___",
-        "image": "www.supersonido.es/productos/imagenes/producto46481.jpg"
-    },
     "anthem-mca-225-gen-2_": {
         "name": "Anthem MCA 225 GEN 2",
         "price": 1899.0,
         "price_old": 2599.0,
         "url": "www.supersonido.es/p/anthem-mca-225-gen-2_",
         "image": "www.supersonido.es/productos/imagenes/producto50079.jpg"
+    },
+    "astell-kern-acro-ca1000___": {
+        "name": "Astell&kern ACRO CA1000",
+        "price": 1899.0,
+        "price_old": 2399.0,
+        "url": "www.supersonido.es/p/astell-kern-acro-ca1000___",
+        "image": "www.supersonido.es/productos/imagenes/producto46481.jpg"
     },
     "martin-logan-em-esl-c_": {
         "name": "Martin-Logan EM-ESL C",
