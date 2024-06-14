@@ -244,19 +244,19 @@
         "url": "www.supersonido.es/p/monitor-audio-bronze-100_",
         "image": "www.supersonido.es/productos/imagenes/producto46933.jpg"
     },
-    "stax-srm-252s": {
-        "name": "Stax SRM-252S",
-        "price": 399.0,
-        "price_old": 580.0,
-        "url": "www.supersonido.es/p/stax-srm-252s",
-        "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
-    },
     "bluesound-pulse-mini-2i_": {
         "name": "Bluesound PULSE MINI 2i",
         "price": 399.0,
         "price_old": 649.0,
         "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
         "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
+    },
+    "stax-srm-252s": {
+        "name": "Stax SRM-252S",
+        "price": 399.0,
+        "price_old": 580.0,
+        "url": "www.supersonido.es/p/stax-srm-252s",
+        "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
     },
     "monitor-audio-bronze-100_oc": {
         "name": "Monitor Audio Bronze 100",
@@ -608,6 +608,13 @@
         "url": "www.supersonido.es/p/svs-ultra-surround_",
         "image": "www.supersonido.es/productos/imagenes/producto51280.jpg"
     },
+    "sony-kd65x85l_oc": {
+        "name": "Sony KD65X85L",
+        "price": 1099.0,
+        "price_old": 1999.0,
+        "url": "www.supersonido.es/p/sony-kd65x85l_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto52092.jpg"
+    },
     "rega-elex-mk4_": {
         "name": "Rega ELEX MK4",
         "price": 1100.0,
@@ -853,6 +860,13 @@
         "url": "www.supersonido.es/p/benq-w5700",
         "image": "www.supersonido.es/productos/imagenes/producto29966.jpg"
     },
+    "sony-xr-65a90j_": {
+        "name": "Sony XR65A90J",
+        "price": 1999.0,
+        "price_old": 3599.0,
+        "url": "www.supersonido.es/p/sony-xr-65a90j_",
+        "image": "www.supersonido.es/productos/imagenes/producto50017.jpg"
+    },
     "meze-audio-empyrean_": {
         "name": "Meze Audio Empyrean",
         "price": 1999.0,
@@ -951,19 +965,19 @@
         "url": "www.supersonido.es/p/primare-i35dac_",
         "image": "www.supersonido.es/productos/imagenes/producto50790.jpg"
     },
-    "samsung-qe75qn800b__oc": {
-        "name": "Samsung QE75QN800B",
-        "price": 2999.0,
-        "price_old": 4999.0,
-        "url": "www.supersonido.es/p/samsung-qe75qn800b__oc",
-        "image": "www.supersonido.es/productos/imagenes/producto51399.jpg"
-    },
     "samsung-lsp9t-the-premiere_": {
         "name": "Samsung SP-LSP9T The Premiere",
         "price": 2999.0,
         "price_old": 6499.0,
         "url": "www.supersonido.es/p/samsung-lsp9t-the-premiere_",
         "image": "www.supersonido.es/productos/imagenes/producto51276.jpg"
+    },
+    "samsung-qe75qn800b__oc": {
+        "name": "Samsung QE75QN800B",
+        "price": 2999.0,
+        "price_old": 4999.0,
+        "url": "www.supersonido.es/p/samsung-qe75qn800b__oc",
+        "image": "www.supersonido.es/productos/imagenes/producto51399.jpg"
     },
     "isotek-systems-sigmas_": {
         "name": "Isotek Systems Sigmas EVO 3",
