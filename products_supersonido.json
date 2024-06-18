@@ -55,19 +55,19 @@
         "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
         "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
     },
-    "forza-audioworks-noir-hybrid-hpc": {
-        "name": "Forza Audioworks NOIR HYBRID HPC",
-        "price": 150.0,
-        "price_old": 304.0,
-        "url": "www.supersonido.es/p/forza-audioworks-noir-hybrid-hpc",
-        "image": "www.supersonido.es/productos/imagenes/producto51309.jpg"
-    },
     "the-chord-company-shawline-digital-1bnc-to-1bnc_": {
         "name": "The Chord Company Shawline Digital 1BNC to 1BNC",
         "price": 150.0,
         "price_old": 295.0,
         "url": "www.supersonido.es/p/the-chord-company-shawline-digital-1bnc-to-1bnc_",
         "image": "www.supersonido.es/productos/imagenes/producto51241.jpg"
+    },
+    "forza-audioworks-noir-hybrid-hpc": {
+        "name": "Forza Audioworks NOIR HYBRID HPC",
+        "price": 150.0,
+        "price_old": 304.0,
+        "url": "www.supersonido.es/p/forza-audioworks-noir-hybrid-hpc",
+        "image": "www.supersonido.es/productos/imagenes/producto51309.jpg"
     },
     "grado-sr225x_OC": {
         "name": "Grado SR225x",
@@ -244,19 +244,19 @@
         "url": "www.supersonido.es/p/monitor-audio-bronze-100_",
         "image": "www.supersonido.es/productos/imagenes/producto46933.jpg"
     },
-    "stax-srm-252s": {
-        "name": "Stax SRM-252S",
-        "price": 399.0,
-        "price_old": 580.0,
-        "url": "www.supersonido.es/p/stax-srm-252s",
-        "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
-    },
     "bluesound-pulse-mini-2i_": {
         "name": "Bluesound PULSE MINI 2i",
         "price": 399.0,
         "price_old": 649.0,
         "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
         "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
+    },
+    "stax-srm-252s": {
+        "name": "Stax SRM-252S",
+        "price": 399.0,
+        "price_old": 580.0,
+        "url": "www.supersonido.es/p/stax-srm-252s",
+        "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
     },
     "monitor-audio-bronze-100_oc": {
         "name": "Monitor Audio Bronze 100",
@@ -552,19 +552,19 @@
         "url": "www.supersonido.es/p/innuos-pulsemini_oca",
         "image": "www.supersonido.es/productos/imagenes/producto51385.jpg"
     },
-    "sony-ht-a7000_": {
-        "name": "Sony HT-A7000",
-        "price": 899.0,
-        "price_old": 1399.0,
-        "url": "www.supersonido.es/p/sony-ht-a7000_",
-        "image": "www.supersonido.es/productos/imagenes/producto48719.jpg"
-    },
     "q-acoustics-5040_oc_": {
         "name": "Q-Acoustics 5040",
         "price": 899.0,
         "price_old": 1290.0,
         "url": "www.supersonido.es/p/q-acoustics-5040_oc_",
         "image": "www.supersonido.es/productos/imagenes/producto51226.jpg"
+    },
+    "sony-ht-a7000_": {
+        "name": "Sony HT-A7000",
+        "price": 899.0,
+        "price_old": 1399.0,
+        "url": "www.supersonido.es/p/sony-ht-a7000_",
+        "image": "www.supersonido.es/productos/imagenes/producto48719.jpg"
     },
     "hifiman-jade-ii-system": {
         "name": "HIFIMAN Jade II System",
@@ -678,6 +678,13 @@
         "url": "www.supersonido.es/p/anthem-mrx-540_",
         "image": "www.supersonido.es/productos/imagenes/producto50754.jpg"
     },
+    "matrix-audio-element-p_": {
+        "name": "Matrix Audio Element P",
+        "price": 1390.0,
+        "price_old": 2799.0,
+        "url": "www.supersonido.es/p/matrix-audio-element-p_",
+        "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
+    },
     "matrix-audio-element-p__": {
         "name": "Matrix Audio Element P",
         "price": 1390.0,
@@ -685,12 +692,12 @@
         "url": "www.supersonido.es/p/matrix-audio-element-p__",
         "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
     },
-    "matrix-audio-element-p_": {
-        "name": "Matrix Audio Element P",
-        "price": 1390.0,
-        "price_old": 2799.0,
-        "url": "www.supersonido.es/p/matrix-audio-element-p_",
-        "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
+    "ferrum-erco": {
+        "name": "Ferrum ERCO",
+        "price": 1399.0,
+        "price_old": 1795.0,
+        "url": "www.supersonido.es/p/ferrum-erco",
+        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
     },
     "mrspeakers-ether-c-flow-1-1_": {
         "name": "Dan Clark Audio ETHER C Flow 1.1",
@@ -705,13 +712,6 @@
         "price_old": 2159.0,
         "url": "www.supersonido.es/p/mrspeakers-ether-flow-1-1_",
         "image": "www.supersonido.es/productos/imagenes/producto50776.jpg"
-    },
-    "ferrum-erco": {
-        "name": "Ferrum ERCO",
-        "price": 1399.0,
-        "price_old": 1795.0,
-        "url": "www.supersonido.es/p/ferrum-erco",
-        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
     },
     "samsung-the-frame-tq65ls03bg": {
         "name": "Samsung The Frame TQ65LS03BG",
@@ -1147,13 +1147,6 @@
         "url": "www.supersonido.es/p/dynaudio-focus-50_",
         "image": "www.supersonido.es/productos/imagenes/producto50092.jpg"
     },
-    "esoteric-f05_": {
-        "name": "Esoteric F-05",
-        "price": 7990.0,
-        "price_old": 12990.0,
-        "url": "www.supersonido.es/p/esoteric-f05_",
-        "image": "www.supersonido.es/productos/imagenes/producto50170.jpg"
-    },
     "monitor-audio-platinum-200-3g_": {
         "name": "Monitor Audio Platinum 200 3G",
         "price": 7999.0,
@@ -1182,26 +1175,12 @@
         "url": "www.supersonido.es/p/audio-research-ref-dac-dlna",
         "image": "www.supersonido.es/productos/imagenes/producto12183.jpg"
     },
-    "esoteric-n-05xd_": {
-        "name": "Esoteric N-05XD",
-        "price": 9499.0,
-        "price_old": 13490.0,
-        "url": "www.supersonido.es/p/esoteric-n-05xd_",
-        "image": "www.supersonido.es/productos/imagenes/producto50171.jpg"
-    },
     "innuos-statement_": {
         "name": "Innuos STATEMENT",
         "price": 9940.0,
         "price_old": 14200.0,
         "url": "www.supersonido.es/p/innuos-statement_",
         "image": "www.supersonido.es/productos/imagenes/producto50152.jpg"
-    },
-    "esoteric-f03a_": {
-        "name": "Esoteric F-03A",
-        "price": 11499.0,
-        "price_old": 16990.0,
-        "url": "www.supersonido.es/p/esoteric-f03a_",
-        "image": "www.supersonido.es/productos/imagenes/producto50169.jpg"
     },
     "naim-solstice-special-edition": {
         "name": "Naim Solstice Special Edition",
