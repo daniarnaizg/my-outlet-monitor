@@ -62,12 +62,12 @@
         "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
         "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
     },
-    "forza-audioworks-noir-hybrid-hpc": {
-        "name": "Forza Audioworks NOIR HYBRID HPC",
-        "price": 150.0,
-        "price_old": 304.0,
-        "url": "www.supersonido.es/p/forza-audioworks-noir-hybrid-hpc",
-        "image": "www.supersonido.es/productos/imagenes/producto51309.jpg"
+    "q-acoustics-q3000fsi_": {
+        "name": "Q-Acoustics Q3000FSi",
+        "price": 149.0,
+        "price_old": 219.0,
+        "url": "www.supersonido.es/p/q-acoustics-q3000fsi_",
+        "image": "www.supersonido.es/productos/imagenes/producto46987.jpg"
     },
     "the-chord-company-shawline-digital-1bnc-to-1bnc_": {
         "name": "The Chord Company Shawline Digital 1BNC to 1BNC",
@@ -75,6 +75,13 @@
         "price_old": 295.0,
         "url": "www.supersonido.es/p/the-chord-company-shawline-digital-1bnc-to-1bnc_",
         "image": "www.supersonido.es/productos/imagenes/producto51241.jpg"
+    },
+    "forza-audioworks-noir-hybrid-hpc": {
+        "name": "Forza Audioworks NOIR HYBRID HPC",
+        "price": 150.0,
+        "price_old": 304.0,
+        "url": "www.supersonido.es/p/forza-audioworks-noir-hybrid-hpc",
+        "image": "www.supersonido.es/productos/imagenes/producto51309.jpg"
     },
     "grado-sr225x_OC": {
         "name": "Grado SR225x",
@@ -139,19 +146,19 @@
         "url": "www.supersonido.es/p/technics-eah-az80_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49912.jpg"
     },
-    "hifiman-sundara_": {
-        "name": "HIFIMAN Sundara",
-        "price": 239.0,
-        "price_old": 349.0,
-        "url": "www.supersonido.es/p/hifiman-sundara_",
-        "image": "www.supersonido.es/productos/imagenes/producto44086.jpg"
-    },
     "sivga-luan_": {
         "name": "Sivga Luan",
         "price": 239.0,
         "price_old": 349.0,
         "url": "www.supersonido.es/p/sivga-luan_",
         "image": "www.supersonido.es/productos/imagenes/producto51916.jpg"
+    },
+    "hifiman-sundara_": {
+        "name": "HIFIMAN Sundara",
+        "price": 239.0,
+        "price_old": 349.0,
+        "url": "www.supersonido.es/p/hifiman-sundara_",
+        "image": "www.supersonido.es/productos/imagenes/producto44086.jpg"
     },
     "wharfedale-vista-200s_": {
         "name": "Wharfedale Vista 200S",
@@ -587,13 +594,6 @@
         "url": "www.supersonido.es/p/innuos-pulsemini_oca",
         "image": "www.supersonido.es/productos/imagenes/producto51385.jpg"
     },
-    "q-acoustics-5040_oc_": {
-        "name": "Q-Acoustics 5040",
-        "price": 899.0,
-        "price_old": 1290.0,
-        "url": "www.supersonido.es/p/q-acoustics-5040_oc_",
-        "image": "www.supersonido.es/productos/imagenes/producto51226.jpg"
-    },
     "sony-ht-a7000_": {
         "name": "Sony HT-A7000",
         "price": 899.0,
@@ -601,26 +601,19 @@
         "url": "www.supersonido.es/p/sony-ht-a7000_",
         "image": "www.supersonido.es/productos/imagenes/producto48719.jpg"
     },
+    "q-acoustics-5040_oc_": {
+        "name": "Q-Acoustics 5040",
+        "price": 899.0,
+        "price_old": 1290.0,
+        "url": "www.supersonido.es/p/q-acoustics-5040_oc_",
+        "image": "www.supersonido.es/productos/imagenes/producto51226.jpg"
+    },
     "hifiman-jade-ii-system": {
         "name": "HIFIMAN Jade II System",
         "price": 949.0,
         "price_old": 1299.0,
         "url": "www.supersonido.es/p/hifiman-jade-ii-system",
         "image": "www.supersonido.es/productos/imagenes/producto44117.jpg"
-    },
-    "kef-lsx-ii_": {
-        "name": "KEF LSX II",
-        "price": 999.0,
-        "price_old": 1399.0,
-        "url": "www.supersonido.es/p/kef-lsx-ii_",
-        "image": "www.supersonido.es/productos/imagenes/producto51730.jpg"
-    },
-    "kef-lsx-ii__": {
-        "name": "KEF LSX II",
-        "price": 999.0,
-        "price_old": 1399.0,
-        "url": "www.supersonido.es/p/kef-lsx-ii__",
-        "image": "www.supersonido.es/productos/imagenes/producto52107.jpg"
     },
     "audeze-lcdxc_ocasion_": {
         "name": "Audeze LCD-XC",
@@ -635,6 +628,20 @@
         "price_old": 1399.0,
         "url": "www.supersonido.es/p/cayin-n6ii_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+    },
+    "kef-lsx-ii__": {
+        "name": "KEF LSX II",
+        "price": 999.0,
+        "price_old": 1399.0,
+        "url": "www.supersonido.es/p/kef-lsx-ii__",
+        "image": "www.supersonido.es/productos/imagenes/producto52107.jpg"
+    },
+    "kef-lsx-ii_": {
+        "name": "KEF LSX II",
+        "price": 999.0,
+        "price_old": 1399.0,
+        "url": "www.supersonido.es/p/kef-lsx-ii_",
+        "image": "www.supersonido.es/productos/imagenes/producto51730.jpg"
     },
     "audiolab-7000a_": {
         "name": "Audiolab 7000A",
@@ -727,6 +734,13 @@
         "url": "www.supersonido.es/p/anthem-mrx-540_",
         "image": "www.supersonido.es/productos/imagenes/producto50754.jpg"
     },
+    "matrix-audio-element-p_": {
+        "name": "Matrix Audio Element P",
+        "price": 1390.0,
+        "price_old": 2799.0,
+        "url": "www.supersonido.es/p/matrix-audio-element-p_",
+        "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
+    },
     "matrix-audio-element-p__": {
         "name": "Matrix Audio Element P",
         "price": 1390.0,
@@ -734,12 +748,12 @@
         "url": "www.supersonido.es/p/matrix-audio-element-p__",
         "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
     },
-    "matrix-audio-element-p_": {
-        "name": "Matrix Audio Element P",
-        "price": 1390.0,
-        "price_old": 2799.0,
-        "url": "www.supersonido.es/p/matrix-audio-element-p_",
-        "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
+    "ferrum-erco": {
+        "name": "Ferrum ERCO",
+        "price": 1399.0,
+        "price_old": 1795.0,
+        "url": "www.supersonido.es/p/ferrum-erco",
+        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
     },
     "mrspeakers-ether-c-flow-1-1_": {
         "name": "Dan Clark Audio ETHER C Flow 1.1",
@@ -754,13 +768,6 @@
         "price_old": 2159.0,
         "url": "www.supersonido.es/p/mrspeakers-ether-flow-1-1_",
         "image": "www.supersonido.es/productos/imagenes/producto50776.jpg"
-    },
-    "ferrum-erco": {
-        "name": "Ferrum ERCO",
-        "price": 1399.0,
-        "price_old": 1795.0,
-        "url": "www.supersonido.es/p/ferrum-erco",
-        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
     },
     "samsung-the-frame-tq65ls03bg": {
         "name": "Samsung The Frame TQ65LS03BG",
