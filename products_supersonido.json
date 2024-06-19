@@ -258,19 +258,19 @@
         "url": "www.supersonido.es/p/sony-str-dh590_",
         "image": "www.supersonido.es/productos/imagenes/producto48019.jpg"
     },
-    "ruark-audio-mrx": {
-        "name": "Ruark Audio MRx",
-        "price": 349.0,
-        "price_old": 499.0,
-        "url": "www.supersonido.es/p/ruark-audio-mrx",
-        "image": "www.supersonido.es/productos/imagenes/producto32028.jpg"
-    },
     "rega-planar-1-plus-walnut_": {
         "name": "Rega Planar 1 PLUS Walnut",
         "price": 349.0,
         "price_old": 449.0,
         "url": "www.supersonido.es/p/rega-planar-1-plus-walnut_",
         "image": "www.supersonido.es/productos/imagenes/producto51817.jpg"
+    },
+    "ruark-audio-mrx": {
+        "name": "Ruark Audio MRx",
+        "price": 349.0,
+        "price_old": 499.0,
+        "url": "www.supersonido.es/p/ruark-audio-mrx",
+        "image": "www.supersonido.es/productos/imagenes/producto32028.jpg"
     },
     "monitor-audio-cpwt380_": {
         "name": "Monitor Audio CP-WT380",
@@ -391,13 +391,6 @@
         "url": "www.supersonido.es/p/project-maia-ds",
         "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
-    "ruark-audio-r3s_": {
-        "name": "Ruark Audio R3S",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/ruark-audio-r3s_",
-        "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
-    },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
         "price": 599.0,
@@ -426,6 +419,13 @@
         "url": "www.supersonido.es/p/shanling-m6-pro-21_",
         "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
+    "ruark-audio-r3s_": {
+        "name": "Ruark Audio R3S",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/ruark-audio-r3s_",
+        "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
+    },
     "monitor-audio-bronze-200_": {
         "name": "Monitor Audio Bronze 200",
         "price": 629.0,
@@ -439,13 +439,6 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/martin-logan-bravado",
         "image": "www.supersonido.es/productos/imagenes/producto44417.jpg"
-    },
-    "cambridge-audio-cxn- v2_": {
-        "name": "Cambridge Audio CXN (V2)",
-        "price": 649.0,
-        "price_old": 999.0,
-        "url": "www.supersonido.es/p/cambridge-audio-cxn- v2_",
-        "image": "www.supersonido.es/productos/imagenes/producto46099.jpg"
     },
     "campfire-audio-vega-2020_": {
         "name": "Campfire Audio Vega 2020",
@@ -482,13 +475,6 @@
         "url": "www.supersonido.es/p/mrspeakers-aeon-open__",
         "image": "www.supersonido.es/productos/imagenes/producto48073.jpg"
     },
-    "quad-vena-ii-play_oc": {
-        "name": "Quad Vena II Play",
-        "price": 699.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/quad-vena-ii-play_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto51634.jpg"
-    },
     "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra": {
         "name": "Pro-Ject Pre-Box S2 Digital DAC +  Stream Box S2 Ultra",
         "price": 699.0,
@@ -509,6 +495,13 @@
         "price_old": 950.0,
         "url": "www.supersonido.es/p/dynaudio-emit-20_",
         "image": "www.supersonido.es/productos/imagenes/producto50564.jpg"
+    },
+    "quad-vena-ii-play_oc": {
+        "name": "Quad Vena II Play",
+        "price": 699.0,
+        "price_old": 949.0,
+        "url": "www.supersonido.es/p/quad-vena-ii-play_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto51634.jpg"
     },
     "samsung-the-serif-qe50ls01bb": {
         "name": "Samsung The Serif QE50LS01BB",
@@ -824,6 +817,13 @@
         "price_old": 3499.0,
         "url": "www.supersonido.es/p/sony-xr65x95k_",
         "image": "www.supersonido.es/productos/imagenes/producto49227.jpg"
+    },
+    "astell-kern-se300_": {
+        "name": "Astell&kern SE300",
+        "price": 1699.0,
+        "price_old": 2199.0,
+        "url": "www.supersonido.es/p/astell-kern-se300_",
+        "image": "www.supersonido.es/productos/imagenes/producto52119.jpg"
     },
     "kef-ls-50-wireless-ii_": {
         "name": "KEF LS-50 Wireless II",
