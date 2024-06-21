@@ -440,19 +440,19 @@
         "url": "www.supersonido.es/p/leak-stereo-130_",
         "image": "www.supersonido.es/productos/imagenes/producto47771.jpg"
     },
-    "matrix-audio-element-i_": {
-        "name": "Matrix Audio Element i",
-        "price": 699.0,
-        "price_old": 939.0,
-        "url": "www.supersonido.es/p/matrix-audio-element-i_",
-        "image": "www.supersonido.es/productos/imagenes/producto42751.jpg"
-    },
     "mrspeakers-aeon-open__": {
         "name": "Dan Clark Audio AEON Open",
         "price": 699.0,
         "price_old": 1099.0,
         "url": "www.supersonido.es/p/mrspeakers-aeon-open__",
         "image": "www.supersonido.es/productos/imagenes/producto48073.jpg"
+    },
+    "matrix-audio-element-i_": {
+        "name": "Matrix Audio Element i",
+        "price": 699.0,
+        "price_old": 939.0,
+        "url": "www.supersonido.es/p/matrix-audio-element-i_",
+        "image": "www.supersonido.es/productos/imagenes/producto42751.jpg"
     },
     "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra": {
         "name": "Pro-Ject Pre-Box S2 Digital DAC +  Stream Box S2 Ultra",
@@ -482,19 +482,19 @@
         "url": "www.supersonido.es/p/quad-vena-ii-play_oc",
         "image": "www.supersonido.es/productos/imagenes/producto51634.jpg"
     },
-    "samsung-the-serif-qe50ls01bb": {
-        "name": "Samsung The Serif QE50LS01BB",
-        "price": 749.0,
-        "price_old": 1199.0,
-        "url": "www.supersonido.es/p/samsung-the-serif-qe50ls01bb",
-        "image": "www.supersonido.es/productos/imagenes/producto47099.jpg"
-    },
     "pro-ject-stereo-box-rs": {
         "name": "Pro-Ject Stereo Box RS",
         "price": 749.0,
         "price_old": 999.0,
         "url": "www.supersonido.es/p/pro-ject-stereo-box-rs",
         "image": "www.supersonido.es/productos/imagenes/producto16721.jpg"
+    },
+    "samsung-the-serif-qe50ls01bb": {
+        "name": "Samsung The Serif QE50LS01BB",
+        "price": 749.0,
+        "price_old": 1199.0,
+        "url": "www.supersonido.es/p/samsung-the-serif-qe50ls01bb",
+        "image": "www.supersonido.es/productos/imagenes/producto47099.jpg"
     },
     "samsung-tq43ls03bg_": {
         "name": "Samsung The Frame TQ43LS03BG",
@@ -797,6 +797,13 @@
         "url": "www.supersonido.es/p/kef-ls-50-wireless-ii_",
         "image": "www.supersonido.es/productos/imagenes/producto51729.jpg"
     },
+    "dynaudio-xeo-30": {
+        "name": "Dynaudio Xeo 30",
+        "price": 1799.0,
+        "price_old": 3599.0,
+        "url": "www.supersonido.es/p/dynaudio-xeo-30",
+        "image": "www.supersonido.es/productos/imagenes/producto27009.jpg"
+    },
     "rotel-dt-6000_": {
         "name": "Rotel DT-6000",
         "price": 1799.0,
@@ -810,13 +817,6 @@
         "price_old": 2699.0,
         "url": "www.supersonido.es/p/rotel-s14_oc",
         "image": "www.supersonido.es/productos/imagenes/producto50108.jpg"
-    },
-    "dynaudio-xeo-30": {
-        "name": "Dynaudio Xeo 30",
-        "price": 1799.0,
-        "price_old": 3599.0,
-        "url": "www.supersonido.es/p/dynaudio-xeo-30",
-        "image": "www.supersonido.es/productos/imagenes/producto27009.jpg"
     },
     "mofi-electronics-ultradeck_": {
         "name": "Mofi Electronics UltraDeck",
@@ -1125,6 +1125,13 @@
         "price_old": 6999.0,
         "url": "www.supersonido.es/p/mcintosh-mt2_",
         "image": "www.supersonido.es/productos/imagenes/producto51490.jpg"
+    },
+    "sony-xr77a95l": {
+        "name": "Sony XR77A95L",
+        "price": 5499.0,
+        "price_old": 6499.0,
+        "url": "www.supersonido.es/p/sony-xr77a95l",
+        "image": "www.supersonido.es/productos/imagenes/producto49826.jpg"
     },
     "primaluna-evo-300-hybrid_": {
         "name": "Primaluna EVO 300 Hybrid",
