@@ -62,19 +62,19 @@
         "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
         "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
     },
-    "audio-technica-at-lp60x___": {
-        "name": "Audio-Technica AT-LP60X",
-        "price": 149.0,
-        "price_old": 149.0,
-        "url": "www.supersonido.es/p/audio-technica-at-lp60x___",
-        "image": "www.supersonido.es/productos/imagenes/producto51102.jpg"
-    },
     "q-acoustics-q3000fsi_": {
         "name": "Q-Acoustics Q3000FSi",
         "price": 149.0,
         "price_old": 219.0,
         "url": "www.supersonido.es/p/q-acoustics-q3000fsi_",
         "image": "www.supersonido.es/productos/imagenes/producto46987.jpg"
+    },
+    "audio-technica-at-lp60x___": {
+        "name": "Audio-Technica AT-LP60X",
+        "price": 149.0,
+        "price_old": 149.0,
+        "url": "www.supersonido.es/p/audio-technica-at-lp60x___",
+        "image": "www.supersonido.es/productos/imagenes/producto51102.jpg"
     },
     "the-chord-company-shawline-digital-1bnc-to-1bnc_": {
         "name": "The Chord Company Shawline Digital 1BNC to 1BNC",
@@ -167,19 +167,19 @@
         "url": "www.supersonido.es/p/technics-eah-az80_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49912.jpg"
     },
-    "sivga-luan_": {
-        "name": "Sivga Luan",
-        "price": 239.0,
-        "price_old": 349.0,
-        "url": "www.supersonido.es/p/sivga-luan_",
-        "image": "www.supersonido.es/productos/imagenes/producto51916.jpg"
-    },
     "hifiman-sundara_": {
         "name": "HIFIMAN Sundara",
         "price": 239.0,
         "price_old": 349.0,
         "url": "www.supersonido.es/p/hifiman-sundara_",
         "image": "www.supersonido.es/productos/imagenes/producto44086.jpg"
+    },
+    "sivga-luan_": {
+        "name": "Sivga Luan",
+        "price": 239.0,
+        "price_old": 349.0,
+        "url": "www.supersonido.es/p/sivga-luan_",
+        "image": "www.supersonido.es/productos/imagenes/producto51916.jpg"
     },
     "wharfedale-vista-200s_": {
         "name": "Wharfedale Vista 200S",
@@ -601,12 +601,12 @@
         "url": "www.supersonido.es/p/hifiman-jade-ii-system",
         "image": "www.supersonido.es/productos/imagenes/producto44117.jpg"
     },
-    "cayin-n6ii_": {
-        "name": "Cayin N6ii",
+    "audeze-lcdxc_ocasion_": {
+        "name": "Audeze LCD-XC",
         "price": 999.0,
-        "price_old": 1399.0,
-        "url": "www.supersonido.es/p/cayin-n6ii_",
-        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/audeze-lcdxc_ocasion_",
+        "image": "www.supersonido.es/productos/imagenes/producto41901.jpg"
     },
     "kef-lsx-ii__": {
         "name": "KEF LSX II",
@@ -615,19 +615,12 @@
         "url": "www.supersonido.es/p/kef-lsx-ii__",
         "image": "www.supersonido.es/productos/imagenes/producto52107.jpg"
     },
-    "audeze-lcdxc_ocasion_": {
-        "name": "Audeze LCD-XC",
+    "cayin-n6ii_": {
+        "name": "Cayin N6ii",
         "price": 999.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/audeze-lcdxc_ocasion_",
-        "image": "www.supersonido.es/productos/imagenes/producto41901.jpg"
-    },
-    "svs-ultra-surround_": {
-        "name": "SVS Ultra Surround",
-        "price": 1049.0,
-        "price_old": 1449.0,
-        "url": "www.supersonido.es/p/svs-ultra-surround_",
-        "image": "www.supersonido.es/productos/imagenes/producto51280.jpg"
+        "price_old": 1399.0,
+        "url": "www.supersonido.es/p/cayin-n6ii_",
+        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
     },
     "audiolab-7000a_": {
         "name": "Audiolab 7000A",
@@ -635,6 +628,13 @@
         "price_old": 1299.0,
         "url": "www.supersonido.es/p/audiolab-7000a_",
         "image": "www.supersonido.es/productos/imagenes/producto51488.jpg"
+    },
+    "svs-ultra-surround_": {
+        "name": "SVS Ultra Surround",
+        "price": 1049.0,
+        "price_old": 1449.0,
+        "url": "www.supersonido.es/p/svs-ultra-surround_",
+        "image": "www.supersonido.es/productos/imagenes/producto51280.jpg"
     },
     "sony-kd65x85l_oc": {
         "name": "Sony KD65X85L",
@@ -853,19 +853,19 @@
         "url": "www.supersonido.es/p/stax-srm-007tii",
         "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
     },
-    "anthem-mca-225-gen-2_": {
-        "name": "Anthem MCA 225 GEN 2",
-        "price": 1899.0,
-        "price_old": 2599.0,
-        "url": "www.supersonido.es/p/anthem-mca-225-gen-2_",
-        "image": "www.supersonido.es/productos/imagenes/producto50079.jpg"
-    },
     "astell-kern-acro-ca1000___": {
         "name": "Astell&kern ACRO CA1000",
         "price": 1899.0,
         "price_old": 2399.0,
         "url": "www.supersonido.es/p/astell-kern-acro-ca1000___",
         "image": "www.supersonido.es/productos/imagenes/producto46481.jpg"
+    },
+    "anthem-mca-225-gen-2_": {
+        "name": "Anthem MCA 225 GEN 2",
+        "price": 1899.0,
+        "price_old": 2599.0,
+        "url": "www.supersonido.es/p/anthem-mca-225-gen-2_",
+        "image": "www.supersonido.es/productos/imagenes/producto50079.jpg"
     },
     "martin-logan-em-esl-c_": {
         "name": "Martin-Logan EM-ESL C",
