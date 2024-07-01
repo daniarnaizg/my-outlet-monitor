@@ -328,19 +328,19 @@
         "url": "www.supersonido.es/p/earmen-tradutto_",
         "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
     },
-    "q-acoustics-q3050i__": {
-        "name": "Q-Acoustics Q3050i",
-        "price": 499.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/q-acoustics-q3050i__",
-        "image": "www.supersonido.es/productos/imagenes/producto46617.jpg"
-    },
     "rega-brio_oca": {
         "name": "Rega Brio",
         "price": 499.0,
         "price_old": 829.0,
         "url": "www.supersonido.es/p/rega-brio_oca",
         "image": "www.supersonido.es/productos/imagenes/producto50656.jpg"
+    },
+    "q-acoustics-q3050i__": {
+        "name": "Q-Acoustics Q3050i",
+        "price": 499.0,
+        "price_old": 949.0,
+        "url": "www.supersonido.es/p/q-acoustics-q3050i__",
+        "image": "www.supersonido.es/productos/imagenes/producto46617.jpg"
     },
     "astell-kern-ak-zero1_": {
         "name": "Astell&kern AK ZERO1",
@@ -433,19 +433,19 @@
         "url": "www.supersonido.es/p/denon-pma-900hne_",
         "image": "www.supersonido.es/productos/imagenes/producto49176.jpg"
     },
-    "svs-prime-wireless-pro-soundbase__": {
-        "name": "SVS Prime Wireless Pro SoundBase",
-        "price": 649.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/svs-prime-wireless-pro-soundbase__",
-        "image": "www.supersonido.es/productos/imagenes/producto51825.jpg"
-    },
     "campfire-audio-vega-2020_": {
         "name": "Campfire Audio Vega 2020",
         "price": 649.0,
         "price_old": 949.0,
         "url": "www.supersonido.es/p/campfire-audio-vega-2020_",
         "image": "www.supersonido.es/productos/imagenes/producto51156.jpg"
+    },
+    "svs-prime-wireless-pro-soundbase__": {
+        "name": "SVS Prime Wireless Pro SoundBase",
+        "price": 649.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/svs-prime-wireless-pro-soundbase__",
+        "image": "www.supersonido.es/productos/imagenes/producto51825.jpg"
     },
     "mrspeakers-aeon-open__": {
         "name": "Dan Clark Audio AEON Open",
@@ -524,19 +524,19 @@
         "url": "www.supersonido.es/p/q-acoustics-m40-wiim-mini_",
         "image": "www.supersonido.es/productos/imagenes/producto52053.jpg"
     },
-    "musical-fidelity-m2scd": {
-        "name": "Musical Fidelity M2SCD",
-        "price": 799.0,
-        "price_old": 1099.0,
-        "url": "www.supersonido.es/p/musical-fidelity-m2scd",
-        "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
-    },
     "kef-lsx_": {
         "name": "KEF LSX",
         "price": 799.0,
         "price_old": 1198.0,
         "url": "www.supersonido.es/p/kef-lsx_",
         "image": "www.supersonido.es/productos/imagenes/producto51731.jpg"
+    },
+    "musical-fidelity-m2scd": {
+        "name": "Musical Fidelity M2SCD",
+        "price": 799.0,
+        "price_old": 1099.0,
+        "url": "www.supersonido.es/p/musical-fidelity-m2scd",
+        "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
     },
     "audeze-lcd-gx_": {
         "name": "Audeze LCD-GX",
@@ -594,19 +594,19 @@
         "url": "www.supersonido.es/p/hifiman-jade-ii-system",
         "image": "www.supersonido.es/productos/imagenes/producto44117.jpg"
     },
-    "cayin-n6ii_": {
-        "name": "Cayin N6ii",
-        "price": 999.0,
-        "price_old": 1399.0,
-        "url": "www.supersonido.es/p/cayin-n6ii_",
-        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
-    },
     "audeze-lcdxc_ocasion_": {
         "name": "Audeze LCD-XC",
         "price": 999.0,
         "price_old": 1499.0,
         "url": "www.supersonido.es/p/audeze-lcdxc_ocasion_",
         "image": "www.supersonido.es/productos/imagenes/producto41901.jpg"
+    },
+    "cayin-n6ii_": {
+        "name": "Cayin N6ii",
+        "price": 999.0,
+        "price_old": 1399.0,
+        "url": "www.supersonido.es/p/cayin-n6ii_",
+        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
     },
     "kef-lsx-ii__": {
         "name": "KEF LSX II",
@@ -684,6 +684,13 @@
         "price_old": 1999.0,
         "url": "www.supersonido.es/p/denon-pma-1700ne_",
         "image": "www.supersonido.es/productos/imagenes/producto52137.jpg"
+    },
+    "sony-xr65x95k": {
+        "name": "Sony XR65X95K",
+        "price": 1299.0,
+        "price_old": 3499.0,
+        "url": "www.supersonido.es/p/sony-xr65x95k",
+        "image": "www.supersonido.es/productos/imagenes/producto47338.jpg"
     },
     "mofi-electronics-studiodeck__": {
         "name": "Mofi Electronics STUDIODECK",
@@ -825,19 +832,19 @@
         "url": "www.supersonido.es/p/stax-srm-007tii",
         "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
     },
-    "anthem-mca-225-gen-2_": {
-        "name": "Anthem MCA 225 GEN 2",
-        "price": 1899.0,
-        "price_old": 2599.0,
-        "url": "www.supersonido.es/p/anthem-mca-225-gen-2_",
-        "image": "www.supersonido.es/productos/imagenes/producto50079.jpg"
-    },
     "astell-kern-acro-ca1000___": {
         "name": "Astell&kern ACRO CA1000",
         "price": 1899.0,
         "price_old": 2399.0,
         "url": "www.supersonido.es/p/astell-kern-acro-ca1000___",
         "image": "www.supersonido.es/productos/imagenes/producto46481.jpg"
+    },
+    "anthem-mca-225-gen-2_": {
+        "name": "Anthem MCA 225 GEN 2",
+        "price": 1899.0,
+        "price_old": 2599.0,
+        "url": "www.supersonido.es/p/anthem-mca-225-gen-2_",
+        "image": "www.supersonido.es/productos/imagenes/producto50079.jpg"
     },
     "martin-logan-em-esl-c_": {
         "name": "Martin-Logan EM-ESL C",
@@ -846,13 +853,6 @@
         "url": "www.supersonido.es/p/martin-logan-em-esl-c_",
         "image": "www.supersonido.es/productos/imagenes/producto50781.jpg"
     },
-    "focal-arche": {
-        "name": "FOCAL ARCHE",
-        "price": 1995.0,
-        "price_old": 2500.0,
-        "url": "www.supersonido.es/p/focal-arche",
-        "image": "www.supersonido.es/productos/imagenes/producto29616.jpg"
-    },
     "atc-cda2__oca": {
         "name": "ATC CDA2",
         "price": 1995.0,
@@ -860,12 +860,12 @@
         "url": "www.supersonido.es/p/atc-cda2__oca",
         "image": "www.supersonido.es/productos/imagenes/producto49014.jpg"
     },
-    "benq-w5700": {
-        "name": "BenQ W5700",
-        "price": 1999.0,
-        "price_old": 2599.0,
-        "url": "www.supersonido.es/p/benq-w5700",
-        "image": "www.supersonido.es/productos/imagenes/producto29966.jpg"
+    "focal-arche": {
+        "name": "FOCAL ARCHE",
+        "price": 1995.0,
+        "price_old": 2500.0,
+        "url": "www.supersonido.es/p/focal-arche",
+        "image": "www.supersonido.es/productos/imagenes/producto29616.jpg"
     },
     "sony-xr-65a90j_": {
         "name": "Sony XR65A90J",
@@ -873,6 +873,13 @@
         "price_old": 3599.0,
         "url": "www.supersonido.es/p/sony-xr-65a90j_",
         "image": "www.supersonido.es/productos/imagenes/producto50017.jpg"
+    },
+    "benq-w5700": {
+        "name": "BenQ W5700",
+        "price": 1999.0,
+        "price_old": 2599.0,
+        "url": "www.supersonido.es/p/benq-w5700",
+        "image": "www.supersonido.es/productos/imagenes/producto29966.jpg"
     },
     "meze-audio-empyrean_": {
         "name": "Meze Audio Empyrean",
