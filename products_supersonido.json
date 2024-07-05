@@ -160,19 +160,19 @@
         "url": "www.supersonido.es/p/wharfedale-vista-200s_",
         "image": "www.supersonido.es/productos/imagenes/producto51501.jpg"
     },
-    "panasonic-sc-pmx90_": {
-        "name": "Panasonic SC-PMX90",
-        "price": 249.0,
-        "price_old": 339.0,
-        "url": "www.supersonido.es/p/panasonic-sc-pmx90_",
-        "image": "www.supersonido.es/productos/imagenes/producto46001.jpg"
-    },
     "audiopro-d-1": {
         "name": "AudioPro Drumfire D-1",
         "price": 249.0,
         "price_old": 350.0,
         "url": "www.supersonido.es/p/audiopro-d-1",
         "image": "www.supersonido.es/productos/imagenes/producto43369.jpg"
+    },
+    "panasonic-sc-pmx90_": {
+        "name": "Panasonic SC-PMX90",
+        "price": 249.0,
+        "price_old": 339.0,
+        "url": "www.supersonido.es/p/panasonic-sc-pmx90_",
+        "image": "www.supersonido.es/productos/imagenes/producto46001.jpg"
     },
     "the-chord-company-silent-mount-sm7_": {
         "name": "The Chord Company Silent Mount SM7",
@@ -384,13 +384,6 @@
         "url": "www.supersonido.es/p/roberts-radio-stream-67_",
         "image": "www.supersonido.es/productos/imagenes/producto51499.jpg"
     },
-    "shanling-m6-pro-21_": {
-        "name": "Shanling M6 PRO (21)",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
-        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
-    },
     "technics-ottava-s-sc-c50OC": {
         "name": "Technics OTTAVA S SC-C50",
         "price": 599.0,
@@ -411,6 +404,13 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/ruark-audio-r3s_",
         "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
+    },
+    "shanling-m6-pro-21_": {
+        "name": "Shanling M6 PRO (21)",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/shanling-m6-pro-21_",
+        "image": "www.supersonido.es/productos/imagenes/producto49368.jpg"
     },
     "monitor-audio-bronze-200_": {
         "name": "Monitor Audio Bronze 200",
@@ -608,19 +608,19 @@
         "url": "www.supersonido.es/p/hifiman-jade-ii-system",
         "image": "www.supersonido.es/productos/imagenes/producto44117.jpg"
     },
-    "cayin-n6ii_": {
-        "name": "Cayin N6ii",
-        "price": 999.0,
-        "price_old": 1399.0,
-        "url": "www.supersonido.es/p/cayin-n6ii_",
-        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
-    },
     "audiolab-6000a-play__": {
         "name": "Audiolab 6000A PLAY",
         "price": 999.0,
         "price_old": 1249.0,
         "url": "www.supersonido.es/p/audiolab-6000a-play__",
         "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
+    },
+    "cayin-n6ii_": {
+        "name": "Cayin N6ii",
+        "price": 999.0,
+        "price_old": 1399.0,
+        "url": "www.supersonido.es/p/cayin-n6ii_",
+        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
     },
     "audeze-lcdxc_ocasion_": {
         "name": "Audeze LCD-XC",
