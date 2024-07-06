@@ -223,13 +223,6 @@
         "url": "www.supersonido.es/p/denon-heos-link-hs2_",
         "image": "www.supersonido.es/productos/imagenes/producto50910.jpg"
     },
-    "kef-s2-floorstand_": {
-        "name": "KEF S2 Floorstand",
-        "price": 299.0,
-        "price_old": 450.0,
-        "url": "www.supersonido.es/p/kef-s2-floorstand_",
-        "image": "www.supersonido.es/productos/imagenes/producto52108.jpg"
-    },
     "the-chord-company-chordohmic-ground-aray-rj45_": {
         "name": "The Chord Company ChordOhmic Ground ARAY\tRJ45",
         "price": 299.0,
@@ -243,6 +236,13 @@
         "price_old": 650.0,
         "url": "www.supersonido.es/p/the-chord-company-chordohmic-ground-aray-hdmi_",
         "image": "www.supersonido.es/productos/imagenes/producto51357.jpg"
+    },
+    "kef-s2-floorstand_": {
+        "name": "KEF S2 Floorstand",
+        "price": 299.0,
+        "price_old": 450.0,
+        "url": "www.supersonido.es/p/kef-s2-floorstand_",
+        "image": "www.supersonido.es/productos/imagenes/producto52108.jpg"
     },
     "audeze-maxwell-playstation_oc": {
         "name": "Audeze MAXWELL PLAYSTATION",
@@ -264,13 +264,6 @@
         "price_old": 449.0,
         "url": "www.supersonido.es/p/rega-planar-1-plus-walnut_",
         "image": "www.supersonido.es/productos/imagenes/producto51817.jpg"
-    },
-    "ruark-audio-mrx": {
-        "name": "Ruark Audio MRx",
-        "price": 349.0,
-        "price_old": 499.0,
-        "url": "www.supersonido.es/p/ruark-audio-mrx",
-        "image": "www.supersonido.es/productos/imagenes/producto32028.jpg"
     },
     "monitor-audio-cpwt380_": {
         "name": "Monitor Audio CP-WT380",
@@ -482,19 +475,19 @@
         "url": "www.supersonido.es/p/dynaudio-emit-20_",
         "image": "www.supersonido.es/productos/imagenes/producto50564.jpg"
     },
-    "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra": {
-        "name": "Pro-Ject Pre-Box S2 Digital DAC +  Stream Box S2 Ultra",
-        "price": 699.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
-        "image": "www.supersonido.es/productos/imagenes/producto51311.jpg"
-    },
     "pro-ject-dac-box-rs": {
         "name": "Pro-Ject DAC Box RS",
         "price": 699.0,
         "price_old": 1099.0,
         "url": "www.supersonido.es/p/pro-ject-dac-box-rs",
         "image": "www.supersonido.es/productos/imagenes/producto16717.jpg"
+    },
+    "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra": {
+        "name": "Pro-Ject Pre-Box S2 Digital DAC +  Stream Box S2 Ultra",
+        "price": 699.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
+        "image": "www.supersonido.es/productos/imagenes/producto51311.jpg"
     },
     "quad-vena-ii-play_oc": {
         "name": "Quad Vena II Play",
