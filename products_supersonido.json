@@ -13,6 +13,13 @@
         "url": "www.supersonido.es/p/samsung-wmn-m25ea-xc",
         "image": "www.supersonido.es/productos/imagenes/producto30804.jpg"
     },
+    "sony-mdr-rf895_": {
+        "name": "Sony MDR-RF895",
+        "price": 79.0,
+        "price_old": 99.0,
+        "url": "www.supersonido.es/p/sony-mdr-rf895_",
+        "image": "www.supersonido.es/productos/imagenes/producto43892.jpg"
+    },
     "ibasso-it01x_": {
         "name": "Ibasso IT01x",
         "price": 89.0,
@@ -153,19 +160,19 @@
         "url": "www.supersonido.es/p/boston-acoustics-voyager-50-b_",
         "image": "www.supersonido.es/productos/imagenes/producto45718.jpg"
     },
-    "panasonic-sc-pmx90_oc": {
-        "name": "Panasonic SC-PMX90",
-        "price": 229.0,
-        "price_old": 339.0,
-        "url": "www.supersonido.es/p/panasonic-sc-pmx90_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto51095.jpg"
-    },
     "sony-ubp-x800m2_": {
         "name": "Sony UBPX800M2",
         "price": 229.0,
         "price_old": 348.0,
         "url": "www.supersonido.es/p/sony-ubp-x800m2_",
         "image": "www.supersonido.es/productos/imagenes/producto47000.jpg"
+    },
+    "panasonic-sc-pmx90_oc": {
+        "name": "Panasonic SC-PMX90",
+        "price": 229.0,
+        "price_old": 339.0,
+        "url": "www.supersonido.es/p/panasonic-sc-pmx90_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto51095.jpg"
     },
     "wharfedale-vista-200s_": {
         "name": "Wharfedale Vista 200S",
@@ -580,13 +587,6 @@
         "url": "www.supersonido.es/p/innuos-pulsemini_oca",
         "image": "www.supersonido.es/productos/imagenes/producto51385.jpg"
     },
-    "q-acoustics-5040_oc_": {
-        "name": "Q-Acoustics 5040",
-        "price": 899.0,
-        "price_old": 1290.0,
-        "url": "www.supersonido.es/p/q-acoustics-5040_oc_",
-        "image": "www.supersonido.es/productos/imagenes/producto51226.jpg"
-    },
     "sony-ht-a7000_": {
         "name": "Sony HT-A7000",
         "price": 899.0,
@@ -594,19 +594,19 @@
         "url": "www.supersonido.es/p/sony-ht-a7000_",
         "image": "www.supersonido.es/productos/imagenes/producto48719.jpg"
     },
+    "q-acoustics-5040_oc_": {
+        "name": "Q-Acoustics 5040",
+        "price": 899.0,
+        "price_old": 1290.0,
+        "url": "www.supersonido.es/p/q-acoustics-5040_oc_",
+        "image": "www.supersonido.es/productos/imagenes/producto51226.jpg"
+    },
     "hifiman-jade-ii-system": {
         "name": "HIFIMAN Jade II System",
         "price": 949.0,
         "price_old": 1299.0,
         "url": "www.supersonido.es/p/hifiman-jade-ii-system",
         "image": "www.supersonido.es/productos/imagenes/producto44117.jpg"
-    },
-    "audiolab-6000a-play__": {
-        "name": "Audiolab 6000A PLAY",
-        "price": 999.0,
-        "price_old": 1249.0,
-        "url": "www.supersonido.es/p/audiolab-6000a-play__",
-        "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
     },
     "cayin-n6ii_": {
         "name": "Cayin N6ii",
@@ -621,6 +621,13 @@
         "price_old": 1499.0,
         "url": "www.supersonido.es/p/audeze-lcdxc_ocasion_",
         "image": "www.supersonido.es/productos/imagenes/producto41901.jpg"
+    },
+    "audiolab-6000a-play__": {
+        "name": "Audiolab 6000A PLAY",
+        "price": 999.0,
+        "price_old": 1249.0,
+        "url": "www.supersonido.es/p/audiolab-6000a-play__",
+        "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
     },
     "audiolab-7000a_": {
         "name": "Audiolab 7000A",
@@ -839,19 +846,19 @@
         "url": "www.supersonido.es/p/sony-xr-65a90j_",
         "image": "www.supersonido.es/productos/imagenes/producto50017.jpg"
     },
-    "anthem-mca-225-gen-2_": {
-        "name": "Anthem MCA 225 GEN 2",
-        "price": 1899.0,
-        "price_old": 2599.0,
-        "url": "www.supersonido.es/p/anthem-mca-225-gen-2_",
-        "image": "www.supersonido.es/productos/imagenes/producto50079.jpg"
-    },
     "astell-kern-acro-ca1000___": {
         "name": "Astell&kern ACRO CA1000",
         "price": 1899.0,
         "price_old": 2399.0,
         "url": "www.supersonido.es/p/astell-kern-acro-ca1000___",
         "image": "www.supersonido.es/productos/imagenes/producto46481.jpg"
+    },
+    "anthem-mca-225-gen-2_": {
+        "name": "Anthem MCA 225 GEN 2",
+        "price": 1899.0,
+        "price_old": 2599.0,
+        "url": "www.supersonido.es/p/anthem-mca-225-gen-2_",
+        "image": "www.supersonido.es/productos/imagenes/producto50079.jpg"
     },
     "martin-logan-em-esl-c_": {
         "name": "Martin-Logan EM-ESL C",
