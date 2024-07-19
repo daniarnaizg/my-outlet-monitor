@@ -1,4 +1,11 @@
 {
+    "ifi-audio-ipower2_": {
+        "name": "IFI Audio iPower 2",
+        "price": 54.9,
+        "price_old": 69.0,
+        "url": "www.supersonido.es/p/ifi-audio-ipower2_",
+        "image": "www.supersonido.es/productos/imagenes/producto52138.jpg"
+    },
     "samsung-wmn-m25ea-xc": {
         "name": "Samsung WMN-M25EA/XC",
         "price": 69.0,
@@ -398,19 +405,19 @@
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
         "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
     },
-    "svs-pb1000_OC": {
-        "name": "SVS PB-1000",
-        "price": 599.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/svs-pb1000_OC",
-        "image": "www.supersonido.es/productos/imagenes/producto28700.jpg"
-    },
     "ruark-audio-r3s_": {
         "name": "Ruark Audio R3S",
         "price": 599.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/ruark-audio-r3s_",
         "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
+    },
+    "svs-pb1000_OC": {
+        "name": "SVS PB-1000",
+        "price": 599.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/svs-pb1000_OC",
+        "image": "www.supersonido.es/productos/imagenes/producto28700.jpg"
     },
     "martin-logan-bravado": {
         "name": "Martin-Logan Bravado",
