@@ -20,19 +20,19 @@
         "url": "www.supersonido.es/p/ortofon-2m-red_",
         "image": "www.supersonido.es/productos/imagenes/producto51567.jpg"
     },
-    "loewe-wee-hear-2": {
-        "name": "Loewe WEE HEAR 2",
-        "price": 99.0,
-        "price_old": 169.0,
-        "url": "www.supersonido.es/p/loewe-wee-hear-2",
-        "image": "www.supersonido.es/productos/imagenes/producto46142.jpg"
-    },
     "supra-cables-eff-ixlr*_": {
         "name": "Supra Cables EFF-IXLR",
         "price": 99.0,
         "price_old": 186.0,
         "url": "www.supersonido.es/p/supra-cables-eff-ixlr*_",
         "image": "www.supersonido.es/productos/imagenes/producto51459.jpg"
+    },
+    "loewe-wee-hear-2": {
+        "name": "Loewe WEE HEAR 2",
+        "price": 99.0,
+        "price_old": 169.0,
+        "url": "www.supersonido.es/p/loewe-wee-hear-2",
+        "image": "www.supersonido.es/productos/imagenes/producto46142.jpg"
     },
     "grado-sr80x_oc": {
         "name": "Grado SR80x",
@@ -384,6 +384,13 @@
         "url": "www.supersonido.es/p/project-maia-ds",
         "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
+    "cambridge-audio-cxn- v2_": {
+        "name": "Cambridge Audio CXN (V2)",
+        "price": 599.0,
+        "price_old": 999.0,
+        "url": "www.supersonido.es/p/cambridge-audio-cxn- v2_",
+        "image": "www.supersonido.es/productos/imagenes/producto46099.jpg"
+    },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
         "price": 599.0,
@@ -419,19 +426,19 @@
         "url": "www.supersonido.es/p/svs-pb1000_OC",
         "image": "www.supersonido.es/productos/imagenes/producto28700.jpg"
     },
-    "martin-logan-bravado": {
-        "name": "Martin-Logan Bravado",
-        "price": 629.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/martin-logan-bravado",
-        "image": "www.supersonido.es/productos/imagenes/producto44417.jpg"
-    },
     "monitor-audio-bronze-200_": {
         "name": "Monitor Audio Bronze 200",
         "price": 629.0,
         "price_old": 900.0,
         "url": "www.supersonido.es/p/monitor-audio-bronze-200_",
         "image": "www.supersonido.es/productos/imagenes/producto47133.jpg"
+    },
+    "martin-logan-bravado": {
+        "name": "Martin-Logan Bravado",
+        "price": 629.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/martin-logan-bravado",
+        "image": "www.supersonido.es/productos/imagenes/producto44417.jpg"
     },
     "denon-pma-900hne_": {
         "name": "Denon PMA-900HNE",
@@ -601,19 +608,19 @@
         "url": "www.supersonido.es/p/audeze-lcdxc_ocasion_",
         "image": "www.supersonido.es/productos/imagenes/producto41901.jpg"
     },
-    "audiolab-6000a-play__": {
-        "name": "Audiolab 6000A PLAY",
-        "price": 999.0,
-        "price_old": 1249.0,
-        "url": "www.supersonido.es/p/audiolab-6000a-play__",
-        "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
-    },
     "cayin-n6ii_": {
         "name": "Cayin N6ii",
         "price": 999.0,
         "price_old": 1399.0,
         "url": "www.supersonido.es/p/cayin-n6ii_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+    },
+    "audiolab-6000a-play__": {
+        "name": "Audiolab 6000A PLAY",
+        "price": 999.0,
+        "price_old": 1249.0,
+        "url": "www.supersonido.es/p/audiolab-6000a-play__",
+        "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
     },
     "audiolab-7000a_": {
         "name": "Audiolab 7000A",
@@ -685,19 +692,19 @@
         "url": "www.supersonido.es/p/denon-pma-1700ne_",
         "image": "www.supersonido.es/productos/imagenes/producto52137.jpg"
     },
-    "mrspeakers-ether-flow": {
-        "name": "Dan Clark Audio ETHER Flow",
-        "price": 1299.0,
-        "price_old": 1999.0,
-        "url": "www.supersonido.es/p/mrspeakers-ether-flow",
-        "image": "www.supersonido.es/productos/imagenes/producto28309.jpg"
-    },
     "mofi-electronics-studiodeck__": {
         "name": "Mofi Electronics STUDIODECK",
         "price": 1299.0,
         "price_old": 1599.0,
         "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
         "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
+    },
+    "mrspeakers-ether-flow": {
+        "name": "Dan Clark Audio ETHER Flow",
+        "price": 1299.0,
+        "price_old": 1999.0,
+        "url": "www.supersonido.es/p/mrspeakers-ether-flow",
+        "image": "www.supersonido.es/productos/imagenes/producto28309.jpg"
     },
     "matrix-audio-element-p_": {
         "name": "Matrix Audio Element P",
@@ -825,19 +832,19 @@
         "url": "www.supersonido.es/p/stax-srm-007tii",
         "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
     },
-    "astell-kern-acro-ca1000___": {
-        "name": "Astell&kern ACRO CA1000",
-        "price": 1899.0,
-        "price_old": 2399.0,
-        "url": "www.supersonido.es/p/astell-kern-acro-ca1000___",
-        "image": "www.supersonido.es/productos/imagenes/producto46481.jpg"
-    },
     "anthem-mca-225-gen-2_": {
         "name": "Anthem MCA 225 GEN 2",
         "price": 1899.0,
         "price_old": 2599.0,
         "url": "www.supersonido.es/p/anthem-mca-225-gen-2_",
         "image": "www.supersonido.es/productos/imagenes/producto50079.jpg"
+    },
+    "astell-kern-acro-ca1000___": {
+        "name": "Astell&kern ACRO CA1000",
+        "price": 1899.0,
+        "price_old": 2399.0,
+        "url": "www.supersonido.es/p/astell-kern-acro-ca1000___",
+        "image": "www.supersonido.es/productos/imagenes/producto46481.jpg"
     },
     "martin-logan-em-esl-c_": {
         "name": "Martin-Logan EM-ESL C",
