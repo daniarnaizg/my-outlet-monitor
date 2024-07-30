@@ -20,13 +20,6 @@
         "url": "www.supersonido.es/p/ibasso-dc04-pro_",
         "image": "www.supersonido.es/productos/imagenes/producto52322.jpg"
     },
-    "cambridge-audio-sx120": {
-        "name": "Cambridge Audio SX-120",
-        "price": 99.0,
-        "price_old": 99.0,
-        "url": "www.supersonido.es/p/cambridge-audio-sx120",
-        "image": "www.supersonido.es/productos/imagenes/producto17958.jpg"
-    },
     "loewe-wee-hear-2": {
         "name": "Loewe WEE HEAR 2",
         "price": 99.0,
@@ -370,6 +363,13 @@
         "url": "www.supersonido.es/p/audio-technica-at-oc9xsl_",
         "image": "www.supersonido.es/productos/imagenes/producto52314.jpg"
     },
+    "ruark-audio-r3s_": {
+        "name": "Ruark Audio R3S",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/ruark-audio-r3s_",
+        "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
+    },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
         "price": 599.0,
@@ -404,13 +404,6 @@
         "price_old": 899.0,
         "url": "www.supersonido.es/p/svs-pb1000_OC",
         "image": "www.supersonido.es/productos/imagenes/producto28700.jpg"
-    },
-    "ruark-audio-r3s_": {
-        "name": "Ruark Audio R3S",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/ruark-audio-r3s_",
-        "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
     },
     "martin-logan-bravado": {
         "name": "Martin-Logan Bravado",
@@ -517,20 +510,6 @@
         "url": "www.supersonido.es/p/martin-logan-fresco-i-i",
         "image": "www.supersonido.es/productos/imagenes/producto619.jpg"
     },
-    "q-acoustics-m40-wiim-mini_": {
-        "name": "Q-Acoustics M40 + Wiim Mini",
-        "price": 789.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/q-acoustics-m40-wiim-mini_",
-        "image": "www.supersonido.es/productos/imagenes/producto52053.jpg"
-    },
-    "q-acoustics-q-active-200_": {
-        "name": "Q-Acoustics Q Active 200",
-        "price": 799.0,
-        "price_old": 1299.0,
-        "url": "www.supersonido.es/p/q-acoustics-q-active-200_",
-        "image": "www.supersonido.es/productos/imagenes/producto43652.jpg"
-    },
     "kef-lsx_": {
         "name": "KEF LSX",
         "price": 799.0,
@@ -544,6 +523,13 @@
         "price_old": 1099.0,
         "url": "www.supersonido.es/p/musical-fidelity-m2scd",
         "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
+    },
+    "q-acoustics-q-active-200_": {
+        "name": "Q-Acoustics Q Active 200",
+        "price": 799.0,
+        "price_old": 1299.0,
+        "url": "www.supersonido.es/p/q-acoustics-q-active-200_",
+        "image": "www.supersonido.es/productos/imagenes/producto43652.jpg"
     },
     "audeze-lcd-gx_": {
         "name": "Audeze LCD-GX",
@@ -601,19 +587,19 @@
         "url": "www.supersonido.es/p/audeze-lcdxc_ocasion_",
         "image": "www.supersonido.es/productos/imagenes/producto41901.jpg"
     },
-    "audiolab-6000a-play__": {
-        "name": "Audiolab 6000A PLAY",
-        "price": 999.0,
-        "price_old": 1249.0,
-        "url": "www.supersonido.es/p/audiolab-6000a-play__",
-        "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
-    },
     "cayin-n6ii_": {
         "name": "Cayin N6ii",
         "price": 999.0,
         "price_old": 1399.0,
         "url": "www.supersonido.es/p/cayin-n6ii_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+    },
+    "audiolab-6000a-play__": {
+        "name": "Audiolab 6000A PLAY",
+        "price": 999.0,
+        "price_old": 1249.0,
+        "url": "www.supersonido.es/p/audiolab-6000a-play__",
+        "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
     },
     "audiolab-7000a_": {
         "name": "Audiolab 7000A",
@@ -713,13 +699,6 @@
         "url": "www.supersonido.es/p/matrix-audio-element-p_",
         "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
     },
-    "ferrum-erco": {
-        "name": "Ferrum ERCO",
-        "price": 1399.0,
-        "price_old": 1795.0,
-        "url": "www.supersonido.es/p/ferrum-erco",
-        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
-    },
     "mrspeakers-ether-c-flow-1-1_": {
         "name": "Dan Clark Audio ETHER C Flow 1.1",
         "price": 1399.0,
@@ -734,12 +713,12 @@
         "url": "www.supersonido.es/p/mrspeakers-ether-flow-1-1_",
         "image": "www.supersonido.es/productos/imagenes/producto50776.jpg"
     },
-    "hisense-100l5f-b12_": {
-        "name": "Hisense 100L5F-B12",
-        "price": 1499.0,
-        "price_old": 3490.0,
-        "url": "www.supersonido.es/p/hisense-100l5f-b12_",
-        "image": "www.supersonido.es/productos/imagenes/producto52154.jpg"
+    "ferrum-erco": {
+        "name": "Ferrum ERCO",
+        "price": 1399.0,
+        "price_old": 1795.0,
+        "url": "www.supersonido.es/p/ferrum-erco",
+        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
     },
     "reavon-ubr-x200_": {
         "name": "Reavon UBR-X200",
@@ -747,6 +726,13 @@
         "price_old": 1849.0,
         "url": "www.supersonido.es/p/reavon-ubr-x200_",
         "image": "www.supersonido.es/productos/imagenes/producto51498.jpg"
+    },
+    "hisense-100l5f-b12_": {
+        "name": "Hisense 100L5F-B12",
+        "price": 1499.0,
+        "price_old": 3490.0,
+        "url": "www.supersonido.es/p/hisense-100l5f-b12_",
+        "image": "www.supersonido.es/productos/imagenes/producto52154.jpg"
     },
     "audio-technica-ath-awkt_": {
         "name": "Audio-Technica ATH-AWKT",
