@@ -76,13 +76,6 @@
         "url": "www.supersonido.es/p/grado-sr225x_OC",
         "image": "www.supersonido.es/productos/imagenes/producto51323.jpg"
     },
-    "dynaudio-stand-6_": {
-        "name": "Dynaudio Stand 6",
-        "price": 199.0,
-        "price_old": 529.0,
-        "url": "www.supersonido.es/p/dynaudio-stand-6_",
-        "image": "www.supersonido.es/productos/imagenes/producto51292.jpg"
-    },
     "yamaha-mcr-b270_": {
         "name": "Yamaha MCR-B270D",
         "price": 199.0,
@@ -96,6 +89,13 @@
         "price_old": 379.0,
         "url": "www.supersonido.es/p/yamaha-mcr-b270__",
         "image": "www.supersonido.es/productos/imagenes/producto49874.jpg"
+    },
+    "dynaudio-stand-6_": {
+        "name": "Dynaudio Stand 6",
+        "price": 199.0,
+        "price_old": 529.0,
+        "url": "www.supersonido.es/p/dynaudio-stand-6_",
+        "image": "www.supersonido.es/productos/imagenes/producto51292.jpg"
     },
     "sivga-oriole_": {
         "name": "Sivga Oriole",
@@ -321,6 +321,13 @@
         "url": "www.supersonido.es/p/pro-ject-debut-s-rainier_",
         "image": "www.supersonido.es/productos/imagenes/producto52193.jpg"
     },
+    "pioneer-a-40ae_oc": {
+        "name": "Pioneer A-40AE",
+        "price": 449.0,
+        "price_old": 549.0,
+        "url": "www.supersonido.es/p/pioneer-a-40ae_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto52339.jpg"
+    },
     "audio-technica-vm760slc_": {
         "name": "Audio-Technica VM760SLC",
         "price": 449.0,
@@ -405,19 +412,19 @@
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
         "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
     },
-    "ruark-audio-r3s_": {
-        "name": "Ruark Audio R3S",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/ruark-audio-r3s_",
-        "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
-    },
     "svs-pb1000_OC": {
         "name": "SVS PB-1000",
         "price": 599.0,
         "price_old": 899.0,
         "url": "www.supersonido.es/p/svs-pb1000_OC",
         "image": "www.supersonido.es/productos/imagenes/producto28700.jpg"
+    },
+    "ruark-audio-r3s_": {
+        "name": "Ruark Audio R3S",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/ruark-audio-r3s_",
+        "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
     },
     "martin-logan-bravado": {
         "name": "Martin-Logan Bravado",
@@ -594,12 +601,12 @@
         "url": "www.supersonido.es/p/hifiman-jade-ii-system",
         "image": "www.supersonido.es/productos/imagenes/producto44117.jpg"
     },
-    "cayin-n6ii_": {
-        "name": "Cayin N6ii",
+    "audeze-lcdxc_ocasion_": {
+        "name": "Audeze LCD-XC",
         "price": 999.0,
-        "price_old": 1399.0,
-        "url": "www.supersonido.es/p/cayin-n6ii_",
-        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/audeze-lcdxc_ocasion_",
+        "image": "www.supersonido.es/productos/imagenes/producto41901.jpg"
     },
     "audiolab-6000a-play__": {
         "name": "Audiolab 6000A PLAY",
@@ -608,12 +615,12 @@
         "url": "www.supersonido.es/p/audiolab-6000a-play__",
         "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
     },
-    "audeze-lcdxc_ocasion_": {
-        "name": "Audeze LCD-XC",
+    "cayin-n6ii_": {
+        "name": "Cayin N6ii",
         "price": 999.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/audeze-lcdxc_ocasion_",
-        "image": "www.supersonido.es/productos/imagenes/producto41901.jpg"
+        "price_old": 1399.0,
+        "url": "www.supersonido.es/p/cayin-n6ii_",
+        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
     },
     "audiolab-7000a_": {
         "name": "Audiolab 7000A",
@@ -713,6 +720,13 @@
         "url": "www.supersonido.es/p/matrix-audio-element-p__",
         "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
     },
+    "ferrum-erco": {
+        "name": "Ferrum ERCO",
+        "price": 1399.0,
+        "price_old": 1795.0,
+        "url": "www.supersonido.es/p/ferrum-erco",
+        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
+    },
     "mrspeakers-ether-c-flow-1-1_": {
         "name": "Dan Clark Audio ETHER C Flow 1.1",
         "price": 1399.0,
@@ -726,13 +740,6 @@
         "price_old": 2159.0,
         "url": "www.supersonido.es/p/mrspeakers-ether-flow-1-1_",
         "image": "www.supersonido.es/productos/imagenes/producto50776.jpg"
-    },
-    "ferrum-erco": {
-        "name": "Ferrum ERCO",
-        "price": 1399.0,
-        "price_old": 1795.0,
-        "url": "www.supersonido.es/p/ferrum-erco",
-        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
     },
     "reavon-ubr-x200_": {
         "name": "Reavon UBR-X200",
@@ -783,19 +790,19 @@
         "url": "www.supersonido.es/p/astell-kern-se300_",
         "image": "www.supersonido.es/productos/imagenes/producto52119.jpg"
     },
-    "rotel-s14_oc": {
-        "name": "Rotel S14",
-        "price": 1799.0,
-        "price_old": 2699.0,
-        "url": "www.supersonido.es/p/rotel-s14_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto50108.jpg"
-    },
     "rotel-dt-6000_": {
         "name": "Rotel DT-6000",
         "price": 1799.0,
         "price_old": 2299.0,
         "url": "www.supersonido.es/p/rotel-dt-6000_",
         "image": "www.supersonido.es/productos/imagenes/producto51500.jpg"
+    },
+    "rotel-s14_oc": {
+        "name": "Rotel S14",
+        "price": 1799.0,
+        "price_old": 2699.0,
+        "url": "www.supersonido.es/p/rotel-s14_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto50108.jpg"
     },
     "mofi-electronics-ultradeck_": {
         "name": "Mofi Electronics UltraDeck",
@@ -811,19 +818,19 @@
         "url": "www.supersonido.es/p/stax-srm-007tii",
         "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
     },
-    "anthem-mca-225-gen-2_": {
-        "name": "Anthem MCA 225 GEN 2",
-        "price": 1899.0,
-        "price_old": 2599.0,
-        "url": "www.supersonido.es/p/anthem-mca-225-gen-2_",
-        "image": "www.supersonido.es/productos/imagenes/producto50079.jpg"
-    },
     "astell-kern-acro-ca1000___": {
         "name": "Astell&kern ACRO CA1000",
         "price": 1899.0,
         "price_old": 2399.0,
         "url": "www.supersonido.es/p/astell-kern-acro-ca1000___",
         "image": "www.supersonido.es/productos/imagenes/producto46481.jpg"
+    },
+    "anthem-mca-225-gen-2_": {
+        "name": "Anthem MCA 225 GEN 2",
+        "price": 1899.0,
+        "price_old": 2599.0,
+        "url": "www.supersonido.es/p/anthem-mca-225-gen-2_",
+        "image": "www.supersonido.es/productos/imagenes/producto50079.jpg"
     },
     "martin-logan-em-esl-c_": {
         "name": "Martin-Logan EM-ESL C",
@@ -832,19 +839,19 @@
         "url": "www.supersonido.es/p/martin-logan-em-esl-c_",
         "image": "www.supersonido.es/productos/imagenes/producto50781.jpg"
     },
-    "focal-arche": {
-        "name": "FOCAL ARCHE",
-        "price": 1995.0,
-        "price_old": 2500.0,
-        "url": "www.supersonido.es/p/focal-arche",
-        "image": "www.supersonido.es/productos/imagenes/producto29616.jpg"
-    },
     "atc-cda2__oca": {
         "name": "ATC CDA2",
         "price": 1995.0,
         "price_old": 3950.0,
         "url": "www.supersonido.es/p/atc-cda2__oca",
         "image": "www.supersonido.es/productos/imagenes/producto49014.jpg"
+    },
+    "focal-arche": {
+        "name": "FOCAL ARCHE",
+        "price": 1995.0,
+        "price_old": 2500.0,
+        "url": "www.supersonido.es/p/focal-arche",
+        "image": "www.supersonido.es/productos/imagenes/producto29616.jpg"
     },
     "benq-w5700": {
         "name": "BenQ W5700",
@@ -993,19 +1000,19 @@
         "url": "www.supersonido.es/p/proac-response-d2r_",
         "image": "www.supersonido.es/productos/imagenes/producto49326.jpg"
     },
-    "primaluna-evo-100-tube-phono-preamplifier_": {
-        "name": "Primaluna EVO 100 Tube Phono Preamplifier",
-        "price": 3290.0,
-        "price_old": 3890.0,
-        "url": "www.supersonido.es/p/primaluna-evo-100-tube-phono-preamplifier_",
-        "image": "www.supersonido.es/productos/imagenes/producto50998.jpg"
-    },
     "primaluna-evo-100-11": {
         "name": "Primaluna EVO 100-11",
         "price": 3290.0,
         "price_old": 3890.0,
         "url": "www.supersonido.es/p/primaluna-evo-100-11",
         "image": "www.supersonido.es/productos/imagenes/producto51492.jpg"
+    },
+    "primaluna-evo-100-tube-phono-preamplifier_": {
+        "name": "Primaluna EVO 100 Tube Phono Preamplifier",
+        "price": 3290.0,
+        "price_old": 3890.0,
+        "url": "www.supersonido.es/p/primaluna-evo-100-tube-phono-preamplifier_",
+        "image": "www.supersonido.es/productos/imagenes/producto50998.jpg"
     },
     "primare-i35-prisma_": {
         "name": "Primare I35 Prisma",
