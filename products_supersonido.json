@@ -356,19 +356,12 @@
         "url": "www.supersonido.es/p/project-power-box-rs-uni-4way-silver",
         "image": "www.supersonido.es/productos/imagenes/producto18601.jpg"
     },
-    "audio-technica-at-oc9xsl_": {
-        "name": "Audio-Technica AT-OC9XSL",
-        "price": 549.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/audio-technica-at-oc9xsl_",
-        "image": "www.supersonido.es/productos/imagenes/producto52314.jpg"
-    },
-    "ruark-audio-r3s_": {
-        "name": "Ruark Audio R3S",
+    "project-maia-ds": {
+        "name": "Pro-Ject MaiA DS",
         "price": 599.0,
         "price_old": 799.0,
-        "url": "www.supersonido.es/p/ruark-audio-r3s_",
-        "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
+        "url": "www.supersonido.es/p/project-maia-ds",
+        "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
@@ -377,12 +370,12 @@
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
-    "project-maia-ds": {
-        "name": "Pro-Ject MaiA DS",
+    "ruark-audio-r3s_": {
+        "name": "Ruark Audio R3S",
         "price": 599.0,
         "price_old": 799.0,
-        "url": "www.supersonido.es/p/project-maia-ds",
-        "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
+        "url": "www.supersonido.es/p/ruark-audio-r3s_",
+        "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
     },
     "roberts-radio-stream-67_": {
         "name": "Roberts Radio Stream 67",
@@ -405,6 +398,13 @@
         "url": "www.supersonido.es/p/svs-pb1000_OC",
         "image": "www.supersonido.es/productos/imagenes/producto28700.jpg"
     },
+    "monitor-audio-bronze-200_": {
+        "name": "Monitor Audio Bronze 200",
+        "price": 629.0,
+        "price_old": 900.0,
+        "url": "www.supersonido.es/p/monitor-audio-bronze-200_",
+        "image": "www.supersonido.es/productos/imagenes/producto47133.jpg"
+    },
     "martin-logan-bravado": {
         "name": "Martin-Logan Bravado",
         "price": 629.0,
@@ -418,13 +418,6 @@
         "price_old": 999.0,
         "url": "www.supersonido.es/p/denon-pma-900hne_",
         "image": "www.supersonido.es/productos/imagenes/producto49176.jpg"
-    },
-    "monitor-audio-bronze-200_": {
-        "name": "Monitor Audio Bronze 200",
-        "price": 629.0,
-        "price_old": 900.0,
-        "url": "www.supersonido.es/p/monitor-audio-bronze-200_",
-        "image": "www.supersonido.es/productos/imagenes/producto47133.jpg"
     },
     "svs-prime-wireless-pro-soundbase__": {
         "name": "SVS Prime Wireless Pro SoundBase",
@@ -454,20 +447,6 @@
         "url": "www.supersonido.es/p/matrix-audio-element-i_",
         "image": "www.supersonido.es/productos/imagenes/producto42751.jpg"
     },
-    "cambridge-audio-cxn-v2__": {
-        "name": "Cambridge Audio CXN (V2)",
-        "price": 699.0,
-        "price_old": 999.0,
-        "url": "www.supersonido.es/p/cambridge-audio-cxn-v2__",
-        "image": "www.supersonido.es/productos/imagenes/producto33109.jpg"
-    },
-    "quad-vena-ii-play_oc": {
-        "name": "Quad Vena II Play",
-        "price": 699.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/quad-vena-ii-play_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto51634.jpg"
-    },
     "dynaudio-emit-20_": {
         "name": "Dynaudio Emit 20",
         "price": 699.0,
@@ -481,6 +460,20 @@
         "price_old": 1499.0,
         "url": "www.supersonido.es/p/pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
         "image": "www.supersonido.es/productos/imagenes/producto51311.jpg"
+    },
+    "cambridge-audio-cxn-v2__": {
+        "name": "Cambridge Audio CXN (V2)",
+        "price": 699.0,
+        "price_old": 999.0,
+        "url": "www.supersonido.es/p/cambridge-audio-cxn-v2__",
+        "image": "www.supersonido.es/productos/imagenes/producto33109.jpg"
+    },
+    "quad-vena-ii-play_oc": {
+        "name": "Quad Vena II Play",
+        "price": 699.0,
+        "price_old": 949.0,
+        "url": "www.supersonido.es/p/quad-vena-ii-play_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto51634.jpg"
     },
     "pro-ject-stereo-box-rs": {
         "name": "Pro-Ject Stereo Box RS",
