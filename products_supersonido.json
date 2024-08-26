@@ -27,6 +27,13 @@
         "url": "www.supersonido.es/p/denon-dht-s216_",
         "image": "www.supersonido.es/productos/imagenes/producto52115.jpg"
     },
+    "ifi-audio-hip-dac-2_": {
+        "name": "IFI Audio Hip-dac 2",
+        "price": 139.0,
+        "price_old": 189.0,
+        "url": "www.supersonido.es/p/ifi-audio-hip-dac-2_",
+        "image": "www.supersonido.es/productos/imagenes/producto47578.jpg"
+    },
     "meze-audio-mini-xlr-ofc-standard-cables_": {
         "name": "Meze Audio MINI XLR OFC STANDARD CABLES",
         "price": 139.0,
@@ -349,13 +356,6 @@
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
-    "ruark-audio-r3s_": {
-        "name": "Ruark Audio R3S",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/ruark-audio-r3s_",
-        "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
-    },
     "svs-pb1000_OC": {
         "name": "SVS PB-1000",
         "price": 599.0,
@@ -363,19 +363,26 @@
         "url": "www.supersonido.es/p/svs-pb1000_OC",
         "image": "www.supersonido.es/productos/imagenes/producto28700.jpg"
     },
-    "roberts-radio-stream-67_": {
-        "name": "Roberts Radio Stream 67",
-        "price": 599.0,
-        "price_old": 829.0,
-        "url": "www.supersonido.es/p/roberts-radio-stream-67_",
-        "image": "www.supersonido.es/productos/imagenes/producto51499.jpg"
-    },
     "technics-ottava-s-sc-c50OC": {
         "name": "Technics OTTAVA S SC-C50",
         "price": 599.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
         "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
+    },
+    "ruark-audio-r3s_": {
+        "name": "Ruark Audio R3S",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/ruark-audio-r3s_",
+        "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
+    },
+    "roberts-radio-stream-67_": {
+        "name": "Roberts Radio Stream 67",
+        "price": 599.0,
+        "price_old": 829.0,
+        "url": "www.supersonido.es/p/roberts-radio-stream-67_",
+        "image": "www.supersonido.es/productos/imagenes/producto51499.jpg"
     },
     "monitor-audio-bronze-200_": {
         "name": "Monitor Audio Bronze 200",
@@ -475,6 +482,13 @@
         "url": "www.supersonido.es/p/martin-logan-fresco-i-i",
         "image": "www.supersonido.es/productos/imagenes/producto619.jpg"
     },
+    "rega-planar-3-50th-anniversary-edition": {
+        "name": "Rega Planar 3 50th Anniversary Edition",
+        "price": 799.0,
+        "price_old": 999.0,
+        "url": "www.supersonido.es/p/rega-planar-3-50th-anniversary-edition",
+        "image": "www.supersonido.es/productos/imagenes/producto49652.jpg"
+    },
     "kef-lsx_": {
         "name": "KEF LSX",
         "price": 799.0,
@@ -488,13 +502,6 @@
         "price_old": 1099.0,
         "url": "www.supersonido.es/p/musical-fidelity-m2scd",
         "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
-    },
-    "rega-planar-3-50th-anniversary-edition": {
-        "name": "Rega Planar 3 50th Anniversary Edition",
-        "price": 799.0,
-        "price_old": 999.0,
-        "url": "www.supersonido.es/p/rega-planar-3-50th-anniversary-edition",
-        "image": "www.supersonido.es/productos/imagenes/producto49652.jpg"
     },
     "audeze-lcd-gx_": {
         "name": "Audeze LCD-GX",
@@ -545,19 +552,19 @@
         "url": "www.supersonido.es/p/audeze-lcdxc_ocasion_",
         "image": "www.supersonido.es/productos/imagenes/producto41901.jpg"
     },
-    "audiolab-6000a-play__": {
-        "name": "Audiolab 6000A PLAY",
-        "price": 999.0,
-        "price_old": 1249.0,
-        "url": "www.supersonido.es/p/audiolab-6000a-play__",
-        "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
-    },
     "cayin-n6ii_": {
         "name": "Cayin N6ii",
         "price": 999.0,
         "price_old": 1399.0,
         "url": "www.supersonido.es/p/cayin-n6ii_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+    },
+    "audiolab-6000a-play__": {
+        "name": "Audiolab 6000A PLAY",
+        "price": 999.0,
+        "price_old": 1249.0,
+        "url": "www.supersonido.es/p/audiolab-6000a-play__",
+        "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
     },
     "audiolab-7000a_": {
         "name": "Audiolab 7000A",
@@ -678,19 +685,19 @@
         "url": "www.supersonido.es/p/reavon-ubr-x200_",
         "image": "www.supersonido.es/productos/imagenes/producto51498.jpg"
     },
-    "hisense-100l5f-b12_": {
-        "name": "Hisense 100L5F-B12",
-        "price": 1499.0,
-        "price_old": 3490.0,
-        "url": "www.supersonido.es/p/hisense-100l5f-b12_",
-        "image": "www.supersonido.es/productos/imagenes/producto52154.jpg"
-    },
     "audio-technica-ath-awkt_": {
         "name": "Audio-Technica ATH-AWKT",
         "price": 1499.0,
         "price_old": 1999.0,
         "url": "www.supersonido.es/p/audio-technica-ath-awkt_",
         "image": "www.supersonido.es/productos/imagenes/producto49179.jpg"
+    },
+    "hisense-100l5f-b12_": {
+        "name": "Hisense 100L5F-B12",
+        "price": 1499.0,
+        "price_old": 3490.0,
+        "url": "www.supersonido.es/p/hisense-100l5f-b12_",
+        "image": "www.supersonido.es/productos/imagenes/producto52154.jpg"
     },
     "martin-logan-motion-20i_": {
         "name": "Martin-Logan Motion 20i",
@@ -874,19 +881,19 @@
         "url": "www.supersonido.es/p/matrix-audio-x-sabre-3_oca",
         "image": "www.supersonido.es/productos/imagenes/producto51573.jpg"
     },
-    "electrocompaniet-ec-4-9-2ch": {
-        "name": "Electrocompaniet EC 4.9 2ch",
-        "price": 2890.0,
-        "price_old": 4290.0,
-        "url": "www.supersonido.es/p/electrocompaniet-ec-4-9-2ch",
-        "image": "www.supersonido.es/productos/imagenes/producto5156.jpg"
-    },
     "isotek-systems-nova": {
         "name": "Isotek Systems Nova",
         "price": 2890.0,
         "price_old": 3990.0,
         "url": "www.supersonido.es/p/isotek-systems-nova",
         "image": "www.supersonido.es/productos/imagenes/producto11309.jpg"
+    },
+    "electrocompaniet-ec-4-9-2ch": {
+        "name": "Electrocompaniet EC 4.9 2ch",
+        "price": 2890.0,
+        "price_old": 4290.0,
+        "url": "www.supersonido.es/p/electrocompaniet-ec-4-9-2ch",
+        "image": "www.supersonido.es/productos/imagenes/producto5156.jpg"
     },
     "primare-i35dac_": {
         "name": "Primare I35DAC",
