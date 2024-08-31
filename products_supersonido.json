@@ -97,19 +97,19 @@
         "url": "www.supersonido.es/p/yamaha-mcr-b270__",
         "image": "www.supersonido.es/productos/imagenes/producto49874.jpg"
     },
-    "ifi-audio-zen-dac-signature": {
-        "name": "IFI Audio ZEN DAC SIGNATURE",
-        "price": 199.0,
-        "price_old": 299.0,
-        "url": "www.supersonido.es/p/ifi-audio-zen-dac-signature",
-        "image": "www.supersonido.es/productos/imagenes/producto43929.jpg"
-    },
     "sivga-oriole_": {
         "name": "Sivga Oriole",
         "price": 199.0,
         "price_old": 249.0,
         "url": "www.supersonido.es/p/sivga-oriole_",
         "image": "www.supersonido.es/productos/imagenes/producto51127.jpg"
+    },
+    "ifi-audio-zen-dac-signature": {
+        "name": "IFI Audio ZEN DAC SIGNATURE",
+        "price": 199.0,
+        "price_old": 299.0,
+        "url": "www.supersonido.es/p/ifi-audio-zen-dac-signature",
+        "image": "www.supersonido.es/productos/imagenes/producto43929.jpg"
     },
     "audioquest-slip-db-14-4-2m": {
         "name": "Audioquest SLIP-DB 14/4 2m",
@@ -258,19 +258,19 @@
         "url": "www.supersonido.es/p/sony-str-dh590_",
         "image": "www.supersonido.es/productos/imagenes/producto48019.jpg"
     },
-    "sennheiser-conversation-clear-plus_": {
-        "name": "Sennheiser Conversation Clear Plus",
-        "price": 349.0,
-        "price_old": 819.0,
-        "url": "www.supersonido.es/p/sennheiser-conversation-clear-plus_",
-        "image": "www.supersonido.es/productos/imagenes/producto52214.jpg"
-    },
     "dynaudio-stand-20_": {
         "name": "Dynaudio Stand 20",
         "price": 349.0,
         "price_old": 529.0,
         "url": "www.supersonido.es/p/dynaudio-stand-20_",
         "image": "www.supersonido.es/productos/imagenes/producto48776.jpg"
+    },
+    "sennheiser-conversation-clear-plus_": {
+        "name": "Sennheiser Conversation Clear Plus",
+        "price": 349.0,
+        "price_old": 819.0,
+        "url": "www.supersonido.es/p/sennheiser-conversation-clear-plus_",
+        "image": "www.supersonido.es/productos/imagenes/producto52214.jpg"
     },
     "ruark-audio-mrx": {
         "name": "Ruark Audio MRx",
@@ -454,19 +454,19 @@
         "url": "www.supersonido.es/p/campfire-audio-vega-2020_",
         "image": "www.supersonido.es/productos/imagenes/producto51156.jpg"
     },
-    "mrspeakers-aeon-open__": {
-        "name": "Dan Clark Audio AEON Open",
-        "price": 699.0,
-        "price_old": 1099.0,
-        "url": "www.supersonido.es/p/mrspeakers-aeon-open__",
-        "image": "www.supersonido.es/productos/imagenes/producto48073.jpg"
-    },
     "matrix-audio-element-i_": {
         "name": "Matrix Audio Element i",
         "price": 699.0,
         "price_old": 939.0,
         "url": "www.supersonido.es/p/matrix-audio-element-i_",
         "image": "www.supersonido.es/productos/imagenes/producto42751.jpg"
+    },
+    "mrspeakers-aeon-open__": {
+        "name": "Dan Clark Audio AEON Open",
+        "price": 699.0,
+        "price_old": 1099.0,
+        "url": "www.supersonido.es/p/mrspeakers-aeon-open__",
+        "image": "www.supersonido.es/productos/imagenes/producto48073.jpg"
     },
     "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra": {
         "name": "Pro-Ject Pre-Box S2 Digital DAC +  Stream Box S2 Ultra",
@@ -530,6 +530,13 @@
         "price_old": 999.0,
         "url": "www.supersonido.es/p/rega-planar-3-50th-anniversary-edition",
         "image": "www.supersonido.es/productos/imagenes/producto49652.jpg"
+    },
+    "cayin-mt-35mk2-plus": {
+        "name": "Cayin MT-35MK2 PLUS",
+        "price": 799.0,
+        "price_old": 1390.0,
+        "url": "www.supersonido.es/p/cayin-mt-35mk2-plus",
+        "image": "www.supersonido.es/productos/imagenes/producto46477.jpg"
     },
     "kef-lsx_": {
         "name": "KEF LSX",
@@ -664,13 +671,6 @@
         "url": "www.supersonido.es/p/rel-habitat-1",
         "image": "www.supersonido.es/productos/imagenes/producto16309.jpg"
     },
-    "mrspeakers-ether-flow": {
-        "name": "Dan Clark Audio ETHER Flow",
-        "price": 1299.0,
-        "price_old": 1999.0,
-        "url": "www.supersonido.es/p/mrspeakers-ether-flow",
-        "image": "www.supersonido.es/productos/imagenes/producto28309.jpg"
-    },
     "mofi-electronics-studiodeck__": {
         "name": "Mofi Electronics STUDIODECK",
         "price": 1299.0,
@@ -678,12 +678,12 @@
         "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
         "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
     },
-    "matrix-audio-element-p__": {
-        "name": "Matrix Audio Element P",
-        "price": 1390.0,
-        "price_old": 2799.0,
-        "url": "www.supersonido.es/p/matrix-audio-element-p__",
-        "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
+    "mrspeakers-ether-flow": {
+        "name": "Dan Clark Audio ETHER Flow",
+        "price": 1299.0,
+        "price_old": 1999.0,
+        "url": "www.supersonido.es/p/mrspeakers-ether-flow",
+        "image": "www.supersonido.es/productos/imagenes/producto28309.jpg"
     },
     "matrix-audio-element-p_": {
         "name": "Matrix Audio Element P",
@@ -691,6 +691,13 @@
         "price_old": 2799.0,
         "url": "www.supersonido.es/p/matrix-audio-element-p_",
         "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
+    },
+    "matrix-audio-element-p__": {
+        "name": "Matrix Audio Element P",
+        "price": 1390.0,
+        "price_old": 2799.0,
+        "url": "www.supersonido.es/p/matrix-audio-element-p__",
+        "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
     },
     "mrspeakers-ether-c-flow-1-1_": {
         "name": "Dan Clark Audio ETHER C Flow 1.1",
@@ -755,6 +762,13 @@
         "url": "www.supersonido.es/p/jbl-hdi-3600_oca",
         "image": "www.supersonido.es/productos/imagenes/producto52341.jpg"
     },
+    "cayin-cs-88a__oca": {
+        "name": "Cayin CS-88A",
+        "price": 1695.0,
+        "price_old": 3150.0,
+        "url": "www.supersonido.es/p/cayin-cs-88a__oca",
+        "image": "www.supersonido.es/productos/imagenes/producto52403.jpg"
+    },
     "astell-kern-se300_": {
         "name": "Astell&kern SE300",
         "price": 1699.0,
@@ -790,19 +804,19 @@
         "url": "www.supersonido.es/p/stax-srm-007tii",
         "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
     },
-    "astell-kern-acro-ca1000___": {
-        "name": "Astell&kern ACRO CA1000",
-        "price": 1899.0,
-        "price_old": 2399.0,
-        "url": "www.supersonido.es/p/astell-kern-acro-ca1000___",
-        "image": "www.supersonido.es/productos/imagenes/producto46481.jpg"
-    },
     "anthem-mca-225-gen-2_": {
         "name": "Anthem MCA 225 GEN 2",
         "price": 1899.0,
         "price_old": 2599.0,
         "url": "www.supersonido.es/p/anthem-mca-225-gen-2_",
         "image": "www.supersonido.es/productos/imagenes/producto50079.jpg"
+    },
+    "astell-kern-acro-ca1000___": {
+        "name": "Astell&kern ACRO CA1000",
+        "price": 1899.0,
+        "price_old": 2399.0,
+        "url": "www.supersonido.es/p/astell-kern-acro-ca1000___",
+        "image": "www.supersonido.es/productos/imagenes/producto46481.jpg"
     },
     "martin-logan-em-esl-c_": {
         "name": "Martin-Logan EM-ESL C",
