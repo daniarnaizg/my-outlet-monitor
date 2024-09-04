@@ -20,6 +20,13 @@
         "url": "www.supersonido.es/p/loewe-wee-hear-2",
         "image": "www.supersonido.es/productos/imagenes/producto46142.jpg"
     },
+    "audio-technica-at-lp60x__": {
+        "name": "Audio-Technica AT-LP60X",
+        "price": 119.0,
+        "price_old": 159.0,
+        "url": "www.supersonido.es/p/audio-technica-at-lp60x__",
+        "image": "www.supersonido.es/productos/imagenes/producto49584.jpg"
+    },
     "denon-dht-s216_": {
         "name": "Denon DHT-S216",
         "price": 129.0,
@@ -167,6 +174,13 @@
         "url": "www.supersonido.es/p/hifiman-sundara_",
         "image": "www.supersonido.es/productos/imagenes/producto44086.jpg"
     },
+    "panasonic-sc-pmx90_": {
+        "name": "Panasonic SC-PMX90",
+        "price": 249.0,
+        "price_old": 339.0,
+        "url": "www.supersonido.es/p/panasonic-sc-pmx90_",
+        "image": "www.supersonido.es/productos/imagenes/producto46001.jpg"
+    },
     "audiopro-addon-c10_": {
         "name": "AudioPro ADDON C10",
         "price": 249.0,
@@ -187,13 +201,6 @@
         "price_old": 350.0,
         "url": "www.supersonido.es/p/audiopro-d-1",
         "image": "www.supersonido.es/productos/imagenes/producto43369.jpg"
-    },
-    "panasonic-sc-pmx90_": {
-        "name": "Panasonic SC-PMX90",
-        "price": 249.0,
-        "price_old": 339.0,
-        "url": "www.supersonido.es/p/panasonic-sc-pmx90_",
-        "image": "www.supersonido.es/productos/imagenes/producto46001.jpg"
     },
     "the-chord-company-silent-mount-sm7_": {
         "name": "The Chord Company Silent Mount SM7",
@@ -461,19 +468,19 @@
         "url": "www.supersonido.es/p/campfire-audio-vega-2020_",
         "image": "www.supersonido.es/productos/imagenes/producto51156.jpg"
     },
-    "matrix-audio-element-i_": {
-        "name": "Matrix Audio Element i",
-        "price": 699.0,
-        "price_old": 939.0,
-        "url": "www.supersonido.es/p/matrix-audio-element-i_",
-        "image": "www.supersonido.es/productos/imagenes/producto42751.jpg"
-    },
     "mrspeakers-aeon-open__": {
         "name": "Dan Clark Audio AEON Open",
         "price": 699.0,
         "price_old": 1099.0,
         "url": "www.supersonido.es/p/mrspeakers-aeon-open__",
         "image": "www.supersonido.es/productos/imagenes/producto48073.jpg"
+    },
+    "matrix-audio-element-i_": {
+        "name": "Matrix Audio Element i",
+        "price": 699.0,
+        "price_old": 939.0,
+        "url": "www.supersonido.es/p/matrix-audio-element-i_",
+        "image": "www.supersonido.es/productos/imagenes/producto42751.jpg"
     },
     "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra": {
         "name": "Pro-Ject Pre-Box S2 Digital DAC +  Stream Box S2 Ultra",
@@ -685,19 +692,19 @@
         "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
         "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
     },
-    "matrix-audio-element-p_": {
-        "name": "Matrix Audio Element P",
-        "price": 1390.0,
-        "price_old": 2799.0,
-        "url": "www.supersonido.es/p/matrix-audio-element-p_",
-        "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
-    },
     "matrix-audio-element-p__": {
         "name": "Matrix Audio Element P",
         "price": 1390.0,
         "price_old": 2799.0,
         "url": "www.supersonido.es/p/matrix-audio-element-p__",
         "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
+    },
+    "matrix-audio-element-p_": {
+        "name": "Matrix Audio Element P",
+        "price": 1390.0,
+        "price_old": 2799.0,
+        "url": "www.supersonido.es/p/matrix-audio-element-p_",
+        "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
     },
     "mrspeakers-ether-c-flow-1-1_": {
         "name": "Dan Clark Audio ETHER C Flow 1.1",
