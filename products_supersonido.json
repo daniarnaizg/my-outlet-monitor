@@ -111,19 +111,19 @@
         "url": "www.supersonido.es/p/zidoo-z9x-pro_",
         "image": "www.supersonido.es/productos/imagenes/producto52429.jpg"
     },
-    "sivga-oriole_": {
-        "name": "Sivga Oriole",
-        "price": 199.0,
-        "price_old": 249.0,
-        "url": "www.supersonido.es/p/sivga-oriole_",
-        "image": "www.supersonido.es/productos/imagenes/producto51127.jpg"
-    },
     "ifi-audio-zen-dac-signature": {
         "name": "IFI Audio ZEN DAC SIGNATURE",
         "price": 199.0,
         "price_old": 299.0,
         "url": "www.supersonido.es/p/ifi-audio-zen-dac-signature",
         "image": "www.supersonido.es/productos/imagenes/producto43929.jpg"
+    },
+    "sivga-oriole_": {
+        "name": "Sivga Oriole",
+        "price": 199.0,
+        "price_old": 249.0,
+        "url": "www.supersonido.es/p/sivga-oriole_",
+        "image": "www.supersonido.es/productos/imagenes/producto51127.jpg"
     },
     "audioquest-slip-db-14-4-2m": {
         "name": "Audioquest SLIP-DB 14/4 2m",
@@ -174,13 +174,6 @@
         "url": "www.supersonido.es/p/hifiman-sundara_",
         "image": "www.supersonido.es/productos/imagenes/producto44086.jpg"
     },
-    "panasonic-sc-pmx90_": {
-        "name": "Panasonic SC-PMX90",
-        "price": 249.0,
-        "price_old": 339.0,
-        "url": "www.supersonido.es/p/panasonic-sc-pmx90_",
-        "image": "www.supersonido.es/productos/imagenes/producto46001.jpg"
-    },
     "audiopro-addon-c10_": {
         "name": "AudioPro ADDON C10",
         "price": 249.0,
@@ -201,6 +194,13 @@
         "price_old": 350.0,
         "url": "www.supersonido.es/p/audiopro-d-1",
         "image": "www.supersonido.es/productos/imagenes/producto43369.jpg"
+    },
+    "panasonic-sc-pmx90_": {
+        "name": "Panasonic SC-PMX90",
+        "price": 249.0,
+        "price_old": 339.0,
+        "url": "www.supersonido.es/p/panasonic-sc-pmx90_",
+        "image": "www.supersonido.es/productos/imagenes/producto46001.jpg"
     },
     "the-chord-company-silent-mount-sm7_": {
         "name": "The Chord Company Silent Mount SM7",
@@ -342,6 +342,13 @@
         "url": "www.supersonido.es/p/stax-srm-252s",
         "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
     },
+    "monitor-audio-bronze-100_oc": {
+        "name": "Monitor Audio Bronze 100",
+        "price": 415.0,
+        "price_old": 550.0,
+        "url": "www.supersonido.es/p/monitor-audio-bronze-100_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto47530.jpg"
+    },
     "monitor-audio-a10_": {
         "name": "Monitor Audio Apex A10",
         "price": 419.0,
@@ -482,19 +489,19 @@
         "url": "www.supersonido.es/p/campfire-audio-vega-2020_",
         "image": "www.supersonido.es/productos/imagenes/producto51156.jpg"
     },
-    "mrspeakers-aeon-open__": {
-        "name": "Dan Clark Audio AEON Open",
-        "price": 699.0,
-        "price_old": 1099.0,
-        "url": "www.supersonido.es/p/mrspeakers-aeon-open__",
-        "image": "www.supersonido.es/productos/imagenes/producto48073.jpg"
-    },
     "matrix-audio-element-i_": {
         "name": "Matrix Audio Element i",
         "price": 699.0,
         "price_old": 939.0,
         "url": "www.supersonido.es/p/matrix-audio-element-i_",
         "image": "www.supersonido.es/productos/imagenes/producto42751.jpg"
+    },
+    "mrspeakers-aeon-open__": {
+        "name": "Dan Clark Audio AEON Open",
+        "price": 699.0,
+        "price_old": 1099.0,
+        "url": "www.supersonido.es/p/mrspeakers-aeon-open__",
+        "image": "www.supersonido.es/productos/imagenes/producto48073.jpg"
     },
     "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra": {
         "name": "Pro-Ject Pre-Box S2 Digital DAC +  Stream Box S2 Ultra",
@@ -516,6 +523,13 @@
         "price_old": 949.0,
         "url": "www.supersonido.es/p/quad-vena-ii-play_oc",
         "image": "www.supersonido.es/productos/imagenes/producto51634.jpg"
+    },
+    "panasonic-dp-ub9000eg1_": {
+        "name": "Panasonic DP-UB9000EG1",
+        "price": 749.0,
+        "price_old": 1099.0,
+        "url": "www.supersonido.es/p/panasonic-dp-ub9000eg1_",
+        "image": "www.supersonido.es/productos/imagenes/producto51101.jpg"
     },
     "pro-ject-stereo-box-rs": {
         "name": "Pro-Ject Stereo Box RS",
@@ -685,19 +699,19 @@
         "url": "www.supersonido.es/p/rel-habitat-1",
         "image": "www.supersonido.es/productos/imagenes/producto16309.jpg"
     },
-    "mofi-electronics-studiodeck__": {
-        "name": "Mofi Electronics STUDIODECK",
-        "price": 1299.0,
-        "price_old": 1599.0,
-        "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
-        "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
-    },
     "mrspeakers-ether-flow": {
         "name": "Dan Clark Audio ETHER Flow",
         "price": 1299.0,
         "price_old": 1999.0,
         "url": "www.supersonido.es/p/mrspeakers-ether-flow",
         "image": "www.supersonido.es/productos/imagenes/producto28309.jpg"
+    },
+    "mofi-electronics-studiodeck__": {
+        "name": "Mofi Electronics STUDIODECK",
+        "price": 1299.0,
+        "price_old": 1599.0,
+        "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
+        "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
     },
     "matrix-audio-element-p__": {
         "name": "Matrix Audio Element P",
@@ -713,13 +727,6 @@
         "url": "www.supersonido.es/p/matrix-audio-element-p_",
         "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
     },
-    "ferrum-erco": {
-        "name": "Ferrum ERCO",
-        "price": 1399.0,
-        "price_old": 1795.0,
-        "url": "www.supersonido.es/p/ferrum-erco",
-        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
-    },
     "mrspeakers-ether-c-flow-1-1_": {
         "name": "Dan Clark Audio ETHER C Flow 1.1",
         "price": 1399.0,
@@ -733,6 +740,13 @@
         "price_old": 2159.0,
         "url": "www.supersonido.es/p/mrspeakers-ether-flow-1-1_",
         "image": "www.supersonido.es/productos/imagenes/producto50776.jpg"
+    },
+    "ferrum-erco": {
+        "name": "Ferrum ERCO",
+        "price": 1399.0,
+        "price_old": 1795.0,
+        "url": "www.supersonido.es/p/ferrum-erco",
+        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
     },
     "reavon-ubr-x200_": {
         "name": "Reavon UBR-X200",
@@ -811,19 +825,19 @@
         "url": "www.supersonido.es/p/stax-srm-007tii",
         "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
     },
-    "anthem-mca-225-gen-2_": {
-        "name": "Anthem MCA 225 GEN 2",
-        "price": 1899.0,
-        "price_old": 2599.0,
-        "url": "www.supersonido.es/p/anthem-mca-225-gen-2_",
-        "image": "www.supersonido.es/productos/imagenes/producto50079.jpg"
-    },
     "astell-kern-acro-ca1000___": {
         "name": "Astell&kern ACRO CA1000",
         "price": 1899.0,
         "price_old": 2399.0,
         "url": "www.supersonido.es/p/astell-kern-acro-ca1000___",
         "image": "www.supersonido.es/productos/imagenes/producto46481.jpg"
+    },
+    "anthem-mca-225-gen-2_": {
+        "name": "Anthem MCA 225 GEN 2",
+        "price": 1899.0,
+        "price_old": 2599.0,
+        "url": "www.supersonido.es/p/anthem-mca-225-gen-2_",
+        "image": "www.supersonido.es/productos/imagenes/producto50079.jpg"
     },
     "martin-logan-em-esl-c_": {
         "name": "Martin-Logan EM-ESL C",
@@ -916,19 +930,19 @@
         "url": "www.supersonido.es/p/wharfedale-elysian-1_oc",
         "image": "www.supersonido.es/productos/imagenes/producto52140.jpg"
     },
-    "roon-labs-nucleus-plus_": {
-        "name": "Roon Labs Nucleus Plus",
-        "price": 2799.0,
-        "price_old": 3499.0,
-        "url": "www.supersonido.es/p/roon-labs-nucleus-plus_",
-        "image": "www.supersonido.es/productos/imagenes/producto51278.jpg"
-    },
     "mrspeakers-voce_": {
         "name": "Dan Clark Audio VOCE",
         "price": 2799.0,
         "price_old": 3999.0,
         "url": "www.supersonido.es/p/mrspeakers-voce_",
         "image": "www.supersonido.es/productos/imagenes/producto50151.jpg"
+    },
+    "roon-labs-nucleus-plus_": {
+        "name": "Roon Labs Nucleus Plus",
+        "price": 2799.0,
+        "price_old": 3499.0,
+        "url": "www.supersonido.es/p/roon-labs-nucleus-plus_",
+        "image": "www.supersonido.es/productos/imagenes/producto51278.jpg"
     },
     "matrix-audio-x-sabre-3_oca": {
         "name": "Matrix Audio X-SABRE 3",
