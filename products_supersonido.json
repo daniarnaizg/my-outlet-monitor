@@ -202,13 +202,6 @@
         "url": "www.supersonido.es/p/ifi-audio-zen-can-signature-mz99_",
         "image": "www.supersonido.es/productos/imagenes/producto52354.jpg"
     },
-    "sennheiser-momentum-4-wireless_": {
-        "name": "Sennheiser Momentum 4 Wireless",
-        "price": 269.0,
-        "price_old": 369.0,
-        "url": "www.supersonido.es/p/sennheiser-momentum-4-wireless_",
-        "image": "www.supersonido.es/productos/imagenes/producto52353.jpg"
-    },
     "pro-ject-stereo-box-ds_": {
         "name": "Pro-Ject Stereo Box DS",
         "price": 275.0,
@@ -300,6 +293,13 @@
         "url": "www.supersonido.es/p/monitor-audio-cpwt380_",
         "image": "www.supersonido.es/productos/imagenes/producto26150.jpg"
     },
+    "audeze-maxwell-xbox": {
+        "name": "Audeze MAXWELL XBOX",
+        "price": 399.0,
+        "price_old": 449.0,
+        "url": "www.supersonido.es/p/audeze-maxwell-xbox",
+        "image": "www.supersonido.es/productos/imagenes/producto48821.jpg"
+    },
     "solidsteel-vintage-ss7_": {
         "name": "Solidsteel Vintage SS7",
         "price": 399.0,
@@ -320,13 +320,6 @@
         "price_old": 649.0,
         "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
         "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
-    },
-    "audeze-maxwell-xbox": {
-        "name": "Audeze MAXWELL XBOX",
-        "price": 399.0,
-        "price_old": 449.0,
-        "url": "www.supersonido.es/p/audeze-maxwell-xbox",
-        "image": "www.supersonido.es/productos/imagenes/producto48821.jpg"
     },
     "monitor-audio-a10_": {
         "name": "Monitor Audio Apex A10",
@@ -426,19 +419,19 @@
         "url": "www.supersonido.es/p/roberts-radio-stream-67_",
         "image": "www.supersonido.es/productos/imagenes/producto51499.jpg"
     },
-    "svs-pb1000_OC": {
-        "name": "SVS PB-1000",
-        "price": 599.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/svs-pb1000_OC",
-        "image": "www.supersonido.es/productos/imagenes/producto28700.jpg"
-    },
     "technics-ottava-s-sc-c50OC": {
         "name": "Technics OTTAVA S SC-C50",
         "price": 599.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
         "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
+    },
+    "svs-pb1000_OC": {
+        "name": "SVS PB-1000",
+        "price": 599.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/svs-pb1000_OC",
+        "image": "www.supersonido.es/productos/imagenes/producto28700.jpg"
     },
     "monitor-audio-bronze-200_": {
         "name": "Monitor Audio Bronze 200",
@@ -664,19 +657,19 @@
         "url": "www.supersonido.es/p/rel-habitat-1",
         "image": "www.supersonido.es/productos/imagenes/producto16309.jpg"
     },
-    "mrspeakers-ether-flow": {
-        "name": "Dan Clark Audio ETHER Flow",
-        "price": 1299.0,
-        "price_old": 1999.0,
-        "url": "www.supersonido.es/p/mrspeakers-ether-flow",
-        "image": "www.supersonido.es/productos/imagenes/producto28309.jpg"
-    },
     "mofi-electronics-studiodeck__": {
         "name": "Mofi Electronics STUDIODECK",
         "price": 1299.0,
         "price_old": 1599.0,
         "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
         "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
+    },
+    "mrspeakers-ether-flow": {
+        "name": "Dan Clark Audio ETHER Flow",
+        "price": 1299.0,
+        "price_old": 1999.0,
+        "url": "www.supersonido.es/p/mrspeakers-ether-flow",
+        "image": "www.supersonido.es/productos/imagenes/producto28309.jpg"
     },
     "matrix-audio-element-p__": {
         "name": "Matrix Audio Element P",
@@ -790,19 +783,19 @@
         "url": "www.supersonido.es/p/stax-srm-007tii",
         "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
     },
-    "astell-kern-acro-ca1000___": {
-        "name": "Astell&kern ACRO CA1000",
-        "price": 1899.0,
-        "price_old": 2399.0,
-        "url": "www.supersonido.es/p/astell-kern-acro-ca1000___",
-        "image": "www.supersonido.es/productos/imagenes/producto46481.jpg"
-    },
     "anthem-mca-225-gen-2_": {
         "name": "Anthem MCA 225 GEN 2",
         "price": 1899.0,
         "price_old": 2599.0,
         "url": "www.supersonido.es/p/anthem-mca-225-gen-2_",
         "image": "www.supersonido.es/productos/imagenes/producto50079.jpg"
+    },
+    "astell-kern-acro-ca1000___": {
+        "name": "Astell&kern ACRO CA1000",
+        "price": 1899.0,
+        "price_old": 2399.0,
+        "url": "www.supersonido.es/p/astell-kern-acro-ca1000___",
+        "image": "www.supersonido.es/productos/imagenes/producto46481.jpg"
     },
     "martin-logan-em-esl-c_": {
         "name": "Martin-Logan EM-ESL C",
