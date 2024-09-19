@@ -307,19 +307,19 @@
         "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
         "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
     },
-    "focal-sib-evo-dolby-atmos-2-0_": {
-        "name": "FOCAL Sib Evo Dolby Atmos 2.0",
-        "price": 399.0,
-        "price_old": 499.0,
-        "url": "www.supersonido.es/p/focal-sib-evo-dolby-atmos-2-0_",
-        "image": "www.supersonido.es/productos/imagenes/producto52494.jpg"
-    },
     "q-acoustics-q3030i_": {
         "name": "Q-Acoustics Q3030i",
         "price": 399.0,
         "price_old": 489.0,
         "url": "www.supersonido.es/p/q-acoustics-q3030i_",
         "image": "www.supersonido.es/productos/imagenes/producto52454.jpg"
+    },
+    "focal-sib-evo-dolby-atmos-2-0_": {
+        "name": "FOCAL Sib Evo Dolby Atmos 2.0",
+        "price": 399.0,
+        "price_old": 499.0,
+        "url": "www.supersonido.es/p/focal-sib-evo-dolby-atmos-2-0_",
+        "image": "www.supersonido.es/productos/imagenes/producto52494.jpg"
     },
     "solidsteel-vintage-ss7_": {
         "name": "Solidsteel Vintage SS7",
@@ -349,19 +349,19 @@
         "url": "www.supersonido.es/p/pro-ject-debut-s-rainier_",
         "image": "www.supersonido.es/productos/imagenes/producto52193.jpg"
     },
-    "zidoo-z2000-pro": {
-        "name": "Zidoo Z2000 Pro",
-        "price": 449.0,
-        "price_old": 449.0,
-        "url": "www.supersonido.es/p/zidoo-z2000-pro",
-        "image": "www.supersonido.es/productos/imagenes/producto52430.jpg"
-    },
     "pioneer-a-40ae_oc": {
         "name": "Pioneer A-40AE",
         "price": 449.0,
         "price_old": 549.0,
         "url": "www.supersonido.es/p/pioneer-a-40ae_oc",
         "image": "www.supersonido.es/productos/imagenes/producto52339.jpg"
+    },
+    "zidoo-z2000-pro": {
+        "name": "Zidoo Z2000 Pro",
+        "price": 449.0,
+        "price_old": 449.0,
+        "url": "www.supersonido.es/p/zidoo-z2000-pro",
+        "image": "www.supersonido.es/productos/imagenes/producto52430.jpg"
     },
     "technics-ottava-s-sc-c30_": {
         "name": "Technics OTTAVA S SC-C30",
@@ -803,6 +803,13 @@
         "price_old": 2759.0,
         "url": "www.supersonido.es/p/martin-logan-motion-20i_",
         "image": "www.supersonido.es/productos/imagenes/producto50782.jpg"
+    },
+    "cayin-cs-88a__oca": {
+        "name": "Cayin CS-88A",
+        "price": 1695.0,
+        "price_old": 3150.0,
+        "url": "www.supersonido.es/p/cayin-cs-88a__oca",
+        "image": "www.supersonido.es/productos/imagenes/producto52403.jpg"
     },
     "astell-kern-se300_": {
         "name": "Astell&kern SE300",
