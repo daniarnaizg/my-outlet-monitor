@@ -251,6 +251,20 @@
         "url": "www.supersonido.es/p/sony-str-dh590_",
         "image": "www.supersonido.es/productos/imagenes/producto48019.jpg"
     },
+    "bose-smart-soundbar-600_": {
+        "name": "Bose Smart Soundbar 600",
+        "price": 339.0,
+        "price_old": 599.0,
+        "url": "www.supersonido.es/p/bose-smart-soundbar-600_",
+        "image": "www.supersonido.es/productos/imagenes/producto52525.jpg"
+    },
+    "sonus-faber-sonetto-stand_": {
+        "name": "Sonus Faber Sonetto Stand",
+        "price": 349.0,
+        "price_old": 450.0,
+        "url": "www.supersonido.es/p/sonus-faber-sonetto-stand_",
+        "image": "www.supersonido.es/productos/imagenes/producto52521.jpg"
+    },
     "dynaudio-stand-20_": {
         "name": "Dynaudio Stand 20",
         "price": 349.0,
@@ -271,13 +285,6 @@
         "price_old": 499.0,
         "url": "www.supersonido.es/p/sony-sa-sw3_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49662.jpg"
-    },
-    "sonus-faber-sonetto-stand_": {
-        "name": "Sonus Faber Sonetto Stand",
-        "price": 349.0,
-        "price_old": 450.0,
-        "url": "www.supersonido.es/p/sonus-faber-sonetto-stand_",
-        "image": "www.supersonido.es/productos/imagenes/producto52521.jpg"
     },
     "monitor-audio-cpwt380_": {
         "name": "Monitor Audio CP-WT380",
@@ -433,19 +440,19 @@
         "url": "www.supersonido.es/p/ruark-audio-r3s_",
         "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
     },
-    "roberts-radio-stream-67_": {
-        "name": "Roberts Radio Stream 67",
-        "price": 599.0,
-        "price_old": 829.0,
-        "url": "www.supersonido.es/p/roberts-radio-stream-67_",
-        "image": "www.supersonido.es/productos/imagenes/producto51499.jpg"
-    },
     "q-acoustics-q3050i_occcc": {
         "name": "Q-Acoustics Q3050i",
         "price": 599.0,
         "price_old": 949.0,
         "url": "www.supersonido.es/p/q-acoustics-q3050i_occcc",
         "image": "www.supersonido.es/productos/imagenes/producto52485.jpg"
+    },
+    "roberts-radio-stream-67_": {
+        "name": "Roberts Radio Stream 67",
+        "price": 599.0,
+        "price_old": 829.0,
+        "url": "www.supersonido.es/p/roberts-radio-stream-67_",
+        "image": "www.supersonido.es/productos/imagenes/producto51499.jpg"
     },
     "monitor-audio-bronze-200_": {
         "name": "Monitor Audio Bronze 200",
@@ -646,23 +653,30 @@
     "svs-ultra-surround_": {
         "name": "SVS Ultra Surround",
         "price": 1099.0,
-        "price_old": 1799.0,
+        "price_old": 1299.0,
         "url": "www.supersonido.es/p/svs-ultra-surround_",
         "image": "www.supersonido.es/productos/imagenes/producto51280.jpg"
     },
-    "sennheiser-hd800s_OC": {
-        "name": "Sennheiser HD800S",
+    "q-acoustics-5040_oc": {
+        "name": "Q-Acoustics 5040",
         "price": 1099.0,
         "price_old": 1699.0,
-        "url": "www.supersonido.es/p/sennheiser-hd800s_OC",
-        "image": "www.supersonido.es/productos/imagenes/producto52456.jpg"
+        "url": "www.supersonido.es/p/q-acoustics-5040_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto51073.jpg"
     },
     "sonus-faber-sonetto-i_oc": {
         "name": "Sonus Faber Sonetto I",
-        "price": 1190.0,
-        "price_old": 1599.0,
+        "price": 1099.0,
+        "price_old": 1799.0,
         "url": "www.supersonido.es/p/sonus-faber-sonetto-i_oc",
         "image": "www.supersonido.es/productos/imagenes/producto52520.jpg"
+    },
+    "sennheiser-hd800s_OC": {
+        "name": "Sennheiser HD800S",
+        "price": 1190.0,
+        "price_old": 1599.0,
+        "url": "www.supersonido.es/p/sennheiser-hd800s_OC",
+        "image": "www.supersonido.es/productos/imagenes/producto52456.jpg"
     },
     "sivga-sendy-peacock_": {
         "name": "Sendy Audio Peacock",
@@ -678,19 +692,19 @@
         "url": "www.supersonido.es/p/klipsch-rp-6000f-ii_",
         "image": "www.supersonido.es/productos/imagenes/producto52492.jpg"
     },
-    "pro-ject-box-15-ds2_": {
-        "name": "Pro-Ject Speaker Box 15 DS2",
-        "price": 1199.0,
-        "price_old": 1590.0,
-        "url": "www.supersonido.es/p/pro-ject-box-15-ds2_",
-        "image": "www.supersonido.es/productos/imagenes/producto50803.jpg"
-    },
     "primare-sc-15-prisma": {
         "name": "Primare SC 15 Prisma",
         "price": 1199.0,
-        "price_old": 1699.0,
+        "price_old": 1590.0,
         "url": "www.supersonido.es/p/primare-sc-15-prisma",
         "image": "www.supersonido.es/productos/imagenes/producto29464.jpg"
+    },
+    "loewe-wee-see-55": {
+        "name": "Loewe WEE SEE 55",
+        "price": 1199.0,
+        "price_old": 1699.0,
+        "url": "www.supersonido.es/p/loewe-wee-see-55",
+        "image": "www.supersonido.es/productos/imagenes/producto46140.jpg"
     },
     "monitor-audio-silver-200-7g_": {
         "name": "Monitor Audio Silver 200 7G",
@@ -783,19 +797,19 @@
         "url": "www.supersonido.es/p/audio-technica-ath-awkt_",
         "image": "www.supersonido.es/productos/imagenes/producto49179.jpg"
     },
-    "reavon-ubr-x200_": {
-        "name": "Reavon UBR-X200",
-        "price": 1499.0,
-        "price_old": 1849.0,
-        "url": "www.supersonido.es/p/reavon-ubr-x200_",
-        "image": "www.supersonido.es/productos/imagenes/producto51498.jpg"
-    },
     "hisense-100l5f-b12_": {
         "name": "Hisense 100L5F-B12",
         "price": 1499.0,
         "price_old": 3490.0,
         "url": "www.supersonido.es/p/hisense-100l5f-b12_",
         "image": "www.supersonido.es/productos/imagenes/producto52154.jpg"
+    },
+    "reavon-ubr-x200_": {
+        "name": "Reavon UBR-X200",
+        "price": 1499.0,
+        "price_old": 1849.0,
+        "url": "www.supersonido.es/p/reavon-ubr-x200_",
+        "image": "www.supersonido.es/productos/imagenes/producto51498.jpg"
     },
     "martin-logan-motion-20i_": {
         "name": "Martin-Logan Motion 20i",
@@ -1007,19 +1021,19 @@
         "url": "www.supersonido.es/p/primare-i35dac_",
         "image": "www.supersonido.es/productos/imagenes/producto50790.jpg"
     },
-    "samsung-qe75qn800b__oc": {
-        "name": "Samsung QE75QN800B",
-        "price": 2999.0,
-        "price_old": 4999.0,
-        "url": "www.supersonido.es/p/samsung-qe75qn800b__oc",
-        "image": "www.supersonido.es/productos/imagenes/producto51399.jpg"
-    },
     "isotek-systems-sigmas_": {
         "name": "Isotek Systems Sigmas EVO 3",
         "price": 2999.0,
         "price_old": 4299.0,
         "url": "www.supersonido.es/p/isotek-systems-sigmas_",
         "image": "www.supersonido.es/productos/imagenes/producto50780.jpg"
+    },
+    "samsung-qe75qn800b__oc": {
+        "name": "Samsung QE75QN800B",
+        "price": 2999.0,
+        "price_old": 4999.0,
+        "url": "www.supersonido.es/p/samsung-qe75qn800b__oc",
+        "image": "www.supersonido.es/productos/imagenes/producto51399.jpg"
     },
     "jvc-lx-nz30_": {
         "name": "JVC LX-NZ30",
