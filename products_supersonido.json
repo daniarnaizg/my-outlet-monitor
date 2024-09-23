@@ -118,13 +118,6 @@
         "url": "www.supersonido.es/p/audioquest-slip-db-14-4-2m_",
         "image": "www.supersonido.es/productos/imagenes/producto51464.jpg"
     },
-    "ifi-audio-zen-phono-3_": {
-        "name": "IFI Audio ZEN Phono 3",
-        "price": 219.0,
-        "price_old": 249.0,
-        "url": "www.supersonido.es/p/ifi-audio-zen-phono-3_",
-        "image": "www.supersonido.es/productos/imagenes/producto52375.jpg"
-    },
     "panasonic-sc-pmx90_": {
         "name": "Panasonic SC-PMX90",
         "price": 219.0,
@@ -440,19 +433,19 @@
         "url": "www.supersonido.es/p/ruark-audio-r3s_",
         "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
     },
-    "q-acoustics-q3050i_occcc": {
-        "name": "Q-Acoustics Q3050i",
-        "price": 599.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/q-acoustics-q3050i_occcc",
-        "image": "www.supersonido.es/productos/imagenes/producto52485.jpg"
-    },
     "roberts-radio-stream-67_": {
         "name": "Roberts Radio Stream 67",
         "price": 599.0,
         "price_old": 829.0,
         "url": "www.supersonido.es/p/roberts-radio-stream-67_",
         "image": "www.supersonido.es/productos/imagenes/producto51499.jpg"
+    },
+    "q-acoustics-q3050i_occcc": {
+        "name": "Q-Acoustics Q3050i",
+        "price": 599.0,
+        "price_old": 949.0,
+        "url": "www.supersonido.es/p/q-acoustics-q3050i_occcc",
+        "image": "www.supersonido.es/productos/imagenes/producto52485.jpg"
     },
     "monitor-audio-bronze-200_": {
         "name": "Monitor Audio Bronze 200",
@@ -653,23 +646,23 @@
     "q-acoustics-5040_oc": {
         "name": "Q-Acoustics 5040",
         "price": 1099.0,
-        "price_old": 1699.0,
+        "price_old": 1799.0,
         "url": "www.supersonido.es/p/q-acoustics-5040_oc",
         "image": "www.supersonido.es/productos/imagenes/producto51073.jpg"
     },
-    "sonus-faber-sonetto-i_oc": {
-        "name": "Sonus Faber Sonetto I",
-        "price": 1099.0,
-        "price_old": 1799.0,
-        "url": "www.supersonido.es/p/sonus-faber-sonetto-i_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto52520.jpg"
-    },
     "sennheiser-hd800s_OC": {
         "name": "Sennheiser HD800S",
-        "price": 1190.0,
-        "price_old": 1599.0,
+        "price": 1099.0,
+        "price_old": 1699.0,
         "url": "www.supersonido.es/p/sennheiser-hd800s_OC",
         "image": "www.supersonido.es/productos/imagenes/producto52456.jpg"
+    },
+    "sonus-faber-sonetto-i_oc": {
+        "name": "Sonus Faber Sonetto I",
+        "price": 1190.0,
+        "price_old": 1599.0,
+        "url": "www.supersonido.es/p/sonus-faber-sonetto-i_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto52520.jpg"
     },
     "sivga-sendy-peacock_": {
         "name": "Sendy Audio Peacock",
@@ -692,12 +685,12 @@
         "url": "www.supersonido.es/p/pro-ject-box-15-ds2_",
         "image": "www.supersonido.es/productos/imagenes/producto50803.jpg"
     },
-    "primare-sc-15-prisma": {
-        "name": "Primare SC 15 Prisma",
+    "loewe-wee-see-55": {
+        "name": "Loewe WEE SEE 55",
         "price": 1199.0,
         "price_old": 1590.0,
-        "url": "www.supersonido.es/p/primare-sc-15-prisma",
-        "image": "www.supersonido.es/productos/imagenes/producto29464.jpg"
+        "url": "www.supersonido.es/p/loewe-wee-see-55",
+        "image": "www.supersonido.es/productos/imagenes/producto46140.jpg"
     },
     "monitor-audio-silver-200-7g_": {
         "name": "Monitor Audio Silver 200 7G",
@@ -825,19 +818,19 @@
         "url": "www.supersonido.es/p/cayin-cs-88a__",
         "image": "www.supersonido.es/productos/imagenes/producto52402.jpg"
     },
-    "astell-kern-se300_": {
-        "name": "Astell&kern SE300",
-        "price": 1699.0,
-        "price_old": 2199.0,
-        "url": "www.supersonido.es/p/astell-kern-se300_",
-        "image": "www.supersonido.es/productos/imagenes/producto52119.jpg"
-    },
     "jbl-hdi-3600_OC": {
         "name": "JBL HDI-3600",
         "price": 1699.0,
         "price_old": 3199.0,
         "url": "www.supersonido.es/p/jbl-hdi-3600_OC",
         "image": "www.supersonido.es/productos/imagenes/producto52514.jpg"
+    },
+    "astell-kern-se300_": {
+        "name": "Astell&kern SE300",
+        "price": 1699.0,
+        "price_old": 2199.0,
+        "url": "www.supersonido.es/p/astell-kern-se300_",
+        "image": "www.supersonido.es/productos/imagenes/producto52119.jpg"
     },
     "sennheiser-ambeo-soundbar_oc": {
         "name": "Sennheiser AMBEO Soundbar Max",
