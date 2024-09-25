@@ -118,6 +118,13 @@
         "url": "www.supersonido.es/p/audioquest-slip-db-14-4-2m",
         "image": "www.supersonido.es/productos/imagenes/producto51463.jpg"
     },
+    "jbl-hdi-fs_": {
+        "name": "JBL HDI FS",
+        "price": 210.0,
+        "price_old": 499.0,
+        "url": "www.supersonido.es/p/jbl-hdi-fs_",
+        "image": "www.supersonido.es/productos/imagenes/producto52555.jpg"
+    },
     "audioquest-slip-db-14-4-2m_": {
         "name": "Audioquest SLIP-DB 14/4 2,5m",
         "price": 215.0,
@@ -188,19 +195,19 @@
         "url": "www.supersonido.es/p/pro-ject-t1__",
         "image": "www.supersonido.es/productos/imagenes/producto51496.jpg"
     },
-    "ruark-audio-r1-mk4-light-cream-lacquer": {
-        "name": "Ruark Audio R1 Mk4 Light Cream Lacquer",
-        "price": 299.0,
-        "price_old": 299.0,
-        "url": "www.supersonido.es/p/ruark-audio-r1-mk4-light-cream-lacquer",
-        "image": "www.supersonido.es/productos/imagenes/producto52445.jpg"
-    },
     "pro-ject-vc-s2-alu_": {
         "name": "Pro-Ject VC-S2 ALU",
         "price": 299.0,
         "price_old": 499.0,
         "url": "www.supersonido.es/p/pro-ject-vc-s2-alu_",
         "image": "www.supersonido.es/productos/imagenes/producto52527.jpg"
+    },
+    "ruark-audio-r1-mk4-light-cream-lacquer": {
+        "name": "Ruark Audio R1 Mk4 Light Cream Lacquer",
+        "price": 299.0,
+        "price_old": 299.0,
+        "url": "www.supersonido.es/p/ruark-audio-r1-mk4-light-cream-lacquer",
+        "image": "www.supersonido.es/productos/imagenes/producto52445.jpg"
     },
     "denon-heos-link-hs2_": {
         "name": "Denon HEOS Link HS2",
@@ -685,12 +692,12 @@
         "url": "www.supersonido.es/p/svs-ultra-surround_",
         "image": "www.supersonido.es/productos/imagenes/producto51280.jpg"
     },
-    "audiolab-7000a_": {
-        "name": "Audiolab 7000A",
+    "q-acoustics-5040_oc": {
+        "name": "Q-Acoustics 5040",
         "price": 1099.0,
         "price_old": 1299.0,
-        "url": "www.supersonido.es/p/audiolab-7000a_",
-        "image": "www.supersonido.es/productos/imagenes/producto51488.jpg"
+        "url": "www.supersonido.es/p/q-acoustics-5040_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto51073.jpg"
     },
     "wharfedale-evo4-3_oc": {
         "name": "Wharfedale Evo4.3",
@@ -1384,12 +1391,5 @@
         "price_old": 2500.0,
         "url": "www.supersonido.es/p/krell-industries-evo-222-",
         "image": "www.supersonido.es/productos/imagenes/producto3644.jpg"
-    },
-    "audio-research-gs-150": {
-        "name": "Audio Research GS 150",
-        "price": 18790.0,
-        "price_old": 24990.0,
-        "url": "www.supersonido.es/p/audio-research-gs-150",
-        "image": "www.supersonido.es/productos/imagenes/producto18556.jpg"
     }
 }
