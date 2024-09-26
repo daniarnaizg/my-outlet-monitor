@@ -20,6 +20,13 @@
         "url": "www.supersonido.es/p/ifi-audio-ipower-x_oc",
         "image": "www.supersonido.es/productos/imagenes/producto52500.jpg"
     },
+    "sennheiser-rs-2000_": {
+        "name": "Sennheiser RS 2000",
+        "price": 99.0,
+        "price_old": 189.0,
+        "url": "www.supersonido.es/p/sennheiser-rs-2000_",
+        "image": "www.supersonido.es/productos/imagenes/producto42159.jpg"
+    },
     "denon-dht-s216_": {
         "name": "Denon DHT-S216",
         "price": 129.0,
@@ -146,19 +153,19 @@
         "url": "www.supersonido.es/p/panasonic-sc-pmx90_oc",
         "image": "www.supersonido.es/productos/imagenes/producto51095.jpg"
     },
-    "audiopro-d-1": {
-        "name": "AudioPro Drumfire D-1",
-        "price": 249.0,
-        "price_old": 350.0,
-        "url": "www.supersonido.es/p/audiopro-d-1",
-        "image": "www.supersonido.es/productos/imagenes/producto43369.jpg"
-    },
     "audiopro-addon-c10__": {
         "name": "AudioPro ADDON C10",
         "price": 249.0,
         "price_old": 350.0,
         "url": "www.supersonido.es/p/audiopro-addon-c10__",
         "image": "www.supersonido.es/productos/imagenes/producto47962.jpg"
+    },
+    "audiopro-d-1": {
+        "name": "AudioPro Drumfire D-1",
+        "price": 249.0,
+        "price_old": 350.0,
+        "url": "www.supersonido.es/p/audiopro-d-1",
+        "image": "www.supersonido.es/productos/imagenes/producto43369.jpg"
     },
     "audiopro-addon-c10_": {
         "name": "AudioPro ADDON C10",
@@ -292,13 +299,6 @@
         "price_old": 605.0,
         "url": "www.supersonido.es/p/monitor-audio-cpwt380_",
         "image": "www.supersonido.es/productos/imagenes/producto26150.jpg"
-    },
-    "yamaha-as501-b_": {
-        "name": "Yamaha A-S501",
-        "price": 399.0,
-        "price_old": 559.0,
-        "url": "www.supersonido.es/p/yamaha-as501-b_",
-        "image": "www.supersonido.es/productos/imagenes/producto32477.jpg"
     },
     "stax-srm-252s": {
         "name": "Stax SRM-252S",
@@ -923,19 +923,19 @@
         "url": "www.supersonido.es/p/anthem-mca-225-gen-2_",
         "image": "www.supersonido.es/productos/imagenes/producto50079.jpg"
     },
-    "stax-srm-007tii": {
-        "name": "Stax SRM-007TII",
-        "price": 1899.0,
-        "price_old": 2950.0,
-        "url": "www.supersonido.es/p/stax-srm-007tii",
-        "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
-    },
     "astell-kern-acro-ca1000-oc": {
         "name": "Astell&kern ACRO CA1000",
         "price": 1899.0,
         "price_old": 2399.0,
         "url": "www.supersonido.es/p/astell-kern-acro-ca1000-oc",
         "image": "www.supersonido.es/productos/imagenes/producto46481.jpg"
+    },
+    "stax-srm-007tii": {
+        "name": "Stax SRM-007TII",
+        "price": 1899.0,
+        "price_old": 2950.0,
+        "url": "www.supersonido.es/p/stax-srm-007tii",
+        "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
     },
     "martin-logan-em-esl-c_": {
         "name": "Martin-Logan EM-ESL C",
@@ -951,19 +951,19 @@
         "url": "www.supersonido.es/p/jbl-4305p_oc",
         "image": "www.supersonido.es/productos/imagenes/producto52547.jpg"
     },
-    "atc-cda2__oca": {
-        "name": "ATC CDA2",
-        "price": 1995.0,
-        "price_old": 3950.0,
-        "url": "www.supersonido.es/p/atc-cda2__oca",
-        "image": "www.supersonido.es/productos/imagenes/producto49014.jpg"
-    },
     "focal-arche": {
         "name": "FOCAL ARCHE",
         "price": 1995.0,
         "price_old": 2500.0,
         "url": "www.supersonido.es/p/focal-arche",
         "image": "www.supersonido.es/productos/imagenes/producto29616.jpg"
+    },
+    "atc-cda2__oca": {
+        "name": "ATC CDA2",
+        "price": 1995.0,
+        "price_old": 3950.0,
+        "url": "www.supersonido.es/p/atc-cda2__oca",
+        "image": "www.supersonido.es/productos/imagenes/producto49014.jpg"
     },
     "meze-audio-empyrean_": {
         "name": "Meze Audio Empyrean",
