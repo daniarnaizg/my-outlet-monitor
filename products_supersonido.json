@@ -265,6 +265,13 @@
         "url": "www.supersonido.es/p/sony-sa-sw3_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49662.jpg"
     },
+    "panasonic-dp-ub820__": {
+        "name": "Panasonic DP-UB820EGK",
+        "price": 349.0,
+        "price_old": 469.0,
+        "url": "www.supersonido.es/p/panasonic-dp-ub820__",
+        "image": "www.supersonido.es/productos/imagenes/producto51004.jpg"
+    },
     "dynaudio-stand-20_": {
         "name": "Dynaudio Stand 20",
         "price": 349.0,
@@ -653,23 +660,23 @@
     "audiolab-6000a-play__oc": {
         "name": "Audiolab 6000A PLAY",
         "price": 999.0,
-        "price_old": 1300.0,
+        "price_old": 1399.0,
         "url": "www.supersonido.es/p/audiolab-6000a-play__oc",
         "image": "www.supersonido.es/productos/imagenes/producto52542.jpg"
-    },
-    "monitor-audio-silver-100-7g-limited-edition_oc": {
-        "name": "Monitor Audio Silver 100 7G Limited Edition",
-        "price": 999.0,
-        "price_old": 1399.0,
-        "url": "www.supersonido.es/p/monitor-audio-silver-100-7g-limited-edition_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto52550.jpg"
     },
     "cayin-n6ii_": {
         "name": "Cayin N6ii",
         "price": 999.0,
-        "price_old": 1499.0,
+        "price_old": 1300.0,
         "url": "www.supersonido.es/p/cayin-n6ii_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+    },
+    "monitor-audio-silver-100-7g-limited-edition_oc": {
+        "name": "Monitor Audio Silver 100 7G Limited Edition",
+        "price": 999.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/monitor-audio-silver-100-7g-limited-edition_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto52550.jpg"
     },
     "audeze-lcdxc_ocasion_": {
         "name": "Audeze LCD-XC",
@@ -685,12 +692,12 @@
         "url": "www.supersonido.es/p/svs-ultra-surround_",
         "image": "www.supersonido.es/productos/imagenes/producto51280.jpg"
     },
-    "stax-srm-d50_": {
-        "name": "Stax SRM-D50",
+    "audiolab-7000a_": {
+        "name": "Audiolab 7000A",
         "price": 1049.0,
         "price_old": 1299.0,
-        "url": "www.supersonido.es/p/stax-srm-d50_",
-        "image": "www.supersonido.es/productos/imagenes/producto52572.jpg"
+        "url": "www.supersonido.es/p/audiolab-7000a_",
+        "image": "www.supersonido.es/productos/imagenes/producto51488.jpg"
     },
     "q-acoustics-5040_oc": {
         "name": "Q-Acoustics 5040",
@@ -1384,12 +1391,5 @@
         "price_old": 17000.0,
         "url": "www.supersonido.es/p/naim-solstice-special-edition",
         "image": "www.supersonido.es/productos/imagenes/producto45472.jpg"
-    },
-    "audio-research-gs-pre": {
-        "name": "Audio Research GS Pre",
-        "price": 13990.0,
-        "price_old": 18790.0,
-        "url": "www.supersonido.es/p/audio-research-gs-pre",
-        "image": "www.supersonido.es/productos/imagenes/producto18555.jpg"
     }
 }
