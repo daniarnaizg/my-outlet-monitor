@@ -923,13 +923,6 @@
         "url": "www.supersonido.es/p/cayin-cs-88a__",
         "image": "www.supersonido.es/productos/imagenes/producto52402.jpg"
     },
-    "astell-kern-se300_": {
-        "name": "Astell&kern SE300",
-        "price": 1699.0,
-        "price_old": 2199.0,
-        "url": "www.supersonido.es/p/astell-kern-se300_",
-        "image": "www.supersonido.es/productos/imagenes/producto52119.jpg"
-    },
     "rotel-dt-6000_": {
         "name": "Rotel DT-6000",
         "price": 1799.0,
@@ -986,13 +979,6 @@
         "url": "www.supersonido.es/p/martin-logan-em-esl-c_",
         "image": "www.supersonido.es/productos/imagenes/producto50781.jpg"
     },
-    "atc-cda2__oca": {
-        "name": "ATC CDA2",
-        "price": 1995.0,
-        "price_old": 3950.0,
-        "url": "www.supersonido.es/p/atc-cda2__oca",
-        "image": "www.supersonido.es/productos/imagenes/producto49014.jpg"
-    },
     "focal-arche": {
         "name": "FOCAL ARCHE",
         "price": 1995.0,
@@ -1000,12 +986,12 @@
         "url": "www.supersonido.es/p/focal-arche",
         "image": "www.supersonido.es/productos/imagenes/producto29616.jpg"
     },
-    "sony-bravia-theatre-quad_": {
-        "name": "Sony BRAVIA Theatre Quad HT-A9M2",
-        "price": 1999.0,
-        "price_old": 2699.0,
-        "url": "www.supersonido.es/p/sony-bravia-theatre-quad_",
-        "image": "www.supersonido.es/productos/imagenes/producto52499.jpg"
+    "atc-cda2__oca": {
+        "name": "ATC CDA2",
+        "price": 1995.0,
+        "price_old": 3950.0,
+        "url": "www.supersonido.es/p/atc-cda2__oca",
+        "image": "www.supersonido.es/productos/imagenes/producto49014.jpg"
     },
     "meze-audio-empyrean_": {
         "name": "Meze Audio Empyrean",
@@ -1013,6 +999,13 @@
         "price_old": 2999.0,
         "url": "www.supersonido.es/p/meze-audio-empyrean_",
         "image": "www.supersonido.es/productos/imagenes/producto50663.jpg"
+    },
+    "sony-bravia-theatre-quad_": {
+        "name": "Sony BRAVIA Theatre Quad HT-A9M2",
+        "price": 1999.0,
+        "price_old": 2699.0,
+        "url": "www.supersonido.es/p/sony-bravia-theatre-quad_",
+        "image": "www.supersonido.es/productos/imagenes/producto52499.jpg"
     },
     "musical-fidelity-m6scd_": {
         "name": "Musical Fidelity M6sCD",
@@ -1391,5 +1384,12 @@
         "price_old": 11290.0,
         "url": "www.supersonido.es/p/audio-research-vsi75-exdemo",
         "image": "www.supersonido.es/productos/imagenes/producto20176.jpg"
+    },
+    "wilson-audio-tunetot_oca": {
+        "name": "Wilson Audio TuneTot",
+        "price": 8990.0,
+        "price_old": 16990.0,
+        "url": "www.supersonido.es/p/wilson-audio-tunetot_oca",
+        "image": "www.supersonido.es/productos/imagenes/producto52602.jpg"
     }
 }
