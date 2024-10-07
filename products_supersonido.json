@@ -132,19 +132,19 @@
         "url": "www.supersonido.es/p/panasonic-sc-pmx90_oc",
         "image": "www.supersonido.es/productos/imagenes/producto51095.jpg"
     },
-    "pro-ject-e1-standard_oc": {
-        "name": "Pro-Ject E1 Standard",
-        "price": 249.0,
-        "price_old": 299.0,
-        "url": "www.supersonido.es/p/pro-ject-e1-standard_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto52603.jpg"
-    },
     "pro-ject-e1-standard_": {
         "name": "Pro-Ject E1 Standard",
         "price": 249.0,
         "price_old": 299.0,
         "url": "www.supersonido.es/p/pro-ject-e1-standard_",
         "image": "www.supersonido.es/productos/imagenes/producto51070.jpg"
+    },
+    "pro-ject-e1-standard_oc": {
+        "name": "Pro-Ject E1 Standard",
+        "price": 249.0,
+        "price_old": 299.0,
+        "url": "www.supersonido.es/p/pro-ject-e1-standard_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto52603.jpg"
     },
     "audiopro-addon-c10__": {
         "name": "AudioPro ADDON C10",
@@ -237,13 +237,6 @@
         "url": "www.supersonido.es/p/pro-ject-t1-phono-sb_",
         "image": "www.supersonido.es/productos/imagenes/producto47777.jpg"
     },
-    "sony-sa-sw3_oc": {
-        "name": "Sony SA-SW3",
-        "price": 349.0,
-        "price_old": 499.0,
-        "url": "www.supersonido.es/p/sony-sa-sw3_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto49662.jpg"
-    },
     "dynaudio-stand-20_": {
         "name": "Dynaudio Stand 20",
         "price": 349.0,
@@ -257,6 +250,13 @@
         "price_old": 450.0,
         "url": "www.supersonido.es/p/sonus-faber-sonetto-stand_",
         "image": "www.supersonido.es/productos/imagenes/producto52521.jpg"
+    },
+    "sony-sa-sw3_oc": {
+        "name": "Sony SA-SW3",
+        "price": 349.0,
+        "price_old": 499.0,
+        "url": "www.supersonido.es/p/sony-sa-sw3_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto49662.jpg"
     },
     "ruark-audio-mrx": {
         "name": "Ruark Audio MRx",
@@ -286,19 +286,19 @@
         "url": "www.supersonido.es/p/q-acoustics-q3030i_",
         "image": "www.supersonido.es/productos/imagenes/producto52454.jpg"
     },
-    "wharfedale-evo4-1-oc": {
-        "name": "Wharfedale Evo4.1",
-        "price": 399.0,
-        "price_old": 649.0,
-        "url": "www.supersonido.es/p/wharfedale-evo4-1-oc",
-        "image": "www.supersonido.es/productos/imagenes/producto50723.jpg"
-    },
     "solidsteel-vintage-ss7_": {
         "name": "Solidsteel Vintage SS7",
         "price": 399.0,
         "price_old": 519.0,
         "url": "www.supersonido.es/p/solidsteel-vintage-ss7_",
         "image": "www.supersonido.es/productos/imagenes/producto52109.jpg"
+    },
+    "wharfedale-evo4-1-oc": {
+        "name": "Wharfedale Evo4.1",
+        "price": 399.0,
+        "price_old": 649.0,
+        "url": "www.supersonido.es/p/wharfedale-evo4-1-oc",
+        "image": "www.supersonido.es/productos/imagenes/producto50723.jpg"
     },
     "focal-sib-evo-dolby-atmos-2-0_": {
         "name": "FOCAL Sib Evo Dolby Atmos 2.0",
@@ -531,19 +531,19 @@
         "url": "www.supersonido.es/p/naim-mu-so-qb-2nd-generation__",
         "image": "www.supersonido.es/productos/imagenes/producto50222.jpg"
     },
-    "mrspeakers-aeon-open__": {
-        "name": "Dan Clark Audio AEON Open",
-        "price": 699.0,
-        "price_old": 1099.0,
-        "url": "www.supersonido.es/p/mrspeakers-aeon-open__",
-        "image": "www.supersonido.es/productos/imagenes/producto48073.jpg"
-    },
     "hi-fi-racks-podium-slimline_": {
         "name": "Hi-Fi Racks Podium Slimline",
         "price": 699.0,
-        "price_old": 939.0,
+        "price_old": 1099.0,
         "url": "www.supersonido.es/p/hi-fi-racks-podium-slimline_",
         "image": "www.supersonido.es/productos/imagenes/producto52496.jpg"
+    },
+    "mrspeakers-aeon-open__": {
+        "name": "Dan Clark Audio AEON Open",
+        "price": 699.0,
+        "price_old": 939.0,
+        "url": "www.supersonido.es/p/mrspeakers-aeon-open__",
+        "image": "www.supersonido.es/productos/imagenes/producto48073.jpg"
     },
     "matrix-audio-element-i_": {
         "name": "Matrix Audio Element i",
@@ -646,23 +646,23 @@
     "dan-clark-audio-on-2-closed_": {
         "name": "Dan Clark Audio \u00c3\u0086ON 2 Closed",
         "price": 899.0,
-        "price_old": 1699.0,
+        "price_old": 1149.0,
         "url": "www.supersonido.es/p/dan-clark-audio-on-2-closed_",
         "image": "www.supersonido.es/productos/imagenes/producto50777.jpg"
-    },
-    "naim-mu-so-2nd-gen-_": {
-        "name": "Naim Mu-so 2nd Gen",
-        "price": 899.0,
-        "price_old": 1149.0,
-        "url": "www.supersonido.es/p/naim-mu-so-2nd-gen-_",
-        "image": "www.supersonido.es/productos/imagenes/producto49332.jpg"
     },
     "innuos-pulsemini_oca": {
         "name": "Innuos PULSEmini",
         "price": 899.0,
-        "price_old": 1249.0,
+        "price_old": 1699.0,
         "url": "www.supersonido.es/p/innuos-pulsemini_oca",
         "image": "www.supersonido.es/productos/imagenes/producto51385.jpg"
+    },
+    "naim-mu-so-2nd-gen-_": {
+        "name": "Naim Mu-so 2nd Gen",
+        "price": 899.0,
+        "price_old": 1249.0,
+        "url": "www.supersonido.es/p/naim-mu-so-2nd-gen-_",
+        "image": "www.supersonido.es/productos/imagenes/producto49332.jpg"
     },
     "audiolab-6000a-play__": {
         "name": "Audiolab 6000A PLAY",
@@ -797,19 +797,19 @@
         "url": "www.supersonido.es/p/mrspeakers-ether-flow",
         "image": "www.supersonido.es/productos/imagenes/producto28309.jpg"
     },
-    "jbl-l82-classic": {
-        "name": "JBL L82 Classic",
-        "price": 1349.0,
-        "price_old": 2499.0,
-        "url": "www.supersonido.es/p/jbl-l82-classic",
-        "image": "www.supersonido.es/productos/imagenes/producto41593.jpg"
-    },
     "klipsch-rp-8000f-ii_": {
         "name": "Klipsch RP-8000F II",
         "price": 1349.0,
         "price_old": 1698.0,
         "url": "www.supersonido.es/p/klipsch-rp-8000f-ii_",
         "image": "www.supersonido.es/productos/imagenes/producto52491.jpg"
+    },
+    "jbl-l82-classic": {
+        "name": "JBL L82 Classic",
+        "price": 1349.0,
+        "price_old": 2499.0,
+        "url": "www.supersonido.es/p/jbl-l82-classic",
+        "image": "www.supersonido.es/productos/imagenes/producto41593.jpg"
     },
     "matrix-audio-element-p_": {
         "name": "Matrix Audio Element P",
@@ -860,19 +860,19 @@
         "url": "www.supersonido.es/p/stax-sr-l700-mkii_",
         "image": "www.supersonido.es/productos/imagenes/producto52569.jpg"
     },
-    "hisense-100l5f-b12_": {
-        "name": "Hisense 100L5F-B12",
-        "price": 1499.0,
-        "price_old": 3490.0,
-        "url": "www.supersonido.es/p/hisense-100l5f-b12_",
-        "image": "www.supersonido.es/productos/imagenes/producto52154.jpg"
-    },
     "audio-technica-ath-awkt_": {
         "name": "Audio-Technica ATH-AWKT",
         "price": 1499.0,
         "price_old": 1999.0,
         "url": "www.supersonido.es/p/audio-technica-ath-awkt_",
         "image": "www.supersonido.es/productos/imagenes/producto49179.jpg"
+    },
+    "hisense-100l5f-b12_": {
+        "name": "Hisense 100L5F-B12",
+        "price": 1499.0,
+        "price_old": 3490.0,
+        "url": "www.supersonido.es/p/hisense-100l5f-b12_",
+        "image": "www.supersonido.es/productos/imagenes/producto52154.jpg"
     },
     "martin-logan-motion-20i_": {
         "name": "Martin-Logan Motion 20i",
@@ -888,6 +888,13 @@
         "url": "www.supersonido.es/p/cayin-cs-88a__",
         "image": "www.supersonido.es/productos/imagenes/producto52402.jpg"
     },
+    "sennheiser-ambeo-soundbar_oc": {
+        "name": "Sennheiser AMBEO Soundbar Max",
+        "price": 1799.0,
+        "price_old": 2499.0,
+        "url": "www.supersonido.es/p/sennheiser-ambeo-soundbar_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto52493.jpg"
+    },
     "rotel-dt-6000_": {
         "name": "Rotel DT-6000",
         "price": 1799.0,
@@ -901,13 +908,6 @@
         "price_old": 2699.0,
         "url": "www.supersonido.es/p/rotel-s14_oc",
         "image": "www.supersonido.es/productos/imagenes/producto50108.jpg"
-    },
-    "sennheiser-ambeo-soundbar_oc": {
-        "name": "Sennheiser AMBEO Soundbar Max",
-        "price": 1799.0,
-        "price_old": 2499.0,
-        "url": "www.supersonido.es/p/sennheiser-ambeo-soundbar_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto52493.jpg"
     },
     "rega-elicit-mk5_": {
         "name": "Rega ELICIT MK5",
@@ -957,13 +957,6 @@
         "price_old": 2500.0,
         "url": "www.supersonido.es/p/focal-arche",
         "image": "www.supersonido.es/productos/imagenes/producto29616.jpg"
-    },
-    "sony-bravia-theatre-quad_": {
-        "name": "Sony BRAVIA Theatre Quad HT-A9M2",
-        "price": 1999.0,
-        "price_old": 2699.0,
-        "url": "www.supersonido.es/p/sony-bravia-theatre-quad_",
-        "image": "www.supersonido.es/productos/imagenes/producto52499.jpg"
     },
     "meze-audio-empyrean_": {
         "name": "Meze Audio Empyrean",
@@ -1098,19 +1091,19 @@
         "url": "www.supersonido.es/p/electrocompaniet-ec-4-9-2ch",
         "image": "www.supersonido.es/productos/imagenes/producto5156.jpg"
     },
-    "sonus-faber-duetto_": {
-        "name": "Sonus Faber DUETTO",
-        "price": 2990.0,
-        "price_old": 3999.0,
-        "url": "www.supersonido.es/p/sonus-faber-duetto_",
-        "image": "www.supersonido.es/productos/imagenes/producto52545.jpg"
-    },
     "primare-i35dac_": {
         "name": "Primare I35DAC",
         "price": 2990.0,
         "price_old": 4390.0,
         "url": "www.supersonido.es/p/primare-i35dac_",
         "image": "www.supersonido.es/productos/imagenes/producto50790.jpg"
+    },
+    "sonus-faber-duetto_": {
+        "name": "Sonus Faber DUETTO",
+        "price": 2990.0,
+        "price_old": 3999.0,
+        "url": "www.supersonido.es/p/sonus-faber-duetto_",
+        "image": "www.supersonido.es/productos/imagenes/producto52545.jpg"
     },
     "jbl-4329p_": {
         "name": "JBL 4329P",
@@ -1391,5 +1384,12 @@
         "price_old": 17000.0,
         "url": "www.supersonido.es/p/naim-solstice-special-edition",
         "image": "www.supersonido.es/productos/imagenes/producto45472.jpg"
+    },
+    "audio-research-gs-pre": {
+        "name": "Audio Research GS Pre",
+        "price": 13990.0,
+        "price_old": 18790.0,
+        "url": "www.supersonido.es/p/audio-research-gs-pre",
+        "image": "www.supersonido.es/productos/imagenes/producto18555.jpg"
     }
 }
