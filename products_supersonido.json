@@ -125,19 +125,19 @@
         "url": "www.supersonido.es/p/audioquest-slip-db-14-4-2m",
         "image": "www.supersonido.es/productos/imagenes/producto51463.jpg"
     },
-    "jbl-hdi-fs_": {
-        "name": "JBL HDI FS",
-        "price": 210.0,
-        "price_old": 499.0,
-        "url": "www.supersonido.es/p/jbl-hdi-fs_",
-        "image": "www.supersonido.es/productos/imagenes/producto52555.jpg"
-    },
     "audio-technica-at-lp70xbt": {
         "name": "Audio-Technica AT-LP70XBT",
         "price": 210.0,
         "price_old": 249.0,
         "url": "www.supersonido.es/p/audio-technica-at-lp70xbt",
         "image": "www.supersonido.es/productos/imagenes/producto52342.jpg"
+    },
+    "jbl-hdi-fs_": {
+        "name": "JBL HDI FS",
+        "price": 210.0,
+        "price_old": 499.0,
+        "url": "www.supersonido.es/p/jbl-hdi-fs_",
+        "image": "www.supersonido.es/productos/imagenes/producto52555.jpg"
     },
     "audioquest-slip-db-14-4-2m_": {
         "name": "Audioquest SLIP-DB 14/4 2,5m",
@@ -916,13 +916,6 @@
         "url": "www.supersonido.es/p/martin-logan-motion-20i_",
         "image": "www.supersonido.es/productos/imagenes/producto50782.jpg"
     },
-    "cayin-cs-88a__": {
-        "name": "Cayin CS-88A",
-        "price": 1690.0,
-        "price_old": 3150.0,
-        "url": "www.supersonido.es/p/cayin-cs-88a__",
-        "image": "www.supersonido.es/productos/imagenes/producto52402.jpg"
-    },
     "svs-ultra-tower_": {
         "name": "SVS Ultra Tower",
         "price": 1699.0,
@@ -1391,5 +1384,12 @@
         "price_old": 12990.0,
         "url": "www.supersonido.es/p/sonus-faber-olympica-nova-iii_",
         "image": "www.supersonido.es/productos/imagenes/producto52522.jpg"
+    },
+    "innuos-statement_": {
+        "name": "Innuos STATEMENT",
+        "price": 9940.0,
+        "price_old": 14200.0,
+        "url": "www.supersonido.es/p/innuos-statement_",
+        "image": "www.supersonido.es/productos/imagenes/producto50152.jpg"
     }
 }
