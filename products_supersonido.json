@@ -125,13 +125,6 @@
         "url": "www.supersonido.es/p/jbl-hdi-fs_",
         "image": "www.supersonido.es/productos/imagenes/producto52555.jpg"
     },
-    "audio-technica-at-lp70xbt": {
-        "name": "Audio-Technica AT-LP70XBT",
-        "price": 210.0,
-        "price_old": 249.0,
-        "url": "www.supersonido.es/p/audio-technica-at-lp70xbt",
-        "image": "www.supersonido.es/productos/imagenes/producto52342.jpg"
-    },
     "audioquest-slip-db-14-4-2m_": {
         "name": "Audioquest SLIP-DB 14/4 2,5m",
         "price": 215.0,
@@ -286,13 +279,6 @@
         "url": "www.supersonido.es/p/audeze-maxwell-xbox",
         "image": "www.supersonido.es/productos/imagenes/producto48821.jpg"
     },
-    "hifiman-ananda-nano_": {
-        "name": "HIFIMAN Ananda Nano",
-        "price": 399.0,
-        "price_old": 559.0,
-        "url": "www.supersonido.es/p/hifiman-ananda-nano_",
-        "image": "www.supersonido.es/productos/imagenes/producto52675.jpg"
-    },
     "bluesound-pulse-mini-2i_": {
         "name": "Bluesound PULSE MINI 2i",
         "price": 399.0,
@@ -306,6 +292,13 @@
         "price_old": 580.0,
         "url": "www.supersonido.es/p/stax-srm-252s",
         "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
+    },
+    "hifiman-ananda-nano_": {
+        "name": "HIFIMAN Ananda Nano",
+        "price": 399.0,
+        "price_old": 559.0,
+        "url": "www.supersonido.es/p/hifiman-ananda-nano_",
+        "image": "www.supersonido.es/productos/imagenes/producto52675.jpg"
     },
     "q-acoustics-q-b12_OC": {
         "name": "Q-Acoustics Q B12",
@@ -370,19 +363,19 @@
         "url": "www.supersonido.es/p/pro-ject-debut-s-rainier_",
         "image": "www.supersonido.es/productos/imagenes/producto52193.jpg"
     },
-    "technics-ottava-s-sc-c30_": {
-        "name": "Technics OTTAVA S SC-C30",
-        "price": 449.0,
-        "price_old": 599.0,
-        "url": "www.supersonido.es/p/technics-ottava-s-sc-c30_",
-        "image": "www.supersonido.es/productos/imagenes/producto44225.jpg"
-    },
     "zidoo-z2000-pro": {
         "name": "Zidoo Z2000 Pro",
         "price": 449.0,
         "price_old": 449.0,
         "url": "www.supersonido.es/p/zidoo-z2000-pro",
         "image": "www.supersonido.es/productos/imagenes/producto52430.jpg"
+    },
+    "technics-ottava-s-sc-c30_": {
+        "name": "Technics OTTAVA S SC-C30",
+        "price": 449.0,
+        "price_old": 599.0,
+        "url": "www.supersonido.es/p/technics-ottava-s-sc-c30_",
+        "image": "www.supersonido.es/productos/imagenes/producto44225.jpg"
     },
     "klipsch-rsm-525_": {
         "name": "Klipsch RSM-525",
@@ -692,12 +685,12 @@
         "url": "www.supersonido.es/p/audiolab-6000a-play__",
         "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
     },
-    "cayin-n6ii_": {
-        "name": "Cayin N6ii",
+    "audiolab-6000a-play__oc": {
+        "name": "Audiolab 6000A PLAY",
         "price": 999.0,
         "price_old": 1399.0,
-        "url": "www.supersonido.es/p/cayin-n6ii_",
-        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+        "url": "www.supersonido.es/p/audiolab-6000a-play__oc",
+        "image": "www.supersonido.es/productos/imagenes/producto52542.jpg"
     },
     "monitor-audio-silver-100-7g-limited-edition_oc": {
         "name": "Monitor Audio Silver 100 7G Limited Edition",
@@ -804,19 +797,19 @@
         "url": "www.supersonido.es/p/wharfedale-evo4-4_",
         "image": "www.supersonido.es/productos/imagenes/producto45663.jpg"
     },
-    "mofi-electronics-studiodeck__": {
-        "name": "Mofi Electronics STUDIODECK",
-        "price": 1299.0,
-        "price_old": 1599.0,
-        "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
-        "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
-    },
     "mrspeakers-ether-flow": {
         "name": "Dan Clark Audio ETHER Flow",
         "price": 1299.0,
         "price_old": 1999.0,
         "url": "www.supersonido.es/p/mrspeakers-ether-flow",
         "image": "www.supersonido.es/productos/imagenes/producto28309.jpg"
+    },
+    "mofi-electronics-studiodeck__": {
+        "name": "Mofi Electronics STUDIODECK",
+        "price": 1299.0,
+        "price_old": 1599.0,
+        "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
+        "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
     },
     "klipsch-rp-8000f-ii_": {
         "name": "Klipsch RP-8000F II",
@@ -825,19 +818,19 @@
         "url": "www.supersonido.es/p/klipsch-rp-8000f-ii_",
         "image": "www.supersonido.es/productos/imagenes/producto52491.jpg"
     },
-    "matrix-audio-element-p__": {
-        "name": "Matrix Audio Element P",
-        "price": 1390.0,
-        "price_old": 2799.0,
-        "url": "www.supersonido.es/p/matrix-audio-element-p__",
-        "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
-    },
     "matrix-audio-element-p_": {
         "name": "Matrix Audio Element P",
         "price": 1390.0,
         "price_old": 2799.0,
         "url": "www.supersonido.es/p/matrix-audio-element-p_",
         "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
+    },
+    "matrix-audio-element-p__": {
+        "name": "Matrix Audio Element P",
+        "price": 1390.0,
+        "price_old": 2799.0,
+        "url": "www.supersonido.es/p/matrix-audio-element-p__",
+        "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
     },
     "ferrum-erco": {
         "name": "Ferrum ERCO",
@@ -1391,5 +1384,12 @@
         "price_old": 17000.0,
         "url": "www.supersonido.es/p/naim-solstice-special-edition",
         "image": "www.supersonido.es/productos/imagenes/producto45472.jpg"
+    },
+    "audio-research-gs-pre": {
+        "name": "Audio Research GS Pre",
+        "price": 13990.0,
+        "price_old": 18790.0,
+        "url": "www.supersonido.es/p/audio-research-gs-pre",
+        "image": "www.supersonido.es/productos/imagenes/producto18555.jpg"
     }
 }
