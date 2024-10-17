@@ -230,19 +230,19 @@
         "url": "www.supersonido.es/p/bose-smart-soundbar-600_",
         "image": "www.supersonido.es/productos/imagenes/producto52525.jpg"
     },
-    "dynaudio-stand-20_": {
-        "name": "Dynaudio Stand 20",
-        "price": 349.0,
-        "price_old": 529.0,
-        "url": "www.supersonido.es/p/dynaudio-stand-20_",
-        "image": "www.supersonido.es/productos/imagenes/producto48776.jpg"
-    },
     "sony-sa-sw3_oc": {
         "name": "Sony SA-SW3",
         "price": 349.0,
         "price_old": 499.0,
         "url": "www.supersonido.es/p/sony-sa-sw3_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49662.jpg"
+    },
+    "dynaudio-stand-20_": {
+        "name": "Dynaudio Stand 20",
+        "price": 349.0,
+        "price_old": 529.0,
+        "url": "www.supersonido.es/p/dynaudio-stand-20_",
+        "image": "www.supersonido.es/productos/imagenes/producto48776.jpg"
     },
     "ruark-audio-mrx": {
         "name": "Ruark Audio MRx",
@@ -265,19 +265,19 @@
         "url": "www.supersonido.es/p/audeze-maxwell-xbox",
         "image": "www.supersonido.es/productos/imagenes/producto48821.jpg"
     },
-    "bluesound-pulse-mini-2i_": {
-        "name": "Bluesound PULSE MINI 2i",
-        "price": 399.0,
-        "price_old": 649.0,
-        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
-        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
-    },
     "hifiman-ananda-nano_": {
         "name": "HIFIMAN Ananda Nano",
         "price": 399.0,
         "price_old": 559.0,
         "url": "www.supersonido.es/p/hifiman-ananda-nano_",
         "image": "www.supersonido.es/productos/imagenes/producto52675.jpg"
+    },
+    "bluesound-pulse-mini-2i_": {
+        "name": "Bluesound PULSE MINI 2i",
+        "price": 399.0,
+        "price_old": 649.0,
+        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
+        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
     },
     "stax-srm-252s": {
         "name": "Stax SRM-252S",
@@ -306,13 +306,6 @@
         "price_old": 649.0,
         "url": "www.supersonido.es/p/wharfedale-evo4-1-oc",
         "image": "www.supersonido.es/productos/imagenes/producto50723.jpg"
-    },
-    "marantz-cd6007_oca": {
-        "name": "Marantz CD6007",
-        "price": 399.0,
-        "price_old": 499.0,
-        "url": "www.supersonido.es/p/marantz-cd6007_oca",
-        "image": "www.supersonido.es/productos/imagenes/producto52641.jpg"
     },
     "focal-sib-evo-dolby-atmos-2-0_": {
         "name": "FOCAL Sib Evo Dolby Atmos 2.0",
@@ -433,19 +426,19 @@
         "url": "www.supersonido.es/p/raptor-planar3",
         "image": "www.supersonido.es/productos/imagenes/producto49510.jpg"
     },
-    "isotek-systems-sirius-evo3_": {
-        "name": "Isotek Systems Sirius EVO3",
-        "price": 599.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
-        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
-    },
     "quad-vena-ii-play_oc": {
         "name": "Quad Vena II Play",
         "price": 599.0,
         "price_old": 949.0,
         "url": "www.supersonido.es/p/quad-vena-ii-play_oc",
         "image": "www.supersonido.es/productos/imagenes/producto51634.jpg"
+    },
+    "isotek-systems-sirius-evo3_": {
+        "name": "Isotek Systems Sirius EVO3",
+        "price": 599.0,
+        "price_old": 949.0,
+        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
+        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
     "roberts-radio-stream-67_": {
         "name": "Roberts Radio Stream 67",
@@ -692,19 +685,19 @@
         "url": "www.supersonido.es/p/audeze-lcdxc_ocasion_",
         "image": "www.supersonido.es/productos/imagenes/producto41901.jpg"
     },
+    "sivga-sendy-peacock_": {
+        "name": "Sendy Audio Peacock",
+        "price": 1049.0,
+        "price_old": 1449.0,
+        "url": "www.supersonido.es/p/sivga-sendy-peacock_",
+        "image": "www.supersonido.es/productos/imagenes/producto49897.jpg"
+    },
     "stax-srm-d50_": {
         "name": "Stax SRM-D50",
         "price": 1049.0,
         "price_old": 1395.0,
         "url": "www.supersonido.es/p/stax-srm-d50_",
         "image": "www.supersonido.es/productos/imagenes/producto52572.jpg"
-    },
-    "svs-ultra-surround_": {
-        "name": "SVS Ultra Surround",
-        "price": 1049.0,
-        "price_old": 1449.0,
-        "url": "www.supersonido.es/p/svs-ultra-surround_",
-        "image": "www.supersonido.es/productos/imagenes/producto51280.jpg"
     },
     "audiolab-7000a_": {
         "name": "Audiolab 7000A",
@@ -1391,5 +1384,12 @@
         "price_old": 19999.0,
         "url": "www.supersonido.es/p/jbl-s4700_",
         "image": "www.supersonido.es/productos/imagenes/producto49921.jpg"
+    },
+    "audio-research-gs-150": {
+        "name": "Audio Research GS 150",
+        "price": 18790.0,
+        "price_old": 24990.0,
+        "url": "www.supersonido.es/p/audio-research-gs-150",
+        "image": "www.supersonido.es/productos/imagenes/producto18556.jpg"
     }
 }
