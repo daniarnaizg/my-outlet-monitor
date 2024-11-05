@@ -174,6 +174,13 @@
         "url": "www.supersonido.es/p/boston-acoustics-voyager-50-b_",
         "image": "www.supersonido.es/productos/imagenes/producto45718.jpg"
     },
+    "nordost-4-flat-speaker-cable_": {
+        "name": "Nordost 4 Flat Speaker Cable",
+        "price": 229.0,
+        "price_old": 330.0,
+        "url": "www.supersonido.es/p/nordost-4-flat-speaker-cable_",
+        "image": "www.supersonido.es/productos/imagenes/producto52805.jpg"
+    },
     "rega-neo-psu-mk2": {
         "name": "Rega NEO PSU MK2",
         "price": 229.0,
@@ -405,6 +412,13 @@
         "url": "www.supersonido.es/p/zidoo-z2000-pro",
         "image": "www.supersonido.es/productos/imagenes/producto52430.jpg"
     },
+    "nordost-red-dawn-interconnect_oc": {
+        "name": "Nordost Red Dawn Interconnect",
+        "price": 450.0,
+        "price_old": 630.0,
+        "url": "www.supersonido.es/p/nordost-red-dawn-interconnect_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto52804.jpg"
+    },
     "klipsch-rsm-525_": {
         "name": "Klipsch RSM-525",
         "price": 479.0,
@@ -419,19 +433,19 @@
         "url": "www.supersonido.es/p/dynaudio-emit-10_oc",
         "image": "www.supersonido.es/productos/imagenes/producto52551.jpg"
     },
-    "earmen-tradutto_": {
-        "name": "EarMen Tradutto",
-        "price": 499.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/earmen-tradutto_",
-        "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
-    },
     "astell-kern-ak-zero1_": {
         "name": "Astell&kern AK ZERO1",
         "price": 499.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/astell-kern-ak-zero1_",
         "image": "www.supersonido.es/productos/imagenes/producto50902.jpg"
+    },
+    "earmen-tradutto_": {
+        "name": "EarMen Tradutto",
+        "price": 499.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/earmen-tradutto_",
+        "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
     },
     "q-acoustics-m20-hd-link-1_": {
         "name": "Q-Acoustics M20 HD + LINK 1",
@@ -678,19 +692,19 @@
         "url": "www.supersonido.es/p/kef-lsx",
         "image": "www.supersonido.es/productos/imagenes/producto51214.jpg"
     },
-    "astell-kern-acro-l1000_": {
-        "name": "Astell&kern ACRO L1000",
-        "price": 785.0,
-        "price_old": 1170.0,
-        "url": "www.supersonido.es/p/astell-kern-acro-l1000_",
-        "image": "www.supersonido.es/productos/imagenes/producto46610.jpg"
-    },
     "martin-logan-fresco-i-i": {
         "name": "Martin-Logan FRESCO i",
-        "price": 799.0,
-        "price_old": 1099.0,
+        "price": 785.0,
+        "price_old": 1170.0,
         "url": "www.supersonido.es/p/martin-logan-fresco-i-i",
         "image": "www.supersonido.es/productos/imagenes/producto619.jpg"
+    },
+    "musical-fidelity-m2scd": {
+        "name": "Musical Fidelity M2SCD",
+        "price": 799.0,
+        "price_old": 1099.0,
+        "url": "www.supersonido.es/p/musical-fidelity-m2scd",
+        "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
     },
     "kef-lsx_": {
         "name": "KEF LSX",
@@ -713,19 +727,19 @@
         "url": "www.supersonido.es/p/audeze-lcd-gx_",
         "image": "www.supersonido.es/productos/imagenes/producto51487.jpg"
     },
-    "ibasso-dx260_": {
-        "name": "Ibasso DX260",
-        "price": 849.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/ibasso-dx260_",
-        "image": "www.supersonido.es/productos/imagenes/producto52747.jpg"
-    },
     "acoustune-hs1697ti": {
         "name": "Acoustune HS1697TI",
         "price": 849.0,
         "price_old": 1149.0,
         "url": "www.supersonido.es/p/acoustune-hs1697ti",
         "image": "www.supersonido.es/productos/imagenes/producto42965.jpg"
+    },
+    "ibasso-dx260_": {
+        "name": "Ibasso DX260",
+        "price": 849.0,
+        "price_old": 949.0,
+        "url": "www.supersonido.es/p/ibasso-dx260_",
+        "image": "www.supersonido.es/productos/imagenes/producto52747.jpg"
     },
     "dan-clark-audio-on-2-closed_": {
         "name": "Dan Clark Audio \u00c3\u0086ON 2 Closed",
@@ -902,13 +916,6 @@
         "url": "www.supersonido.es/p/matrix-audio-element-p__",
         "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
     },
-    "ferrum-erco": {
-        "name": "Ferrum ERCO",
-        "price": 1399.0,
-        "price_old": 1795.0,
-        "url": "www.supersonido.es/p/ferrum-erco",
-        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
-    },
     "mrspeakers-ether-c-flow-1-1_": {
         "name": "Dan Clark Audio ETHER C Flow 1.1",
         "price": 1399.0,
@@ -929,6 +936,13 @@
         "price_old": 2299.0,
         "url": "www.supersonido.es/p/integra-audio-drx-5-4_",
         "image": "www.supersonido.es/productos/imagenes/producto52697.jpg"
+    },
+    "ferrum-erco": {
+        "name": "Ferrum ERCO",
+        "price": 1399.0,
+        "price_old": 1795.0,
+        "url": "www.supersonido.es/p/ferrum-erco",
+        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
     },
     "mission-700__": {
         "name": "Mission 700",
@@ -1377,19 +1391,5 @@
         "price_old": 7499.0,
         "url": "www.supersonido.es/p/mcintosh-c49_",
         "image": "www.supersonido.es/productos/imagenes/producto52578.jpg"
-    },
-    "musical-fidelity-nu-vista-600_": {
-        "name": "Musical Fidelity NU-VISTA 600",
-        "price": 4999.0,
-        "price_old": 6999.0,
-        "url": "www.supersonido.es/p/musical-fidelity-nu-vista-600_",
-        "image": "www.supersonido.es/productos/imagenes/producto44775.jpg"
-    },
-    "mcintosh-mt2_": {
-        "name": "McIntosh MT2",
-        "price": 5249.0,
-        "price_old": 6999.0,
-        "url": "www.supersonido.es/p/mcintosh-mt2_",
-        "image": "www.supersonido.es/productos/imagenes/producto51490.jpg"
     }
 }
