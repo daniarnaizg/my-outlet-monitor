@@ -97,13 +97,6 @@
         "url": "www.supersonido.es/p/audio-technica-at-lp60xbt_oc",
         "image": "www.supersonido.es/productos/imagenes/producto52409.jpg"
     },
-    "forza-audioworks-noir-hybrid-hpc": {
-        "name": "Forza Audioworks NOIR HYBRID HPC",
-        "price": 150.0,
-        "price_old": 304.0,
-        "url": "www.supersonido.es/p/forza-audioworks-noir-hybrid-hpc",
-        "image": "www.supersonido.es/productos/imagenes/producto51309.jpg"
-    },
     "the-chord-company-shawline-digital-1bnc-to-1bnc_": {
         "name": "The Chord Company Shawline Digital 1BNC to 1BNC",
         "price": 150.0,
@@ -111,12 +104,12 @@
         "url": "www.supersonido.es/p/the-chord-company-shawline-digital-1bnc-to-1bnc_",
         "image": "www.supersonido.es/productos/imagenes/producto51241.jpg"
     },
-    "rega-rb220_": {
-        "name": "Rega RB220",
-        "price": 169.0,
-        "price_old": 329.0,
-        "url": "www.supersonido.es/p/rega-rb220_",
-        "image": "www.supersonido.es/productos/imagenes/producto52657.jpg"
+    "forza-audioworks-noir-hybrid-hpc": {
+        "name": "Forza Audioworks NOIR HYBRID HPC",
+        "price": 150.0,
+        "price_old": 304.0,
+        "url": "www.supersonido.es/p/forza-audioworks-noir-hybrid-hpc",
+        "image": "www.supersonido.es/productos/imagenes/producto51309.jpg"
     },
     "campfire-audio-honeydew_": {
         "name": "Campfire Audio Honeydew",
@@ -124,6 +117,13 @@
         "price_old": 269.99,
         "url": "www.supersonido.es/p/campfire-audio-honeydew_",
         "image": "www.supersonido.es/productos/imagenes/producto51154.jpg"
+    },
+    "rega-rb220_": {
+        "name": "Rega RB220",
+        "price": 169.0,
+        "price_old": 329.0,
+        "url": "www.supersonido.es/p/rega-rb220_",
+        "image": "www.supersonido.es/productos/imagenes/producto52657.jpg"
     },
     "pro-ject-primary-e_oc": {
         "name": "Pro-Ject Primary E",
@@ -328,19 +328,19 @@
         "url": "www.supersonido.es/p/stax-srm-252s",
         "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
     },
-    "q-acoustics-q-b12_OC": {
-        "name": "Q-Acoustics Q B12",
-        "price": 399.0,
-        "price_old": 849.0,
-        "url": "www.supersonido.es/p/q-acoustics-q-b12_OC",
-        "image": "www.supersonido.es/productos/imagenes/producto51637.jpg"
-    },
     "q-acoustics-q3030i_": {
         "name": "Q-Acoustics Q3030i",
         "price": 399.0,
         "price_old": 489.0,
         "url": "www.supersonido.es/p/q-acoustics-q3030i_",
         "image": "www.supersonido.es/productos/imagenes/producto52454.jpg"
+    },
+    "q-acoustics-q-b12_OC": {
+        "name": "Q-Acoustics Q B12",
+        "price": 399.0,
+        "price_old": 849.0,
+        "url": "www.supersonido.es/p/q-acoustics-q-b12_OC",
+        "image": "www.supersonido.es/productos/imagenes/producto51637.jpg"
     },
     "q-acoustics-q-b12_OC_": {
         "name": "Q-Acoustics Q B12",
@@ -734,19 +734,19 @@
         "url": "www.supersonido.es/p/naim-mu-so-2nd-gen-_",
         "image": "www.supersonido.es/productos/imagenes/producto49332.jpg"
     },
-    "audiolab-6000a-play__": {
-        "name": "Audiolab 6000A PLAY",
-        "price": 899.0,
-        "price_old": 1249.0,
-        "url": "www.supersonido.es/p/audiolab-6000a-play__",
-        "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
-    },
     "audiolab-6000a-play__oc": {
         "name": "Audiolab 6000A PLAY",
         "price": 899.0,
         "price_old": 1249.0,
         "url": "www.supersonido.es/p/audiolab-6000a-play__oc",
         "image": "www.supersonido.es/productos/imagenes/producto52542.jpg"
+    },
+    "audiolab-6000a-play__": {
+        "name": "Audiolab 6000A PLAY",
+        "price": 899.0,
+        "price_old": 1249.0,
+        "url": "www.supersonido.es/p/audiolab-6000a-play__",
+        "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
     },
     "cayin-n6ii_": {
         "name": "Cayin N6ii",
@@ -755,19 +755,19 @@
         "url": "www.supersonido.es/p/cayin-n6ii_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
     },
-    "loewe-wee-see-55": {
-        "name": "Loewe WEE SEE 55",
-        "price": 999.0,
-        "price_old": 1699.0,
-        "url": "www.supersonido.es/p/loewe-wee-see-55",
-        "image": "www.supersonido.es/productos/imagenes/producto46140.jpg"
-    },
     "monitor-audio-silver-100-7g-limited-edition_oc": {
         "name": "Monitor Audio Silver 100 7G Limited Edition",
         "price": 999.0,
         "price_old": 1300.0,
         "url": "www.supersonido.es/p/monitor-audio-silver-100-7g-limited-edition_oc",
         "image": "www.supersonido.es/productos/imagenes/producto52550.jpg"
+    },
+    "loewe-wee-see-55": {
+        "name": "Loewe WEE SEE 55",
+        "price": 999.0,
+        "price_old": 1699.0,
+        "url": "www.supersonido.es/p/loewe-wee-see-55",
+        "image": "www.supersonido.es/productos/imagenes/producto46140.jpg"
     },
     "audeze-lcdxc_ocasion_": {
         "name": "Audeze LCD-XC",
@@ -888,13 +888,6 @@
         "url": "www.supersonido.es/p/matrix-audio-element-p__",
         "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
     },
-    "ferrum-erco": {
-        "name": "Ferrum ERCO",
-        "price": 1399.0,
-        "price_old": 1795.0,
-        "url": "www.supersonido.es/p/ferrum-erco",
-        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
-    },
     "mrspeakers-ether-c-flow-1-1_": {
         "name": "Dan Clark Audio ETHER C Flow 1.1",
         "price": 1399.0,
@@ -915,6 +908,13 @@
         "price_old": 2299.0,
         "url": "www.supersonido.es/p/integra-audio-drx-5-4_",
         "image": "www.supersonido.es/productos/imagenes/producto52697.jpg"
+    },
+    "ferrum-erco": {
+        "name": "Ferrum ERCO",
+        "price": 1399.0,
+        "price_old": 1795.0,
+        "url": "www.supersonido.es/p/ferrum-erco",
+        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
     },
     "mission-700__": {
         "name": "Mission 700",
@@ -951,6 +951,13 @@
         "url": "www.supersonido.es/p/stax-sr-l700-mkii_",
         "image": "www.supersonido.es/productos/imagenes/producto52569.jpg"
     },
+    "hisense-100l5f-b12_": {
+        "name": "Hisense 100L5F-B12",
+        "price": 1499.0,
+        "price_old": 3490.0,
+        "url": "www.supersonido.es/p/hisense-100l5f-b12_",
+        "image": "www.supersonido.es/productos/imagenes/producto52154.jpg"
+    },
     "martin-logan-motion-20i_": {
         "name": "Martin-Logan Motion 20i",
         "price": 1549.0,
@@ -958,19 +965,19 @@
         "url": "www.supersonido.es/p/martin-logan-motion-20i_",
         "image": "www.supersonido.es/productos/imagenes/producto50782.jpg"
     },
-    "svs-prime-pinnacle_": {
-        "name": "SVS Prime Pinnacle",
-        "price": 1699.0,
-        "price_old": 2298.0,
-        "url": "www.supersonido.es/p/svs-prime-pinnacle_",
-        "image": "www.supersonido.es/productos/imagenes/producto32440.jpg"
-    },
     "svs-ultra-tower_": {
         "name": "SVS Ultra Tower",
         "price": 1699.0,
         "price_old": 2298.0,
         "url": "www.supersonido.es/p/svs-ultra-tower_",
         "image": "www.supersonido.es/productos/imagenes/producto51279.jpg"
+    },
+    "svs-prime-pinnacle_": {
+        "name": "SVS Prime Pinnacle",
+        "price": 1699.0,
+        "price_old": 2298.0,
+        "url": "www.supersonido.es/p/svs-prime-pinnacle_",
+        "image": "www.supersonido.es/productos/imagenes/producto32440.jpg"
     },
     "svs-pc-4000_": {
         "name": "SVS PC-4000",
@@ -1384,12 +1391,5 @@
         "price_old": 7499.0,
         "url": "www.supersonido.es/p/mcintosh-mha150",
         "image": "www.supersonido.es/productos/imagenes/producto44698.jpg"
-    },
-    "primaluna-evo-300-hybrid_": {
-        "name": "Primaluna EVO 300 Hybrid",
-        "price": 5690.0,
-        "price_old": 7490.0,
-        "url": "www.supersonido.es/p/primaluna-evo-300-hybrid_",
-        "image": "www.supersonido.es/productos/imagenes/producto51493.jpg"
     }
 }
