@@ -216,19 +216,19 @@
         "url": "www.supersonido.es/p/panasonic-sc-pmx90_oc",
         "image": "www.supersonido.es/productos/imagenes/producto51095.jpg"
     },
-    "pro-ject-e1-standard_oc": {
-        "name": "Pro-Ject E1 Standard",
-        "price": 249.0,
-        "price_old": 299.0,
-        "url": "www.supersonido.es/p/pro-ject-e1-standard_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto52603.jpg"
-    },
     "pro-ject-e1-standard_": {
         "name": "Pro-Ject E1 Standard",
         "price": 249.0,
         "price_old": 299.0,
         "url": "www.supersonido.es/p/pro-ject-e1-standard_",
         "image": "www.supersonido.es/productos/imagenes/producto51070.jpg"
+    },
+    "pro-ject-e1-standard_oc": {
+        "name": "Pro-Ject E1 Standard",
+        "price": 249.0,
+        "price_old": 299.0,
+        "url": "www.supersonido.es/p/pro-ject-e1-standard_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto52603.jpg"
     },
     "audiopro-addon-c10__": {
         "name": "AudioPro ADDON C10",
@@ -321,6 +321,13 @@
         "url": "www.supersonido.es/p/dynaudio-stand-20_",
         "image": "www.supersonido.es/productos/imagenes/producto48776.jpg"
     },
+    "sonos-ace_": {
+        "name": "Sonos Ace",
+        "price": 349.0,
+        "price_old": 349.0,
+        "url": "www.supersonido.es/p/sonos-ace_",
+        "image": "www.supersonido.es/productos/imagenes/producto52846.jpg"
+    },
     "ruark-audio-mrx": {
         "name": "Ruark Audio MRx",
         "price": 349.0,
@@ -363,13 +370,6 @@
         "url": "www.supersonido.es/p/stax-srm-252s",
         "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
     },
-    "q-acoustics-m20hdoca": {
-        "name": "Q Acoustics M20HD",
-        "price": 399.0,
-        "price_old": 698.0,
-        "url": "www.supersonido.es/p/q-acoustics-m20hdoca",
-        "image": "www.supersonido.es/productos/imagenes/producto51002.jpg"
-    },
     "q-acoustics-q-b12_OC_": {
         "name": "Q Acoustics Q B12",
         "price": 399.0,
@@ -383,6 +383,13 @@
         "price_old": 489.0,
         "url": "www.supersonido.es/p/q-acoustics-q3030i_",
         "image": "www.supersonido.es/productos/imagenes/producto52454.jpg"
+    },
+    "q-acoustics-m20hdoca": {
+        "name": "Q Acoustics M20HD",
+        "price": 399.0,
+        "price_old": 698.0,
+        "url": "www.supersonido.es/p/q-acoustics-m20hdoca",
+        "image": "www.supersonido.es/productos/imagenes/producto51002.jpg"
     },
     "focal-sib-evo-dolby-atmos-2-0_": {
         "name": "FOCAL Sib Evo Dolby Atmos 2.0",
@@ -531,13 +538,6 @@
         "url": "www.supersonido.es/p/project-maia-ds",
         "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
-    "q-acoustics-q3050i_occcc": {
-        "name": "Q Acoustics Q3050i",
-        "price": 599.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/q-acoustics-q3050i_occcc",
-        "image": "www.supersonido.es/productos/imagenes/producto52485.jpg"
-    },
     "raptor-planar3": {
         "name": "Rega Planar 3",
         "price": 599.0,
@@ -545,12 +545,12 @@
         "url": "www.supersonido.es/p/raptor-planar3",
         "image": "www.supersonido.es/productos/imagenes/producto49510.jpg"
     },
-    "isotek-systems-sirius-evo3_": {
-        "name": "Isotek Systems Sirius EVO3",
+    "quad-vena-ii-play_oc": {
+        "name": "Quad Vena II Play",
         "price": 599.0,
         "price_old": 949.0,
-        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
-        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
+        "url": "www.supersonido.es/p/quad-vena-ii-play_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto51634.jpg"
     },
     "thorens-td-204_": {
         "name": "Thorens TD 204",
@@ -559,12 +559,12 @@
         "url": "www.supersonido.es/p/thorens-td-204_",
         "image": "www.supersonido.es/productos/imagenes/producto52795.jpg"
     },
-    "quad-vena-ii-play_oc": {
-        "name": "Quad Vena II Play",
+    "isotek-systems-sirius-evo3_": {
+        "name": "Isotek Systems Sirius EVO3",
         "price": 599.0,
         "price_old": 949.0,
-        "url": "www.supersonido.es/p/quad-vena-ii-play_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto51634.jpg"
+        "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
+        "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
     "sonus-faber-sonetto-center-i_": {
         "name": "Sonus Faber Sonetto Center I",
@@ -776,12 +776,12 @@
         "url": "www.supersonido.es/p/naim-mu-so-2nd-gen-_",
         "image": "www.supersonido.es/productos/imagenes/producto49332.jpg"
     },
-    "audiolab-6000a-play__oc": {
-        "name": "Audiolab 6000A PLAY",
+    "cayin-n6 MKII_": {
+        "name": "Cayin N6 MKII",
         "price": 899.0,
-        "price_old": 1249.0,
-        "url": "www.supersonido.es/p/audiolab-6000a-play__oc",
-        "image": "www.supersonido.es/productos/imagenes/producto52542.jpg"
+        "price_old": 1399.0,
+        "url": "www.supersonido.es/p/cayin-n6 MKII_",
+        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
     },
     "audiolab-6000a-play__": {
         "name": "Audiolab 6000A PLAY",
@@ -790,12 +790,12 @@
         "url": "www.supersonido.es/p/audiolab-6000a-play__",
         "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
     },
-    "cayin-n6 MKII_": {
-        "name": "Cayin N6 MKII",
+    "audiolab-6000a-play__oc": {
+        "name": "Audiolab 6000A PLAY",
         "price": 899.0,
-        "price_old": 1399.0,
-        "url": "www.supersonido.es/p/cayin-n6 MKII_",
-        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+        "price_old": 1249.0,
+        "url": "www.supersonido.es/p/audiolab-6000a-play__oc",
+        "image": "www.supersonido.es/productos/imagenes/producto52542.jpg"
     },
     "sonus-faber-sonetto-i_oc": {
         "name": "Sonus Faber Sonetto I",
