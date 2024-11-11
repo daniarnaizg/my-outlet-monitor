@@ -258,6 +258,13 @@
         "url": "www.supersonido.es/p/ifi-audio-zen-can-signature-mz99_",
         "image": "www.supersonido.es/productos/imagenes/producto52354.jpg"
     },
+    "wiim-amp__": {
+        "name": "Wiim Amp",
+        "price": 279.0,
+        "price_old": 369.0,
+        "url": "www.supersonido.es/p/wiim-amp__",
+        "image": "www.supersonido.es/productos/imagenes/producto51461.jpg"
+    },
     "audioquest-silver-jupiter-pss": {
         "name": "Audioquest Silver - Jupiter (PSS)",
         "price": 279.0,
@@ -685,12 +692,12 @@
         "url": "www.supersonido.es/p/kef-lsx",
         "image": "www.supersonido.es/productos/imagenes/producto51214.jpg"
     },
-    "astell-kern-acro-l1000_": {
-        "name": "Astell&kern ACRO L1000",
+    "martin-logan-fresco-i-i": {
+        "name": "Martin-Logan FRESCO i",
         "price": 785.0,
         "price_old": 1170.0,
-        "url": "www.supersonido.es/p/astell-kern-acro-l1000_",
-        "image": "www.supersonido.es/productos/imagenes/producto46610.jpg"
+        "url": "www.supersonido.es/p/martin-logan-fresco-i-i",
+        "image": "www.supersonido.es/productos/imagenes/producto619.jpg"
     },
     "musical-fidelity-m2scd": {
         "name": "Musical Fidelity M2SCD",
@@ -902,19 +909,19 @@
         "url": "www.supersonido.es/p/matrix-audio-element-p_",
         "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
     },
-    "ferrum-erco": {
-        "name": "Ferrum ERCO",
-        "price": 1399.0,
-        "price_old": 1795.0,
-        "url": "www.supersonido.es/p/ferrum-erco",
-        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
-    },
     "integra-audio-drx-5-4_": {
         "name": "Integra Audio DRX 5.4",
         "price": 1399.0,
         "price_old": 2299.0,
         "url": "www.supersonido.es/p/integra-audio-drx-5-4_",
         "image": "www.supersonido.es/productos/imagenes/producto52697.jpg"
+    },
+    "ferrum-erco": {
+        "name": "Ferrum ERCO",
+        "price": 1399.0,
+        "price_old": 1795.0,
+        "url": "www.supersonido.es/p/ferrum-erco",
+        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
     },
     "mrspeakers-ether-c-flow-1-1_": {
         "name": "Dan Clark Audio ETHER C Flow 1.1",
@@ -1384,12 +1391,5 @@
         "price_old": 6999.0,
         "url": "www.supersonido.es/p/musical-fidelity-nu-vista-600_",
         "image": "www.supersonido.es/productos/imagenes/producto44775.jpg"
-    },
-    "mcintosh-mt2_": {
-        "name": "McIntosh MT2",
-        "price": 5249.0,
-        "price_old": 6999.0,
-        "url": "www.supersonido.es/p/mcintosh-mt2_",
-        "image": "www.supersonido.es/productos/imagenes/producto51490.jpg"
     }
 }
