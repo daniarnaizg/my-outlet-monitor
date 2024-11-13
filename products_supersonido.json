@@ -167,13 +167,6 @@
         "url": "www.supersonido.es/p/van-den-hul-d-102-iii-hybrid-xlr",
         "image": "www.supersonido.es/productos/imagenes/producto52693.jpg"
     },
-    "sivga-oriole_": {
-        "name": "Sivga Oriole",
-        "price": 199.0,
-        "price_old": 249.0,
-        "url": "www.supersonido.es/p/sivga-oriole_",
-        "image": "www.supersonido.es/productos/imagenes/producto51127.jpg"
-    },
     "audioquest-slip-db-14-4-2m": {
         "name": "Audioquest SLIP-DB 14/4 2m",
         "price": 200.0,
@@ -643,19 +636,19 @@
         "url": "www.supersonido.es/p/naim-mu-so-qb-2nd-generation__",
         "image": "www.supersonido.es/productos/imagenes/producto50222.jpg"
     },
-    "matrix-audio-element-i_": {
-        "name": "Matrix Audio Element i",
-        "price": 699.0,
-        "price_old": 939.0,
-        "url": "www.supersonido.es/p/matrix-audio-element-i_",
-        "image": "www.supersonido.es/productos/imagenes/producto42751.jpg"
-    },
     "r-volution-playerone-8k_": {
         "name": "R_Volution PlayerOne 8K",
         "price": 699.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/r-volution-playerone-8k_",
         "image": "www.supersonido.es/productos/imagenes/producto52783.jpg"
+    },
+    "matrix-audio-element-i_": {
+        "name": "Matrix Audio Element i",
+        "price": 699.0,
+        "price_old": 939.0,
+        "url": "www.supersonido.es/p/matrix-audio-element-i_",
+        "image": "www.supersonido.es/productos/imagenes/producto42751.jpg"
     },
     "stax-sr-l500-mk2_": {
         "name": "Stax SR-L500 MK2",
@@ -930,19 +923,19 @@
         "url": "www.supersonido.es/p/matrix-audio-element-p__",
         "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
     },
-    "integra-audio-drx-5-4_": {
-        "name": "Integra Audio DRX 5.4",
-        "price": 1399.0,
-        "price_old": 2299.0,
-        "url": "www.supersonido.es/p/integra-audio-drx-5-4_",
-        "image": "www.supersonido.es/productos/imagenes/producto52697.jpg"
-    },
     "ferrum-erco": {
         "name": "Ferrum ERCO",
         "price": 1399.0,
         "price_old": 1795.0,
         "url": "www.supersonido.es/p/ferrum-erco",
         "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
+    },
+    "integra-audio-drx-5-4_": {
+        "name": "Integra Audio DRX 5.4",
+        "price": 1399.0,
+        "price_old": 2299.0,
+        "url": "www.supersonido.es/p/integra-audio-drx-5-4_",
+        "image": "www.supersonido.es/productos/imagenes/producto52697.jpg"
     },
     "mrspeakers-ether-c-flow-1-1_": {
         "name": "Dan Clark Audio ETHER C Flow 1.1",
@@ -1398,5 +1391,12 @@
         "price_old": 7499.0,
         "url": "www.supersonido.es/p/mcintosh-c49_",
         "image": "www.supersonido.es/productos/imagenes/producto52578.jpg"
+    },
+    "musical-fidelity-nu-vista-600_": {
+        "name": "Musical Fidelity NU-VISTA 600",
+        "price": 4999.0,
+        "price_old": 6999.0,
+        "url": "www.supersonido.es/p/musical-fidelity-nu-vista-600_",
+        "image": "www.supersonido.es/productos/imagenes/producto44775.jpg"
     }
 }
