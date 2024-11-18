@@ -356,40 +356,19 @@
         "url": "www.supersonido.es/p/campfire-audio-holocene_",
         "image": "www.supersonido.es/productos/imagenes/producto52748.jpg"
     },
+    "audeze-maxwell-xbox": {
+        "name": "Audeze MAXWELL XBOX",
+        "price": 359.0,
+        "price_old": 449.0,
+        "url": "www.supersonido.es/p/audeze-maxwell-xbox",
+        "image": "www.supersonido.es/productos/imagenes/producto48821.jpg"
+    },
     "monitor-audio-cpwt380_": {
         "name": "Monitor Audio CP-WT380",
         "price": 363.0,
         "price_old": 605.0,
         "url": "www.supersonido.es/p/monitor-audio-cpwt380_",
         "image": "www.supersonido.es/productos/imagenes/producto26150.jpg"
-    },
-    "audeze-maxwell-xbox": {
-        "name": "Audeze MAXWELL XBOX",
-        "price": 369.0,
-        "price_old": 449.0,
-        "url": "www.supersonido.es/p/audeze-maxwell-xbox",
-        "image": "www.supersonido.es/productos/imagenes/producto48821.jpg"
-    },
-    "bluesound-pulse-mini-2i_": {
-        "name": "Bluesound PULSE MINI 2i",
-        "price": 399.0,
-        "price_old": 649.0,
-        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
-        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
-    },
-    "rega-planar-2_": {
-        "name": "Rega Planar 2",
-        "price": 399.0,
-        "price_old": 559.0,
-        "url": "www.supersonido.es/p/rega-planar-2_",
-        "image": "www.supersonido.es/productos/imagenes/producto30875.jpg"
-    },
-    "stax-srm-252s": {
-        "name": "Stax SRM-252S",
-        "price": 399.0,
-        "price_old": 580.0,
-        "url": "www.supersonido.es/p/stax-srm-252s",
-        "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
     },
     "q-acoustics-q3030i_": {
         "name": "Q Acoustics Q3030i",
@@ -439,6 +418,27 @@
         "price_old": 399.0,
         "url": "www.supersonido.es/p/denon-rcd-n10__oc",
         "image": "www.supersonido.es/productos/imagenes/producto52850.jpg"
+    },
+    "bluesound-pulse-mini-2i_": {
+        "name": "Bluesound PULSE MINI 2i",
+        "price": 399.0,
+        "price_old": 649.0,
+        "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
+        "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
+    },
+    "stax-srm-252s": {
+        "name": "Stax SRM-252S",
+        "price": 399.0,
+        "price_old": 580.0,
+        "url": "www.supersonido.es/p/stax-srm-252s",
+        "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
+    },
+    "transparent-audio-musicwave_": {
+        "name": "Transparent Audio MusicWave MW Gen 6",
+        "price": 429.0,
+        "price_old": 590.0,
+        "url": "www.supersonido.es/p/transparent-audio-musicwave_",
+        "image": "www.supersonido.es/productos/imagenes/producto52890.jpg"
     },
     "martin-logan-vignette_": {
         "name": "Martin-Logan Vignette",
@@ -783,19 +783,19 @@
         "url": "www.supersonido.es/p/martin-logan-fresco-i-i",
         "image": "www.supersonido.es/productos/imagenes/producto619.jpg"
     },
-    "musical-fidelity-m2scd": {
-        "name": "Musical Fidelity M2SCD",
-        "price": 799.0,
-        "price_old": 1099.0,
-        "url": "www.supersonido.es/p/musical-fidelity-m2scd",
-        "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
-    },
     "kef-lsx_": {
         "name": "KEF LSX",
         "price": 799.0,
         "price_old": 1198.0,
         "url": "www.supersonido.es/p/kef-lsx_",
         "image": "www.supersonido.es/productos/imagenes/producto51731.jpg"
+    },
+    "musical-fidelity-m2scd": {
+        "name": "Musical Fidelity M2SCD",
+        "price": 799.0,
+        "price_old": 1099.0,
+        "url": "www.supersonido.es/p/musical-fidelity-m2scd",
+        "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
     },
     "audiolab-8300a_": {
         "name": "Audiolab 8300A",
