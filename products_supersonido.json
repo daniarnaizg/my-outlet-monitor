@@ -860,27 +860,6 @@
         "url": "www.supersonido.es/p/sonus-faber-sonetto-i_oc",
         "image": "www.supersonido.es/productos/imagenes/producto52520.jpg"
     },
-    "stax-srs-x1000_": {
-        "name": "Stax SRS-X1000",
-        "price": 949.0,
-        "price_old": 1349.0,
-        "url": "www.supersonido.es/p/stax-srs-x1000_",
-        "image": "www.supersonido.es/productos/imagenes/producto52585.jpg"
-    },
-    "sivga-sendy-peacock_": {
-        "name": "Sendy Audio Peacock",
-        "price": 999.0,
-        "price_old": 1599.0,
-        "url": "www.supersonido.es/p/sivga-sendy-peacock_",
-        "image": "www.supersonido.es/productos/imagenes/producto49897.jpg"
-    },
-    "audeze-lcdxc_ocasion_": {
-        "name": "Audeze LCD-XC",
-        "price": 999.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/audeze-lcdxc_ocasion_",
-        "image": "www.supersonido.es/productos/imagenes/producto41901.jpg"
-    },
     "monitor-audio-silver-100-7g-limited-edition_oc": {
         "name": "Monitor Audio Silver 100 7G Limited Edition",
         "price": 999.0,
@@ -902,12 +881,26 @@
         "url": "www.supersonido.es/p/loewe-wee-see-55",
         "image": "www.supersonido.es/productos/imagenes/producto46140.jpg"
     },
-    "audiolab-7000a_": {
-        "name": "Audiolab 7000A",
+    "audeze-lcdxc_ocasion_": {
+        "name": "Audeze LCD-XC",
+        "price": 999.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/audeze-lcdxc_ocasion_",
+        "image": "www.supersonido.es/productos/imagenes/producto41901.jpg"
+    },
+    "sivga-sendy-peacock_": {
+        "name": "Sendy Audio Peacock",
+        "price": 999.0,
+        "price_old": 1599.0,
+        "url": "www.supersonido.es/p/sivga-sendy-peacock_",
+        "image": "www.supersonido.es/productos/imagenes/producto49897.jpg"
+    },
+    "stax-srm-d50_": {
+        "name": "Stax SRM-D50",
         "price": 1049.0,
-        "price_old": 1299.0,
-        "url": "www.supersonido.es/p/audiolab-7000a_",
-        "image": "www.supersonido.es/productos/imagenes/producto51488.jpg"
+        "price_old": 1395.0,
+        "url": "www.supersonido.es/p/stax-srm-d50_",
+        "image": "www.supersonido.es/productos/imagenes/producto52572.jpg"
     },
     "svs-ultra-surround_": {
         "name": "SVS Ultra Surround",
@@ -916,12 +909,12 @@
         "url": "www.supersonido.es/p/svs-ultra-surround_",
         "image": "www.supersonido.es/productos/imagenes/producto51280.jpg"
     },
-    "stax-srm-d50_": {
-        "name": "Stax SRM-D50",
+    "audiolab-7000a_": {
+        "name": "Audiolab 7000A",
         "price": 1049.0,
-        "price_old": 1395.0,
-        "url": "www.supersonido.es/p/stax-srm-d50_",
-        "image": "www.supersonido.es/productos/imagenes/producto52572.jpg"
+        "price_old": 1299.0,
+        "url": "www.supersonido.es/p/audiolab-7000a_",
+        "image": "www.supersonido.es/productos/imagenes/producto51488.jpg"
     },
     "wharfedale-evo4-3_oc": {
         "name": "Wharfedale Evo4.3",
@@ -993,19 +986,19 @@
         "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
         "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
     },
-    "matrix-audio-element-p__": {
-        "name": "Matrix Audio Element P",
-        "price": 1390.0,
-        "price_old": 2799.0,
-        "url": "www.supersonido.es/p/matrix-audio-element-p__",
-        "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
-    },
     "matrix-audio-element-p_": {
         "name": "Matrix Audio Element P",
         "price": 1390.0,
         "price_old": 2799.0,
         "url": "www.supersonido.es/p/matrix-audio-element-p_",
         "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
+    },
+    "matrix-audio-element-p__": {
+        "name": "Matrix Audio Element P",
+        "price": 1390.0,
+        "price_old": 2799.0,
+        "url": "www.supersonido.es/p/matrix-audio-element-p__",
+        "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
     },
     "ferrum-erco": {
         "name": "Ferrum ERCO",
@@ -1398,5 +1391,12 @@
         "price_old": 8199.0,
         "url": "www.supersonido.es/p/feliks-audio-arioso_",
         "image": "www.supersonido.es/productos/imagenes/producto50010.jpg"
+    },
+    "stax-sr-009s_": {
+        "name": "Stax SR-009S",
+        "price": 3995.0,
+        "price_old": 5490.0,
+        "url": "www.supersonido.es/p/stax-sr-009s_",
+        "image": "www.supersonido.es/productos/imagenes/producto52571.jpg"
     }
 }
