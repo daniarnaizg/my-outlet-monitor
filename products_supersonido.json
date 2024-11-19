@@ -69,6 +69,13 @@
         "url": "www.supersonido.es/p/denon-dht-s216_",
         "image": "www.supersonido.es/productos/imagenes/producto52115.jpg"
     },
+    "ifi-audio-dc-blocker_": {
+        "name": "IFI Audio DC Blocker",
+        "price": 103.0,
+        "price_old": 129.0,
+        "url": "www.supersonido.es/p/ifi-audio-dc-blocker_",
+        "image": "www.supersonido.es/productos/imagenes/producto46463.jpg"
+    },
     "sennheiser-ie-200_": {
         "name": "Sennheiser IE 200",
         "price": 119.0,
@@ -573,19 +580,19 @@
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
         "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
     },
-    "svs-prime-wireless-pro-soundbase__": {
-        "name": "SVS Prime Wireless Pro SoundBase",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/svs-prime-wireless-pro-soundbase__",
-        "image": "www.supersonido.es/productos/imagenes/producto51825.jpg"
-    },
     "ruark-audio-r3s_": {
         "name": "Ruark Audio R3S",
         "price": 599.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/ruark-audio-r3s_",
         "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
+    },
+    "svs-prime-wireless-pro-soundbase__": {
+        "name": "SVS Prime Wireless Pro SoundBase",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/svs-prime-wireless-pro-soundbase__",
+        "image": "www.supersonido.es/productos/imagenes/producto51825.jpg"
     },
     "roberts-radio-stream-67_": {
         "name": "Roberts Radio Stream 67",
@@ -832,6 +839,13 @@
         "url": "www.supersonido.es/p/dan-clark-audio-on-2-closed_",
         "image": "www.supersonido.es/productos/imagenes/producto50777.jpg"
     },
+    "innuos-pulsemini_oca": {
+        "name": "Innuos PULSEmini",
+        "price": 899.0,
+        "price_old": 1149.0,
+        "url": "www.supersonido.es/p/innuos-pulsemini_oca",
+        "image": "www.supersonido.es/productos/imagenes/producto51385.jpg"
+    },
     "cayin-n6 MKII_": {
         "name": "Cayin N6 MKII",
         "price": 899.0,
@@ -845,13 +859,6 @@
         "price_old": 1699.0,
         "url": "www.supersonido.es/p/naim-mu-so-2nd-gen-_",
         "image": "www.supersonido.es/productos/imagenes/producto49332.jpg"
-    },
-    "innuos-pulsemini_oca": {
-        "name": "Innuos PULSEmini",
-        "price": 899.0,
-        "price_old": 1149.0,
-        "url": "www.supersonido.es/p/innuos-pulsemini_oca",
-        "image": "www.supersonido.es/productos/imagenes/producto51385.jpg"
     },
     "audiolab-6000a-play__": {
         "name": "Audiolab 6000A PLAY",
@@ -1000,13 +1007,6 @@
         "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
         "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
     },
-    "matrix-audio-element-p__": {
-        "name": "Matrix Audio Element P",
-        "price": 1390.0,
-        "price_old": 2799.0,
-        "url": "www.supersonido.es/p/matrix-audio-element-p__",
-        "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
-    },
     "matrix-audio-element-p_": {
         "name": "Matrix Audio Element P",
         "price": 1390.0,
@@ -1014,12 +1014,12 @@
         "url": "www.supersonido.es/p/matrix-audio-element-p_",
         "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
     },
-    "integra-audio-drx-5-4_": {
-        "name": "Integra Audio DRX 5.4",
-        "price": 1399.0,
-        "price_old": 2299.0,
-        "url": "www.supersonido.es/p/integra-audio-drx-5-4_",
-        "image": "www.supersonido.es/productos/imagenes/producto52697.jpg"
+    "matrix-audio-element-p__": {
+        "name": "Matrix Audio Element P",
+        "price": 1390.0,
+        "price_old": 2799.0,
+        "url": "www.supersonido.es/p/matrix-audio-element-p__",
+        "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
     },
     "ferrum-erco": {
         "name": "Ferrum ERCO",
@@ -1027,6 +1027,13 @@
         "price_old": 1795.0,
         "url": "www.supersonido.es/p/ferrum-erco",
         "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
+    },
+    "integra-audio-drx-5-4_": {
+        "name": "Integra Audio DRX 5.4",
+        "price": 1399.0,
+        "price_old": 2299.0,
+        "url": "www.supersonido.es/p/integra-audio-drx-5-4_",
+        "image": "www.supersonido.es/productos/imagenes/producto52697.jpg"
     },
     "mrspeakers-ether-c-flow-1-1_": {
         "name": "Dan Clark Audio ETHER C Flow 1.1",
@@ -1391,12 +1398,5 @@
         "price_old": 7999.0,
         "url": "www.supersonido.es/p/mcintosh-mx100_",
         "image": "www.supersonido.es/productos/imagenes/producto52837.jpg"
-    },
-    "kef-ls-60-wireless_": {
-        "name": "KEF LS-60 Wireless",
-        "price": 3900.0,
-        "price_old": 4999.0,
-        "url": "www.supersonido.es/p/kef-ls-60-wireless_",
-        "image": "www.supersonido.es/productos/imagenes/producto51728.jpg"
     }
 }
