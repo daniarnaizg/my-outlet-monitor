@@ -83,6 +83,13 @@
         "url": "www.supersonido.es/p/grado-sr125x_OC",
         "image": "www.supersonido.es/productos/imagenes/producto49911.jpg"
     },
+    "audio-technica-at-lp60x___": {
+        "name": "Audio-Technica AT-LP60X",
+        "price": 125.0,
+        "price_old": 159.0,
+        "url": "www.supersonido.es/p/audio-technica-at-lp60x___",
+        "image": "www.supersonido.es/productos/imagenes/producto51102.jpg"
+    },
     "sennheiser-hd-599_": {
         "name": "Sennheiser HD 599",
         "price": 129.0,
@@ -713,19 +720,19 @@
         "url": "www.supersonido.es/p/naim-mu-so-qb-2nd-generation__",
         "image": "www.supersonido.es/productos/imagenes/producto50222.jpg"
     },
-    "r-volution-playerone-8k_": {
-        "name": "R_Volution PlayerOne 8K",
-        "price": 699.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/r-volution-playerone-8k_",
-        "image": "www.supersonido.es/productos/imagenes/producto52783.jpg"
-    },
     "matrix-audio-element-i_": {
         "name": "Matrix Audio Element i",
         "price": 699.0,
         "price_old": 939.0,
         "url": "www.supersonido.es/p/matrix-audio-element-i_",
         "image": "www.supersonido.es/productos/imagenes/producto42751.jpg"
+    },
+    "r-volution-playerone-8k_": {
+        "name": "R_Volution PlayerOne 8K",
+        "price": 699.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/r-volution-playerone-8k_",
+        "image": "www.supersonido.es/productos/imagenes/producto52783.jpg"
     },
     "stax-sr-l500-mk2_": {
         "name": "Stax SR-L500 MK2",
@@ -832,6 +839,13 @@
         "url": "www.supersonido.es/p/dan-clark-audio-on-2-closed_",
         "image": "www.supersonido.es/productos/imagenes/producto50777.jpg"
     },
+    "innuos-pulsemini_oca": {
+        "name": "Innuos PULSEmini",
+        "price": 899.0,
+        "price_old": 1149.0,
+        "url": "www.supersonido.es/p/innuos-pulsemini_oca",
+        "image": "www.supersonido.es/productos/imagenes/producto51385.jpg"
+    },
     "naim-mu-so-2nd-gen-_": {
         "name": "Naim Mu-so 2nd Gen",
         "price": 899.0,
@@ -845,13 +859,6 @@
         "price_old": 1399.0,
         "url": "www.supersonido.es/p/cayin-n6 MKII_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
-    },
-    "innuos-pulsemini_oca": {
-        "name": "Innuos PULSEmini",
-        "price": 899.0,
-        "price_old": 1149.0,
-        "url": "www.supersonido.es/p/innuos-pulsemini_oca",
-        "image": "www.supersonido.es/productos/imagenes/producto51385.jpg"
     },
     "audiolab-6000a-play-": {
         "name": "Audiolab 6000A PLAY",
@@ -888,13 +895,6 @@
         "url": "www.supersonido.es/p/q-acoustics-5040_oc",
         "image": "www.supersonido.es/productos/imagenes/producto51073.jpg"
     },
-    "sivga-sendy-peacock_": {
-        "name": "Sendy Audio Peacock",
-        "price": 999.0,
-        "price_old": 1599.0,
-        "url": "www.supersonido.es/p/sivga-sendy-peacock_",
-        "image": "www.supersonido.es/productos/imagenes/producto49897.jpg"
-    },
     "audeze-lcdxc_ocasion_": {
         "name": "Audeze LCD-XC",
         "price": 999.0,
@@ -902,19 +902,19 @@
         "url": "www.supersonido.es/p/audeze-lcdxc_ocasion_",
         "image": "www.supersonido.es/productos/imagenes/producto41901.jpg"
     },
-    "jbl-4312g-ghost-edition-stands": {
-        "name": "JBL 4312G Ghost Edition + Stands",
-        "price": 1000.0,
-        "price_old": 3898.0,
-        "url": "www.supersonido.es/p/jbl-4312g-ghost-edition-stands",
-        "image": "www.supersonido.es/productos/imagenes/producto50911.jpg"
+    "sivga-sendy-peacock_": {
+        "name": "Sendy Audio Peacock",
+        "price": 999.0,
+        "price_old": 1599.0,
+        "url": "www.supersonido.es/p/sivga-sendy-peacock_",
+        "image": "www.supersonido.es/productos/imagenes/producto49897.jpg"
     },
-    "audiolab-7000a_": {
-        "name": "Audiolab 7000A",
+    "stax-srm-d50_": {
+        "name": "Stax SRM-D50",
         "price": 1049.0,
-        "price_old": 1299.0,
-        "url": "www.supersonido.es/p/audiolab-7000a_",
-        "image": "www.supersonido.es/productos/imagenes/producto51488.jpg"
+        "price_old": 1395.0,
+        "url": "www.supersonido.es/p/stax-srm-d50_",
+        "image": "www.supersonido.es/productos/imagenes/producto52572.jpg"
     },
     "svs-ultra-surround_": {
         "name": "SVS Ultra Surround",
@@ -923,12 +923,12 @@
         "url": "www.supersonido.es/p/svs-ultra-surround_",
         "image": "www.supersonido.es/productos/imagenes/producto51280.jpg"
     },
-    "stax-srm-d50_": {
-        "name": "Stax SRM-D50",
+    "audiolab-7000a_": {
+        "name": "Audiolab 7000A",
         "price": 1049.0,
-        "price_old": 1395.0,
-        "url": "www.supersonido.es/p/stax-srm-d50_",
-        "image": "www.supersonido.es/productos/imagenes/producto52572.jpg"
+        "price_old": 1299.0,
+        "url": "www.supersonido.es/p/audiolab-7000a_",
+        "image": "www.supersonido.es/productos/imagenes/producto51488.jpg"
     },
     "wharfedale-evo4-3_oc": {
         "name": "Wharfedale Evo4.3",
@@ -1098,19 +1098,19 @@
         "url": "www.supersonido.es/p/astell-kern-se300_",
         "image": "www.supersonido.es/productos/imagenes/producto52119.jpg"
     },
-    "svs-ultra-tower_": {
-        "name": "SVS Ultra Tower",
-        "price": 1699.0,
-        "price_old": 2298.0,
-        "url": "www.supersonido.es/p/svs-ultra-tower_",
-        "image": "www.supersonido.es/productos/imagenes/producto51279.jpg"
-    },
     "svs-prime-pinnacle_": {
         "name": "SVS Prime Pinnacle",
         "price": 1699.0,
         "price_old": 2298.0,
         "url": "www.supersonido.es/p/svs-prime-pinnacle_",
         "image": "www.supersonido.es/productos/imagenes/producto32440.jpg"
+    },
+    "svs-ultra-tower_": {
+        "name": "SVS Ultra Tower",
+        "price": 1699.0,
+        "price_old": 2298.0,
+        "url": "www.supersonido.es/p/svs-ultra-tower_",
+        "image": "www.supersonido.es/productos/imagenes/producto51279.jpg"
     },
     "focal-vestia-n-2_": {
         "name": "FOCAL Vestia N\u00c2\u00ba2",
