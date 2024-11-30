@@ -97,13 +97,6 @@
         "url": "www.supersonido.es/p/the-chord-company-shawline-digital-1bnc-to-1bnc_",
         "image": "www.supersonido.es/productos/imagenes/producto51241.jpg"
     },
-    "grado-sr225x_OC": {
-        "name": "Grado SR225x",
-        "price": 169.0,
-        "price_old": 279.0,
-        "url": "www.supersonido.es/p/grado-sr225x_OC",
-        "image": "www.supersonido.es/productos/imagenes/producto51323.jpg"
-    },
     "campfire-audio-honeydew_": {
         "name": "Campfire Audio Honeydew",
         "price": 169.0,
@@ -279,19 +272,19 @@
         "url": "www.supersonido.es/p/monitor-audio-cpwt380_",
         "image": "www.supersonido.es/productos/imagenes/producto26150.jpg"
     },
-    "q-acoustics-q3030i_": {
-        "name": "Q Acoustics Q3030i",
-        "price": 399.0,
-        "price_old": 489.0,
-        "url": "www.supersonido.es/p/q-acoustics-q3030i_",
-        "image": "www.supersonido.es/productos/imagenes/producto52454.jpg"
-    },
     "q-acoustics-m20hd": {
         "name": "Q Acoustics M20HD",
         "price": 399.0,
         "price_old": 549.0,
         "url": "www.supersonido.es/p/q-acoustics-m20hd",
         "image": "www.supersonido.es/productos/imagenes/producto50542.jpg"
+    },
+    "q-acoustics-q3030i_": {
+        "name": "Q Acoustics Q3030i",
+        "price": 399.0,
+        "price_old": 489.0,
+        "url": "www.supersonido.es/p/q-acoustics-q3030i_",
+        "image": "www.supersonido.es/productos/imagenes/producto52454.jpg"
     },
     "focal-sib-evo-dolby-atmos-2-0_": {
         "name": "FOCAL Sib Evo Dolby Atmos 2.0",
@@ -657,19 +650,19 @@
         "url": "www.supersonido.es/p/audiolab-6000a-play__oc",
         "image": "www.supersonido.es/productos/imagenes/producto52542.jpg"
     },
-    "ibasso-dx260_": {
-        "name": "Ibasso DX260",
-        "price": 849.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/ibasso-dx260_",
-        "image": "www.supersonido.es/productos/imagenes/producto52747.jpg"
-    },
     "acoustune-hs1697ti": {
         "name": "Acoustune HS1697TI",
         "price": 849.0,
         "price_old": 1149.0,
         "url": "www.supersonido.es/p/acoustune-hs1697ti",
         "image": "www.supersonido.es/productos/imagenes/producto42965.jpg"
+    },
+    "ibasso-dx260_": {
+        "name": "Ibasso DX260",
+        "price": 849.0,
+        "price_old": 949.0,
+        "url": "www.supersonido.es/p/ibasso-dx260_",
+        "image": "www.supersonido.es/productos/imagenes/producto52747.jpg"
     },
     "dan-clark-audio-on-2-closed_": {
         "name": "Dan Clark Audio \u00c3\u0086ON 2 Closed",
@@ -1398,5 +1391,12 @@
         "price_old": 19999.0,
         "url": "www.supersonido.es/p/jbl-s4700_",
         "image": "www.supersonido.es/productos/imagenes/producto49921.jpg"
+    },
+    "audio-research-gs-150": {
+        "name": "Audio Research GS 150",
+        "price": 18790.0,
+        "price_old": 24990.0,
+        "url": "www.supersonido.es/p/audio-research-gs-150",
+        "image": "www.supersonido.es/productos/imagenes/producto18556.jpg"
     }
 }
