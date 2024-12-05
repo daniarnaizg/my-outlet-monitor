@@ -181,6 +181,13 @@
         "url": "www.supersonido.es/p/audioquest-silver-jupiter-pss",
         "image": "www.supersonido.es/productos/imagenes/producto29943.jpg"
     },
+    "audeze-maxwell-playstation_oc": {
+        "name": "Audeze MAXWELL PLAYSTATION",
+        "price": 299.0,
+        "price_old": 399.0,
+        "url": "www.supersonido.es/p/audeze-maxwell-playstation_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto50833.jpg"
+    },
     "the-chord-company-chordohmic-ground-aray-rj45_": {
         "name": "The Chord Company ChordOhmic Ground ARAY\tRJ45",
         "price": 299.0,
@@ -202,27 +209,6 @@
         "url": "www.supersonido.es/p/denon-heos-link-hs2_",
         "image": "www.supersonido.es/productos/imagenes/producto50910.jpg"
     },
-    "audeze-maxwell-playstation_oc": {
-        "name": "Audeze MAXWELL PLAYSTATION",
-        "price": 299.0,
-        "price_old": 399.0,
-        "url": "www.supersonido.es/p/audeze-maxwell-playstation_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto50833.jpg"
-    },
-    "ruark-audio-mrx": {
-        "name": "Ruark Audio MRx",
-        "price": 349.0,
-        "price_old": 499.0,
-        "url": "www.supersonido.es/p/ruark-audio-mrx",
-        "image": "www.supersonido.es/productos/imagenes/producto32028.jpg"
-    },
-    "campfire-audio-holocene_": {
-        "name": "Campfire Audio Holocene",
-        "price": 349.0,
-        "price_old": 699.0,
-        "url": "www.supersonido.es/p/campfire-audio-holocene_",
-        "image": "www.supersonido.es/productos/imagenes/producto52748.jpg"
-    },
     "sony-sa-sw3_oc": {
         "name": "Sony SA-SW3",
         "price": 349.0,
@@ -237,12 +223,19 @@
         "url": "www.supersonido.es/p/dynaudio-stand-20_",
         "image": "www.supersonido.es/productos/imagenes/producto48776.jpg"
     },
-    "sonos-ace_": {
-        "name": "Sonos Ace",
+    "ruark-audio-mrx": {
+        "name": "Ruark Audio MRx",
         "price": 349.0,
         "price_old": 499.0,
-        "url": "www.supersonido.es/p/sonos-ace_",
-        "image": "www.supersonido.es/productos/imagenes/producto52846.jpg"
+        "url": "www.supersonido.es/p/ruark-audio-mrx",
+        "image": "www.supersonido.es/productos/imagenes/producto32028.jpg"
+    },
+    "campfire-audio-holocene_": {
+        "name": "Campfire Audio Holocene",
+        "price": 349.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/campfire-audio-holocene_",
+        "image": "www.supersonido.es/productos/imagenes/producto52748.jpg"
     },
     "audeze-maxwell-xbox": {
         "name": "Audeze MAXWELL XBOX",
@@ -419,6 +412,13 @@
         "url": "www.supersonido.es/p/raptor-planar3",
         "image": "www.supersonido.es/productos/imagenes/producto49510.jpg"
     },
+    "ruark-audio-r3s_": {
+        "name": "Ruark Audio R3S",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/ruark-audio-r3s_",
+        "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
+    },
     "musical-fidelity-m2scd": {
         "name": "Musical Fidelity M2SCD",
         "price": 599.0,
@@ -460,13 +460,6 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/svs-prime-wireless-pro-soundbase__",
         "image": "www.supersonido.es/productos/imagenes/producto51825.jpg"
-    },
-    "ruark-audio-r3s_": {
-        "name": "Ruark Audio R3S",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/ruark-audio-r3s_",
-        "image": "www.supersonido.es/productos/imagenes/producto50886.jpg"
     },
     "roberts-radio-stream-67_": {
         "name": "Roberts Radio Stream 67",
@@ -986,12 +979,12 @@
         "url": "www.supersonido.es/p/astell-kern-ak240",
         "image": "www.supersonido.es/productos/imagenes/producto29954.jpg"
     },
-    "matrix-audio-x-sabre-3_oca": {
-        "name": "Matrix Audio X-SABRE 3",
+    "final-audio-design-d8000-pro-edition_": {
+        "name": "Final Audio Design D8000 Pro Edition",
         "price": 2499.0,
-        "price_old": 3099.0,
-        "url": "www.supersonido.es/p/matrix-audio-x-sabre-3_oca",
-        "image": "www.supersonido.es/productos/imagenes/producto51573.jpg"
+        "price_old": 4299.0,
+        "url": "www.supersonido.es/p/final-audio-design-d8000-pro-edition_",
+        "image": "www.supersonido.es/productos/imagenes/producto52560.jpg"
     },
     "mofi-electronics-ultradeck-m-rea": {
         "name": "Mofi Electronics UltraDeck + M",
@@ -1000,12 +993,12 @@
         "url": "www.supersonido.es/p/mofi-electronics-ultradeck-m-rea",
         "image": "www.supersonido.es/productos/imagenes/producto50995.jpg"
     },
-    "final-audio-design-d8000-pro-edition_": {
-        "name": "Final Audio Design D8000 Pro Edition",
+    "matrix-audio-x-sabre-3_oca": {
+        "name": "Matrix Audio X-SABRE 3",
         "price": 2499.0,
-        "price_old": 4299.0,
-        "url": "www.supersonido.es/p/final-audio-design-d8000-pro-edition_",
-        "image": "www.supersonido.es/productos/imagenes/producto52560.jpg"
+        "price_old": 3099.0,
+        "url": "www.supersonido.es/p/matrix-audio-x-sabre-3_oca",
+        "image": "www.supersonido.es/productos/imagenes/producto51573.jpg"
     },
     "svs-pb-4000-oc": {
         "name": "SVS PB-4000",
