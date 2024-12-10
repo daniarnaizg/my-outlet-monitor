@@ -167,6 +167,13 @@
         "url": "www.supersonido.es/p/audioquest-silver-jupiter-pss",
         "image": "www.supersonido.es/productos/imagenes/producto29943.jpg"
     },
+    "audeze-maxwell-playstation_oc": {
+        "name": "Audeze MAXWELL PLAYSTATION",
+        "price": 299.0,
+        "price_old": 399.0,
+        "url": "www.supersonido.es/p/audeze-maxwell-playstation_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto50833.jpg"
+    },
     "the-chord-company-chordohmic-ground-aray-rj45_": {
         "name": "The Chord Company ChordOhmic Ground ARAY\tRJ45",
         "price": 299.0,
@@ -188,12 +195,19 @@
         "url": "www.supersonido.es/p/denon-heos-link-hs2_",
         "image": "www.supersonido.es/productos/imagenes/producto50910.jpg"
     },
-    "audeze-maxwell-playstation_oc": {
-        "name": "Audeze MAXWELL PLAYSTATION",
-        "price": 299.0,
-        "price_old": 399.0,
-        "url": "www.supersonido.es/p/audeze-maxwell-playstation_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto50833.jpg"
+    "dynaudio-stand-20_": {
+        "name": "Dynaudio Stand 20",
+        "price": 349.0,
+        "price_old": 529.0,
+        "url": "www.supersonido.es/p/dynaudio-stand-20_",
+        "image": "www.supersonido.es/productos/imagenes/producto48776.jpg"
+    },
+    "sony-sa-sw3_oc": {
+        "name": "Sony SA-SW3",
+        "price": 349.0,
+        "price_old": 499.0,
+        "url": "www.supersonido.es/p/sony-sa-sw3_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto49662.jpg"
     },
     "ruark-audio-mrx": {
         "name": "Ruark Audio MRx",
@@ -208,20 +222,6 @@
         "price_old": 699.0,
         "url": "www.supersonido.es/p/campfire-audio-holocene_",
         "image": "www.supersonido.es/productos/imagenes/producto52748.jpg"
-    },
-    "dynaudio-stand-20_": {
-        "name": "Dynaudio Stand 20",
-        "price": 349.0,
-        "price_old": 529.0,
-        "url": "www.supersonido.es/p/dynaudio-stand-20_",
-        "image": "www.supersonido.es/productos/imagenes/producto48776.jpg"
-    },
-    "sony-sa-sw3_oc": {
-        "name": "Sony SA-SW3",
-        "price": 349.0,
-        "price_old": 499.0,
-        "url": "www.supersonido.es/p/sony-sa-sw3_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto49662.jpg"
     },
     "audeze-maxwell-xbox": {
         "name": "Audeze MAXWELL XBOX",
@@ -250,6 +250,13 @@
         "price_old": 489.0,
         "url": "www.supersonido.es/p/q-acoustics-q3030i_",
         "image": "www.supersonido.es/productos/imagenes/producto52454.jpg"
+    },
+    "sonos-ace_": {
+        "name": "Sonos Ace",
+        "price": 399.0,
+        "price_old": 499.0,
+        "url": "www.supersonido.es/p/sonos-ace_",
+        "image": "www.supersonido.es/productos/imagenes/producto52846.jpg"
     },
     "denon-rcd-n10__oc": {
         "name": "Denon RCD-N10",
@@ -426,19 +433,19 @@
         "url": "www.supersonido.es/p/project-maia-ds",
         "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
-    "technics-ottava-s-sc-c50OC": {
-        "name": "Technics OTTAVA S SC-C50",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
-        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
-    },
     "svs-prime-wireless-pro-soundbase__": {
         "name": "SVS Prime Wireless Pro SoundBase",
         "price": 599.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/svs-prime-wireless-pro-soundbase__",
         "image": "www.supersonido.es/productos/imagenes/producto51825.jpg"
+    },
+    "technics-ottava-s-sc-c50OC": {
+        "name": "Technics OTTAVA S SC-C50",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
+        "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
     },
     "roberts-radio-stream-67_": {
         "name": "Roberts Radio Stream 67",
@@ -495,13 +502,6 @@
         "price_old": 950.0,
         "url": "www.supersonido.es/p/dynaudio-emit-20_",
         "image": "www.supersonido.es/productos/imagenes/producto50564.jpg"
-    },
-    "naim-mu-so-qb-2nd-generation__": {
-        "name": "Naim Mu-so Qb 2nd Generation",
-        "price": 699.0,
-        "price_old": 999.0,
-        "url": "www.supersonido.es/p/naim-mu-so-qb-2nd-generation__",
-        "image": "www.supersonido.es/productos/imagenes/producto50222.jpg"
     },
     "rega-planar-3-elys-2_": {
         "name": "Rega Planar 3 + Elys 2",
@@ -818,19 +818,19 @@
         "url": "www.supersonido.es/p/astell-kern-se300_",
         "image": "www.supersonido.es/productos/imagenes/producto52119.jpg"
     },
-    "svs-prime-pinnacle_": {
-        "name": "SVS Prime Pinnacle",
-        "price": 1699.0,
-        "price_old": 2298.0,
-        "url": "www.supersonido.es/p/svs-prime-pinnacle_",
-        "image": "www.supersonido.es/productos/imagenes/producto32440.jpg"
-    },
     "svs-ultra-tower_": {
         "name": "SVS Ultra Tower",
         "price": 1699.0,
         "price_old": 2298.0,
         "url": "www.supersonido.es/p/svs-ultra-tower_",
         "image": "www.supersonido.es/productos/imagenes/producto51279.jpg"
+    },
+    "svs-prime-pinnacle_": {
+        "name": "SVS Prime Pinnacle",
+        "price": 1699.0,
+        "price_old": 2298.0,
+        "url": "www.supersonido.es/p/svs-prime-pinnacle_",
+        "image": "www.supersonido.es/productos/imagenes/producto32440.jpg"
     },
     "rotel-s14_oc": {
         "name": "Rotel S14",
