@@ -104,13 +104,6 @@
         "url": "www.supersonido.es/p/audioquest-slip-db-14-4-2m",
         "image": "www.supersonido.es/productos/imagenes/producto51463.jpg"
     },
-    "jbl-hdi-fs_": {
-        "name": "JBL HDI FS",
-        "price": 210.0,
-        "price_old": 499.0,
-        "url": "www.supersonido.es/p/jbl-hdi-fs_",
-        "image": "www.supersonido.es/productos/imagenes/producto52555.jpg"
-    },
     "audioquest-slip-db-14-4-2m_": {
         "name": "Audioquest SLIP-DB 14/4 2,5m",
         "price": 215.0,
@@ -195,6 +188,13 @@
         "url": "www.supersonido.es/p/audioquest-silver-jupiter-pss",
         "image": "www.supersonido.es/productos/imagenes/producto29943.jpg"
     },
+    "audeze-maxwell-playstation_oc": {
+        "name": "Audeze MAXWELL PLAYSTATION",
+        "price": 299.0,
+        "price_old": 399.0,
+        "url": "www.supersonido.es/p/audeze-maxwell-playstation_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto50833.jpg"
+    },
     "the-chord-company-chordohmic-ground-aray-rj45_": {
         "name": "The Chord Company ChordOhmic Ground ARAY\tRJ45",
         "price": 299.0,
@@ -216,12 +216,19 @@
         "url": "www.supersonido.es/p/denon-heos-link-hs2_",
         "image": "www.supersonido.es/productos/imagenes/producto50910.jpg"
     },
-    "audeze-maxwell-playstation_oc": {
-        "name": "Audeze MAXWELL PLAYSTATION",
-        "price": 299.0,
-        "price_old": 399.0,
-        "url": "www.supersonido.es/p/audeze-maxwell-playstation_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto50833.jpg"
+    "dynaudio-stand-20_": {
+        "name": "Dynaudio Stand 20",
+        "price": 349.0,
+        "price_old": 529.0,
+        "url": "www.supersonido.es/p/dynaudio-stand-20_",
+        "image": "www.supersonido.es/productos/imagenes/producto48776.jpg"
+    },
+    "sony-sa-sw3_oc": {
+        "name": "Sony SA-SW3",
+        "price": 349.0,
+        "price_old": 499.0,
+        "url": "www.supersonido.es/p/sony-sa-sw3_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto49662.jpg"
     },
     "ruark-audio-mrx": {
         "name": "Ruark Audio MRx",
@@ -236,20 +243,6 @@
         "price_old": 699.0,
         "url": "www.supersonido.es/p/campfire-audio-holocene_",
         "image": "www.supersonido.es/productos/imagenes/producto52748.jpg"
-    },
-    "dynaudio-stand-20_": {
-        "name": "Dynaudio Stand 20",
-        "price": 349.0,
-        "price_old": 529.0,
-        "url": "www.supersonido.es/p/dynaudio-stand-20_",
-        "image": "www.supersonido.es/productos/imagenes/producto48776.jpg"
-    },
-    "sony-sa-sw3_oc": {
-        "name": "Sony SA-SW3",
-        "price": 349.0,
-        "price_old": 499.0,
-        "url": "www.supersonido.es/p/sony-sa-sw3_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto49662.jpg"
     },
     "audeze-maxwell-xbox": {
         "name": "Audeze MAXWELL XBOX",
@@ -1000,19 +993,19 @@
         "url": "www.supersonido.es/p/final-audio-design-d8000-pro-edition_",
         "image": "www.supersonido.es/productos/imagenes/producto52560.jpg"
     },
-    "matrix-audio-x-sabre-3_oca": {
-        "name": "Matrix Audio X-SABRE 3",
-        "price": 2499.0,
-        "price_old": 3099.0,
-        "url": "www.supersonido.es/p/matrix-audio-x-sabre-3_oca",
-        "image": "www.supersonido.es/productos/imagenes/producto51573.jpg"
-    },
     "mofi-electronics-ultradeck-m-rea": {
         "name": "Mofi Electronics UltraDeck + M",
         "price": 2499.0,
         "price_old": 3299.0,
         "url": "www.supersonido.es/p/mofi-electronics-ultradeck-m-rea",
         "image": "www.supersonido.es/productos/imagenes/producto50995.jpg"
+    },
+    "matrix-audio-x-sabre-3_oca": {
+        "name": "Matrix Audio X-SABRE 3",
+        "price": 2499.0,
+        "price_old": 3099.0,
+        "url": "www.supersonido.es/p/matrix-audio-x-sabre-3_oca",
+        "image": "www.supersonido.es/productos/imagenes/producto51573.jpg"
     },
     "svs-pb-4000-oc": {
         "name": "SVS PB-4000",
@@ -1189,19 +1182,19 @@
         "url": "www.supersonido.es/p/martinlogan-electromotion-esl-x",
         "image": "www.supersonido.es/productos/imagenes/producto22504.jpg"
     },
-    "rose-ra180_": {
-        "name": "Rose RA180",
-        "price": 4800.0,
-        "price_old": 6999.0,
-        "url": "www.supersonido.es/p/rose-ra180_",
-        "image": "www.supersonido.es/productos/imagenes/producto49892.jpg"
-    },
     "matrix-audio-ma-1_": {
         "name": "Matrix Audio MA-1",
         "price": 4800.0,
         "price_old": 8899.0,
         "url": "www.supersonido.es/p/matrix-audio-ma-1_",
         "image": "www.supersonido.es/productos/imagenes/producto52780.jpg"
+    },
+    "rose-ra180_": {
+        "name": "Rose RA180",
+        "price": 4800.0,
+        "price_old": 6999.0,
+        "url": "www.supersonido.es/p/rose-ra180_",
+        "image": "www.supersonido.es/productos/imagenes/producto49892.jpg"
     },
     "marantz-amp-10_": {
         "name": "Marantz AMP 10",
