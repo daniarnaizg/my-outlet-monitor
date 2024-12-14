@@ -48,13 +48,6 @@
         "url": "www.supersonido.es/p/grado-sr125x_OC",
         "image": "www.supersonido.es/productos/imagenes/producto49911.jpg"
     },
-    "audio-technica-at-lp60x___": {
-        "name": "Audio-Technica AT-LP60X",
-        "price": 125.0,
-        "price_old": 159.0,
-        "url": "www.supersonido.es/p/audio-technica-at-lp60x___",
-        "image": "www.supersonido.es/productos/imagenes/producto51102.jpg"
-    },
     "sennheiser-hd-599_": {
         "name": "Sennheiser HD 599",
         "price": 129.0,
@@ -237,13 +230,6 @@
         "url": "www.supersonido.es/p/q-acoustics-m20hd",
         "image": "www.supersonido.es/productos/imagenes/producto50542.jpg"
     },
-    "sonos-ace_": {
-        "name": "Sonos Ace",
-        "price": 399.0,
-        "price_old": 499.0,
-        "url": "www.supersonido.es/p/sonos-ace_",
-        "image": "www.supersonido.es/productos/imagenes/producto52846.jpg"
-    },
     "q-acoustics-q3030i_": {
         "name": "Q Acoustics Q3030i",
         "price": 399.0,
@@ -251,12 +237,12 @@
         "url": "www.supersonido.es/p/q-acoustics-q3030i_",
         "image": "www.supersonido.es/productos/imagenes/producto52454.jpg"
     },
-    "denon-rcd-n10__oc": {
-        "name": "Denon RCD-N10",
+    "sonos-ace_": {
+        "name": "Sonos Ace",
         "price": 399.0,
         "price_old": 499.0,
-        "url": "www.supersonido.es/p/denon-rcd-n10__oc",
-        "image": "www.supersonido.es/productos/imagenes/producto52850.jpg"
+        "url": "www.supersonido.es/p/sonos-ace_",
+        "image": "www.supersonido.es/productos/imagenes/producto52846.jpg"
     },
     "denon-rcd-n10__ocs": {
         "name": "Denon RCD-N10",
@@ -264,6 +250,13 @@
         "price_old": 499.0,
         "url": "www.supersonido.es/p/denon-rcd-n10__ocs",
         "image": "www.supersonido.es/productos/imagenes/producto52894.jpg"
+    },
+    "denon-rcd-n10__oc": {
+        "name": "Denon RCD-N10",
+        "price": 399.0,
+        "price_old": 499.0,
+        "url": "www.supersonido.es/p/denon-rcd-n10__oc",
+        "image": "www.supersonido.es/productos/imagenes/producto52850.jpg"
     },
     "focal-sib-evo-dolby-atmos-2-0_": {
         "name": "FOCAL Sib Evo Dolby Atmos 2.0",
@@ -412,6 +405,13 @@
         "url": "www.supersonido.es/p/raptor-planar3",
         "image": "www.supersonido.es/productos/imagenes/producto49510.jpg"
     },
+    "sonos-sub-3gen": {
+        "name": "Sonos SUB 3GEN",
+        "price": 599.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/sonos-sub-3gen",
+        "image": "www.supersonido.es/productos/imagenes/producto42367.jpg"
+    },
     "thorens-td-204_": {
         "name": "Thorens TD 204",
         "price": 599.0,
@@ -426,13 +426,6 @@
         "url": "www.supersonido.es/p/isotek-systems-sirius-evo3_",
         "image": "www.supersonido.es/productos/imagenes/producto48911.jpg"
     },
-    "project-maia-ds": {
-        "name": "Pro-Ject MaiA DS",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/project-maia-ds",
-        "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
-    },
     "musical-fidelity-m2scd": {
         "name": "Musical Fidelity M2SCD",
         "price": 599.0,
@@ -440,12 +433,12 @@
         "url": "www.supersonido.es/p/musical-fidelity-m2scd",
         "image": "www.supersonido.es/productos/imagenes/producto30413.jpg"
     },
-    "svs-prime-wireless-pro-soundbase__": {
-        "name": "SVS Prime Wireless Pro SoundBase",
+    "project-maia-ds": {
+        "name": "Pro-Ject MaiA DS",
         "price": 599.0,
         "price_old": 799.0,
-        "url": "www.supersonido.es/p/svs-prime-wireless-pro-soundbase__",
-        "image": "www.supersonido.es/productos/imagenes/producto51825.jpg"
+        "url": "www.supersonido.es/p/project-maia-ds",
+        "image": "www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
     "technics-ottava-s-sc-c50OC": {
         "name": "Technics OTTAVA S SC-C50",
@@ -453,6 +446,13 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/technics-ottava-s-sc-c50OC",
         "image": "www.supersonido.es/productos/imagenes/producto45801.jpg"
+    },
+    "svs-prime-wireless-pro-soundbase__": {
+        "name": "SVS Prime Wireless Pro SoundBase",
+        "price": 599.0,
+        "price_old": 799.0,
+        "url": "www.supersonido.es/p/svs-prime-wireless-pro-soundbase__",
+        "image": "www.supersonido.es/productos/imagenes/producto51825.jpg"
     },
     "roberts-radio-stream-67_": {
         "name": "Roberts Radio Stream 67",
@@ -482,6 +482,13 @@
         "url": "www.supersonido.es/p/campfire-audio-vega-2020_",
         "image": "www.supersonido.es/productos/imagenes/producto51156.jpg"
     },
+    "martin-logan-ml-75aw_": {
+        "name": "Martin-Logan ML-75AW",
+        "price": 679.0,
+        "price_old": 1199.0,
+        "url": "www.supersonido.es/p/martin-logan-ml-75aw_",
+        "image": "www.supersonido.es/productos/imagenes/producto52757.jpg"
+    },
     "wharfedale-diamond-12-3_": {
         "name": "Wharfedale Diamond 12.3",
         "price": 679.0,
@@ -489,12 +496,12 @@
         "url": "www.supersonido.es/p/wharfedale-diamond-12-3_",
         "image": "www.supersonido.es/productos/imagenes/producto51236.jpg"
     },
-    "martin-logan-ml-75aw_": {
-        "name": "Martin-Logan ML-75AW",
-        "price": 679.0,
-        "price_old": 1199.0,
-        "url": "www.supersonido.es/p/martin-logan-ml-75aw_",
-        "image": "www.supersonido.es/productos/imagenes/producto52757.jpg"
+    "rega-planar-3-elys-2_": {
+        "name": "Rega Planar 3 + Elys 2",
+        "price": 699.0,
+        "price_old": 999.0,
+        "url": "www.supersonido.es/p/rega-planar-3-elys-2_",
+        "image": "www.supersonido.es/productos/imagenes/producto26155.jpg"
     },
     "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra": {
         "name": "Pro-Ject Pre-Box S2 Digital DAC +  Stream Box S2 Ultra",
@@ -509,13 +516,6 @@
         "price_old": 950.0,
         "url": "www.supersonido.es/p/dynaudio-emit-20_",
         "image": "www.supersonido.es/productos/imagenes/producto50564.jpg"
-    },
-    "rega-planar-3-elys-2_": {
-        "name": "Rega Planar 3 + Elys 2",
-        "price": 699.0,
-        "price_old": 999.0,
-        "url": "www.supersonido.es/p/rega-planar-3-elys-2_",
-        "image": "www.supersonido.es/productos/imagenes/producto26155.jpg"
     },
     "mrspeakers-aeon-open__": {
         "name": "Dan Clark Audio AEON Open",
@@ -538,12 +538,12 @@
         "url": "www.supersonido.es/p/stax-sr-l500-mk2_",
         "image": "www.supersonido.es/productos/imagenes/producto52568.jpg"
     },
-    "focal-vestia-n-1_": {
-        "name": "FOCAL Vestia N\u00c2\u00ba1",
+    "samsung-hw-q990d_": {
+        "name": "Samsung HW-Q990D",
         "price": 749.0,
-        "price_old": 998.0,
-        "url": "www.supersonido.es/p/focal-vestia-n-1_",
-        "image": "www.supersonido.es/productos/imagenes/producto52633.jpg"
+        "price_old": 1399.0,
+        "url": "www.supersonido.es/p/samsung-hw-q990d_",
+        "image": "www.supersonido.es/productos/imagenes/producto52885.jpg"
     },
     "pro-ject-stereo-box-rs": {
         "name": "Pro-Ject Stereo Box RS",
@@ -552,12 +552,12 @@
         "url": "www.supersonido.es/p/pro-ject-stereo-box-rs",
         "image": "www.supersonido.es/productos/imagenes/producto16721.jpg"
     },
-    "samsung-hw-q990d_": {
-        "name": "Samsung HW-Q990D",
+    "focal-vestia-n-1_": {
+        "name": "FOCAL Vestia N\u00c2\u00ba1",
         "price": 749.0,
-        "price_old": 1399.0,
-        "url": "www.supersonido.es/p/samsung-hw-q990d_",
-        "image": "www.supersonido.es/productos/imagenes/producto52885.jpg"
+        "price_old": 998.0,
+        "url": "www.supersonido.es/p/focal-vestia-n-1_",
+        "image": "www.supersonido.es/productos/imagenes/producto52633.jpg"
     },
     "kef-lsx": {
         "name": "KEF LSX",
@@ -643,19 +643,19 @@
         "url": "www.supersonido.es/p/innuos-pulsemini_oca",
         "image": "www.supersonido.es/productos/imagenes/producto51385.jpg"
     },
-    "audiolab-6000a-play-": {
-        "name": "Audiolab 6000A PLAY",
-        "price": 899.0,
-        "price_old": 1249.0,
-        "url": "www.supersonido.es/p/audiolab-6000a-play-",
-        "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
-    },
     "cayin-n6 MKII_": {
         "name": "Cayin N6 MKII",
         "price": 899.0,
         "price_old": 1399.0,
         "url": "www.supersonido.es/p/cayin-n6 MKII_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+    },
+    "audiolab-6000a-play-": {
+        "name": "Audiolab 6000A PLAY",
+        "price": 899.0,
+        "price_old": 1249.0,
+        "url": "www.supersonido.es/p/audiolab-6000a-play-",
+        "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
     },
     "sonus-faber-sonetto-i_oc": {
         "name": "Sonus Faber Sonetto I",
