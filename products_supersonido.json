@@ -90,6 +90,13 @@
         "url": "www.supersonido.es/p/van-den-hul-d-102-iii-hybrid-xlr",
         "image": "www.supersonido.es/productos/imagenes/producto52693.jpg"
     },
+    "klipsch-kd400_": {
+        "name": "Klipsch KD400",
+        "price": 199.0,
+        "price_old": 399.0,
+        "url": "www.supersonido.es/p/klipsch-kd400_",
+        "image": "www.supersonido.es/productos/imagenes/producto52586.jpg"
+    },
     "audioquest-slip-db-14-4-2m": {
         "name": "Audioquest SLIP-DB 14/4 2m",
         "price": 200.0,
@@ -195,19 +202,19 @@
         "url": "www.supersonido.es/p/campfire-audio-holocene_",
         "image": "www.supersonido.es/productos/imagenes/producto52748.jpg"
     },
-    "dynaudio-stand-20_": {
-        "name": "Dynaudio Stand 20",
-        "price": 349.0,
-        "price_old": 529.0,
-        "url": "www.supersonido.es/p/dynaudio-stand-20_",
-        "image": "www.supersonido.es/productos/imagenes/producto48776.jpg"
-    },
     "sony-sa-sw3_oc": {
         "name": "Sony SA-SW3",
         "price": 349.0,
         "price_old": 499.0,
         "url": "www.supersonido.es/p/sony-sa-sw3_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49662.jpg"
+    },
+    "dynaudio-stand-20_": {
+        "name": "Dynaudio Stand 20",
+        "price": 349.0,
+        "price_old": 529.0,
+        "url": "www.supersonido.es/p/dynaudio-stand-20_",
+        "image": "www.supersonido.es/productos/imagenes/producto48776.jpg"
     },
     "audeze-maxwell-xbox": {
         "name": "Audeze MAXWELL XBOX",
@@ -321,19 +328,19 @@
         "url": "www.supersonido.es/p/marantz-melody-x-m-cr612_",
         "image": "www.supersonido.es/productos/imagenes/producto42952.jpg"
     },
-    "jbl-ma310__": {
-        "name": "JBL MA310",
-        "price": 479.0,
-        "price_old": 599.0,
-        "url": "www.supersonido.es/p/jbl-ma310__",
-        "image": "www.supersonido.es/productos/imagenes/producto52947.jpg"
-    },
     "klipsch-rsm-525_": {
         "name": "Klipsch RSM-525",
         "price": 479.0,
         "price_old": 599.0,
         "url": "www.supersonido.es/p/klipsch-rsm-525_",
         "image": "www.supersonido.es/productos/imagenes/producto52587.jpg"
+    },
+    "jbl-ma310__": {
+        "name": "JBL MA310",
+        "price": 479.0,
+        "price_old": 599.0,
+        "url": "www.supersonido.es/p/jbl-ma310__",
+        "image": "www.supersonido.es/productos/imagenes/producto52947.jpg"
     },
     "quad-vena-ii-play_oc": {
         "name": "Quad Vena II Play",
@@ -411,13 +418,6 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/raptor-planar3",
         "image": "www.supersonido.es/productos/imagenes/producto49510.jpg"
-    },
-    "thorens-td-204_": {
-        "name": "Thorens TD 204",
-        "price": 599.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/thorens-td-204_",
-        "image": "www.supersonido.es/productos/imagenes/producto52795.jpg"
     },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
@@ -538,19 +538,19 @@
         "url": "www.supersonido.es/p/stax-sr-l500-mk2_",
         "image": "www.supersonido.es/productos/imagenes/producto52568.jpg"
     },
-    "pro-ject-stereo-box-rs": {
-        "name": "Pro-Ject Stereo Box RS",
-        "price": 749.0,
-        "price_old": 999.0,
-        "url": "www.supersonido.es/p/pro-ject-stereo-box-rs",
-        "image": "www.supersonido.es/productos/imagenes/producto16721.jpg"
-    },
     "focal-vestia-n-1_": {
         "name": "FOCAL Vestia N\u00c2\u00ba1",
         "price": 749.0,
         "price_old": 998.0,
         "url": "www.supersonido.es/p/focal-vestia-n-1_",
         "image": "www.supersonido.es/productos/imagenes/producto52633.jpg"
+    },
+    "pro-ject-stereo-box-rs": {
+        "name": "Pro-Ject Stereo Box RS",
+        "price": 749.0,
+        "price_old": 999.0,
+        "url": "www.supersonido.es/p/pro-ject-stereo-box-rs",
+        "image": "www.supersonido.es/productos/imagenes/producto16721.jpg"
     },
     "kef-lsx": {
         "name": "KEF LSX",
@@ -579,13 +579,6 @@
         "price_old": 1198.0,
         "url": "www.supersonido.es/p/kef-lsx_",
         "image": "www.supersonido.es/productos/imagenes/producto51731.jpg"
-    },
-    "q-acoustics-q-active-200_": {
-        "name": "Q Acoustics Q Active 200",
-        "price": 799.0,
-        "price_old": 1299.0,
-        "url": "www.supersonido.es/p/q-acoustics-q-active-200_",
-        "image": "www.supersonido.es/productos/imagenes/producto43652.jpg"
     },
     "audeze-lcd-gx_": {
         "name": "Audeze LCD-GX",
@@ -727,19 +720,19 @@
         "url": "www.supersonido.es/p/pro-ject-box-15-ds2_",
         "image": "www.supersonido.es/productos/imagenes/producto50803.jpg"
     },
-    "matrix-audio-element-p_": {
-        "name": "Matrix Audio Element P",
-        "price": 1199.0,
-        "price_old": 2799.0,
-        "url": "www.supersonido.es/p/matrix-audio-element-p_",
-        "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
-    },
     "matrix-audio-element-p__": {
         "name": "Matrix Audio Element P",
         "price": 1199.0,
         "price_old": 2799.0,
         "url": "www.supersonido.es/p/matrix-audio-element-p__",
         "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
+    },
+    "matrix-audio-element-p_": {
+        "name": "Matrix Audio Element P",
+        "price": 1199.0,
+        "price_old": 2799.0,
+        "url": "www.supersonido.es/p/matrix-audio-element-p_",
+        "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
     },
     "monitor-audio-silver-200-7g_": {
         "name": "Monitor Audio Silver 200 7G",
@@ -846,19 +839,19 @@
         "url": "www.supersonido.es/p/rotel-s14_oc",
         "image": "www.supersonido.es/productos/imagenes/producto50108.jpg"
     },
-    "sennheiser-ambeo-soundbar_oc": {
-        "name": "Sennheiser AMBEO Soundbar Max",
-        "price": 1799.0,
-        "price_old": 2499.0,
-        "url": "www.supersonido.es/p/sennheiser-ambeo-soundbar_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto52493.jpg"
-    },
     "focal-vestia-n-2_": {
         "name": "FOCAL Vestia N\u00c2\u00ba2",
         "price": 1799.0,
         "price_old": 2598.0,
         "url": "www.supersonido.es/p/focal-vestia-n-2_",
         "image": "www.supersonido.es/productos/imagenes/producto52730.jpg"
+    },
+    "sennheiser-ambeo-soundbar_oc": {
+        "name": "Sennheiser AMBEO Soundbar Max",
+        "price": 1799.0,
+        "price_old": 2499.0,
+        "url": "www.supersonido.es/p/sennheiser-ambeo-soundbar_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto52493.jpg"
     },
     "mofi-electronics-ultradeck_": {
         "name": "Mofi Electronics UltraDeck",
