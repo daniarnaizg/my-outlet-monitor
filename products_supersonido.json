@@ -195,19 +195,19 @@
         "url": "www.supersonido.es/p/sony-sa-sw3_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49662.jpg"
     },
-    "campfire-audio-holocene_": {
-        "name": "Campfire Audio Holocene",
-        "price": 349.0,
-        "price_old": 699.0,
-        "url": "www.supersonido.es/p/campfire-audio-holocene_",
-        "image": "www.supersonido.es/productos/imagenes/producto52748.jpg"
-    },
     "ruark-audio-mrx": {
         "name": "Ruark Audio MRx",
         "price": 349.0,
         "price_old": 499.0,
         "url": "www.supersonido.es/p/ruark-audio-mrx",
         "image": "www.supersonido.es/productos/imagenes/producto32028.jpg"
+    },
+    "campfire-audio-holocene_": {
+        "name": "Campfire Audio Holocene",
+        "price": 349.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/campfire-audio-holocene_",
+        "image": "www.supersonido.es/productos/imagenes/producto52748.jpg"
     },
     "audeze-maxwell-xbox": {
         "name": "Audeze MAXWELL XBOX",
@@ -223,6 +223,20 @@
         "url": "www.supersonido.es/p/monitor-audio-cpwt380_",
         "image": "www.supersonido.es/productos/imagenes/producto26150.jpg"
     },
+    "klipsch-rp-600m-ii_occ": {
+        "name": "Klipsch RP-600M II",
+        "price": 399.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/klipsch-rp-600m-ii_occ",
+        "image": "www.supersonido.es/productos/imagenes/producto52955.jpg"
+    },
+    "sonos-ace_": {
+        "name": "Sonos Ace",
+        "price": 399.0,
+        "price_old": 499.0,
+        "url": "www.supersonido.es/p/sonos-ace_",
+        "image": "www.supersonido.es/productos/imagenes/producto52846.jpg"
+    },
     "q-acoustics-m20hd": {
         "name": "Q Acoustics M20HD",
         "price": 399.0,
@@ -236,13 +250,6 @@
         "price_old": 489.0,
         "url": "www.supersonido.es/p/q-acoustics-q3030i_",
         "image": "www.supersonido.es/productos/imagenes/producto52454.jpg"
-    },
-    "sonos-ace_": {
-        "name": "Sonos Ace",
-        "price": 399.0,
-        "price_old": 499.0,
-        "url": "www.supersonido.es/p/sonos-ace_",
-        "image": "www.supersonido.es/productos/imagenes/producto52846.jpg"
     },
     "denon-rcd-n10__oc": {
         "name": "Denon RCD-N10",
@@ -300,19 +307,19 @@
         "url": "www.supersonido.es/p/pro-ject-debut-s-rainier_",
         "image": "www.supersonido.es/productos/imagenes/producto52193.jpg"
     },
-    "technics-ottava-s-sc-c30_": {
-        "name": "Technics OTTAVA S SC-C30",
-        "price": 449.0,
-        "price_old": 599.0,
-        "url": "www.supersonido.es/p/technics-ottava-s-sc-c30_",
-        "image": "www.supersonido.es/productos/imagenes/producto44225.jpg"
-    },
     "zidoo-z2000-pro": {
         "name": "Zidoo Z2000 Pro",
         "price": 449.0,
         "price_old": 449.0,
         "url": "www.supersonido.es/p/zidoo-z2000-pro",
         "image": "www.supersonido.es/productos/imagenes/producto52430.jpg"
+    },
+    "technics-ottava-s-sc-c30_": {
+        "name": "Technics OTTAVA S SC-C30",
+        "price": 449.0,
+        "price_old": 599.0,
+        "url": "www.supersonido.es/p/technics-ottava-s-sc-c30_",
+        "image": "www.supersonido.es/productos/imagenes/producto44225.jpg"
     },
     "marantz-melody-x-m-cr612_": {
         "name": "Marantz Melody X MCR612",
@@ -398,19 +405,19 @@
         "url": "www.supersonido.es/p/audioquest-rocket-44_",
         "image": "www.supersonido.es/productos/imagenes/producto52695.jpg"
     },
-    "sonos-sub-3gen": {
-        "name": "Sonos SUB 3GEN",
-        "price": 599.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/sonos-sub-3gen",
-        "image": "www.supersonido.es/productos/imagenes/producto42367.jpg"
-    },
     "raptor-planar3": {
         "name": "Rega Planar 3",
         "price": 599.0,
         "price_old": 799.0,
         "url": "www.supersonido.es/p/raptor-planar3",
         "image": "www.supersonido.es/productos/imagenes/producto49510.jpg"
+    },
+    "sonos-sub-3gen": {
+        "name": "Sonos SUB 3GEN",
+        "price": 599.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/sonos-sub-3gen",
+        "image": "www.supersonido.es/productos/imagenes/producto42367.jpg"
     },
     "isotek-systems-sirius-evo3_": {
         "name": "Isotek Systems Sirius EVO3",
@@ -587,19 +594,19 @@
         "url": "www.supersonido.es/p/audiolab-6000a-play__oc",
         "image": "www.supersonido.es/productos/imagenes/producto52542.jpg"
     },
-    "acoustune-hs1697ti": {
-        "name": "Acoustune HS1697TI",
-        "price": 849.0,
-        "price_old": 1149.0,
-        "url": "www.supersonido.es/p/acoustune-hs1697ti",
-        "image": "www.supersonido.es/productos/imagenes/producto42965.jpg"
-    },
     "ibasso-dx260_": {
         "name": "Ibasso DX260",
         "price": 849.0,
         "price_old": 949.0,
         "url": "www.supersonido.es/p/ibasso-dx260_",
         "image": "www.supersonido.es/productos/imagenes/producto52747.jpg"
+    },
+    "acoustune-hs1697ti": {
+        "name": "Acoustune HS1697TI",
+        "price": 849.0,
+        "price_old": 1149.0,
+        "url": "www.supersonido.es/p/acoustune-hs1697ti",
+        "image": "www.supersonido.es/productos/imagenes/producto42965.jpg"
     },
     "dan-clark-audio-on-2-closed_": {
         "name": "Dan Clark Audio \u00c3\u0086ON 2 Closed",
@@ -951,19 +958,19 @@
         "url": "www.supersonido.es/p/final-audio-design-d8000-pro-edition_",
         "image": "www.supersonido.es/productos/imagenes/producto52560.jpg"
     },
-    "mofi-electronics-ultradeck-m-rea": {
-        "name": "Mofi Electronics UltraDeck + M",
-        "price": 2499.0,
-        "price_old": 3299.0,
-        "url": "www.supersonido.es/p/mofi-electronics-ultradeck-m-rea",
-        "image": "www.supersonido.es/productos/imagenes/producto50995.jpg"
-    },
     "matrix-audio-x-sabre-3_oca": {
         "name": "Matrix Audio X-SABRE 3",
         "price": 2499.0,
         "price_old": 3099.0,
         "url": "www.supersonido.es/p/matrix-audio-x-sabre-3_oca",
         "image": "www.supersonido.es/productos/imagenes/producto51573.jpg"
+    },
+    "mofi-electronics-ultradeck-m-rea": {
+        "name": "Mofi Electronics UltraDeck + M",
+        "price": 2499.0,
+        "price_old": 3299.0,
+        "url": "www.supersonido.es/p/mofi-electronics-ultradeck-m-rea",
+        "image": "www.supersonido.es/productos/imagenes/producto50995.jpg"
     },
     "svs-pb-4000-oc": {
         "name": "SVS PB-4000",
@@ -1140,19 +1147,19 @@
         "url": "www.supersonido.es/p/martinlogan-electromotion-esl-x",
         "image": "www.supersonido.es/productos/imagenes/producto22504.jpg"
     },
-    "rose-ra180_": {
-        "name": "Rose RA180",
-        "price": 4800.0,
-        "price_old": 6999.0,
-        "url": "www.supersonido.es/p/rose-ra180_",
-        "image": "www.supersonido.es/productos/imagenes/producto49892.jpg"
-    },
     "matrix-audio-ma-1_": {
         "name": "Matrix Audio MA-1",
         "price": 4800.0,
         "price_old": 8899.0,
         "url": "www.supersonido.es/p/matrix-audio-ma-1_",
         "image": "www.supersonido.es/productos/imagenes/producto52780.jpg"
+    },
+    "rose-ra180_": {
+        "name": "Rose RA180",
+        "price": 4800.0,
+        "price_old": 6999.0,
+        "url": "www.supersonido.es/p/rose-ra180_",
+        "image": "www.supersonido.es/productos/imagenes/producto49892.jpg"
     },
     "marantz-amp-10_": {
         "name": "Marantz AMP 10",
