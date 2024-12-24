@@ -34,6 +34,13 @@
         "url": "www.supersonido.es/p/ifi-audio-ipower-x_oca",
         "image": "www.supersonido.es/productos/imagenes/producto52773.jpg"
     },
+    "grado-sr80x_oc": {
+        "name": "Grado SR80x",
+        "price": 100.0,
+        "price_old": 149.0,
+        "url": "www.supersonido.es/p/grado-sr80x_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto48628.jpg"
+    },
     "grado-sr125x_OC": {
         "name": "Grado SR125x",
         "price": 119.0,
@@ -124,6 +131,13 @@
         "price_old": 450.0,
         "url": "www.supersonido.es/p/the-chord-company-silent-mount-sm7_",
         "image": "www.supersonido.es/productos/imagenes/producto51366.jpg"
+    },
+    "pro-ject-t1__oc": {
+        "name": "Pro-Ject T1",
+        "price": 259.0,
+        "price_old": 369.0,
+        "url": "www.supersonido.es/p/pro-ject-t1__oc",
+        "image": "www.supersonido.es/productos/imagenes/producto48833.jpg"
     },
     "ifi-audio-zen-can-signature-mz99_": {
         "name": "IFI Audio ZEN CAN Signature MZ99",
@@ -237,12 +251,12 @@
         "url": "www.supersonido.es/p/sonos-ace_",
         "image": "www.supersonido.es/productos/imagenes/producto52846.jpg"
     },
-    "focal-sib-evo-dolby-atmos-2-0_": {
-        "name": "FOCAL Sib Evo Dolby Atmos 2.0",
+    "denon-rcd-n10__oc": {
+        "name": "Denon RCD-N10",
         "price": 399.0,
         "price_old": 499.0,
-        "url": "www.supersonido.es/p/focal-sib-evo-dolby-atmos-2-0_",
-        "image": "www.supersonido.es/productos/imagenes/producto52494.jpg"
+        "url": "www.supersonido.es/p/denon-rcd-n10__oc",
+        "image": "www.supersonido.es/productos/imagenes/producto52850.jpg"
     },
     "denon-rcd-n10__ocs": {
         "name": "Denon RCD-N10",
@@ -251,12 +265,19 @@
         "url": "www.supersonido.es/p/denon-rcd-n10__ocs",
         "image": "www.supersonido.es/productos/imagenes/producto52894.jpg"
     },
-    "denon-rcd-n10__oc": {
-        "name": "Denon RCD-N10",
+    "focal-sib-evo-dolby-atmos-2-0_": {
+        "name": "FOCAL Sib Evo Dolby Atmos 2.0",
         "price": 399.0,
         "price_old": 499.0,
-        "url": "www.supersonido.es/p/denon-rcd-n10__oc",
-        "image": "www.supersonido.es/productos/imagenes/producto52850.jpg"
+        "url": "www.supersonido.es/p/focal-sib-evo-dolby-atmos-2-0_",
+        "image": "www.supersonido.es/productos/imagenes/producto52494.jpg"
+    },
+    "hifiman-ananda-nano_": {
+        "name": "HIFIMAN Ananda Nano",
+        "price": 399.0,
+        "price_old": 559.0,
+        "url": "www.supersonido.es/p/hifiman-ananda-nano_",
+        "image": "www.supersonido.es/productos/imagenes/producto52675.jpg"
     },
     "bluesound-pulse-mini-2i_": {
         "name": "Bluesound PULSE MINI 2i",
@@ -531,19 +552,19 @@
         "url": "www.supersonido.es/p/stax-sr-l500-mk2_",
         "image": "www.supersonido.es/productos/imagenes/producto52568.jpg"
     },
-    "focal-vestia-n-1_": {
-        "name": "FOCAL Vestia N\u00c2\u00ba1",
-        "price": 749.0,
-        "price_old": 998.0,
-        "url": "www.supersonido.es/p/focal-vestia-n-1_",
-        "image": "www.supersonido.es/productos/imagenes/producto52633.jpg"
-    },
     "pro-ject-stereo-box-rs": {
         "name": "Pro-Ject Stereo Box RS",
         "price": 749.0,
         "price_old": 999.0,
         "url": "www.supersonido.es/p/pro-ject-stereo-box-rs",
         "image": "www.supersonido.es/productos/imagenes/producto16721.jpg"
+    },
+    "focal-vestia-n-1_": {
+        "name": "FOCAL Vestia N\u00c2\u00ba1",
+        "price": 749.0,
+        "price_old": 998.0,
+        "url": "www.supersonido.es/p/focal-vestia-n-1_",
+        "image": "www.supersonido.es/productos/imagenes/producto52633.jpg"
     },
     "kef-lsx": {
         "name": "KEF LSX",
