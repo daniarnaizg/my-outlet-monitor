@@ -139,19 +139,19 @@
         "url": "www.supersonido.es/p/ifi-audio-zen-can-signature-mz99_",
         "image": "www.supersonido.es/productos/imagenes/producto52354.jpg"
     },
-    "hifiman-edition-xs_": {
-        "name": "HIFIMAN Edition XS",
-        "price": 279.0,
-        "price_old": 309.0,
-        "url": "www.supersonido.es/p/hifiman-edition-xs_",
-        "image": "www.supersonido.es/productos/imagenes/producto46902.jpg"
-    },
     "audiopro-sw-5_": {
         "name": "AudioPro SW-5",
         "price": 279.0,
         "price_old": 349.0,
         "url": "www.supersonido.es/p/audiopro-sw-5_",
         "image": "www.supersonido.es/productos/imagenes/producto53002.jpg"
+    },
+    "hifiman-edition-xs_": {
+        "name": "HIFIMAN Edition XS",
+        "price": 279.0,
+        "price_old": 309.0,
+        "url": "www.supersonido.es/p/hifiman-edition-xs_",
+        "image": "www.supersonido.es/productos/imagenes/producto46902.jpg"
     },
     "audioquest-silver-jupiter-pss": {
         "name": "Audioquest Silver - Jupiter (PSS)",
@@ -230,6 +230,13 @@
         "url": "www.supersonido.es/p/q-acoustics-m20hd",
         "image": "www.supersonido.es/productos/imagenes/producto50542.jpg"
     },
+    "hifiman-ananda-nano_": {
+        "name": "HIFIMAN Ananda Nano",
+        "price": 399.0,
+        "price_old": 559.0,
+        "url": "www.supersonido.es/p/hifiman-ananda-nano_",
+        "image": "www.supersonido.es/productos/imagenes/producto52675.jpg"
+    },
     "q-acoustics-q3030i_": {
         "name": "Q Acoustics Q3030i",
         "price": 399.0,
@@ -271,13 +278,6 @@
         "price_old": 649.0,
         "url": "www.supersonido.es/p/bluesound-pulse-mini-2i_",
         "image": "www.supersonido.es/productos/imagenes/producto47320.jpg"
-    },
-    "hifiman-ananda-nano_": {
-        "name": "HIFIMAN Ananda Nano",
-        "price": 399.0,
-        "price_old": 559.0,
-        "url": "www.supersonido.es/p/hifiman-ananda-nano_",
-        "image": "www.supersonido.es/productos/imagenes/producto52675.jpg"
     },
     "stax-srm-252s": {
         "name": "Stax SRM-252S",
@@ -411,13 +411,6 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/raptor-planar3",
         "image": "www.supersonido.es/productos/imagenes/producto49510.jpg"
-    },
-    "sonos-sub-3gen": {
-        "name": "Sonos SUB 3GEN",
-        "price": 599.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/sonos-sub-3gen",
-        "image": "www.supersonido.es/productos/imagenes/producto42367.jpg"
     },
     "musical-fidelity-m2scd": {
         "name": "Musical Fidelity M2SCD",
@@ -832,19 +825,19 @@
         "url": "www.supersonido.es/p/astell-kern-se300_",
         "image": "www.supersonido.es/productos/imagenes/producto52119.jpg"
     },
-    "svs-ultra-tower_": {
-        "name": "SVS Ultra Tower",
-        "price": 1699.0,
-        "price_old": 2298.0,
-        "url": "www.supersonido.es/p/svs-ultra-tower_",
-        "image": "www.supersonido.es/productos/imagenes/producto51279.jpg"
-    },
     "svs-prime-pinnacle_": {
         "name": "SVS Prime Pinnacle",
         "price": 1699.0,
         "price_old": 2298.0,
         "url": "www.supersonido.es/p/svs-prime-pinnacle_",
         "image": "www.supersonido.es/productos/imagenes/producto32440.jpg"
+    },
+    "svs-ultra-tower_": {
+        "name": "SVS Ultra Tower",
+        "price": 1699.0,
+        "price_old": 2298.0,
+        "url": "www.supersonido.es/p/svs-ultra-tower_",
+        "image": "www.supersonido.es/productos/imagenes/producto51279.jpg"
     },
     "focal-vestia-n-2_": {
         "name": "FOCAL Vestia N\u00c2\u00ba2",
@@ -965,19 +958,19 @@
         "url": "www.supersonido.es/p/final-audio-design-d8000-pro-edition_",
         "image": "www.supersonido.es/productos/imagenes/producto52560.jpg"
     },
-    "mofi-electronics-ultradeck-m-rea": {
-        "name": "Mofi Electronics UltraDeck + M",
-        "price": 2499.0,
-        "price_old": 3299.0,
-        "url": "www.supersonido.es/p/mofi-electronics-ultradeck-m-rea",
-        "image": "www.supersonido.es/productos/imagenes/producto50995.jpg"
-    },
     "matrix-audio-x-sabre-3_oca": {
         "name": "Matrix Audio X-SABRE 3",
         "price": 2499.0,
         "price_old": 3099.0,
         "url": "www.supersonido.es/p/matrix-audio-x-sabre-3_oca",
         "image": "www.supersonido.es/productos/imagenes/producto51573.jpg"
+    },
+    "mofi-electronics-ultradeck-m-rea": {
+        "name": "Mofi Electronics UltraDeck + M",
+        "price": 2499.0,
+        "price_old": 3299.0,
+        "url": "www.supersonido.es/p/mofi-electronics-ultradeck-m-rea",
+        "image": "www.supersonido.es/productos/imagenes/producto50995.jpg"
     },
     "svs-pb-4000-oc": {
         "name": "SVS PB-4000",
