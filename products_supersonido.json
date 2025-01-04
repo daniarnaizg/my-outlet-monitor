@@ -118,19 +118,19 @@
         "url": "www.supersonido.es/p/ifi-audio-go-bar__",
         "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
     },
-    "audiopro-addon-c10__": {
-        "name": "AudioPro ADDON C10",
-        "price": 249.0,
-        "price_old": 350.0,
-        "url": "www.supersonido.es/p/audiopro-addon-c10__",
-        "image": "www.supersonido.es/productos/imagenes/producto47962.jpg"
-    },
     "audiopro-d-1": {
         "name": "AudioPro Drumfire D-1",
         "price": 249.0,
         "price_old": 350.0,
         "url": "www.supersonido.es/p/audiopro-d-1",
         "image": "www.supersonido.es/productos/imagenes/producto43369.jpg"
+    },
+    "audiopro-addon-c10__": {
+        "name": "AudioPro ADDON C10",
+        "price": 249.0,
+        "price_old": 350.0,
+        "url": "www.supersonido.es/p/audiopro-addon-c10__",
+        "image": "www.supersonido.es/productos/imagenes/producto47962.jpg"
     },
     "the-chord-company-silent-mount-sm7_": {
         "name": "The Chord Company Silent Mount SM7",
@@ -153,19 +153,19 @@
         "url": "www.supersonido.es/p/ifi-audio-zen-can-signature-mz99_",
         "image": "www.supersonido.es/productos/imagenes/producto52354.jpg"
     },
-    "audiopro-sw-5_": {
-        "name": "AudioPro SW-5",
-        "price": 279.0,
-        "price_old": 349.0,
-        "url": "www.supersonido.es/p/audiopro-sw-5_",
-        "image": "www.supersonido.es/productos/imagenes/producto53002.jpg"
-    },
     "hifiman-edition-xs_": {
         "name": "HIFIMAN Edition XS",
         "price": 279.0,
         "price_old": 309.0,
         "url": "www.supersonido.es/p/hifiman-edition-xs_",
         "image": "www.supersonido.es/productos/imagenes/producto46902.jpg"
+    },
+    "audiopro-sw-5_": {
+        "name": "AudioPro SW-5",
+        "price": 279.0,
+        "price_old": 349.0,
+        "url": "www.supersonido.es/p/audiopro-sw-5_",
+        "image": "www.supersonido.es/productos/imagenes/producto53002.jpg"
     },
     "audioquest-silver-jupiter-pss": {
         "name": "Audioquest Silver - Jupiter (PSS)",
@@ -216,12 +216,12 @@
         "url": "www.supersonido.es/p/sony-str-dh590_",
         "image": "www.supersonido.es/productos/imagenes/producto48019.jpg"
     },
-    "dynaudio-stand-20_": {
-        "name": "Dynaudio Stand 20",
-        "price": 349.0,
-        "price_old": 529.0,
-        "url": "www.supersonido.es/p/dynaudio-stand-20_",
-        "image": "www.supersonido.es/productos/imagenes/producto48776.jpg"
+    "sivga-p-ii": {
+        "name": "Sivga P-II",
+        "price": 329.0,
+        "price_old": 449.0,
+        "url": "www.supersonido.es/p/sivga-p-ii",
+        "image": "www.supersonido.es/productos/imagenes/producto44846.jpg"
     },
     "campfire-audio-holocene_": {
         "name": "Campfire Audio Holocene",
@@ -229,6 +229,13 @@
         "price_old": 699.0,
         "url": "www.supersonido.es/p/campfire-audio-holocene_",
         "image": "www.supersonido.es/productos/imagenes/producto52748.jpg"
+    },
+    "dynaudio-stand-20_": {
+        "name": "Dynaudio Stand 20",
+        "price": 349.0,
+        "price_old": 529.0,
+        "url": "www.supersonido.es/p/dynaudio-stand-20_",
+        "image": "www.supersonido.es/productos/imagenes/producto48776.jpg"
     },
     "audeze-maxwell-xbox": {
         "name": "Audeze MAXWELL XBOX",
@@ -244,6 +251,13 @@
         "url": "www.supersonido.es/p/monitor-audio-cpwt380_",
         "image": "www.supersonido.es/productos/imagenes/producto26150.jpg"
     },
+    "hifiman-ananda-nano_": {
+        "name": "HIFIMAN Ananda Nano",
+        "price": 399.0,
+        "price_old": 559.0,
+        "url": "www.supersonido.es/p/hifiman-ananda-nano_",
+        "image": "www.supersonido.es/productos/imagenes/producto52675.jpg"
+    },
     "q-acoustics-q3030i_": {
         "name": "Q Acoustics Q3030i",
         "price": 399.0,
@@ -257,13 +271,6 @@
         "price_old": 499.0,
         "url": "www.supersonido.es/p/sonos-ace_",
         "image": "www.supersonido.es/productos/imagenes/producto52846.jpg"
-    },
-    "hifiman-ananda-nano_": {
-        "name": "HIFIMAN Ananda Nano",
-        "price": 399.0,
-        "price_old": 559.0,
-        "url": "www.supersonido.es/p/hifiman-ananda-nano_",
-        "image": "www.supersonido.es/productos/imagenes/producto52675.jpg"
     },
     "denon-rcd-n10__oc": {
         "name": "Denon RCD-N10",
@@ -321,19 +328,19 @@
         "url": "www.supersonido.es/p/pro-ject-debut-s-rainier_",
         "image": "www.supersonido.es/productos/imagenes/producto52193.jpg"
     },
-    "technics-ottava-s-sc-c30_": {
-        "name": "Technics OTTAVA S SC-C30",
-        "price": 449.0,
-        "price_old": 599.0,
-        "url": "www.supersonido.es/p/technics-ottava-s-sc-c30_",
-        "image": "www.supersonido.es/productos/imagenes/producto44225.jpg"
-    },
     "zidoo-z2000-pro": {
         "name": "Zidoo Z2000 Pro",
         "price": 449.0,
         "price_old": 449.0,
         "url": "www.supersonido.es/p/zidoo-z2000-pro",
         "image": "www.supersonido.es/productos/imagenes/producto52430.jpg"
+    },
+    "technics-ottava-s-sc-c30_": {
+        "name": "Technics OTTAVA S SC-C30",
+        "price": 449.0,
+        "price_old": 599.0,
+        "url": "www.supersonido.es/p/technics-ottava-s-sc-c30_",
+        "image": "www.supersonido.es/productos/imagenes/producto44225.jpg"
     },
     "jbl-ma310__": {
         "name": "JBL MA310",
@@ -587,19 +594,19 @@
         "url": "www.supersonido.es/p/audiolab-6000a-play__oc",
         "image": "www.supersonido.es/productos/imagenes/producto52542.jpg"
     },
-    "acoustune-hs1697ti": {
-        "name": "Acoustune HS1697TI",
-        "price": 849.0,
-        "price_old": 1149.0,
-        "url": "www.supersonido.es/p/acoustune-hs1697ti",
-        "image": "www.supersonido.es/productos/imagenes/producto42965.jpg"
-    },
     "ibasso-dx260_": {
         "name": "Ibasso DX260",
         "price": 849.0,
         "price_old": 949.0,
         "url": "www.supersonido.es/p/ibasso-dx260_",
         "image": "www.supersonido.es/productos/imagenes/producto52747.jpg"
+    },
+    "acoustune-hs1697ti": {
+        "name": "Acoustune HS1697TI",
+        "price": 849.0,
+        "price_old": 1149.0,
+        "url": "www.supersonido.es/p/acoustune-hs1697ti",
+        "image": "www.supersonido.es/productos/imagenes/producto42965.jpg"
     },
     "dan-clark-audio-on-2-closed_": {
         "name": "Dan Clark Audio \u00c3\u0086ON 2 Closed",
@@ -684,6 +691,13 @@
         "price_old": 1299.0,
         "url": "www.supersonido.es/p/audiolab-7000a_",
         "image": "www.supersonido.es/productos/imagenes/producto51488.jpg"
+    },
+    "hisense-c1_": {
+        "name": "Hisense C1",
+        "price": 1190.0,
+        "price_old": 1999.0,
+        "url": "www.supersonido.es/p/hisense-c1_",
+        "image": "www.supersonido.es/productos/imagenes/producto53028.jpg"
     },
     "klipsch-rp-6000f-ii_": {
         "name": "Klipsch RP-6000F II",
@@ -825,19 +839,19 @@
         "url": "www.supersonido.es/p/astell-kern-se300_",
         "image": "www.supersonido.es/productos/imagenes/producto52119.jpg"
     },
-    "svs-ultra-tower_": {
-        "name": "SVS Ultra Tower",
-        "price": 1699.0,
-        "price_old": 2298.0,
-        "url": "www.supersonido.es/p/svs-ultra-tower_",
-        "image": "www.supersonido.es/productos/imagenes/producto51279.jpg"
-    },
     "svs-prime-pinnacle_": {
         "name": "SVS Prime Pinnacle",
         "price": 1699.0,
         "price_old": 2298.0,
         "url": "www.supersonido.es/p/svs-prime-pinnacle_",
         "image": "www.supersonido.es/productos/imagenes/producto32440.jpg"
+    },
+    "svs-ultra-tower_": {
+        "name": "SVS Ultra Tower",
+        "price": 1699.0,
+        "price_old": 2298.0,
+        "url": "www.supersonido.es/p/svs-ultra-tower_",
+        "image": "www.supersonido.es/productos/imagenes/producto51279.jpg"
     },
     "sennheiser-ambeo-soundbar_oc": {
         "name": "Sennheiser AMBEO Soundbar Max",
