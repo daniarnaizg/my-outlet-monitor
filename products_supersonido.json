@@ -146,19 +146,19 @@
         "url": "www.supersonido.es/p/ifi-audio-zen-can-signature-mz99_",
         "image": "www.supersonido.es/productos/imagenes/producto52354.jpg"
     },
-    "audiopro-sw-5_": {
-        "name": "AudioPro SW-5",
-        "price": 279.0,
-        "price_old": 349.0,
-        "url": "www.supersonido.es/p/audiopro-sw-5_",
-        "image": "www.supersonido.es/productos/imagenes/producto53002.jpg"
-    },
     "hifiman-edition-xs_": {
         "name": "HIFIMAN Edition XS",
         "price": 279.0,
         "price_old": 309.0,
         "url": "www.supersonido.es/p/hifiman-edition-xs_",
         "image": "www.supersonido.es/productos/imagenes/producto46902.jpg"
+    },
+    "audiopro-sw-5_": {
+        "name": "AudioPro SW-5",
+        "price": 279.0,
+        "price_old": 349.0,
+        "url": "www.supersonido.es/p/audiopro-sw-5_",
+        "image": "www.supersonido.es/productos/imagenes/producto53002.jpg"
     },
     "audioquest-silver-jupiter-pss": {
         "name": "Audioquest Silver - Jupiter (PSS)",
@@ -433,13 +433,6 @@
         "url": "www.supersonido.es/p/svs-prime-wireless-pro-soundbase__",
         "image": "www.supersonido.es/productos/imagenes/producto51825.jpg"
     },
-    "dynaudio-emit-20_": {
-        "name": "Dynaudio Emit 20",
-        "price": 599.0,
-        "price_old": 950.0,
-        "url": "www.supersonido.es/p/dynaudio-emit-20_",
-        "image": "www.supersonido.es/productos/imagenes/producto50564.jpg"
-    },
     "project-maia-ds": {
         "name": "Pro-Ject MaiA DS",
         "price": 599.0,
@@ -503,19 +496,19 @@
         "url": "www.supersonido.es/p/focal-vestia-n-1_",
         "image": "www.supersonido.es/productos/imagenes/producto52633.jpg"
     },
-    "rega-planar-3-elys-2_": {
-        "name": "Rega Planar 3 + Elys 2",
-        "price": 699.0,
-        "price_old": 999.0,
-        "url": "www.supersonido.es/p/rega-planar-3-elys-2_",
-        "image": "www.supersonido.es/productos/imagenes/producto26155.jpg"
-    },
     "q-acoustics-m40-wiim-mini_": {
         "name": "Q Acoustics M40",
         "price": 699.0,
         "price_old": 899.0,
         "url": "www.supersonido.es/p/q-acoustics-m40-wiim-mini_",
         "image": "www.supersonido.es/productos/imagenes/producto52053.jpg"
+    },
+    "rega-planar-3-elys-2_": {
+        "name": "Rega Planar 3 + Elys 2",
+        "price": 699.0,
+        "price_old": 999.0,
+        "url": "www.supersonido.es/p/rega-planar-3-elys-2_",
+        "image": "www.supersonido.es/productos/imagenes/producto26155.jpg"
     },
     "mrspeakers-aeon-open__": {
         "name": "Dan Clark Audio AEON Open",
@@ -811,13 +804,6 @@
         "url": "www.supersonido.es/p/martin-logan-motion-20i_",
         "image": "www.supersonido.es/productos/imagenes/producto50782.jpg"
     },
-    "svs-prime-pinnacle_": {
-        "name": "SVS Prime Pinnacle",
-        "price": 1699.0,
-        "price_old": 2298.0,
-        "url": "www.supersonido.es/p/svs-prime-pinnacle_",
-        "image": "www.supersonido.es/productos/imagenes/producto32440.jpg"
-    },
     "svs-ultra-tower_": {
         "name": "SVS Ultra Tower",
         "price": 1699.0,
@@ -831,6 +817,13 @@
         "price_old": 2199.0,
         "url": "www.supersonido.es/p/astell-kern-se300_",
         "image": "www.supersonido.es/productos/imagenes/producto52119.jpg"
+    },
+    "svs-prime-pinnacle_": {
+        "name": "SVS Prime Pinnacle",
+        "price": 1699.0,
+        "price_old": 2298.0,
+        "url": "www.supersonido.es/p/svs-prime-pinnacle_",
+        "image": "www.supersonido.es/productos/imagenes/producto32440.jpg"
     },
     "astell-kern-acro-ca1000-oc": {
         "name": "Astell&kern ACRO CA1000",
