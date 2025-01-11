@@ -195,13 +195,6 @@
         "url": "www.supersonido.es/p/audeze-maxwell-playstation_oc",
         "image": "www.supersonido.es/productos/imagenes/producto50833.jpg"
     },
-    "panasonic-dp-ub820__": {
-        "name": "Panasonic DP-UB820EGK",
-        "price": 299.0,
-        "price_old": 469.0,
-        "url": "www.supersonido.es/p/panasonic-dp-ub820__",
-        "image": "www.supersonido.es/productos/imagenes/producto51004.jpg"
-    },
     "denon-heos-link-hs2_": {
         "name": "Denon HEOS Link HS2",
         "price": 299.0,
@@ -601,19 +594,19 @@
         "url": "www.supersonido.es/p/dan-clark-audio-on-2-closed_",
         "image": "www.supersonido.es/productos/imagenes/producto50777.jpg"
     },
-    "cayin-n6 MKII_": {
-        "name": "Cayin N6 MKII",
-        "price": 899.0,
-        "price_old": 1399.0,
-        "url": "www.supersonido.es/p/cayin-n6 MKII_",
-        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
-    },
     "audiolab-6000a-play-": {
         "name": "Audiolab 6000A PLAY",
         "price": 899.0,
         "price_old": 1249.0,
         "url": "www.supersonido.es/p/audiolab-6000a-play-",
         "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
+    },
+    "cayin-n6 MKII_": {
+        "name": "Cayin N6 MKII",
+        "price": 899.0,
+        "price_old": 1399.0,
+        "url": "www.supersonido.es/p/cayin-n6 MKII_",
+        "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
     },
     "q-acoustics-5040_oc": {
         "name": "Q Acoustics 5040",
@@ -958,19 +951,19 @@
         "url": "www.supersonido.es/p/mrspeakers-voce_",
         "image": "www.supersonido.es/productos/imagenes/producto50151.jpg"
     },
-    "isotek-systems-nova": {
-        "name": "Isotek Systems Nova",
-        "price": 2890.0,
-        "price_old": 3990.0,
-        "url": "www.supersonido.es/p/isotek-systems-nova",
-        "image": "www.supersonido.es/productos/imagenes/producto11309.jpg"
-    },
     "electrocompaniet-ec-4-9-2ch": {
         "name": "Electrocompaniet EC 4.9 2ch",
         "price": 2890.0,
         "price_old": 4290.0,
         "url": "www.supersonido.es/p/electrocompaniet-ec-4-9-2ch",
         "image": "www.supersonido.es/productos/imagenes/producto5156.jpg"
+    },
+    "isotek-systems-nova": {
+        "name": "Isotek Systems Nova",
+        "price": 2890.0,
+        "price_old": 3990.0,
+        "url": "www.supersonido.es/p/isotek-systems-nova",
+        "image": "www.supersonido.es/productos/imagenes/producto11309.jpg"
     },
     "primare-i35dac_": {
         "name": "Primare I35DAC",
@@ -993,19 +986,19 @@
         "url": "www.supersonido.es/p/samsung-qe75qn800b__oc",
         "image": "www.supersonido.es/productos/imagenes/producto51399.jpg"
     },
-    "isotek-systems-sigmas_": {
-        "name": "Isotek Systems Sigmas EVO 3",
-        "price": 2999.0,
-        "price_old": 4299.0,
-        "url": "www.supersonido.es/p/isotek-systems-sigmas_",
-        "image": "www.supersonido.es/productos/imagenes/producto50780.jpg"
-    },
     "anthem-mdx-16_": {
         "name": "Anthem MDX 16",
         "price": 2999.0,
         "price_old": 3999.0,
         "url": "www.supersonido.es/p/anthem-mdx-16_",
         "image": "www.supersonido.es/productos/imagenes/producto52754.jpg"
+    },
+    "isotek-systems-sigmas_": {
+        "name": "Isotek Systems Sigmas EVO 3",
+        "price": 2999.0,
+        "price_old": 4299.0,
+        "url": "www.supersonido.es/p/isotek-systems-sigmas_",
+        "image": "www.supersonido.es/productos/imagenes/producto50780.jpg"
     },
     "jvc-lx-nz30_": {
         "name": "JVC LX-NZ30",
