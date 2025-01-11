@@ -48,13 +48,6 @@
         "url": "www.supersonido.es/p/meze-audio-mini-xlr-ofc-standard-cables_",
         "image": "www.supersonido.es/productos/imagenes/producto50893.jpg"
     },
-    "the-chord-company-shawline-digital-1bnc-to-1bnc_": {
-        "name": "The Chord Company Shawline Digital 1BNC to 1BNC",
-        "price": 150.0,
-        "price_old": 295.0,
-        "url": "www.supersonido.es/p/the-chord-company-shawline-digital-1bnc-to-1bnc_",
-        "image": "www.supersonido.es/productos/imagenes/producto51241.jpg"
-    },
     "forza-audioworks-noir-hybrid-hpc": {
         "name": "Forza Audioworks NOIR HYBRID HPC",
         "price": 150.0,
@@ -62,12 +55,12 @@
         "url": "www.supersonido.es/p/forza-audioworks-noir-hybrid-hpc",
         "image": "www.supersonido.es/productos/imagenes/producto51309.jpg"
     },
-    "campfire-audio-honeydew_": {
-        "name": "Campfire Audio Honeydew",
-        "price": 169.0,
-        "price_old": 269.99,
-        "url": "www.supersonido.es/p/campfire-audio-honeydew_",
-        "image": "www.supersonido.es/productos/imagenes/producto51154.jpg"
+    "the-chord-company-shawline-digital-1bnc-to-1bnc_": {
+        "name": "The Chord Company Shawline Digital 1BNC to 1BNC",
+        "price": 150.0,
+        "price_old": 295.0,
+        "url": "www.supersonido.es/p/the-chord-company-shawline-digital-1bnc-to-1bnc_",
+        "image": "www.supersonido.es/productos/imagenes/producto51241.jpg"
     },
     "sony-str-dh190__": {
         "name": "Sony STR-DH190",
@@ -75,6 +68,13 @@
         "price_old": 299.0,
         "url": "www.supersonido.es/p/sony-str-dh190__",
         "image": "www.supersonido.es/productos/imagenes/producto53029.jpg"
+    },
+    "campfire-audio-honeydew_": {
+        "name": "Campfire Audio Honeydew",
+        "price": 169.0,
+        "price_old": 269.99,
+        "url": "www.supersonido.es/p/campfire-audio-honeydew_",
+        "image": "www.supersonido.es/productos/imagenes/producto51154.jpg"
     },
     "van-den-hul-d-102-iii-hybrid-xlr": {
         "name": "Van-Den-Hul D-102 III Hybrid XLR",
@@ -118,19 +118,19 @@
         "url": "www.supersonido.es/p/audiopro-addon-c10__",
         "image": "www.supersonido.es/productos/imagenes/producto47962.jpg"
     },
-    "audiopro-d-1": {
-        "name": "AudioPro Drumfire D-1",
-        "price": 249.0,
-        "price_old": 350.0,
-        "url": "www.supersonido.es/p/audiopro-d-1",
-        "image": "www.supersonido.es/productos/imagenes/producto43369.jpg"
-    },
     "ifi-audio-go-bar__": {
         "name": "IFI Audio GO bar",
         "price": 249.0,
         "price_old": 329.0,
         "url": "www.supersonido.es/p/ifi-audio-go-bar__",
         "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
+    },
+    "audiopro-d-1": {
+        "name": "AudioPro Drumfire D-1",
+        "price": 249.0,
+        "price_old": 350.0,
+        "url": "www.supersonido.es/p/audiopro-d-1",
+        "image": "www.supersonido.es/productos/imagenes/producto43369.jpg"
     },
     "the-chord-company-silent-mount-sm7_": {
         "name": "The Chord Company Silent Mount SM7",
@@ -146,19 +146,19 @@
         "url": "www.supersonido.es/p/ifi-audio-zen-can-signature-mz99_",
         "image": "www.supersonido.es/productos/imagenes/producto52354.jpg"
     },
-    "hifiman-edition-xs_": {
-        "name": "HIFIMAN Edition XS",
-        "price": 279.0,
-        "price_old": 309.0,
-        "url": "www.supersonido.es/p/hifiman-edition-xs_",
-        "image": "www.supersonido.es/productos/imagenes/producto46902.jpg"
-    },
     "audiopro-sw-5_": {
         "name": "AudioPro SW-5",
         "price": 279.0,
         "price_old": 349.0,
         "url": "www.supersonido.es/p/audiopro-sw-5_",
         "image": "www.supersonido.es/productos/imagenes/producto53002.jpg"
+    },
+    "hifiman-edition-xs_": {
+        "name": "HIFIMAN Edition XS",
+        "price": 279.0,
+        "price_old": 309.0,
+        "url": "www.supersonido.es/p/hifiman-edition-xs_",
+        "image": "www.supersonido.es/productos/imagenes/producto46902.jpg"
     },
     "audioquest-silver-jupiter-pss": {
         "name": "Audioquest Silver - Jupiter (PSS)",
@@ -272,19 +272,19 @@
         "url": "www.supersonido.es/p/hifiman-ananda-nano_",
         "image": "www.supersonido.es/productos/imagenes/producto52675.jpg"
     },
-    "denon-rcd-n10__ocs": {
-        "name": "Denon RCD-N10",
-        "price": 399.0,
-        "price_old": 499.0,
-        "url": "www.supersonido.es/p/denon-rcd-n10__ocs",
-        "image": "www.supersonido.es/productos/imagenes/producto52894.jpg"
-    },
     "denon-rcd-n10__oc": {
         "name": "Denon RCD-N10",
         "price": 399.0,
         "price_old": 499.0,
         "url": "www.supersonido.es/p/denon-rcd-n10__oc",
         "image": "www.supersonido.es/productos/imagenes/producto52850.jpg"
+    },
+    "denon-rcd-n10__ocs": {
+        "name": "Denon RCD-N10",
+        "price": 399.0,
+        "price_old": 499.0,
+        "url": "www.supersonido.es/p/denon-rcd-n10__ocs",
+        "image": "www.supersonido.es/productos/imagenes/producto52894.jpg"
     },
     "focal-sib-evo-dolby-atmos-2-0_": {
         "name": "FOCAL Sib Evo Dolby Atmos 2.0",
@@ -496,19 +496,19 @@
         "url": "www.supersonido.es/p/focal-vestia-n-1_",
         "image": "www.supersonido.es/productos/imagenes/producto52633.jpg"
     },
-    "q-acoustics-m40-wiim-mini_": {
-        "name": "Q Acoustics M40",
-        "price": 699.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/q-acoustics-m40-wiim-mini_",
-        "image": "www.supersonido.es/productos/imagenes/producto52053.jpg"
-    },
     "rega-planar-3-elys-2_": {
         "name": "Rega Planar 3 + Elys 2",
         "price": 699.0,
         "price_old": 999.0,
         "url": "www.supersonido.es/p/rega-planar-3-elys-2_",
         "image": "www.supersonido.es/productos/imagenes/producto26155.jpg"
+    },
+    "q-acoustics-m40-wiim-mini_": {
+        "name": "Q Acoustics M40",
+        "price": 699.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/q-acoustics-m40-wiim-mini_",
+        "image": "www.supersonido.es/productos/imagenes/producto52053.jpg"
     },
     "mrspeakers-aeon-open__": {
         "name": "Dan Clark Audio AEON Open",
@@ -580,19 +580,19 @@
         "url": "www.supersonido.es/p/the-chord-company-epic-xl_",
         "image": "www.supersonido.es/productos/imagenes/producto53053.jpg"
     },
-    "acoustune-hs1697ti": {
-        "name": "Acoustune HS1697TI",
-        "price": 849.0,
-        "price_old": 1149.0,
-        "url": "www.supersonido.es/p/acoustune-hs1697ti",
-        "image": "www.supersonido.es/productos/imagenes/producto42965.jpg"
-    },
     "ibasso-dx260_": {
         "name": "Ibasso DX260",
         "price": 849.0,
         "price_old": 949.0,
         "url": "www.supersonido.es/p/ibasso-dx260_",
         "image": "www.supersonido.es/productos/imagenes/producto52747.jpg"
+    },
+    "acoustune-hs1697ti": {
+        "name": "Acoustune HS1697TI",
+        "price": 849.0,
+        "price_old": 1149.0,
+        "url": "www.supersonido.es/p/acoustune-hs1697ti",
+        "image": "www.supersonido.es/productos/imagenes/producto42965.jpg"
     },
     "dan-clark-audio-on-2-closed_": {
         "name": "Dan Clark Audio \u00c3\u0086ON 2 Closed",
@@ -635,13 +635,6 @@
         "price_old": 1499.0,
         "url": "www.supersonido.es/p/klipsch-thx-5002-s_",
         "image": "www.supersonido.es/productos/imagenes/producto51081.jpg"
-    },
-    "klipsch-rp-8000f": {
-        "name": "Klipsch RP-8000F",
-        "price": 999.0,
-        "price_old": 1698.0,
-        "url": "www.supersonido.es/p/klipsch-rp-8000f",
-        "image": "www.supersonido.es/productos/imagenes/producto28266.jpg"
     },
     "sivga-sendy-peacock_": {
         "name": "Sendy Audio Peacock",
@@ -811,19 +804,19 @@
         "url": "www.supersonido.es/p/svs-ultra-tower_",
         "image": "www.supersonido.es/productos/imagenes/producto51279.jpg"
     },
-    "astell-kern-se300_": {
-        "name": "Astell&kern SE300",
-        "price": 1699.0,
-        "price_old": 2199.0,
-        "url": "www.supersonido.es/p/astell-kern-se300_",
-        "image": "www.supersonido.es/productos/imagenes/producto52119.jpg"
-    },
     "svs-prime-pinnacle_": {
         "name": "SVS Prime Pinnacle",
         "price": 1699.0,
         "price_old": 2298.0,
         "url": "www.supersonido.es/p/svs-prime-pinnacle_",
         "image": "www.supersonido.es/productos/imagenes/producto32440.jpg"
+    },
+    "astell-kern-se300_": {
+        "name": "Astell&kern SE300",
+        "price": 1699.0,
+        "price_old": 2199.0,
+        "url": "www.supersonido.es/p/astell-kern-se300_",
+        "image": "www.supersonido.es/productos/imagenes/producto52119.jpg"
     },
     "astell-kern-acro-ca1000-oc": {
         "name": "Astell&kern ACRO CA1000",
@@ -860,19 +853,19 @@
         "url": "www.supersonido.es/p/meze-audio-empyrean_",
         "image": "www.supersonido.es/productos/imagenes/producto50663.jpg"
     },
-    "pro-ject-x8_oc": {
-        "name": "Pro-Ject X8-SP",
-        "price": 1899.0,
-        "price_old": 2299.0,
-        "url": "www.supersonido.es/p/pro-ject-x8_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto52991.jpg"
-    },
     "stax-srm-007tii": {
         "name": "Stax SRM-007TII",
         "price": 1899.0,
         "price_old": 2950.0,
         "url": "www.supersonido.es/p/stax-srm-007tii",
         "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
+    },
+    "pro-ject-x8_oc": {
+        "name": "Pro-Ject X8-SP",
+        "price": 1899.0,
+        "price_old": 2299.0,
+        "url": "www.supersonido.es/p/pro-ject-x8_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto52991.jpg"
     },
     "martin-logan-em-esl-c_": {
         "name": "Martin-Logan EM-ESL C",
