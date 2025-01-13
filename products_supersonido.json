@@ -111,19 +111,19 @@
         "url": "www.supersonido.es/p/nordost-4-flat-speaker-cable_",
         "image": "www.supersonido.es/productos/imagenes/producto52805.jpg"
     },
-    "audiopro-addon-c10__": {
-        "name": "AudioPro ADDON C10",
-        "price": 249.0,
-        "price_old": 350.0,
-        "url": "www.supersonido.es/p/audiopro-addon-c10__",
-        "image": "www.supersonido.es/productos/imagenes/producto47962.jpg"
-    },
     "audiopro-d-1": {
         "name": "AudioPro Drumfire D-1",
         "price": 249.0,
         "price_old": 350.0,
         "url": "www.supersonido.es/p/audiopro-d-1",
         "image": "www.supersonido.es/productos/imagenes/producto43369.jpg"
+    },
+    "audiopro-addon-c10__": {
+        "name": "AudioPro ADDON C10",
+        "price": 249.0,
+        "price_old": 350.0,
+        "url": "www.supersonido.es/p/audiopro-addon-c10__",
+        "image": "www.supersonido.es/productos/imagenes/producto47962.jpg"
     },
     "ifi-audio-go-bar__": {
         "name": "IFI Audio GO bar",
@@ -152,13 +152,6 @@
         "price_old": 349.0,
         "url": "www.supersonido.es/p/audiopro-sw-5_",
         "image": "www.supersonido.es/productos/imagenes/producto53002.jpg"
-    },
-    "hifiman-edition-xs_": {
-        "name": "HIFIMAN Edition XS",
-        "price": 279.0,
-        "price_old": 309.0,
-        "url": "www.supersonido.es/p/hifiman-edition-xs_",
-        "image": "www.supersonido.es/productos/imagenes/producto46902.jpg"
     },
     "audioquest-silver-jupiter-pss": {
         "name": "Audioquest Silver - Jupiter (PSS)",
@@ -328,19 +321,19 @@
         "url": "www.supersonido.es/p/zidoo-z2000-pro",
         "image": "www.supersonido.es/productos/imagenes/producto52430.jpg"
     },
-    "klipsch-rsm-525_": {
-        "name": "Klipsch RSM-525",
-        "price": 479.0,
-        "price_old": 599.0,
-        "url": "www.supersonido.es/p/klipsch-rsm-525_",
-        "image": "www.supersonido.es/productos/imagenes/producto52587.jpg"
-    },
     "jbl-ma310__": {
         "name": "JBL MA310",
         "price": 479.0,
         "price_old": 599.0,
         "url": "www.supersonido.es/p/jbl-ma310__",
         "image": "www.supersonido.es/productos/imagenes/producto52947.jpg"
+    },
+    "klipsch-rsm-525_": {
+        "name": "Klipsch RSM-525",
+        "price": 479.0,
+        "price_old": 599.0,
+        "url": "www.supersonido.es/p/klipsch-rsm-525_",
+        "image": "www.supersonido.es/productos/imagenes/producto52587.jpg"
     },
     "astell-kern-ak-zero1_": {
         "name": "Astell&kern AK ZERO1",
@@ -475,19 +468,19 @@
         "url": "www.supersonido.es/p/focal-vestia-n-1_",
         "image": "www.supersonido.es/productos/imagenes/producto52633.jpg"
     },
-    "q-acoustics-m40-wiim-mini_": {
-        "name": "Q Acoustics M40",
-        "price": 699.0,
-        "price_old": 899.0,
-        "url": "www.supersonido.es/p/q-acoustics-m40-wiim-mini_",
-        "image": "www.supersonido.es/productos/imagenes/producto52053.jpg"
-    },
     "rega-planar-3-elys-2_": {
         "name": "Rega Planar 3 + Elys 2",
         "price": 699.0,
         "price_old": 999.0,
         "url": "www.supersonido.es/p/rega-planar-3-elys-2_",
         "image": "www.supersonido.es/productos/imagenes/producto26155.jpg"
+    },
+    "q-acoustics-m40-wiim-mini_": {
+        "name": "Q Acoustics M40",
+        "price": 699.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/q-acoustics-m40-wiim-mini_",
+        "image": "www.supersonido.es/productos/imagenes/producto52053.jpg"
     },
     "mrspeakers-aeon-open__": {
         "name": "Dan Clark Audio AEON Open",
@@ -622,6 +615,13 @@
         "url": "www.supersonido.es/p/sivga-sendy-peacock_",
         "image": "www.supersonido.es/productos/imagenes/producto49897.jpg"
     },
+    "svs-ultra-surround_": {
+        "name": "SVS Ultra Surround",
+        "price": 1049.0,
+        "price_old": 1449.0,
+        "url": "www.supersonido.es/p/svs-ultra-surround_",
+        "image": "www.supersonido.es/productos/imagenes/producto51280.jpg"
+    },
     "stax-srm-d50_": {
         "name": "Stax SRM-D50",
         "price": 1049.0,
@@ -635,13 +635,6 @@
         "price_old": 1299.0,
         "url": "www.supersonido.es/p/audiolab-7000a_",
         "image": "www.supersonido.es/productos/imagenes/producto51488.jpg"
-    },
-    "svs-ultra-surround_": {
-        "name": "SVS Ultra Surround",
-        "price": 1049.0,
-        "price_old": 1449.0,
-        "url": "www.supersonido.es/p/svs-ultra-surround_",
-        "image": "www.supersonido.es/productos/imagenes/producto51280.jpg"
     },
     "klipsch-rp-6000f-ii_": {
         "name": "Klipsch RP-6000F II",
@@ -720,6 +713,13 @@
         "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
         "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
     },
+    "ferrum-erco": {
+        "name": "Ferrum ERCO",
+        "price": 1399.0,
+        "price_old": 1795.0,
+        "url": "www.supersonido.es/p/ferrum-erco",
+        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
+    },
     "mrspeakers-ether-c-flow-1-1_": {
         "name": "Dan Clark Audio ETHER C Flow 1.1",
         "price": 1399.0,
@@ -733,13 +733,6 @@
         "price_old": 2159.0,
         "url": "www.supersonido.es/p/mrspeakers-ether-flow-1-1_",
         "image": "www.supersonido.es/productos/imagenes/producto50776.jpg"
-    },
-    "ferrum-erco": {
-        "name": "Ferrum ERCO",
-        "price": 1399.0,
-        "price_old": 1795.0,
-        "url": "www.supersonido.es/p/ferrum-erco",
-        "image": "www.supersonido.es/productos/imagenes/producto46711.jpg"
     },
     "mission-700__": {
         "name": "Mission 700",
@@ -776,12 +769,12 @@
         "url": "www.supersonido.es/p/martin-logan-motion-20i_",
         "image": "www.supersonido.es/productos/imagenes/producto50782.jpg"
     },
-    "svs-prime-pinnacle_": {
-        "name": "SVS Prime Pinnacle",
+    "astell-kern-se300_": {
+        "name": "Astell&kern SE300",
         "price": 1699.0,
-        "price_old": 2298.0,
-        "url": "www.supersonido.es/p/svs-prime-pinnacle_",
-        "image": "www.supersonido.es/productos/imagenes/producto32440.jpg"
+        "price_old": 2199.0,
+        "url": "www.supersonido.es/p/astell-kern-se300_",
+        "image": "www.supersonido.es/productos/imagenes/producto52119.jpg"
     },
     "svs-ultra-tower_": {
         "name": "SVS Ultra Tower",
@@ -790,12 +783,12 @@
         "url": "www.supersonido.es/p/svs-ultra-tower_",
         "image": "www.supersonido.es/productos/imagenes/producto51279.jpg"
     },
-    "astell-kern-se300_": {
-        "name": "Astell&kern SE300",
+    "svs-prime-pinnacle_": {
+        "name": "SVS Prime Pinnacle",
         "price": 1699.0,
-        "price_old": 2199.0,
-        "url": "www.supersonido.es/p/astell-kern-se300_",
-        "image": "www.supersonido.es/productos/imagenes/producto52119.jpg"
+        "price_old": 2298.0,
+        "url": "www.supersonido.es/p/svs-prime-pinnacle_",
+        "image": "www.supersonido.es/productos/imagenes/producto32440.jpg"
     },
     "astell-kern-acro-ca1000-oc": {
         "name": "Astell&kern ACRO CA1000",
@@ -818,12 +811,12 @@
         "url": "www.supersonido.es/p/focal-vestia-n-2_",
         "image": "www.supersonido.es/productos/imagenes/producto52730.jpg"
     },
-    "meze-audio-empyrean_": {
-        "name": "Meze Audio Empyrean",
-        "price": 1890.0,
-        "price_old": 2999.0,
-        "url": "www.supersonido.es/p/meze-audio-empyrean_",
-        "image": "www.supersonido.es/productos/imagenes/producto50663.jpg"
+    "pro-ject-x8_oc": {
+        "name": "Pro-Ject X8-SP",
+        "price": 1899.0,
+        "price_old": 2299.0,
+        "url": "www.supersonido.es/p/pro-ject-x8_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto52991.jpg"
     },
     "stax-srm-007tii": {
         "name": "Stax SRM-007TII",
@@ -831,13 +824,6 @@
         "price_old": 2950.0,
         "url": "www.supersonido.es/p/stax-srm-007tii",
         "image": "www.supersonido.es/productos/imagenes/producto32659.jpg"
-    },
-    "pro-ject-x8_oc": {
-        "name": "Pro-Ject X8-SP",
-        "price": 1899.0,
-        "price_old": 2299.0,
-        "url": "www.supersonido.es/p/pro-ject-x8_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto52991.jpg"
     },
     "martin-logan-em-esl-c_": {
         "name": "Martin-Logan EM-ESL C",
