@@ -62,13 +62,6 @@
         "url": "www.supersonido.es/p/forza-audioworks-noir-hybrid-hpc",
         "image": "www.supersonido.es/productos/imagenes/producto51309.jpg"
     },
-    "campfire-audio-honeydew_": {
-        "name": "Campfire Audio Honeydew",
-        "price": 169.0,
-        "price_old": 269.99,
-        "url": "www.supersonido.es/p/campfire-audio-honeydew_",
-        "image": "www.supersonido.es/productos/imagenes/producto51154.jpg"
-    },
     "sony-str-dh190__": {
         "name": "Sony STR-DH190",
         "price": 169.0,
@@ -111,6 +104,13 @@
         "url": "www.supersonido.es/p/rega-planar-1-walnut_",
         "image": "www.supersonido.es/productos/imagenes/producto53107.jpg"
     },
+    "ifi-audio-go-bar__": {
+        "name": "IFI Audio GO bar",
+        "price": 249.0,
+        "price_old": 329.0,
+        "url": "www.supersonido.es/p/ifi-audio-go-bar__",
+        "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
+    },
     "audiopro-addon-c10__": {
         "name": "AudioPro ADDON C10",
         "price": 249.0,
@@ -124,13 +124,6 @@
         "price_old": 350.0,
         "url": "www.supersonido.es/p/audiopro-d-1",
         "image": "www.supersonido.es/productos/imagenes/producto43369.jpg"
-    },
-    "ifi-audio-go-bar__": {
-        "name": "IFI Audio GO bar",
-        "price": 249.0,
-        "price_old": 329.0,
-        "url": "www.supersonido.es/p/ifi-audio-go-bar__",
-        "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
     },
     "the-chord-company-silent-mount-sm7_": {
         "name": "The Chord Company Silent Mount SM7",
@@ -202,19 +195,19 @@
         "url": "www.supersonido.es/p/sivga-p-ii",
         "image": "www.supersonido.es/productos/imagenes/producto44846.jpg"
     },
-    "campfire-audio-holocene_": {
-        "name": "Campfire Audio Holocene",
-        "price": 349.0,
-        "price_old": 699.0,
-        "url": "www.supersonido.es/p/campfire-audio-holocene_",
-        "image": "www.supersonido.es/productos/imagenes/producto52748.jpg"
-    },
     "dynaudio-stand-20_": {
         "name": "Dynaudio Stand 20",
         "price": 349.0,
         "price_old": 529.0,
         "url": "www.supersonido.es/p/dynaudio-stand-20_",
         "image": "www.supersonido.es/productos/imagenes/producto48776.jpg"
+    },
+    "campfire-audio-holocene_": {
+        "name": "Campfire Audio Holocene",
+        "price": 349.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/campfire-audio-holocene_",
+        "image": "www.supersonido.es/productos/imagenes/producto52748.jpg"
     },
     "audeze-maxwell-xbox": {
         "name": "Audeze MAXWELL XBOX",
@@ -608,19 +601,19 @@
         "url": "www.supersonido.es/p/sivga-sendy-peacock_",
         "image": "www.supersonido.es/productos/imagenes/producto49897.jpg"
     },
-    "stax-srm-d50_": {
-        "name": "Stax SRM-D50",
-        "price": 1049.0,
-        "price_old": 1395.0,
-        "url": "www.supersonido.es/p/stax-srm-d50_",
-        "image": "www.supersonido.es/productos/imagenes/producto52572.jpg"
-    },
     "svs-ultra-surround_": {
         "name": "SVS Ultra Surround",
         "price": 1049.0,
         "price_old": 1449.0,
         "url": "www.supersonido.es/p/svs-ultra-surround_",
         "image": "www.supersonido.es/productos/imagenes/producto51280.jpg"
+    },
+    "stax-srm-d50_": {
+        "name": "Stax SRM-D50",
+        "price": 1049.0,
+        "price_old": 1395.0,
+        "url": "www.supersonido.es/p/stax-srm-d50_",
+        "image": "www.supersonido.es/productos/imagenes/producto52572.jpg"
     },
     "audiolab-7000a_": {
         "name": "Audiolab 7000A",
