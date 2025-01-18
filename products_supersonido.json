@@ -160,6 +160,27 @@
         "url": "www.supersonido.es/p/audioquest-silver-jupiter-pss",
         "image": "www.supersonido.es/productos/imagenes/producto29943.jpg"
     },
+    "audeze-maxwell-playstation_oc": {
+        "name": "Audeze MAXWELL PLAYSTATION",
+        "price": 299.0,
+        "price_old": 399.0,
+        "url": "www.supersonido.es/p/audeze-maxwell-playstation_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto50833.jpg"
+    },
+    "panasonic-dp-ub820__": {
+        "name": "Panasonic DP-UB820EGK",
+        "price": 299.0,
+        "price_old": 469.0,
+        "url": "www.supersonido.es/p/panasonic-dp-ub820__",
+        "image": "www.supersonido.es/productos/imagenes/producto51004.jpg"
+    },
+    "denon-heos-link-hs2_": {
+        "name": "Denon HEOS Link HS2",
+        "price": 299.0,
+        "price_old": 399.0,
+        "url": "www.supersonido.es/p/denon-heos-link-hs2_",
+        "image": "www.supersonido.es/productos/imagenes/producto50910.jpg"
+    },
     "the-chord-company-chordohmic-ground-aray-rj45_": {
         "name": "The Chord Company ChordOhmic Ground ARAY\tRJ45",
         "price": 299.0,
@@ -173,20 +194,6 @@
         "price_old": 650.0,
         "url": "www.supersonido.es/p/the-chord-company-chordohmic-ground-aray-hdmi_",
         "image": "www.supersonido.es/productos/imagenes/producto51357.jpg"
-    },
-    "audeze-maxwell-playstation_oc": {
-        "name": "Audeze MAXWELL PLAYSTATION",
-        "price": 299.0,
-        "price_old": 399.0,
-        "url": "www.supersonido.es/p/audeze-maxwell-playstation_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto50833.jpg"
-    },
-    "denon-heos-link-hs2_": {
-        "name": "Denon HEOS Link HS2",
-        "price": 299.0,
-        "price_old": 399.0,
-        "url": "www.supersonido.es/p/denon-heos-link-hs2_",
-        "image": "www.supersonido.es/productos/imagenes/producto50910.jpg"
     },
     "sony-str-dh590_": {
         "name": "Sony STR-DH590",
@@ -300,19 +307,19 @@
         "url": "www.supersonido.es/p/zidoo-z2000-pro",
         "image": "www.supersonido.es/productos/imagenes/producto52430.jpg"
     },
-    "klipsch-rsm-525_": {
-        "name": "Klipsch RSM-525",
-        "price": 479.0,
-        "price_old": 599.0,
-        "url": "www.supersonido.es/p/klipsch-rsm-525_",
-        "image": "www.supersonido.es/productos/imagenes/producto52587.jpg"
-    },
     "jbl-ma310__": {
         "name": "JBL MA310",
         "price": 479.0,
         "price_old": 599.0,
         "url": "www.supersonido.es/p/jbl-ma310__",
         "image": "www.supersonido.es/productos/imagenes/producto52947.jpg"
+    },
+    "klipsch-rsm-525_": {
+        "name": "Klipsch RSM-525",
+        "price": 479.0,
+        "price_old": 599.0,
+        "url": "www.supersonido.es/p/klipsch-rsm-525_",
+        "image": "www.supersonido.es/productos/imagenes/producto52587.jpg"
     },
     "astell-kern-ak-zero1_": {
         "name": "Astell&kern AK ZERO1",
@@ -552,12 +559,12 @@
         "url": "www.supersonido.es/p/dan-clark-audio-on-2-closed_",
         "image": "www.supersonido.es/productos/imagenes/producto50777.jpg"
     },
-    "innuos-pulsemini_oca": {
-        "name": "Innuos PULSEmini",
+    "audiolab-6000a-play-": {
+        "name": "Audiolab 6000A PLAY",
         "price": 899.0,
-        "price_old": 1149.0,
-        "url": "www.supersonido.es/p/innuos-pulsemini_oca",
-        "image": "www.supersonido.es/productos/imagenes/producto51385.jpg"
+        "price_old": 1249.0,
+        "url": "www.supersonido.es/p/audiolab-6000a-play-",
+        "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
     },
     "cayin-n6 MKII_": {
         "name": "Cayin N6 MKII",
@@ -566,12 +573,26 @@
         "url": "www.supersonido.es/p/cayin-n6 MKII_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
     },
-    "audiolab-6000a-play-": {
-        "name": "Audiolab 6000A PLAY",
+    "innuos-pulsemini_oca": {
+        "name": "Innuos PULSEmini",
         "price": 899.0,
-        "price_old": 1249.0,
-        "url": "www.supersonido.es/p/audiolab-6000a-play-",
-        "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
+        "price_old": 1149.0,
+        "url": "www.supersonido.es/p/innuos-pulsemini_oca",
+        "image": "www.supersonido.es/productos/imagenes/producto51385.jpg"
+    },
+    "sivga-sendy-peacock_": {
+        "name": "Sendy Audio Peacock",
+        "price": 999.0,
+        "price_old": 1599.0,
+        "url": "www.supersonido.es/p/sivga-sendy-peacock_",
+        "image": "www.supersonido.es/productos/imagenes/producto49897.jpg"
+    },
+    "loewe-wee-see-55": {
+        "name": "Loewe WEE SEE 55",
+        "price": 999.0,
+        "price_old": 1699.0,
+        "url": "www.supersonido.es/p/loewe-wee-see-55",
+        "image": "www.supersonido.es/productos/imagenes/producto46140.jpg"
     },
     "klipsch-thx-5002-s_": {
         "name": "Klipsch THX-5002-S",
@@ -587,19 +608,12 @@
         "url": "www.supersonido.es/p/q-acoustics-5040_oc",
         "image": "www.supersonido.es/productos/imagenes/producto51073.jpg"
     },
-    "loewe-wee-see-55": {
-        "name": "Loewe WEE SEE 55",
-        "price": 999.0,
-        "price_old": 1699.0,
-        "url": "www.supersonido.es/p/loewe-wee-see-55",
-        "image": "www.supersonido.es/productos/imagenes/producto46140.jpg"
-    },
-    "sivga-sendy-peacock_": {
-        "name": "Sendy Audio Peacock",
-        "price": 999.0,
-        "price_old": 1599.0,
-        "url": "www.supersonido.es/p/sivga-sendy-peacock_",
-        "image": "www.supersonido.es/productos/imagenes/producto49897.jpg"
+    "audiolab-7000a_": {
+        "name": "Audiolab 7000A",
+        "price": 1049.0,
+        "price_old": 1299.0,
+        "url": "www.supersonido.es/p/audiolab-7000a_",
+        "image": "www.supersonido.es/productos/imagenes/producto51488.jpg"
     },
     "svs-ultra-surround_": {
         "name": "SVS Ultra Surround",
@@ -614,13 +628,6 @@
         "price_old": 1395.0,
         "url": "www.supersonido.es/p/stax-srm-d50_",
         "image": "www.supersonido.es/productos/imagenes/producto52572.jpg"
-    },
-    "audiolab-7000a_": {
-        "name": "Audiolab 7000A",
-        "price": 1049.0,
-        "price_old": 1299.0,
-        "url": "www.supersonido.es/p/audiolab-7000a_",
-        "image": "www.supersonido.es/productos/imagenes/producto51488.jpg"
     },
     "hisense-c1_": {
         "name": "Hisense C1",
@@ -692,19 +699,19 @@
         "url": "www.supersonido.es/p/dynaudio-evoke-20_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49810.jpg"
     },
-    "mofi-electronics-studiodeck__": {
-        "name": "Mofi Electronics STUDIODECK",
-        "price": 1299.0,
-        "price_old": 1599.0,
-        "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
-        "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
-    },
     "mrspeakers-ether-flow": {
         "name": "Dan Clark Audio ETHER Flow",
         "price": 1299.0,
         "price_old": 1999.0,
         "url": "www.supersonido.es/p/mrspeakers-ether-flow",
         "image": "www.supersonido.es/productos/imagenes/producto28309.jpg"
+    },
+    "mofi-electronics-studiodeck__": {
+        "name": "Mofi Electronics STUDIODECK",
+        "price": 1299.0,
+        "price_old": 1599.0,
+        "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
+        "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
     },
     "ferrum-erco": {
         "name": "Ferrum ERCO",
