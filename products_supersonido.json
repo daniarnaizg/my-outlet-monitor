@@ -223,13 +223,6 @@
         "url": "www.supersonido.es/p/monitor-audio-cpwt380_",
         "image": "www.supersonido.es/productos/imagenes/producto26150.jpg"
     },
-    "klipsch-rp-600m-ii_occ": {
-        "name": "Klipsch RP-600M II",
-        "price": 399.0,
-        "price_old": 699.0,
-        "url": "www.supersonido.es/p/klipsch-rp-600m-ii_occ",
-        "image": "www.supersonido.es/productos/imagenes/producto52955.jpg"
-    },
     "dynavector-dv-20x2-h_": {
         "name": "Dynavector DV 20X2-H",
         "price": 399.0,
@@ -244,19 +237,19 @@
         "url": "www.supersonido.es/p/focal-sib-evo-dolby-atmos-2-0_",
         "image": "www.supersonido.es/productos/imagenes/producto52494.jpg"
     },
-    "denon-rcd-n10__oc": {
-        "name": "Denon RCD-N10",
-        "price": 399.0,
-        "price_old": 499.0,
-        "url": "www.supersonido.es/p/denon-rcd-n10__oc",
-        "image": "www.supersonido.es/productos/imagenes/producto52850.jpg"
-    },
     "denon-rcd-n10__ocs": {
         "name": "Denon RCD-N10",
         "price": 399.0,
         "price_old": 499.0,
         "url": "www.supersonido.es/p/denon-rcd-n10__ocs",
         "image": "www.supersonido.es/productos/imagenes/producto52894.jpg"
+    },
+    "denon-rcd-n10__oc": {
+        "name": "Denon RCD-N10",
+        "price": 399.0,
+        "price_old": 499.0,
+        "url": "www.supersonido.es/p/denon-rcd-n10__oc",
+        "image": "www.supersonido.es/productos/imagenes/producto52850.jpg"
     },
     "stax-srm-252s": {
         "name": "Stax SRM-252S",
@@ -594,13 +587,6 @@
         "url": "www.supersonido.es/p/sivga-sendy-peacock_",
         "image": "www.supersonido.es/productos/imagenes/producto49897.jpg"
     },
-    "svs-ultra-surround_": {
-        "name": "SVS Ultra Surround",
-        "price": 1049.0,
-        "price_old": 1449.0,
-        "url": "www.supersonido.es/p/svs-ultra-surround_",
-        "image": "www.supersonido.es/productos/imagenes/producto51280.jpg"
-    },
     "stax-srm-d50_": {
         "name": "Stax SRM-D50",
         "price": 1049.0,
@@ -614,6 +600,13 @@
         "price_old": 1299.0,
         "url": "www.supersonido.es/p/audiolab-7000a_",
         "image": "www.supersonido.es/productos/imagenes/producto51488.jpg"
+    },
+    "svs-ultra-surround_": {
+        "name": "SVS Ultra Surround",
+        "price": 1049.0,
+        "price_old": 1449.0,
+        "url": "www.supersonido.es/p/svs-ultra-surround_",
+        "image": "www.supersonido.es/productos/imagenes/producto51280.jpg"
     },
     "hisense-c1_": {
         "name": "Hisense C1",
