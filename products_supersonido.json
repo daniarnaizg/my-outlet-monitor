@@ -62,6 +62,13 @@
         "url": "www.supersonido.es/p/the-chord-company-shawline-digital-1bnc-to-1bnc_",
         "image": "www.supersonido.es/productos/imagenes/producto51241.jpg"
     },
+    "audioquest-dragonfly-cobalt_": {
+        "name": "Audioquest DragonFly Cobalt",
+        "price": 169.0,
+        "price_old": 329.0,
+        "url": "www.supersonido.es/p/audioquest-dragonfly-cobalt_",
+        "image": "www.supersonido.es/productos/imagenes/producto53249.jpg"
+    },
     "van-den-hul-d-102-iii-hybrid-xlr": {
         "name": "Van-Den-Hul D-102 III Hybrid XLR",
         "price": 189.0,
@@ -104,19 +111,19 @@
         "url": "www.supersonido.es/p/ifi-audio-go-bar__",
         "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
     },
-    "audiopro-addon-c10__": {
-        "name": "AudioPro ADDON C10",
-        "price": 249.0,
-        "price_old": 350.0,
-        "url": "www.supersonido.es/p/audiopro-addon-c10__",
-        "image": "www.supersonido.es/productos/imagenes/producto47962.jpg"
-    },
     "audiopro-d-1": {
         "name": "AudioPro Drumfire D-1",
         "price": 249.0,
         "price_old": 350.0,
         "url": "www.supersonido.es/p/audiopro-d-1",
         "image": "www.supersonido.es/productos/imagenes/producto43369.jpg"
+    },
+    "audiopro-addon-c10__": {
+        "name": "AudioPro ADDON C10",
+        "price": 249.0,
+        "price_old": 350.0,
+        "url": "www.supersonido.es/p/audiopro-addon-c10__",
+        "image": "www.supersonido.es/productos/imagenes/producto47962.jpg"
     },
     "rega-planar-1_occ": {
         "name": "Rega Planar 1",
@@ -187,13 +194,6 @@
         "price_old": 529.0,
         "url": "www.supersonido.es/p/dynaudio-stand-20_",
         "image": "www.supersonido.es/productos/imagenes/producto48776.jpg"
-    },
-    "astell-kern-acro-l1000_": {
-        "name": "Astell&kern ACRO L1000",
-        "price": 349.0,
-        "price_old": 999.0,
-        "url": "www.supersonido.es/p/astell-kern-acro-l1000_",
-        "image": "www.supersonido.es/productos/imagenes/producto46610.jpg"
     },
     "campfire-audio-holocene_": {
         "name": "Campfire Audio Holocene",
@@ -545,20 +545,6 @@
         "url": "www.supersonido.es/p/innuos-pulsemini_oca",
         "image": "www.supersonido.es/productos/imagenes/producto51385.jpg"
     },
-    "audiolab-6000a-play-": {
-        "name": "Audiolab 6000A PLAY",
-        "price": 899.0,
-        "price_old": 1249.0,
-        "url": "www.supersonido.es/p/audiolab-6000a-play-",
-        "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
-    },
-    "q-acoustics-5040_oc": {
-        "name": "Q Acoustics 5040",
-        "price": 899.0,
-        "price_old": 1299.0,
-        "url": "www.supersonido.es/p/q-acoustics-5040_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto51073.jpg"
-    },
     "jbl-l75ms": {
         "name": "JBL L75ms",
         "price": 899.0,
@@ -573,6 +559,20 @@
         "url": "www.supersonido.es/p/cayin-n6 MKII_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
     },
+    "q-acoustics-5040_oc": {
+        "name": "Q Acoustics 5040",
+        "price": 899.0,
+        "price_old": 1299.0,
+        "url": "www.supersonido.es/p/q-acoustics-5040_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto51073.jpg"
+    },
+    "audiolab-6000a-play-": {
+        "name": "Audiolab 6000A PLAY",
+        "price": 899.0,
+        "price_old": 1249.0,
+        "url": "www.supersonido.es/p/audiolab-6000a-play-",
+        "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
+    },
     "q-acoustics-5040_occ": {
         "name": "Q Acoustics 5040",
         "price": 949.0,
@@ -580,19 +580,19 @@
         "url": "www.supersonido.es/p/q-acoustics-5040_occ",
         "image": "www.supersonido.es/productos/imagenes/producto53243.jpg"
     },
-    "klipsch-thx-5002-s_": {
-        "name": "Klipsch THX-5002-S",
-        "price": 999.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/klipsch-thx-5002-s_",
-        "image": "www.supersonido.es/productos/imagenes/producto51081.jpg"
-    },
     "loewe-wee-see-55": {
         "name": "Loewe WEE SEE 55",
         "price": 999.0,
         "price_old": 1699.0,
         "url": "www.supersonido.es/p/loewe-wee-see-55",
         "image": "www.supersonido.es/productos/imagenes/producto46140.jpg"
+    },
+    "klipsch-thx-5002-s_": {
+        "name": "Klipsch THX-5002-S",
+        "price": 999.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/klipsch-thx-5002-s_",
+        "image": "www.supersonido.es/productos/imagenes/producto51081.jpg"
     },
     "sivga-sendy-peacock_": {
         "name": "Sendy Audio Peacock",
