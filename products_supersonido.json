@@ -104,19 +104,19 @@
         "url": "www.supersonido.es/p/panasonic-sc-pmx90_oc",
         "image": "www.supersonido.es/productos/imagenes/producto51095.jpg"
     },
-    "ifi-audio-go-bar__": {
-        "name": "IFI Audio GO bar",
-        "price": 249.0,
-        "price_old": 329.0,
-        "url": "www.supersonido.es/p/ifi-audio-go-bar__",
-        "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
-    },
     "audiopro-d-1": {
         "name": "AudioPro Drumfire D-1",
         "price": 249.0,
         "price_old": 350.0,
         "url": "www.supersonido.es/p/audiopro-d-1",
         "image": "www.supersonido.es/productos/imagenes/producto43369.jpg"
+    },
+    "ifi-audio-go-bar__": {
+        "name": "IFI Audio GO bar",
+        "price": 249.0,
+        "price_old": 329.0,
+        "url": "www.supersonido.es/p/ifi-audio-go-bar__",
+        "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
     },
     "audiopro-addon-c10__": {
         "name": "AudioPro ADDON C10",
@@ -146,19 +146,19 @@
         "url": "www.supersonido.es/p/ifi-audio-zen-can-signature-mz99_",
         "image": "www.supersonido.es/productos/imagenes/producto52354.jpg"
     },
-    "audiopro-sw-5_": {
-        "name": "AudioPro SW-5",
-        "price": 279.0,
-        "price_old": 349.0,
-        "url": "www.supersonido.es/p/audiopro-sw-5_",
-        "image": "www.supersonido.es/productos/imagenes/producto53002.jpg"
-    },
     "audeze-maxwell-playstation_oc": {
         "name": "Audeze MAXWELL PLAYSTATION",
         "price": 279.0,
         "price_old": 399.0,
         "url": "www.supersonido.es/p/audeze-maxwell-playstation_oc",
         "image": "www.supersonido.es/productos/imagenes/producto50833.jpg"
+    },
+    "audiopro-sw-5_": {
+        "name": "AudioPro SW-5",
+        "price": 279.0,
+        "price_old": 349.0,
+        "url": "www.supersonido.es/p/audiopro-sw-5_",
+        "image": "www.supersonido.es/productos/imagenes/producto53002.jpg"
     },
     "the-chord-company-chordohmic-ground-aray-rj45_": {
         "name": "The Chord Company ChordOhmic Ground ARAY\tRJ45",
@@ -496,13 +496,6 @@
         "url": "www.supersonido.es/p/audiopro-a48__",
         "image": "www.supersonido.es/productos/imagenes/producto52957.jpg"
     },
-    "audeze-lcd-gx_": {
-        "name": "Audeze LCD-GX",
-        "price": 839.0,
-        "price_old": 1049.0,
-        "url": "www.supersonido.es/p/audeze-lcd-gx_",
-        "image": "www.supersonido.es/productos/imagenes/producto51487.jpg"
-    },
     "audiolab-6000a-play__oc": {
         "name": "Audiolab 6000A PLAY",
         "price": 849.0,
@@ -538,20 +531,6 @@
         "url": "www.supersonido.es/p/dan-clark-audio-on-2-closed_",
         "image": "www.supersonido.es/productos/imagenes/producto50777.jpg"
     },
-    "innuos-pulsemini_oca": {
-        "name": "Innuos PULSEmini",
-        "price": 899.0,
-        "price_old": 1149.0,
-        "url": "www.supersonido.es/p/innuos-pulsemini_oca",
-        "image": "www.supersonido.es/productos/imagenes/producto51385.jpg"
-    },
-    "jbl-l75ms": {
-        "name": "JBL L75ms",
-        "price": 899.0,
-        "price_old": 1699.0,
-        "url": "www.supersonido.es/p/jbl-l75ms",
-        "image": "www.supersonido.es/productos/imagenes/producto45678.jpg"
-    },
     "cayin-n6 MKII_": {
         "name": "Cayin N6 MKII",
         "price": 899.0,
@@ -572,6 +551,20 @@
         "price_old": 1249.0,
         "url": "www.supersonido.es/p/audiolab-6000a-play-",
         "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
+    },
+    "jbl-l75ms": {
+        "name": "JBL L75ms",
+        "price": 899.0,
+        "price_old": 1699.0,
+        "url": "www.supersonido.es/p/jbl-l75ms",
+        "image": "www.supersonido.es/productos/imagenes/producto45678.jpg"
+    },
+    "innuos-pulsemini_oca": {
+        "name": "Innuos PULSEmini",
+        "price": 899.0,
+        "price_old": 1149.0,
+        "url": "www.supersonido.es/p/innuos-pulsemini_oca",
+        "image": "www.supersonido.es/productos/imagenes/producto51385.jpg"
     },
     "q-acoustics-5040_occ": {
         "name": "Q Acoustics 5040",
