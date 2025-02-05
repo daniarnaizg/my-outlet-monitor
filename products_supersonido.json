@@ -104,6 +104,13 @@
         "url": "www.supersonido.es/p/audioquest-dragonfly-cobalt_",
         "image": "www.supersonido.es/productos/imagenes/producto53249.jpg"
     },
+    "sony-str-dh190__": {
+        "name": "Sony STR-DH190",
+        "price": 169.0,
+        "price_old": 299.0,
+        "url": "www.supersonido.es/p/sony-str-dh190__",
+        "image": "www.supersonido.es/productos/imagenes/producto53029.jpg"
+    },
     "the-chord-company-chordohmic-ground-aray-rj45_": {
         "name": "The Chord Company ChordOhmic Ground ARAY\tRJ45",
         "price": 199.0,
@@ -510,19 +517,19 @@
         "url": "www.supersonido.es/p/the-chord-company-epic-xl_",
         "image": "www.supersonido.es/productos/imagenes/producto53053.jpg"
     },
-    "ibasso-dx260_": {
-        "name": "Ibasso DX260",
-        "price": 849.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/ibasso-dx260_",
-        "image": "www.supersonido.es/productos/imagenes/producto52747.jpg"
-    },
     "acoustune-hs1697ti": {
         "name": "Acoustune HS1697TI",
         "price": 849.0,
         "price_old": 1149.0,
         "url": "www.supersonido.es/p/acoustune-hs1697ti",
         "image": "www.supersonido.es/productos/imagenes/producto42965.jpg"
+    },
+    "ibasso-dx260_": {
+        "name": "Ibasso DX260",
+        "price": 849.0,
+        "price_old": 949.0,
+        "url": "www.supersonido.es/p/ibasso-dx260_",
+        "image": "www.supersonido.es/productos/imagenes/producto52747.jpg"
     },
     "dan-clark-audio-on-2-closed_": {
         "name": "Dan Clark Audio \u00c3\u0086ON 2 Closed",
@@ -538,19 +545,19 @@
         "url": "www.supersonido.es/p/innuos-pulsemini_oca",
         "image": "www.supersonido.es/productos/imagenes/producto51385.jpg"
     },
-    "audiolab-6000a-play-": {
-        "name": "Audiolab 6000A PLAY",
-        "price": 899.0,
-        "price_old": 1249.0,
-        "url": "www.supersonido.es/p/audiolab-6000a-play-",
-        "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
-    },
     "cayin-n6 MKII_": {
         "name": "Cayin N6 MKII",
         "price": 899.0,
         "price_old": 1399.0,
         "url": "www.supersonido.es/p/cayin-n6 MKII_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
+    },
+    "jbl-l75ms": {
+        "name": "JBL L75ms",
+        "price": 899.0,
+        "price_old": 1699.0,
+        "url": "www.supersonido.es/p/jbl-l75ms",
+        "image": "www.supersonido.es/productos/imagenes/producto45678.jpg"
     },
     "q-acoustics-5040_oc": {
         "name": "Q Acoustics 5040",
@@ -566,12 +573,12 @@
         "url": "www.supersonido.es/p/q-acoustics-5040_occc",
         "image": "www.supersonido.es/productos/imagenes/producto53293.jpg"
     },
-    "jbl-l75ms": {
-        "name": "JBL L75ms",
+    "audiolab-6000a-play-": {
+        "name": "Audiolab 6000A PLAY",
         "price": 899.0,
-        "price_old": 1699.0,
-        "url": "www.supersonido.es/p/jbl-l75ms",
-        "image": "www.supersonido.es/productos/imagenes/producto45678.jpg"
+        "price_old": 1249.0,
+        "url": "www.supersonido.es/p/audiolab-6000a-play-",
+        "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
     },
     "audeze-lcd2-SH_oca": {
         "name": "Audeze LCD-2",
@@ -685,13 +692,6 @@
         "url": "www.supersonido.es/p/dynaudio-evoke-20_oc",
         "image": "www.supersonido.es/productos/imagenes/producto49810.jpg"
     },
-    "mofi-electronics-studiodeck__": {
-        "name": "Mofi Electronics STUDIODECK",
-        "price": 1299.0,
-        "price_old": 1599.0,
-        "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
-        "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
-    },
     "mrspeakers-ether-flow": {
         "name": "Dan Clark Audio ETHER Flow",
         "price": 1299.0,
@@ -699,19 +699,12 @@
         "url": "www.supersonido.es/p/mrspeakers-ether-flow",
         "image": "www.supersonido.es/productos/imagenes/producto28309.jpg"
     },
-    "mrspeakers-ether-c-flow-1-1_": {
-        "name": "Dan Clark Audio ETHER C Flow 1.1",
-        "price": 1399.0,
-        "price_old": 2159.0,
-        "url": "www.supersonido.es/p/mrspeakers-ether-c-flow-1-1_",
-        "image": "www.supersonido.es/productos/imagenes/producto50775.jpg"
-    },
-    "mrspeakers-ether-flow-1-1_": {
-        "name": "Dan Clark Audio ETHER Flow 1.1",
-        "price": 1399.0,
-        "price_old": 2159.0,
-        "url": "www.supersonido.es/p/mrspeakers-ether-flow-1-1_",
-        "image": "www.supersonido.es/productos/imagenes/producto50776.jpg"
+    "mofi-electronics-studiodeck__": {
+        "name": "Mofi Electronics STUDIODECK",
+        "price": 1299.0,
+        "price_old": 1599.0,
+        "url": "www.supersonido.es/p/mofi-electronics-studiodeck__",
+        "image": "www.supersonido.es/productos/imagenes/producto50996.jpg"
     },
     "ferrum-erco": {
         "name": "Ferrum ERCO",
@@ -726,6 +719,20 @@
         "price_old": 1898.0,
         "url": "www.supersonido.es/p/mission-700__",
         "image": "www.supersonido.es/productos/imagenes/producto52734.jpg"
+    },
+    "mrspeakers-ether-c-flow-1-1_": {
+        "name": "Dan Clark Audio ETHER C Flow 1.1",
+        "price": 1399.0,
+        "price_old": 2159.0,
+        "url": "www.supersonido.es/p/mrspeakers-ether-c-flow-1-1_",
+        "image": "www.supersonido.es/productos/imagenes/producto50775.jpg"
+    },
+    "mrspeakers-ether-flow-1-1_": {
+        "name": "Dan Clark Audio ETHER Flow 1.1",
+        "price": 1399.0,
+        "price_old": 2159.0,
+        "url": "www.supersonido.es/p/mrspeakers-ether-flow-1-1_",
+        "image": "www.supersonido.es/productos/imagenes/producto50776.jpg"
     },
     "stax-sr-l700-mkii_": {
         "name": "Stax SR-L700 MKII",
