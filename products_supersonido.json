@@ -167,19 +167,19 @@
         "url": "www.supersonido.es/p/audiopro-addon-c10__",
         "image": "www.supersonido.es/productos/imagenes/producto47962.jpg"
     },
-    "audiopro-d-1": {
-        "name": "AudioPro Drumfire D-1",
-        "price": 249.0,
-        "price_old": 350.0,
-        "url": "www.supersonido.es/p/audiopro-d-1",
-        "image": "www.supersonido.es/productos/imagenes/producto43369.jpg"
-    },
     "ifi-audio-go-bar__": {
         "name": "IFI Audio GO bar",
         "price": 249.0,
         "price_old": 329.0,
         "url": "www.supersonido.es/p/ifi-audio-go-bar__",
         "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
+    },
+    "audiopro-d-1": {
+        "name": "AudioPro Drumfire D-1",
+        "price": 249.0,
+        "price_old": 350.0,
+        "url": "www.supersonido.es/p/audiopro-d-1",
+        "image": "www.supersonido.es/productos/imagenes/producto43369.jpg"
     },
     "the-chord-company-silent-mount-sm7_": {
         "name": "The Chord Company Silent Mount SM7",
@@ -608,13 +608,6 @@
         "url": "www.supersonido.es/p/audeze-lcd2-SH_oca",
         "image": "www.supersonido.es/productos/imagenes/producto49002.jpg"
     },
-    "chord-electronics-qutest_": {
-        "name": "Chord Electronics Qutest",
-        "price": 899.0,
-        "price_old": 1495.0,
-        "url": "www.supersonido.es/p/chord-electronics-qutest_",
-        "image": "www.supersonido.es/productos/imagenes/producto49530.jpg"
-    },
     "rega-planar-3-vm750sh-series": {
         "name": "Rega Planar 3 VM750SH Series",
         "price": 989.0,
@@ -622,19 +615,19 @@
         "url": "www.supersonido.es/p/rega-planar-3-vm750sh-series",
         "image": "www.supersonido.es/productos/imagenes/producto53291.jpg"
     },
-    "klipsch-thx-5002-s_": {
-        "name": "Klipsch THX-5002-S",
-        "price": 999.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/klipsch-thx-5002-s_",
-        "image": "www.supersonido.es/productos/imagenes/producto51081.jpg"
-    },
     "loewe-wee-see-55": {
         "name": "Loewe WEE SEE 55",
         "price": 999.0,
         "price_old": 1699.0,
         "url": "www.supersonido.es/p/loewe-wee-see-55",
         "image": "www.supersonido.es/productos/imagenes/producto46140.jpg"
+    },
+    "klipsch-thx-5002-s_": {
+        "name": "Klipsch THX-5002-S",
+        "price": 999.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/klipsch-thx-5002-s_",
+        "image": "www.supersonido.es/productos/imagenes/producto51081.jpg"
     },
     "sivga-sendy-peacock_": {
         "name": "Sendy Audio Peacock",
