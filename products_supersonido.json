@@ -195,19 +195,19 @@
         "url": "www.supersonido.es/p/ifi-audio-zen-can-signature-mz99_",
         "image": "www.supersonido.es/productos/imagenes/producto52354.jpg"
     },
-    "audiopro-sw-5_": {
-        "name": "AudioPro SW-5",
-        "price": 279.0,
-        "price_old": 349.0,
-        "url": "www.supersonido.es/p/audiopro-sw-5_",
-        "image": "www.supersonido.es/productos/imagenes/producto53002.jpg"
-    },
     "audeze-maxwell-playstation_oc": {
         "name": "Audeze MAXWELL PLAYSTATION",
         "price": 279.0,
         "price_old": 399.0,
         "url": "www.supersonido.es/p/audeze-maxwell-playstation_oc",
         "image": "www.supersonido.es/productos/imagenes/producto50833.jpg"
+    },
+    "audiopro-sw-5_": {
+        "name": "AudioPro SW-5",
+        "price": 279.0,
+        "price_old": 349.0,
+        "url": "www.supersonido.es/p/audiopro-sw-5_",
+        "image": "www.supersonido.es/productos/imagenes/producto53002.jpg"
     },
     "audio-technica-at-lp120x_oc2": {
         "name": "Audio-Technica AT-LP120XUSB",
@@ -573,13 +573,6 @@
         "url": "www.supersonido.es/p/jbl-l75ms",
         "image": "www.supersonido.es/productos/imagenes/producto45678.jpg"
     },
-    "q-acoustics-5040_occc": {
-        "name": "Q Acoustics 5040",
-        "price": 899.0,
-        "price_old": 1299.0,
-        "url": "www.supersonido.es/p/q-acoustics-5040_occc",
-        "image": "www.supersonido.es/productos/imagenes/producto53293.jpg"
-    },
     "audiolab-6000a-play-": {
         "name": "Audiolab 6000A PLAY",
         "price": 899.0,
@@ -593,6 +586,13 @@
         "price_old": 1299.0,
         "url": "www.supersonido.es/p/q-acoustics-5040_oc",
         "image": "www.supersonido.es/productos/imagenes/producto51073.jpg"
+    },
+    "q-acoustics-5040_occc": {
+        "name": "Q Acoustics 5040",
+        "price": 899.0,
+        "price_old": 1299.0,
+        "url": "www.supersonido.es/p/q-acoustics-5040_occc",
+        "image": "www.supersonido.es/productos/imagenes/producto53293.jpg"
     },
     "audeze-lcd2-SH_oca": {
         "name": "Audeze LCD-2",
@@ -650,6 +650,13 @@
         "url": "www.supersonido.es/p/sivga-sendy-peacock_",
         "image": "www.supersonido.es/productos/imagenes/producto49897.jpg"
     },
+    "eversolo-dmp-a6-master-edition": {
+        "name": "Eversolo DMP-A6 Master Edition",
+        "price": 999.0,
+        "price_old": 1299.0,
+        "url": "www.supersonido.es/p/eversolo-dmp-a6-master-edition",
+        "image": "www.supersonido.es/productos/imagenes/producto50124.jpg"
+    },
     "stax-srm-d50_": {
         "name": "Stax SRM-D50",
         "price": 1049.0,
@@ -699,19 +706,19 @@
         "url": "www.supersonido.es/p/pro-ject-box-15-ds2_",
         "image": "www.supersonido.es/productos/imagenes/producto50803.jpg"
     },
-    "matrix-audio-element-p__": {
-        "name": "Matrix Audio Element P",
-        "price": 1199.0,
-        "price_old": 2799.0,
-        "url": "www.supersonido.es/p/matrix-audio-element-p__",
-        "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
-    },
     "matrix-audio-element-p_": {
         "name": "Matrix Audio Element P",
         "price": 1199.0,
         "price_old": 2799.0,
         "url": "www.supersonido.es/p/matrix-audio-element-p_",
         "image": "www.supersonido.es/productos/imagenes/producto46923.jpg"
+    },
+    "matrix-audio-element-p__": {
+        "name": "Matrix Audio Element P",
+        "price": 1199.0,
+        "price_old": 2799.0,
+        "url": "www.supersonido.es/p/matrix-audio-element-p__",
+        "image": "www.supersonido.es/productos/imagenes/producto49335.jpg"
     },
     "rel-habitat-1": {
         "name": "Rel HABITAT 1",
