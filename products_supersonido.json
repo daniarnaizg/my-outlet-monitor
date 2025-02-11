@@ -41,13 +41,6 @@
         "url": "www.supersonido.es/p/grado-sr125x_OC",
         "image": "www.supersonido.es/productos/imagenes/producto49911.jpg"
     },
-    "samsung-swa-9200s_": {
-        "name": "Samsung SWA-9200S",
-        "price": 119.0,
-        "price_old": 149.0,
-        "url": "www.supersonido.es/p/samsung-swa-9200s_",
-        "image": "www.supersonido.es/productos/imagenes/producto49300.jpg"
-    },
     "panasonic-dp-ub150eg_oca": {
         "name": "Panasonic DP-UB150EG",
         "price": 119.0,
@@ -103,6 +96,20 @@
         "price_old": 299.0,
         "url": "www.supersonido.es/p/sony-str-dh190__",
         "image": "www.supersonido.es/productos/imagenes/producto53029.jpg"
+    },
+    "q-acoustics-q-3010i_": {
+        "name": "Q Acoustics Q3010i",
+        "price": 179.0,
+        "price_old": 299.0,
+        "url": "www.supersonido.es/p/q-acoustics-q-3010i_",
+        "image": "www.supersonido.es/productos/imagenes/producto29840.jpg"
+    },
+    "q-acoustics-q3090ci_": {
+        "name": "Q Acoustics Q3090Ci",
+        "price": 179.0,
+        "price_old": 249.0,
+        "url": "www.supersonido.es/p/q-acoustics-q3090ci_",
+        "image": "www.supersonido.es/productos/imagenes/producto29842.jpg"
     },
     "chord-electronics-shawline-analogico-rcarca_": {
         "name": "The Chord Company Shawline Analogico RCA/RCA",
@@ -188,19 +195,19 @@
         "url": "www.supersonido.es/p/ifi-audio-zen-can-signature-mz99_",
         "image": "www.supersonido.es/productos/imagenes/producto52354.jpg"
     },
-    "audiopro-sw-5_": {
-        "name": "AudioPro SW-5",
-        "price": 279.0,
-        "price_old": 349.0,
-        "url": "www.supersonido.es/p/audiopro-sw-5_",
-        "image": "www.supersonido.es/productos/imagenes/producto53002.jpg"
-    },
     "audeze-maxwell-playstation_oc": {
         "name": "Audeze MAXWELL PLAYSTATION",
         "price": 279.0,
         "price_old": 399.0,
         "url": "www.supersonido.es/p/audeze-maxwell-playstation_oc",
         "image": "www.supersonido.es/productos/imagenes/producto50833.jpg"
+    },
+    "audiopro-sw-5_": {
+        "name": "AudioPro SW-5",
+        "price": 279.0,
+        "price_old": 349.0,
+        "url": "www.supersonido.es/p/audiopro-sw-5_",
+        "image": "www.supersonido.es/productos/imagenes/producto53002.jpg"
     },
     "audio-technica-at-lp120x_oc2": {
         "name": "Audio-Technica AT-LP120XUSB",
@@ -300,13 +307,6 @@
         "url": "www.supersonido.es/p/stax-srm-252s",
         "image": "www.supersonido.es/productos/imagenes/producto32656.jpg"
     },
-    "rotel-a11-tribute_": {
-        "name": "Rotel A11 Tribute",
-        "price": 419.0,
-        "price_old": 799.0,
-        "url": "www.supersonido.es/p/rotel-a11-tribute_",
-        "image": "www.supersonido.es/productos/imagenes/producto53341.jpg"
-    },
     "transparent-audio-musicwave_": {
         "name": "Transparent Audio MusicWave MW Gen 6",
         "price": 429.0,
@@ -314,19 +314,19 @@
         "url": "www.supersonido.es/p/transparent-audio-musicwave_",
         "image": "www.supersonido.es/productos/imagenes/producto52890.jpg"
     },
-    "marantz-melody-x-m-cr612__": {
-        "name": "Marantz Melody X MCR612",
-        "price": 449.0,
-        "price_old": 599.0,
-        "url": "www.supersonido.es/p/marantz-melody-x-m-cr612__",
-        "image": "www.supersonido.es/productos/imagenes/producto42953.jpg"
-    },
     "pro-ject-debut-carbon-evo_occ": {
         "name": "Pro-Ject Debut Carbon EVO",
         "price": 449.0,
         "price_old": 599.0,
         "url": "www.supersonido.es/p/pro-ject-debut-carbon-evo_occ",
         "image": "www.supersonido.es/productos/imagenes/producto53280.jpg"
+    },
+    "marantz-melody-x-m-cr612__": {
+        "name": "Marantz Melody X MCR612",
+        "price": 449.0,
+        "price_old": 599.0,
+        "url": "www.supersonido.es/p/marantz-melody-x-m-cr612__",
+        "image": "www.supersonido.es/productos/imagenes/producto42953.jpg"
     },
     "technics-ottava-s-sc-c30_": {
         "name": "Technics OTTAVA S SC-C30",
@@ -363,19 +363,19 @@
         "url": "www.supersonido.es/p/klipsch-rp-600m-ii_occ",
         "image": "www.supersonido.es/productos/imagenes/producto52955.jpg"
     },
-    "q-acoustics-q3050i_occcc": {
-        "name": "Q Acoustics Q3050i",
-        "price": 499.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/q-acoustics-q3050i_occcc",
-        "image": "www.supersonido.es/productos/imagenes/producto52485.jpg"
-    },
     "rega-brio_": {
         "name": "Rega Brio",
         "price": 499.0,
         "price_old": 829.0,
         "url": "www.supersonido.es/p/rega-brio_",
         "image": "www.supersonido.es/productos/imagenes/producto25620.jpg"
+    },
+    "q-acoustics-q3050i_occcc": {
+        "name": "Q Acoustics Q3050i",
+        "price": 499.0,
+        "price_old": 949.0,
+        "url": "www.supersonido.es/p/q-acoustics-q3050i_occcc",
+        "image": "www.supersonido.es/productos/imagenes/producto52485.jpg"
     },
     "astell-kern-ak-zero1_": {
         "name": "Astell&kern AK ZERO1",
@@ -474,6 +474,13 @@
         "price_old": 799.0,
         "url": "www.supersonido.es/p/eltax-monitor-mtr-1959_",
         "image": "www.supersonido.es/productos/imagenes/producto53242.jpg"
+    },
+    "q-acoustics-m40-wiim-mini_oc": {
+        "name": "Q Acoustics M40",
+        "price": 674.0,
+        "price_old": 899.0,
+        "url": "www.supersonido.es/p/q-acoustics-m40-wiim-mini_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto53357.jpg"
     },
     "audeze-lcd-2-classic___": {
         "name": "Audeze LCD-2 Classic",
@@ -727,6 +734,13 @@
         "url": "www.supersonido.es/p/primare-sc-15-prisma",
         "image": "www.supersonido.es/productos/imagenes/producto29464.jpg"
     },
+    "hisense-px1-pro_": {
+        "name": "Hisense PX1 PRO",
+        "price": 1199.0,
+        "price_old": 2499.0,
+        "url": "www.supersonido.es/p/hisense-px1-pro_",
+        "image": "www.supersonido.es/productos/imagenes/producto53363.jpg"
+    },
     "matrix-audio-element-p__": {
         "name": "Matrix Audio Element P",
         "price": 1199.0,
@@ -817,6 +831,13 @@
         "price_old": 2595.0,
         "url": "www.supersonido.es/p/chord-electronics-hugo-2-dac_",
         "image": "www.supersonido.es/productos/imagenes/producto47932.jpg"
+    },
+    "svs-pb-3000_": {
+        "name": "SVS PB-3000",
+        "price": 1499.0,
+        "price_old": 1949.0,
+        "url": "www.supersonido.es/p/svs-pb-3000_",
+        "image": "www.supersonido.es/productos/imagenes/producto53372.jpg"
     },
     "rotel-s14_oc": {
         "name": "Rotel S14",
@@ -923,12 +944,26 @@
         "url": "www.supersonido.es/p/focal-arche",
         "image": "www.supersonido.es/productos/imagenes/producto29616.jpg"
     },
+    "chord-electronics-ttoby_": {
+        "name": "Chord Electronics TToby",
+        "price": 1995.0,
+        "price_old": 3895.0,
+        "url": "www.supersonido.es/p/chord-electronics-ttoby_",
+        "image": "www.supersonido.es/productos/imagenes/producto53358.jpg"
+    },
     "musical-fidelity-ls3-5a_": {
         "name": "Musical Fidelity LS3/5A",
         "price": 1999.0,
         "price_old": 2499.0,
         "url": "www.supersonido.es/p/musical-fidelity-ls3-5a_",
         "image": "www.supersonido.es/productos/imagenes/producto52855.jpg"
+    },
+    "sennheiser-hdv-820_": {
+        "name": "Sennheiser HDV 820",
+        "price": 2049.0,
+        "price_old": 2699.0,
+        "url": "www.supersonido.es/p/sennheiser-hdv-820_",
+        "image": "www.supersonido.es/productos/imagenes/producto41984.jpg"
     },
     "svs-pb-4000-oc": {
         "name": "SVS PB-4000",
