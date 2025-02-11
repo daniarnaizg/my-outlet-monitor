@@ -188,19 +188,19 @@
         "url": "www.supersonido.es/p/ifi-audio-zen-can-signature-mz99_",
         "image": "www.supersonido.es/productos/imagenes/producto52354.jpg"
     },
-    "audeze-maxwell-playstation_oc": {
-        "name": "Audeze MAXWELL PLAYSTATION",
-        "price": 279.0,
-        "price_old": 399.0,
-        "url": "www.supersonido.es/p/audeze-maxwell-playstation_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto50833.jpg"
-    },
     "audiopro-sw-5_": {
         "name": "AudioPro SW-5",
         "price": 279.0,
         "price_old": 349.0,
         "url": "www.supersonido.es/p/audiopro-sw-5_",
         "image": "www.supersonido.es/productos/imagenes/producto53002.jpg"
+    },
+    "audeze-maxwell-playstation_oc": {
+        "name": "Audeze MAXWELL PLAYSTATION",
+        "price": 279.0,
+        "price_old": 399.0,
+        "url": "www.supersonido.es/p/audeze-maxwell-playstation_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto50833.jpg"
     },
     "audio-technica-at-lp120x_oc2": {
         "name": "Audio-Technica AT-LP120XUSB",
@@ -594,6 +594,13 @@
         "url": "www.supersonido.es/p/jbl-l75ms",
         "image": "www.supersonido.es/productos/imagenes/producto45678.jpg"
     },
+    "cambridge-audio-evo-cd_oc": {
+        "name": "Cambridge Audio EVO CD",
+        "price": 899.0,
+        "price_old": 1199.0,
+        "url": "www.supersonido.es/p/cambridge-audio-evo-cd_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto53360.jpg"
+    },
     "audiolab-6000a-play-": {
         "name": "Audiolab 6000A PLAY",
         "price": 899.0,
@@ -607,6 +614,13 @@
         "price_old": 1299.0,
         "url": "www.supersonido.es/p/q-acoustics-5040_occc",
         "image": "www.supersonido.es/productos/imagenes/producto53293.jpg"
+    },
+    "q-acoustics-5040_oc": {
+        "name": "Q Acoustics 5040",
+        "price": 899.0,
+        "price_old": 1299.0,
+        "url": "www.supersonido.es/p/q-acoustics-5040_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto51073.jpg"
     },
     "audeze-lcd2-SH_oca": {
         "name": "Audeze LCD-2",
@@ -622,13 +636,6 @@
         "url": "www.supersonido.es/p/cayin-n6 MKII_",
         "image": "www.supersonido.es/productos/imagenes/producto47232.jpg"
     },
-    "q-acoustics-5040_oc": {
-        "name": "Q Acoustics 5040",
-        "price": 899.0,
-        "price_old": 1299.0,
-        "url": "www.supersonido.es/p/q-acoustics-5040_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto51073.jpg"
-    },
     "musical-fidelity-m3si_": {
         "name": "Musical Fidelity M3SI",
         "price": 949.0,
@@ -643,19 +650,19 @@
         "url": "www.supersonido.es/p/rega-planar-3-vm750sh-series",
         "image": "www.supersonido.es/productos/imagenes/producto53291.jpg"
     },
-    "klipsch-thx-5002-s_": {
-        "name": "Klipsch THX-5002-S",
-        "price": 999.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/klipsch-thx-5002-s_",
-        "image": "www.supersonido.es/productos/imagenes/producto51081.jpg"
-    },
     "loewe-wee-see-55": {
         "name": "Loewe WEE SEE 55",
         "price": 999.0,
         "price_old": 1699.0,
         "url": "www.supersonido.es/p/loewe-wee-see-55",
         "image": "www.supersonido.es/productos/imagenes/producto46140.jpg"
+    },
+    "klipsch-thx-5002-s_": {
+        "name": "Klipsch THX-5002-S",
+        "price": 999.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/klipsch-thx-5002-s_",
+        "image": "www.supersonido.es/productos/imagenes/producto51081.jpg"
     },
     "sivga-sendy-peacock_": {
         "name": "Sendy Audio Peacock",
