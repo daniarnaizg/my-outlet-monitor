@@ -1,10 +1,31 @@
 {
+    "ifi-audio-4-4mm-to-4-4mm-cable_": {
+        "name": "IFI Audio 4.4mm to 4.4mm Cable",
+        "price": 49.0,
+        "price_old": 69.0,
+        "url": "www.supersonido.es/p/ifi-audio-4-4mm-to-4-4mm-cable_",
+        "image": "www.supersonido.es/productos/imagenes/producto53376.jpg"
+    },
     "samsung-wmn-m25ea-xc": {
         "name": "Samsung WMN-M25EA/XC",
         "price": 50.0,
         "price_old": 89.0,
         "url": "www.supersonido.es/p/samsung-wmn-m25ea-xc",
         "image": "www.supersonido.es/productos/imagenes/producto30804.jpg"
+    },
+    "ifi-audio-ipower2_": {
+        "name": "IFI Audio iPower 2",
+        "price": 59.0,
+        "price_old": 79.0,
+        "url": "www.supersonido.es/p/ifi-audio-ipower2_",
+        "image": "www.supersonido.es/productos/imagenes/producto52138.jpg"
+    },
+    "ifi-audio-ipower-x_oca": {
+        "name": "IFI Audio iPower X",
+        "price": 89.0,
+        "price_old": 109.0,
+        "url": "www.supersonido.es/p/ifi-audio-ipower-x_oca",
+        "image": "www.supersonido.es/productos/imagenes/producto52773.jpg"
     },
     "grado-sr60x_": {
         "name": "Grado SR60x",
@@ -13,12 +34,12 @@
         "url": "www.supersonido.es/p/grado-sr60x_",
         "image": "www.supersonido.es/productos/imagenes/producto48345.jpg"
     },
-    "ifi-audio-ipower-x_oca": {
-        "name": "IFI Audio iPower X",
-        "price": 89.0,
-        "price_old": 109.0,
-        "url": "www.supersonido.es/p/ifi-audio-ipower-x_oca",
-        "image": "www.supersonido.es/productos/imagenes/producto52773.jpg"
+    "the-chord-company-cobra-vee-3-5-pin-din": {
+        "name": "The Chord Company COBRA VEE 3 5 PIN DIN",
+        "price": 99.0,
+        "price_old": 299.0,
+        "url": "www.supersonido.es/p/the-chord-company-cobra-vee-3-5-pin-din",
+        "image": "www.supersonido.es/productos/imagenes/producto13149.jpg"
     },
     "grado-sr80x_oc": {
         "name": "Grado SR80x",
@@ -153,19 +174,19 @@
         "url": "www.supersonido.es/p/nordost-4-flat-speaker-cable_",
         "image": "www.supersonido.es/productos/imagenes/producto52805.jpg"
     },
-    "audiopro-addon-c10__": {
-        "name": "AudioPro ADDON C10",
-        "price": 249.0,
-        "price_old": 350.0,
-        "url": "www.supersonido.es/p/audiopro-addon-c10__",
-        "image": "www.supersonido.es/productos/imagenes/producto47962.jpg"
-    },
     "ifi-audio-go-bar__": {
         "name": "IFI Audio GO bar",
         "price": 249.0,
         "price_old": 329.0,
         "url": "www.supersonido.es/p/ifi-audio-go-bar__",
         "image": "www.supersonido.es/productos/imagenes/producto48346.jpg"
+    },
+    "audiopro-addon-c10__": {
+        "name": "AudioPro ADDON C10",
+        "price": 249.0,
+        "price_old": 350.0,
+        "url": "www.supersonido.es/p/audiopro-addon-c10__",
+        "image": "www.supersonido.es/productos/imagenes/producto47962.jpg"
     },
     "audiopro-d-1": {
         "name": "AudioPro Drumfire D-1",
@@ -580,19 +601,19 @@
         "url": "www.supersonido.es/p/the-chord-company-epic-xl_",
         "image": "www.supersonido.es/productos/imagenes/producto53053.jpg"
     },
-    "acoustune-hs1697ti": {
-        "name": "Acoustune HS1697TI",
-        "price": 849.0,
-        "price_old": 1149.0,
-        "url": "www.supersonido.es/p/acoustune-hs1697ti",
-        "image": "www.supersonido.es/productos/imagenes/producto42965.jpg"
-    },
     "ibasso-dx260_": {
         "name": "Ibasso DX260",
         "price": 849.0,
         "price_old": 949.0,
         "url": "www.supersonido.es/p/ibasso-dx260_",
         "image": "www.supersonido.es/productos/imagenes/producto52747.jpg"
+    },
+    "acoustune-hs1697ti": {
+        "name": "Acoustune HS1697TI",
+        "price": 849.0,
+        "price_old": 1149.0,
+        "url": "www.supersonido.es/p/acoustune-hs1697ti",
+        "image": "www.supersonido.es/productos/imagenes/producto42965.jpg"
     },
     "dan-clark-audio-on-2-closed_": {
         "name": "Dan Clark Audio \u00c3\u0086ON 2 Closed",
@@ -839,19 +860,19 @@
         "url": "www.supersonido.es/p/stax-sr-l700-mkii_",
         "image": "www.supersonido.es/productos/imagenes/producto52569.jpg"
     },
-    "chord-electronics-hugo-2-dac_": {
-        "name": "Chord Electronics Hugo 2",
-        "price": 1499.0,
-        "price_old": 2595.0,
-        "url": "www.supersonido.es/p/chord-electronics-hugo-2-dac_",
-        "image": "www.supersonido.es/productos/imagenes/producto47932.jpg"
-    },
     "svs-pb-3000_": {
         "name": "SVS PB-3000",
         "price": 1499.0,
         "price_old": 1949.0,
         "url": "www.supersonido.es/p/svs-pb-3000_",
         "image": "www.supersonido.es/productos/imagenes/producto53372.jpg"
+    },
+    "chord-electronics-hugo-2-dac_": {
+        "name": "Chord Electronics Hugo 2",
+        "price": 1499.0,
+        "price_old": 2595.0,
+        "url": "www.supersonido.es/p/chord-electronics-hugo-2-dac_",
+        "image": "www.supersonido.es/productos/imagenes/producto47932.jpg"
     },
     "rotel-s14_oc": {
         "name": "Rotel S14",
@@ -1377,12 +1398,5 @@
         "price_old": 53990.0,
         "url": "www.supersonido.es/p/wilson-audio-sasha-daw",
         "image": "www.supersonido.es/productos/imagenes/producto32981.jpg"
-    },
-    "wilson-audio-alexx": {
-        "name": "Wilson Audio Alexx",
-        "price": 89990.0,
-        "price_old": 142690.0,
-        "url": "www.supersonido.es/p/wilson-audio-alexx",
-        "image": "www.supersonido.es/productos/imagenes/producto24319.jpg"
     }
 }
