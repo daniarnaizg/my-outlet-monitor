@@ -216,13 +216,6 @@
         "url": "www.supersonido.es/p/ifi-audio-zen-can-signature-mz99_",
         "image": "www.supersonido.es/productos/imagenes/producto52354.jpg"
     },
-    "audeze-maxwell-playstation_oc": {
-        "name": "Audeze MAXWELL PLAYSTATION",
-        "price": 279.0,
-        "price_old": 399.0,
-        "url": "www.supersonido.es/p/audeze-maxwell-playstation_oc",
-        "image": "www.supersonido.es/productos/imagenes/producto50833.jpg"
-    },
     "audiopro-sw-5_": {
         "name": "AudioPro SW-5",
         "price": 279.0,
@@ -236,6 +229,13 @@
         "price_old": 349.0,
         "url": "www.supersonido.es/p/audio-technica-at-lp120x_oc2",
         "image": "www.supersonido.es/productos/imagenes/producto48977.jpg"
+    },
+    "audeze-maxwell-playstation_oc": {
+        "name": "Audeze MAXWELL PLAYSTATION",
+        "price": 279.0,
+        "price_old": 399.0,
+        "url": "www.supersonido.es/p/audeze-maxwell-playstation_oc",
+        "image": "www.supersonido.es/productos/imagenes/producto50833.jpg"
     },
     "devialet-tree": {
         "name": "Devialet Tree",
@@ -265,19 +265,19 @@
         "url": "www.supersonido.es/p/jbl-stage-a120p",
         "image": "www.supersonido.es/productos/imagenes/producto45823.jpg"
     },
-    "rega-p1-plus_occc": {
-        "name": "Rega Planar 1 PLUS",
-        "price": 349.0,
-        "price_old": 449.0,
-        "url": "www.supersonido.es/p/rega-p1-plus_occc",
-        "image": "www.supersonido.es/productos/imagenes/producto53375.jpg"
-    },
     "ortofon-2m-black-exdemo": {
         "name": "Ortofon 2M Black",
         "price": 349.0,
         "price_old": 599.0,
         "url": "www.supersonido.es/p/ortofon-2m-black-exdemo",
         "image": "www.supersonido.es/productos/imagenes/producto23499.jpg"
+    },
+    "rega-p1-plus_occc": {
+        "name": "Rega Planar 1 PLUS",
+        "price": 349.0,
+        "price_old": 449.0,
+        "url": "www.supersonido.es/p/rega-p1-plus_occc",
+        "image": "www.supersonido.es/productos/imagenes/producto53375.jpg"
     },
     "dynaudio-stand-20_": {
         "name": "Dynaudio Stand 20",
@@ -300,6 +300,13 @@
         "url": "www.supersonido.es/p/monitor-audio-cpwt380_",
         "image": "www.supersonido.es/productos/imagenes/producto26150.jpg"
     },
+    "ortofon-mc-quintet-blue_": {
+        "name": "Ortofon MC Quintet Blue",
+        "price": 399.0,
+        "price_old": 549.0,
+        "url": "www.supersonido.es/p/ortofon-mc-quintet-blue_",
+        "image": "www.supersonido.es/productos/imagenes/producto53355.jpg"
+    },
     "q-acoustics-3020c_": {
         "name": "Q Acoustics 3020c",
         "price": 399.0,
@@ -313,13 +320,6 @@
         "price_old": 499.0,
         "url": "www.supersonido.es/p/rega-planar-2-walnut__",
         "image": "www.supersonido.es/productos/imagenes/producto53245.jpg"
-    },
-    "ortofon-mc-quintet-blue_": {
-        "name": "Ortofon MC Quintet Blue",
-        "price": 399.0,
-        "price_old": 549.0,
-        "url": "www.supersonido.es/p/ortofon-mc-quintet-blue_",
-        "image": "www.supersonido.es/productos/imagenes/producto53355.jpg"
     },
     "denon-rcd-n10__ocs": {
         "name": "Denon RCD-N10",
@@ -432,13 +432,6 @@
         "price_old": 999.0,
         "url": "www.supersonido.es/p/van-den-hul-the-wind-8-wbt-0661-ag",
         "image": "www.supersonido.es/productos/imagenes/producto52692.jpg"
-    },
-    "musical-fidelity-m2scd__": {
-        "name": "Musical Fidelity M2SCD",
-        "price": 569.0,
-        "price_old": 1099.0,
-        "url": "www.supersonido.es/p/musical-fidelity-m2scd__",
-        "image": "www.supersonido.es/productos/imagenes/producto52838.jpg"
     },
     "meze-audio-advar_": {
         "name": "Meze Audio ADVAR",
@@ -636,13 +629,6 @@
         "url": "www.supersonido.es/p/svs-sb-2000-pro_occ",
         "image": "www.supersonido.es/productos/imagenes/producto53390.jpg"
     },
-    "audiolab-6000a-play-": {
-        "name": "Audiolab 6000A PLAY",
-        "price": 899.0,
-        "price_old": 1249.0,
-        "url": "www.supersonido.es/p/audiolab-6000a-play-",
-        "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
-    },
     "cayin-n6 MKII_": {
         "name": "Cayin N6 MKII",
         "price": 899.0,
@@ -677,6 +663,13 @@
         "price_old": 1299.0,
         "url": "www.supersonido.es/p/q-acoustics-5040_occc",
         "image": "www.supersonido.es/productos/imagenes/producto53293.jpg"
+    },
+    "audiolab-6000a-play-": {
+        "name": "Audiolab 6000A PLAY",
+        "price": 899.0,
+        "price_old": 1249.0,
+        "url": "www.supersonido.es/p/audiolab-6000a-play-",
+        "image": "www.supersonido.es/productos/imagenes/producto52190.jpg"
     },
     "q-acoustics-5040_oc": {
         "name": "Q Acoustics 5040",
@@ -1398,5 +1391,12 @@
         "price_old": 37990.0,
         "url": "www.supersonido.es/p/wilson-audio-the-yvette_",
         "image": "www.supersonido.es/productos/imagenes/producto52598.jpg"
+    },
+    "wilson-audio-sasha-daw": {
+        "name": "Wilson Audio Sasha DAW",
+        "price": 33500.0,
+        "price_old": 53990.0,
+        "url": "www.supersonido.es/p/wilson-audio-sasha-daw",
+        "image": "www.supersonido.es/productos/imagenes/producto32981.jpg"
     }
 }
