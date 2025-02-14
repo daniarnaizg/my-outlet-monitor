@@ -412,6 +412,13 @@
         "url": "www.supersonido.es/p/astell-kern-ak-zero1_",
         "image": "www.supersonido.es/productos/imagenes/producto50902.jpg"
     },
+    "project-power-box-rs-amp-ds-black": {
+        "name": "Pro-Ject Power BOX RS Amp",
+        "price": 499.0,
+        "price_old": 699.0,
+        "url": "www.supersonido.es/p/project-power-box-rs-amp-ds-black",
+        "image": "www.supersonido.es/productos/imagenes/producto18593.jpg"
+    },
     "earmen-tradutto_": {
         "name": "EarMen Tradutto",
         "price": 499.0,
@@ -419,19 +426,19 @@
         "url": "www.supersonido.es/p/earmen-tradutto_",
         "image": "www.supersonido.es/productos/imagenes/producto50540.jpg"
     },
-    "monitor-audio-bronze-w10-2020_": {
-        "name": "Monitor Audio Bronze W10 2020",
-        "price": 549.0,
-        "price_old": 780.0,
-        "url": "www.supersonido.es/p/monitor-audio-bronze-w10-2020_",
-        "image": "www.supersonido.es/productos/imagenes/producto53262.jpg"
-    },
     "van-den-hul-the-wind-8-wbt-0661-ag": {
         "name": "Van-Den-Hul The Wind + 8 WBT 0661 AG",
         "price": 549.0,
         "price_old": 999.0,
         "url": "www.supersonido.es/p/van-den-hul-the-wind-8-wbt-0661-ag",
         "image": "www.supersonido.es/productos/imagenes/producto52692.jpg"
+    },
+    "monitor-audio-bronze-w10-2020_": {
+        "name": "Monitor Audio Bronze W10 2020",
+        "price": 549.0,
+        "price_old": 780.0,
+        "url": "www.supersonido.es/p/monitor-audio-bronze-w10-2020_",
+        "image": "www.supersonido.es/productos/imagenes/producto53262.jpg"
     },
     "meze-audio-advar_": {
         "name": "Meze Audio ADVAR",
@@ -517,19 +524,19 @@
         "url": "www.supersonido.es/p/martin-logan-ml-75aw_",
         "image": "www.supersonido.es/productos/imagenes/producto52757.jpg"
     },
-    "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra": {
-        "name": "Pro-Ject Pre-Box S2 Digital DAC +  Stream Box S2 Ultra",
-        "price": 699.0,
-        "price_old": 1499.0,
-        "url": "www.supersonido.es/p/pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
-        "image": "www.supersonido.es/productos/imagenes/producto51311.jpg"
-    },
     "focal-vestia-n-1_": {
         "name": "FOCAL Vestia N\u00c2\u00ba1",
         "price": 699.0,
         "price_old": 998.0,
         "url": "www.supersonido.es/p/focal-vestia-n-1_",
         "image": "www.supersonido.es/productos/imagenes/producto52633.jpg"
+    },
+    "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra": {
+        "name": "Pro-Ject Pre-Box S2 Digital DAC +  Stream Box S2 Ultra",
+        "price": 699.0,
+        "price_old": 1499.0,
+        "url": "www.supersonido.es/p/pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
+        "image": "www.supersonido.es/productos/imagenes/producto51311.jpg"
     },
     "marantz-stereo-70s__": {
         "name": "Marantz Stereo 70s",
@@ -748,19 +755,19 @@
         "url": "www.supersonido.es/p/klipsch-rp-6000f-ii_",
         "image": "www.supersonido.es/productos/imagenes/producto52492.jpg"
     },
-    "pro-ject-box-15-ds2_": {
-        "name": "Pro-Ject Speaker Box 15 DS2",
-        "price": 1199.0,
-        "price_old": 1599.0,
-        "url": "www.supersonido.es/p/pro-ject-box-15-ds2_",
-        "image": "www.supersonido.es/productos/imagenes/producto50803.jpg"
-    },
     "primare-sc-15-prisma": {
         "name": "Primare SC 15 Prisma",
         "price": 1199.0,
         "price_old": 1590.0,
         "url": "www.supersonido.es/p/primare-sc-15-prisma",
         "image": "www.supersonido.es/productos/imagenes/producto29464.jpg"
+    },
+    "pro-ject-box-15-ds2_": {
+        "name": "Pro-Ject Speaker Box 15 DS2",
+        "price": 1199.0,
+        "price_old": 1599.0,
+        "url": "www.supersonido.es/p/pro-ject-box-15-ds2_",
+        "image": "www.supersonido.es/productos/imagenes/producto50803.jpg"
     },
     "hisense-px1-pro_": {
         "name": "Hisense PX1 PRO",
@@ -1391,12 +1398,5 @@
         "price_old": 37990.0,
         "url": "www.supersonido.es/p/wilson-audio-the-yvette_",
         "image": "www.supersonido.es/productos/imagenes/producto52598.jpg"
-    },
-    "wilson-audio-sasha-daw": {
-        "name": "Wilson Audio Sasha DAW",
-        "price": 33500.0,
-        "price_old": 53990.0,
-        "url": "www.supersonido.es/p/wilson-audio-sasha-daw",
-        "image": "www.supersonido.es/productos/imagenes/producto32981.jpg"
     }
 }
