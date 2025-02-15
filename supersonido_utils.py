@@ -141,10 +141,37 @@ class BaseScraper:
             for i in range(1, pages + 1)
         ]
 
+    def _send_product_notifications(self, items: Dict, api_key: str, chat_id: str, 
+                                  header_template: str, product_template: str) -> None:
+        """Generic notification sender with templated messages"""
+        self._send_telegram_message(api_key, chat_id, header_template)
+        
+        for product in items.values():
+            message = product_template.format(
+                name=product['name'],
+                price=product['price'],
+                price_old=product['price_old'],
+                sale_pct=product['sale_percentage'],
+                url=product['url']
+            )
+            
+            if product['image']:
+                self._send_telegram_photo(api_key, chat_id, product['image'], message)
+            else:
+                self._send_telegram_message(api_key, chat_id, message)
+            
+            time.sleep(1)
+
 
 class OutletScraper(BaseScraper):
     """Scraper for regular outlet products"""
     URL_PATH = "outlet"
+    HEADER_TEMPLATE = "🛍️ {count} nuevos en outlet"
+    PRODUCT_TEMPLATE = (
+        "🔥 {name}\n"
+        "💶 {price_old}€ ➡️ {price}€ 📉-{sale_pct}%\n"
+        "🔗 {url}"
+    )
     
     def __init__(self, base_url: str, headers: Dict[str, str], pages: int = 2):
         super().__init__(base_url, headers)
@@ -187,23 +214,13 @@ class OutletScraper(BaseScraper):
 
     def send_telegram_notification(self, items: Dict, api_key: str, 
                                  chat_id: str, title: str) -> None:
-        """Send formatted Telegram messages with images"""
-        self._send_telegram_message(api_key, chat_id, f"{len(items)} {title}")
-        
-        for product in items.values():
-            message = (
-                f"🔥 {product['name']}\n"
-                f"💶 Price: {product['price']}€\n"
-                f"📉 Was: {product['price_old']}€ ({product['sale_percentage']}% off)\n"
-                f"🔗 {product['url']}"
-            )
-            
-            if product['image']:
-                self._send_telegram_photo(api_key, chat_id, product['image'], message)
-            else:
-                self._send_telegram_message(api_key, chat_id, message)
-            
-            time.sleep(1)  # Rate limiting
+        self._send_product_notifications(
+            items,
+            api_key,
+            chat_id,
+            self.HEADER_TEMPLATE.format(count=len(items)),
+            self.PRODUCT_TEMPLATE
+        )
 
     @staticmethod
     def _send_telegram_message(api_key: str, chat_id: str, text: str) -> None:
@@ -237,6 +254,12 @@ class OutletScraper(BaseScraper):
 class OffersScraper(OutletScraper):
     """Scraper for special offers with discount filtering"""
     URL_PATH = "ofertas"
+    HEADER_TEMPLATE = "🎉 {count} ofertas >{threshold}%"
+    PRODUCT_TEMPLATE = (
+        "🚨 {name}\n"
+        "💶 {price_old}€ ➡️ {price}€ 📉-{sale_pct}%\n"
+        "🔗 {url}"
+    )
     
     def __init__(self, base_url: str, headers: Dict[str, str], pages: int = 2):
         super().__init__(base_url, headers, pages)
@@ -291,26 +314,14 @@ class OffersScraper(OutletScraper):
 
     def send_telegram_notification(self, items: Dict, api_key: str, 
                                  chat_id: str, title: str) -> None:
-        """Send formatted Telegram messages"""
-        self._send_telegram_message(api_key, chat_id, f"{len(items)} {title}")
-        
-        for product in items.values():
-            message = (
-                f"{product['name']}\n"
-                f"Price: {product['price']}€\n"
-                f"Old Price: {product['price_old']}€\n"
-                f"{product['url']}"
-            )
-            self._send_telegram_message(api_key, chat_id, message)
-            time.sleep(1)  # Rate limiting
-
-    @staticmethod
-    def _send_telegram_message(api_key: str, chat_id: str, text: str) -> None:
-        """Low-level Telegram message sending with error handling"""
-        try:
-            url = f"https://api.telegram.org/bot{api_key}/sendMessage"
-            params = {'chat_id': chat_id, 'text': text}
-            response = requests.get(url, params=params, timeout=10)
-            response.raise_for_status()
-        except requests.RequestException as e:
-            print(f"Failed to send Telegram message: {e}")
+        header = self.HEADER_TEMPLATE.format(
+            count=len(items),
+            threshold=self.discount_threshold
+        )
+        self._send_product_notifications(
+            items,
+            api_key,
+            chat_id,
+            header,
+            self.PRODUCT_TEMPLATE
+        )
