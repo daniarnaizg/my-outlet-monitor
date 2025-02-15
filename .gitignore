@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.pytest_cache/
+venv/
+env/
+
+# Environment
+.env
+.env.local
+secrets.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local development
+.scrapy/
+.ipynb_checkpoints/
+
+# Build
+dist/
+build/
+*.so
+
+# Temporary files
+temp/
+tmp/ 

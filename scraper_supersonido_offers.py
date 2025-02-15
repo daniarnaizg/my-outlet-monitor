@@ -6,7 +6,10 @@ if __name__ == '__main__':
     parser.add_argument("--discount", type=int, default=40, 
                       help="Minimum discount percentage to notify")
     args = parser.parse_args()
-
+    
+    # Set custom filename
+    args.json_filename = "offers_supersonido.json"
+    
     scraper = OffersScraper(BASE_URL, HEADERS, pages=args.pages)
     scraper.discount_threshold = args.discount
     scraper.run(args)

@@ -14,18 +14,15 @@ permissions:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04  # More recent than "latest" which is 20.04
-    container: python:3.10-slim  # Smaller base image with pre-installed Python
+    runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4  # Faster checkout version
+    - uses: actions/checkout@v4
     
-    - name: Cache pip packages
-      uses: actions/cache@v3
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
       with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
-        restore-keys: ${{ runner.os }}-pip-
+        python-version: "3.10"
 
     - name: Install dependencies
       run: |
@@ -44,16 +41,8 @@ jobs:
         python scraper_supersonido_offers.py ${{ secrets.TELEGRAM_API_KEY }} ${{ secrets.TELEGRAM_CHAT_ID }} &
         wait  # Wait for both scrapers to finish
 
-    - name: Install system dependencies
-      run: |
-        apt-get update
-        apt-get install -y git
-
     - name: Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v4.16.0
       with:
-        commit_message: "Updated supersonido jsons"
+        commit_message: "Updated supersonido json"
         branch: "main"
-        file_pattern: "*.json"  # Explicitly target JSON files
-        commit_user_name: "Supersonido Bot"
-        commit_user_email: "bot@supersonido"

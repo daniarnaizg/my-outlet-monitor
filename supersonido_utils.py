@@ -6,9 +6,12 @@ from bs4 import BeautifulSoup
 from typing import Dict, List, Optional
 
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0',
-    'Accept-Language': 'en-US,en;q=0.5'
-}
+    'Access-Control-Allow-Origin': '*',
+    'Access-Control-Allow-Methods': 'GET',
+    'Access-Control-Allow-Headers': 'Content-Type',
+    'Access-Control-Max-Age': '3600',
+    'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'
+} 
 
 BASE_URL = "https://www.supersonido.es"
 
@@ -168,12 +171,12 @@ class OutletScraper(BaseScraper):
     def _handle_notifications(self, new_products: Dict, args) -> None:
         """Handle Telegram notifications"""
         print(f"Found {len(new_products)} new OUTLET products! Notifying...")
-        self.send_telegram_notification(
-            new_products,
-            args.telegram_api_key,
-            args.telegram_chat_id,
-            args.message_title
-        )
+        # self.send_telegram_notification(
+        #     new_products,
+        #     args.telegram_api_key,
+        #     args.telegram_chat_id,
+        #     args.message_title
+        # )
 
     def send_telegram_notification(self, items: Dict, api_key: str, 
                                  chat_id: str, title: str) -> None:
@@ -233,12 +236,12 @@ class OffersScraper(OutletScraper):
     def _handle_notifications(self, new_products: Dict, args) -> None:
         """Handle Telegram notifications"""
         print(f"Found {len(new_products)} new OFFERS (>{self.discount_threshold}% discount)! Notifying...")
-        self.send_telegram_notification(
-            new_products,
-            args.telegram_api_key,
-            args.telegram_chat_id,
-            args.message_title
-        )
+        # self.send_telegram_notification(
+        #     new_products,
+        #     args.telegram_api_key,
+        #     args.telegram_chat_id,
+        #     args.message_title
+        # )
 
     def send_telegram_notification(self, items: Dict, api_key: str, 
                                  chat_id: str, title: str) -> None:
@@ -266,15 +269,6 @@ class OffersScraper(OutletScraper):
         except requests.RequestException as e:
             print(f"Failed to send Telegram message: {e}")
 
-def generate_outlet_urls(base_url, num_pages):
-    """Generate a list of outlet URLs based on the number of pages."""
-    return [f"{base_url}/outlet/?Pag={i}" for i in range(1, num_pages + 1)]
-
-# Common headers for requests
-HEADERS = {
-    'Access-Control-Allow-Origin': '*',
-    'Access-Control-Allow-Methods': 'GET',
-    'Access-Control-Allow-Headers': 'Content-Type',
-    'Access-Control-Max-Age': '3600',
-    'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'
-} 
+# def generate_outlet_urls(base_url, num_pages):
+#     """Generate a list of outlet URLs based on the number of pages."""
+#     return [f"{base_url}/outlet/?Pag={i}" for i in range(1, num_pages + 1)]
