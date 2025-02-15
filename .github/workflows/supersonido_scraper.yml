@@ -44,6 +44,11 @@ jobs:
         python scraper_supersonido_offers.py ${{ secrets.TELEGRAM_API_KEY }} ${{ secrets.TELEGRAM_CHAT_ID }} &
         wait  # Wait for both scrapers to finish
 
+    - name: Install system dependencies
+      run: |
+        apt-get update
+        apt-get install -y git
+
     - name: Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v4.16.0
       with:
