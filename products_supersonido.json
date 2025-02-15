@@ -601,19 +601,19 @@
         "url": "www.supersonido.es/p/the-chord-company-epic-xl_",
         "image": "www.supersonido.es/productos/imagenes/producto53053.jpg"
     },
-    "ibasso-dx260_": {
-        "name": "Ibasso DX260",
-        "price": 849.0,
-        "price_old": 949.0,
-        "url": "www.supersonido.es/p/ibasso-dx260_",
-        "image": "www.supersonido.es/productos/imagenes/producto52747.jpg"
-    },
     "acoustune-hs1697ti": {
         "name": "Acoustune HS1697TI",
         "price": 849.0,
         "price_old": 1149.0,
         "url": "www.supersonido.es/p/acoustune-hs1697ti",
         "image": "www.supersonido.es/productos/imagenes/producto42965.jpg"
+    },
+    "ibasso-dx260_": {
+        "name": "Ibasso DX260",
+        "price": 849.0,
+        "price_old": 949.0,
+        "url": "www.supersonido.es/p/ibasso-dx260_",
+        "image": "www.supersonido.es/productos/imagenes/producto52747.jpg"
     },
     "dan-clark-audio-on-2-closed_": {
         "name": "Dan Clark Audio \u00c3\u0086ON 2 Closed",
@@ -894,13 +894,6 @@
         "price_old": 2298.0,
         "url": "www.supersonido.es/p/svs-prime-pinnacle_",
         "image": "www.supersonido.es/productos/imagenes/producto32440.jpg"
-    },
-    "svs-ultra-tower_": {
-        "name": "SVS Ultra Tower",
-        "price": 1699.0,
-        "price_old": 2298.0,
-        "url": "www.supersonido.es/p/svs-ultra-tower_",
-        "image": "www.supersonido.es/productos/imagenes/producto51279.jpg"
     },
     "xgimi-horizon-s-max_": {
         "name": "Xgimi HORIZON S Max",
@@ -1398,5 +1391,12 @@
         "price_old": 53990.0,
         "url": "www.supersonido.es/p/wilson-audio-sasha-daw",
         "image": "www.supersonido.es/productos/imagenes/producto32981.jpg"
+    },
+    "wilson-audio-alexx": {
+        "name": "Wilson Audio Alexx",
+        "price": 89990.0,
+        "price_old": 142690.0,
+        "url": "www.supersonido.es/p/wilson-audio-alexx",
+        "image": "www.supersonido.es/productos/imagenes/producto24319.jpg"
     }
 }
