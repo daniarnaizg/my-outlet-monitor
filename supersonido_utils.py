@@ -103,11 +103,14 @@ class BaseScraper:
         except (FileNotFoundError, json.JSONDecodeError):
             return {}
 
-    @staticmethod
-    def save_data(data: Dict, filename: str) -> None:
+    def save_data(self, data: Dict, filename: str) -> None:
         """Save data to JSON file"""
-        with open(filename, "w", encoding='utf-8') as f:
-            json.dump(data, f, indent=4, ensure_ascii=False)
+        try:
+            with open(filename, "w", encoding='utf-8') as f:
+                json.dump(data, f, indent=4, ensure_ascii=False)
+            print(f"Successfully saved {len(data)} items to {filename}")
+        except Exception as e:
+            print(f"Error saving data: {e}")
 
     @staticmethod
     def get_common_parser(description: str) -> argparse.ArgumentParser:
@@ -164,7 +167,7 @@ class OutletScraper(BaseScraper):
 
     def _handle_notifications(self, new_products: Dict, args) -> None:
         """Handle Telegram notifications"""
-        print(f"Found {len(new_products)} new products! Notifying...")
+        print(f"Found {len(new_products)} new OUTLET products! Notifying...")
         self.send_telegram_notification(
             new_products,
             args.telegram_api_key,
@@ -180,9 +183,10 @@ class OutletScraper(BaseScraper):
         for product in items.values():
             message = (
                 f"{product['name']}\n"
-                f"Price: {product['price']}€\n"
-                f"Old Price: {product['price_old']}€\n"
-                f"{product['url']}"
+                f"💰 Price: {product['price']}€\n"
+                f"📉 Old Price: {product['price_old']}€\n"
+                f"🖼️ Image: {product['image']}\n"
+                f"🔗 {product['url']}"
             )
             self._send_telegram_message(api_key, chat_id, message)
             time.sleep(1)  # Rate limiting
@@ -228,7 +232,7 @@ class OffersScraper(OutletScraper):
 
     def _handle_notifications(self, new_products: Dict, args) -> None:
         """Handle Telegram notifications"""
-        print(f"Found {len(new_products)} new products! Notifying...")
+        print(f"Found {len(new_products)} new OFFERS (>{self.discount_threshold}% discount)! Notifying...")
         self.send_telegram_notification(
             new_products,
             args.telegram_api_key,

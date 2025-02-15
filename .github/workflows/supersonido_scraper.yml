@@ -54,3 +54,6 @@ jobs:
       with:
         commit_message: "Updated supersonido jsons"
         branch: "main"
+        file_pattern: "*.json"  # Explicitly target JSON files
+        commit_user_name: "Supersonido Bot"
+        commit_user_email: "bot@supersonido"
