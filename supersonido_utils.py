@@ -79,14 +79,21 @@ class BaseScraper:
             name = name_elem.text.strip()
             current_price, old_price = self.parse_prices(price_elem.text)
             product_url = f"{self.base_url}{url_elem['href']}"
+            image_url = self._extract_image_url(image_elem)
             
+            # Calculate sale percentage
+            sale_pct = 0
+            if old_price > current_price:
+                sale_pct = round(((old_price - current_price) / old_price) * 100, 1)
+
             return {
                 "id": product_url.split("/")[-1],
                 "name": name,
                 "price": current_price,
                 "price_old": old_price,
+                "sale_percentage": sale_pct,
                 "url": product_url,
-                "image": self._extract_image_url(image_elem)
+                "image": image_url
             }
         except Exception as e:
             print(f"Error processing product: {e}")
@@ -171,27 +178,31 @@ class OutletScraper(BaseScraper):
     def _handle_notifications(self, new_products: Dict, args) -> None:
         """Handle Telegram notifications"""
         print(f"Found {len(new_products)} new OUTLET products! Notifying...")
-        # self.send_telegram_notification(
-        #     new_products,
-        #     args.telegram_api_key,
-        #     args.telegram_chat_id,
-        #     args.message_title
-        # )
+        self.send_telegram_notification(
+            new_products,
+            args.telegram_api_key,
+            args.telegram_chat_id,
+            args.message_title
+        )
 
     def send_telegram_notification(self, items: Dict, api_key: str, 
                                  chat_id: str, title: str) -> None:
-        """Send formatted Telegram messages"""
+        """Send formatted Telegram messages with images"""
         self._send_telegram_message(api_key, chat_id, f"{len(items)} {title}")
         
         for product in items.values():
             message = (
-                f"{product['name']}\n"
-                f"💰 Price: {product['price']}€\n"
-                f"📉 Old Price: {product['price_old']}€\n"
-                f"🖼️ Image: {product['image']}\n"
+                f"🔥 {product['name']}\n"
+                f"💶 Price: {product['price']}€\n"
+                f"📉 Was: {product['price_old']}€ ({product['sale_percentage']}% off)\n"
                 f"🔗 {product['url']}"
             )
-            self._send_telegram_message(api_key, chat_id, message)
+            
+            if product['image']:
+                self._send_telegram_photo(api_key, chat_id, product['image'], message)
+            else:
+                self._send_telegram_message(api_key, chat_id, message)
+            
             time.sleep(1)  # Rate limiting
 
     @staticmethod
@@ -205,6 +216,23 @@ class OutletScraper(BaseScraper):
         except requests.RequestException as e:
             print(f"Failed to send Telegram message: {e}")
 
+    @staticmethod
+    def _send_telegram_photo(api_key: str, chat_id: str, photo_url: str, caption: str = "") -> None:
+        """Send photo through Telegram API"""
+        try:
+            url = f"https://api.telegram.org/bot{api_key}/sendPhoto"
+            params = {
+                'chat_id': chat_id,
+                'photo': photo_url,
+                'caption': caption[:1000]  # Truncate to Telegram's limit
+            }
+            response = requests.get(url, params=params, timeout=15)
+            response.raise_for_status()
+        except requests.RequestException as e:
+            print(f"Failed to send Telegram photo: {e}")
+            # Fallback to text message
+            OutletScraper._send_telegram_message(api_key, chat_id, caption)
+
 
 class OffersScraper(OutletScraper):
     """Scraper for special offers with discount filtering"""
@@ -214,13 +242,31 @@ class OffersScraper(OutletScraper):
         super().__init__(base_url, headers, pages)
         self.discount_threshold = 40
 
-    def _find_new_products(self, current: Dict, filename: str) -> Dict:
-        """Filter new products with significant discounts"""
-        previous = self.load_previous_data(filename)
-        return {
-            pid: product for pid, product in current.items()
-            if pid not in previous and self._is_significant_discount(product)
+    def run(self, args) -> None:
+        """Main execution flow for offers scraper"""
+        urls = self.generate_urls(self.pages)
+        current_products = self._fetch_all_products(urls)
+        
+        # First filter by discount threshold
+        filtered_products = {
+            pid: product for pid, product in current_products.items()
+            if self._is_significant_discount(product)
         }
+        
+        # Then find new products from filtered list
+        new_products = self._find_new_products(filtered_products, args.json_filename)
+        
+        if new_products:
+            self._handle_notifications(new_products, args)
+        
+        # Save only filtered products that meet criteria
+        self.save_data(filtered_products, args.json_filename)
+        print(f"Saved {len(filtered_products)} qualified offers")
+
+    def _find_new_products(self, current: Dict, filename: str) -> Dict:
+        """Identify new products from filtered list"""
+        previous = self.load_previous_data(filename)
+        return {pid: product for pid, product in current.items() if pid not in previous}
 
     def _is_significant_discount(self, product: Dict) -> bool:
         """Check if product meets discount threshold"""
@@ -236,12 +282,12 @@ class OffersScraper(OutletScraper):
     def _handle_notifications(self, new_products: Dict, args) -> None:
         """Handle Telegram notifications"""
         print(f"Found {len(new_products)} new OFFERS (>{self.discount_threshold}% discount)! Notifying...")
-        # self.send_telegram_notification(
-        #     new_products,
-        #     args.telegram_api_key,
-        #     args.telegram_chat_id,
-        #     args.message_title
-        # )
+        self.send_telegram_notification(
+            new_products,
+            args.telegram_api_key,
+            args.telegram_chat_id,
+            args.message_title
+        )
 
     def send_telegram_notification(self, items: Dict, api_key: str, 
                                  chat_id: str, title: str) -> None:
@@ -268,7 +314,3 @@ class OffersScraper(OutletScraper):
             response.raise_for_status()
         except requests.RequestException as e:
             print(f"Failed to send Telegram message: {e}")
-
-# def generate_outlet_urls(base_url, num_pages):
-#     """Generate a list of outlet URLs based on the number of pages."""
-#     return [f"{base_url}/outlet/?Pag={i}" for i in range(1, num_pages + 1)]
