@@ -332,15 +332,6 @@
         "url": "https://www.supersonido.es/p/sivga-p-ii",
         "image": "https://www.supersonido.es/productos/imagenes/producto44846.jpg"
     },
-    "jbl-stage-a120p": {
-        "id": "jbl-stage-a120p",
-        "name": "JBL Stage A120P",
-        "price": 349.0,
-        "price_old": 549.0,
-        "sale_percentage": 36.4,
-        "url": "https://www.supersonido.es/p/jbl-stage-a120p",
-        "image": "https://www.supersonido.es/productos/imagenes/producto45823.jpg"
-    },
     "ortofon-2m-black-exdemo": {
         "id": "ortofon-2m-black-exdemo",
         "name": "Ortofon 2M Black",
@@ -349,6 +340,15 @@
         "sale_percentage": 41.7,
         "url": "https://www.supersonido.es/p/ortofon-2m-black-exdemo",
         "image": "https://www.supersonido.es/productos/imagenes/producto23499.jpg"
+    },
+    "jbl-stage-a120p": {
+        "id": "jbl-stage-a120p",
+        "name": "JBL Stage A120P",
+        "price": 349.0,
+        "price_old": 549.0,
+        "sale_percentage": 36.4,
+        "url": "https://www.supersonido.es/p/jbl-stage-a120p",
+        "image": "https://www.supersonido.es/productos/imagenes/producto45823.jpg"
     },
     "rega-p1-plus_occc": {
         "id": "rega-p1-plus_occc",
@@ -386,15 +386,6 @@
         "url": "https://www.supersonido.es/p/monitor-audio-cpwt380_",
         "image": "https://www.supersonido.es/productos/imagenes/producto26150.jpg"
     },
-    "q-acoustics-3020c_": {
-        "id": "q-acoustics-3020c_",
-        "name": "Q Acoustics 3020c",
-        "price": 399.0,
-        "price_old": 499.0,
-        "sale_percentage": 20.0,
-        "url": "https://www.supersonido.es/p/q-acoustics-3020c_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53342.jpg"
-    },
     "ortofon-mc-quintet-blue_": {
         "id": "ortofon-mc-quintet-blue_",
         "name": "Ortofon MC Quintet Blue",
@@ -403,6 +394,15 @@
         "sale_percentage": 27.3,
         "url": "https://www.supersonido.es/p/ortofon-mc-quintet-blue_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53355.jpg"
+    },
+    "q-acoustics-3020c_": {
+        "id": "q-acoustics-3020c_",
+        "name": "Q Acoustics 3020c",
+        "price": 399.0,
+        "price_old": 499.0,
+        "sale_percentage": 20.0,
+        "url": "https://www.supersonido.es/p/q-acoustics-3020c_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53342.jpg"
     },
     "rega-planar-2-walnut__": {
         "id": "rega-planar-2-walnut__",
@@ -458,15 +458,6 @@
         "url": "https://www.supersonido.es/p/pro-ject-debut-carbon-evo_occ",
         "image": "https://www.supersonido.es/productos/imagenes/producto53280.jpg"
     },
-    "technics-ottava-s-sc-c30_": {
-        "id": "technics-ottava-s-sc-c30_",
-        "name": "Technics OTTAVA S SC-C30",
-        "price": 449.0,
-        "price_old": 599.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/technics-ottava-s-sc-c30_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto44225.jpg"
-    },
     "zidoo-z2000-pro": {
         "id": "zidoo-z2000-pro",
         "name": "Zidoo Z2000 Pro",
@@ -475,6 +466,15 @@
         "sale_percentage": 0,
         "url": "https://www.supersonido.es/p/zidoo-z2000-pro",
         "image": "https://www.supersonido.es/productos/imagenes/producto52430.jpg"
+    },
+    "technics-ottava-s-sc-c30_": {
+        "id": "technics-ottava-s-sc-c30_",
+        "name": "Technics OTTAVA S SC-C30",
+        "price": 449.0,
+        "price_old": 599.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/technics-ottava-s-sc-c30_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto44225.jpg"
     },
     "klipsch-rsm-525_": {
         "id": "klipsch-rsm-525_",
@@ -593,15 +593,6 @@
         "url": "https://www.supersonido.es/p/project-maia-ds",
         "image": "https://www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
-    "technics-ottava-s-sc-c50OC": {
-        "id": "technics-ottava-s-sc-c50OC",
-        "name": "Technics OTTAVA S SC-C50",
-        "price": 599.0,
-        "price_old": 799.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/technics-ottava-s-sc-c50OC",
-        "image": "https://www.supersonido.es/productos/imagenes/producto45801.jpg"
-    },
     "svs-prime-wireless-pro-soundbase__": {
         "id": "svs-prime-wireless-pro-soundbase__",
         "name": "SVS Prime Wireless Pro SoundBase",
@@ -610,6 +601,15 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/svs-prime-wireless-pro-soundbase__",
         "image": "https://www.supersonido.es/productos/imagenes/producto51825.jpg"
+    },
+    "technics-ottava-s-sc-c50OC": {
+        "id": "technics-ottava-s-sc-c50OC",
+        "name": "Technics OTTAVA S SC-C50",
+        "price": 599.0,
+        "price_old": 799.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/technics-ottava-s-sc-c50OC",
+        "image": "https://www.supersonido.es/productos/imagenes/producto45801.jpg"
     },
     "roberts-radio-stream-67_": {
         "id": "roberts-radio-stream-67_",
@@ -971,15 +971,6 @@
         "url": "https://www.supersonido.es/p/pro-ject-box-15-ds2_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50803.jpg"
     },
-    "hisense-px1-pro_": {
-        "id": "hisense-px1-pro_",
-        "name": "Hisense PX1 PRO",
-        "price": 1199.0,
-        "price_old": 2499.0,
-        "sale_percentage": 52.0,
-        "url": "https://www.supersonido.es/p/hisense-px1-pro_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53363.jpg"
-    },
     "matrix-audio-element-p__": {
         "id": "matrix-audio-element-p__",
         "name": "Matrix Audio Element P",
@@ -1169,15 +1160,6 @@
         "url": "https://www.supersonido.es/p/devialet-phantom___",
         "image": "https://www.supersonido.es/productos/imagenes/producto50868.jpg"
     },
-    "focal-vestia-n-2_": {
-        "id": "focal-vestia-n-2_",
-        "name": "FOCAL Vestia NÂº2",
-        "price": 1799.0,
-        "price_old": 2598.0,
-        "sale_percentage": 30.8,
-        "url": "https://www.supersonido.es/p/focal-vestia-n-2_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52730.jpg"
-    },
     "sennheiser-ambeo-soundbar_oc": {
         "id": "sennheiser-ambeo-soundbar_oc",
         "name": "Sennheiser AMBEO Soundbar Max",
@@ -1186,6 +1168,15 @@
         "sale_percentage": 28.0,
         "url": "https://www.supersonido.es/p/sennheiser-ambeo-soundbar_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto52493.jpg"
+    },
+    "focal-vestia-n-2_": {
+        "id": "focal-vestia-n-2_",
+        "name": "FOCAL Vestia NÂº2",
+        "price": 1799.0,
+        "price_old": 2598.0,
+        "sale_percentage": 30.8,
+        "url": "https://www.supersonido.es/p/focal-vestia-n-2_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52730.jpg"
     },
     "pro-ject-x8_oc": {
         "id": "pro-ject-x8_oc",
@@ -1358,15 +1349,6 @@
         "url": "https://www.supersonido.es/p/mrspeakers-voce_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50151.jpg"
     },
-    "isotek-systems-nova": {
-        "id": "isotek-systems-nova",
-        "name": "Isotek Systems Nova",
-        "price": 2890.0,
-        "price_old": 3990.0,
-        "sale_percentage": 27.6,
-        "url": "https://www.supersonido.es/p/isotek-systems-nova",
-        "image": "https://www.supersonido.es/productos/imagenes/producto11309.jpg"
-    },
     "electrocompaniet-ec-4-9-2ch": {
         "id": "electrocompaniet-ec-4-9-2ch",
         "name": "Electrocompaniet EC 4.9 2ch",
@@ -1375,6 +1357,15 @@
         "sale_percentage": 32.6,
         "url": "https://www.supersonido.es/p/electrocompaniet-ec-4-9-2ch",
         "image": "https://www.supersonido.es/productos/imagenes/producto5156.jpg"
+    },
+    "isotek-systems-nova": {
+        "id": "isotek-systems-nova",
+        "name": "Isotek Systems Nova",
+        "price": 2890.0,
+        "price_old": 3990.0,
+        "sale_percentage": 27.6,
+        "url": "https://www.supersonido.es/p/isotek-systems-nova",
+        "image": "https://www.supersonido.es/productos/imagenes/producto11309.jpg"
     },
     "primare-i35dac_": {
         "id": "primare-i35dac_",
