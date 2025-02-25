@@ -152,15 +152,6 @@
         "url": "https://www.supersonido.es/p/audioquest-pearlhdmi-18-10m_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53416.jpg"
     },
-    "audioquest-mackenzie-xlr_": {
-        "id": "audioquest-mackenzie-xlr_",
-        "name": "Audioquest Mackenzie XLR",
-        "price": 149.0,
-        "price_old": 449.0,
-        "sale_percentage": 66.8,
-        "url": "https://www.supersonido.es/p/audioquest-mackenzie-xlr_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53419.jpg"
-    },
     "audioquest-yukon-xlr_": {
         "id": "audioquest-yukon-xlr_",
         "name": "Audioquest Yukon XLR",
@@ -169,6 +160,15 @@
         "sale_percentage": 49.8,
         "url": "https://www.supersonido.es/p/audioquest-yukon-xlr_",
         "image": "https://www.supersonido.es/productos/imagenes/producto51460.jpg"
+    },
+    "audioquest-mackenzie-xlr_": {
+        "id": "audioquest-mackenzie-xlr_",
+        "name": "Audioquest Mackenzie XLR",
+        "price": 149.0,
+        "price_old": 449.0,
+        "sale_percentage": 66.8,
+        "url": "https://www.supersonido.es/p/audioquest-mackenzie-xlr_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53419.jpg"
     },
     "sivga-robin-sv021_oc": {
         "id": "sivga-robin-sv021_oc",
@@ -269,24 +269,6 @@
         "url": "https://www.supersonido.es/p/nordost-4-flat-speaker-cable_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52805.jpg"
     },
-    "audiopro-d-1": {
-        "id": "audiopro-d-1",
-        "name": "AudioPro Drumfire D-1",
-        "price": 249.0,
-        "price_old": 350.0,
-        "sale_percentage": 28.9,
-        "url": "https://www.supersonido.es/p/audiopro-d-1",
-        "image": "https://www.supersonido.es/productos/imagenes/producto43369.jpg"
-    },
-    "audiopro-addon-c10__": {
-        "id": "audiopro-addon-c10__",
-        "name": "AudioPro ADDON C10",
-        "price": 249.0,
-        "price_old": 350.0,
-        "sale_percentage": 28.9,
-        "url": "https://www.supersonido.es/p/audiopro-addon-c10__",
-        "image": "https://www.supersonido.es/productos/imagenes/producto47962.jpg"
-    },
     "ifi-audio-go-pod_": {
         "id": "ifi-audio-go-pod_",
         "name": "IFI Audio GO pod",
@@ -304,6 +286,24 @@
         "sale_percentage": 24.3,
         "url": "https://www.supersonido.es/p/ifi-audio-go-bar__",
         "image": "https://www.supersonido.es/productos/imagenes/producto48346.jpg"
+    },
+    "audiopro-d-1": {
+        "id": "audiopro-d-1",
+        "name": "AudioPro Drumfire D-1",
+        "price": 249.0,
+        "price_old": 350.0,
+        "sale_percentage": 28.9,
+        "url": "https://www.supersonido.es/p/audiopro-d-1",
+        "image": "https://www.supersonido.es/productos/imagenes/producto43369.jpg"
+    },
+    "audiopro-addon-c10__": {
+        "id": "audiopro-addon-c10__",
+        "name": "AudioPro ADDON C10",
+        "price": 249.0,
+        "price_old": 350.0,
+        "sale_percentage": 28.9,
+        "url": "https://www.supersonido.es/p/audiopro-addon-c10__",
+        "image": "https://www.supersonido.es/productos/imagenes/producto47962.jpg"
     },
     "the-chord-company-silent-mount-sm7_": {
         "id": "the-chord-company-silent-mount-sm7_",
@@ -412,6 +412,15 @@
         "sale_percentage": 36.4,
         "url": "https://www.supersonido.es/p/audiolab-6000n-play_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto53434.jpg"
+    },
+    "ortofon-2m-black-exdemo": {
+        "id": "ortofon-2m-black-exdemo",
+        "name": "Ortofon 2M Black",
+        "price": 349.0,
+        "price_old": 599.0,
+        "sale_percentage": 41.7,
+        "url": "https://www.supersonido.es/p/ortofon-2m-black-exdemo",
+        "image": "https://www.supersonido.es/productos/imagenes/producto23499.jpg"
     },
     "audeze-maxwell-xbox": {
         "id": "audeze-maxwell-xbox",
@@ -827,15 +836,6 @@
         "url": "https://www.supersonido.es/p/audiopro-a48__",
         "image": "https://www.supersonido.es/productos/imagenes/producto52957.jpg"
     },
-    "ibasso-dx260_": {
-        "id": "ibasso-dx260_",
-        "name": "Ibasso DX260",
-        "price": 849.0,
-        "price_old": 949.0,
-        "sale_percentage": 10.5,
-        "url": "https://www.supersonido.es/p/ibasso-dx260_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52747.jpg"
-    },
     "acoustune-hs1697ti": {
         "id": "acoustune-hs1697ti",
         "name": "Acoustune HS1697TI",
@@ -844,6 +844,15 @@
         "sale_percentage": 26.1,
         "url": "https://www.supersonido.es/p/acoustune-hs1697ti",
         "image": "https://www.supersonido.es/productos/imagenes/producto42965.jpg"
+    },
+    "ibasso-dx260_": {
+        "id": "ibasso-dx260_",
+        "name": "Ibasso DX260",
+        "price": 849.0,
+        "price_old": 949.0,
+        "sale_percentage": 10.5,
+        "url": "https://www.supersonido.es/p/ibasso-dx260_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52747.jpg"
     },
     "audiolab-6000a-play__oc": {
         "id": "audiolab-6000a-play__oc",
@@ -1178,15 +1187,6 @@
         "url": "https://www.supersonido.es/p/reavon-ubr-x200_",
         "image": "https://www.supersonido.es/productos/imagenes/producto51498.jpg"
     },
-    "hifiman-he1000se_": {
-        "id": "hifiman-he1000se_",
-        "name": "HIFIMAN HE1000SE",
-        "price": 1399.0,
-        "price_old": 1899.0,
-        "sale_percentage": 26.3,
-        "url": "https://www.supersonido.es/p/hifiman-he1000se_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53453.jpg"
-    },
     "mrspeakers-ether-c-flow-1-1_": {
         "id": "mrspeakers-ether-c-flow-1-1_",
         "name": "Dan Clark Audio ETHER C Flow 1.1",
@@ -1204,6 +1204,15 @@
         "sale_percentage": 35.2,
         "url": "https://www.supersonido.es/p/mrspeakers-ether-flow-1-1_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50776.jpg"
+    },
+    "hifiman-he1000se_": {
+        "id": "hifiman-he1000se_",
+        "name": "HIFIMAN HE1000SE",
+        "price": 1399.0,
+        "price_old": 1899.0,
+        "sale_percentage": 26.3,
+        "url": "https://www.supersonido.es/p/hifiman-he1000se_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53453.jpg"
     },
     "mission-700__": {
         "id": "mission-700__",
@@ -1789,14 +1798,5 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/martinlogan-electromotion-esl-x",
         "image": "https://www.supersonido.es/productos/imagenes/producto22504.jpg"
-    },
-    "unison-research-s9": {
-        "id": "unison-research-s9",
-        "name": "Unison Research S9",
-        "price": 4990.0,
-        "price_old": 8900.0,
-        "sale_percentage": 43.9,
-        "url": "https://www.supersonido.es/p/unison-research-s9",
-        "image": "https://www.supersonido.es/productos/imagenes/producto8281.jpg"
     }
 }
