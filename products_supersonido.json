@@ -368,15 +368,6 @@
         "url": "https://www.supersonido.es/p/audiopro-sw-5_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53002.jpg"
     },
-    "audio-technica-at-lp120x_oc2": {
-        "id": "audio-technica-at-lp120x_oc2",
-        "name": "Audio-Technica AT-LP120XUSB",
-        "price": 279.0,
-        "price_old": 349.0,
-        "sale_percentage": 20.1,
-        "url": "https://www.supersonido.es/p/audio-technica-at-lp120x_oc2",
-        "image": "https://www.supersonido.es/productos/imagenes/producto48977.jpg"
-    },
     "audeze-maxwell-playstation_oc": {
         "id": "audeze-maxwell-playstation_oc",
         "name": "Audeze MAXWELL PLAYSTATION",
@@ -386,14 +377,14 @@
         "url": "https://www.supersonido.es/p/audeze-maxwell-playstation_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto50833.jpg"
     },
-    "devialet-tree": {
-        "id": "devialet-tree",
-        "name": "Devialet Tree",
-        "price": 299.0,
-        "price_old": 399.0,
-        "sale_percentage": 25.1,
-        "url": "https://www.supersonido.es/p/devialet-tree",
-        "image": "https://www.supersonido.es/productos/imagenes/producto21208.jpg"
+    "audio-technica-at-lp120x_oc2": {
+        "id": "audio-technica-at-lp120x_oc2",
+        "name": "Audio-Technica AT-LP120XUSB",
+        "price": 279.0,
+        "price_old": 349.0,
+        "sale_percentage": 20.1,
+        "url": "https://www.supersonido.es/p/audio-technica-at-lp120x_oc2",
+        "image": "https://www.supersonido.es/productos/imagenes/producto48977.jpg"
     },
     "pro-ject-e1-bt_": {
         "id": "pro-ject-e1-bt_",
@@ -404,6 +395,15 @@
         "url": "https://www.supersonido.es/p/pro-ject-e1-bt_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53418.jpg"
     },
+    "devialet-tree": {
+        "id": "devialet-tree",
+        "name": "Devialet Tree",
+        "price": 299.0,
+        "price_old": 399.0,
+        "sale_percentage": 25.1,
+        "url": "https://www.supersonido.es/p/devialet-tree",
+        "image": "https://www.supersonido.es/productos/imagenes/producto21208.jpg"
+    },
     "sivga-p-ii": {
         "id": "sivga-p-ii",
         "name": "Sivga P-II",
@@ -412,15 +412,6 @@
         "sale_percentage": 26.7,
         "url": "https://www.supersonido.es/p/sivga-p-ii",
         "image": "https://www.supersonido.es/productos/imagenes/producto44846.jpg"
-    },
-    "jbl-stage-a120p": {
-        "id": "jbl-stage-a120p",
-        "name": "JBL Stage A120P",
-        "price": 349.0,
-        "price_old": 549.0,
-        "sale_percentage": 36.4,
-        "url": "https://www.supersonido.es/p/jbl-stage-a120p",
-        "image": "https://www.supersonido.es/productos/imagenes/producto45823.jpg"
     },
     "audiolab-6000n-play_oc": {
         "id": "audiolab-6000n-play_oc",
@@ -439,6 +430,15 @@
         "sale_percentage": 22.3,
         "url": "https://www.supersonido.es/p/rega-p1-plus_occc",
         "image": "https://www.supersonido.es/productos/imagenes/producto53375.jpg"
+    },
+    "jbl-stage-a120p": {
+        "id": "jbl-stage-a120p",
+        "name": "JBL Stage A120P",
+        "price": 349.0,
+        "price_old": 549.0,
+        "sale_percentage": 36.4,
+        "url": "https://www.supersonido.es/p/jbl-stage-a120p",
+        "image": "https://www.supersonido.es/productos/imagenes/producto45823.jpg"
     },
     "audeze-maxwell-xbox": {
         "id": "audeze-maxwell-xbox",
@@ -539,15 +539,6 @@
         "url": "https://www.supersonido.es/p/pro-ject-debut-carbon-evo_occ",
         "image": "https://www.supersonido.es/productos/imagenes/producto53280.jpg"
     },
-    "klipsch-rsm-525_": {
-        "id": "klipsch-rsm-525_",
-        "name": "Klipsch RSM-525",
-        "price": 479.0,
-        "price_old": 599.0,
-        "sale_percentage": 20.0,
-        "url": "https://www.supersonido.es/p/klipsch-rsm-525_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52587.jpg"
-    },
     "jbl-ma310__": {
         "id": "jbl-ma310__",
         "name": "JBL MA310",
@@ -556,6 +547,15 @@
         "sale_percentage": 20.0,
         "url": "https://www.supersonido.es/p/jbl-ma310__",
         "image": "https://www.supersonido.es/productos/imagenes/producto52947.jpg"
+    },
+    "klipsch-rsm-525_": {
+        "id": "klipsch-rsm-525_",
+        "name": "Klipsch RSM-525",
+        "price": 479.0,
+        "price_old": 599.0,
+        "sale_percentage": 20.0,
+        "url": "https://www.supersonido.es/p/klipsch-rsm-525_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52587.jpg"
     },
     "klipsch-rp-600m-ii_occ": {
         "id": "klipsch-rp-600m-ii_occ",
@@ -926,15 +926,6 @@
         "url": "https://www.supersonido.es/p/audeze-lcd2-SH_oca",
         "image": "https://www.supersonido.es/productos/imagenes/producto49002.jpg"
     },
-    "audiolab-6000a-play-": {
-        "id": "audiolab-6000a-play-",
-        "name": "Audiolab 6000A PLAY",
-        "price": 899.0,
-        "price_old": 1249.0,
-        "sale_percentage": 28.0,
-        "url": "https://www.supersonido.es/p/audiolab-6000a-play-",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52190.jpg"
-    },
     "cambridge-audio-evo-cd_oc": {
         "id": "cambridge-audio-evo-cd_oc",
         "name": "Cambridge Audio EVO CD",
@@ -943,6 +934,15 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/cambridge-audio-evo-cd_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto53360.jpg"
+    },
+    "audiolab-6000a-play-": {
+        "id": "audiolab-6000a-play-",
+        "name": "Audiolab 6000A PLAY",
+        "price": 899.0,
+        "price_old": 1249.0,
+        "sale_percentage": 28.0,
+        "url": "https://www.supersonido.es/p/audiolab-6000a-play-",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52190.jpg"
     },
     "cayin-n6 MKII_": {
         "id": "cayin-n6 MKII_",
@@ -1169,15 +1169,6 @@
         "url": "https://www.supersonido.es/p/rose-rs201e__",
         "image": "https://www.supersonido.es/productos/imagenes/producto48789.jpg"
     },
-    "ferrum-erco": {
-        "id": "ferrum-erco",
-        "name": "Ferrum ERCO",
-        "price": 1399.0,
-        "price_old": 1795.0,
-        "sale_percentage": 22.1,
-        "url": "https://www.supersonido.es/p/ferrum-erco",
-        "image": "https://www.supersonido.es/productos/imagenes/producto46711.jpg"
-    },
     "reavon-ubr-x200_": {
         "id": "reavon-ubr-x200_",
         "name": "Reavon UBR-X200",
@@ -1204,6 +1195,15 @@
         "sale_percentage": 35.2,
         "url": "https://www.supersonido.es/p/mrspeakers-ether-flow-1-1_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50776.jpg"
+    },
+    "ferrum-erco": {
+        "id": "ferrum-erco",
+        "name": "Ferrum ERCO",
+        "price": 1399.0,
+        "price_old": 1795.0,
+        "sale_percentage": 22.1,
+        "url": "https://www.supersonido.es/p/ferrum-erco",
+        "image": "https://www.supersonido.es/productos/imagenes/producto46711.jpg"
     },
     "mission-700__": {
         "id": "mission-700__",
@@ -1267,15 +1267,6 @@
         "sale_percentage": 43.9,
         "url": "https://www.supersonido.es/p/martin-logan-motion-20i_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50782.jpg"
-    },
-    "audeze-mm-500_": {
-        "id": "audeze-mm-500_",
-        "name": "Audeze MM-500",
-        "price": 1575.0,
-        "price_old": 2099.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/audeze-mm-500_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53422.jpg"
     },
     "svs-prime-pinnacle_": {
         "id": "svs-prime-pinnacle_",
@@ -1798,5 +1789,14 @@
         "sale_percentage": 43.9,
         "url": "https://www.supersonido.es/p/unison-research-s9",
         "image": "https://www.supersonido.es/productos/imagenes/producto8281.jpg"
+    },
+    "musical-fidelity-nu-vista-600_": {
+        "id": "musical-fidelity-nu-vista-600_",
+        "name": "Musical Fidelity NU-VISTA 600",
+        "price": 4999.0,
+        "price_old": 6999.0,
+        "sale_percentage": 28.6,
+        "url": "https://www.supersonido.es/p/musical-fidelity-nu-vista-600_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto44775.jpg"
     }
 }
