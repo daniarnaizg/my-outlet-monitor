@@ -161,6 +161,15 @@
         "url": "https://www.supersonido.es/p/quik-lok-hfss060",
         "image": "https://www.supersonido.es/productos/imagenes/producto22106.jpg"
     },
+    "chord-electronics-clearway-2rca2rca": {
+        "id": "chord-electronics-clearway-2rca2rca",
+        "name": "The Chord Company Clearway 2RCA/2RCA",
+        "price": 69.0,
+        "price_old": 144.0,
+        "sale_percentage": 52.1,
+        "url": "https://www.supersonido.es/p/chord-electronics-clearway-2rca2rca",
+        "image": "https://www.supersonido.es/productos/imagenes/producto23424.jpg"
+    },
     "yamaha-ws-b1a": {
         "id": "yamaha-ws-b1a",
         "name": "Yamaha WS-B1A",
@@ -197,15 +206,6 @@
         "url": "https://www.supersonido.es/p/technics-eah-az60",
         "image": "https://www.supersonido.es/productos/imagenes/producto46056.jpg"
     },
-    "polkaudio-t30": {
-        "id": "polkaudio-t30",
-        "name": "Polkaudio T30",
-        "price": 89.0,
-        "price_old": 149.0,
-        "sale_percentage": 40.3,
-        "url": "https://www.supersonido.es/p/polkaudio-t30",
-        "image": "https://www.supersonido.es/productos/imagenes/producto21918.jpg"
-    },
     "astell-kern-kann-cube-case": {
         "id": "astell-kern-kann-cube-case",
         "name": "Astell&kern KANN CUBE Case",
@@ -214,6 +214,15 @@
         "sale_percentage": 47.3,
         "url": "https://www.supersonido.es/p/astell-kern-kann-cube-case",
         "image": "https://www.supersonido.es/productos/imagenes/producto32230.jpg"
+    },
+    "polkaudio-t30": {
+        "id": "polkaudio-t30",
+        "name": "Polkaudio T30",
+        "price": 89.0,
+        "price_old": 149.0,
+        "sale_percentage": 40.3,
+        "url": "https://www.supersonido.es/p/polkaudio-t30",
+        "image": "https://www.supersonido.es/productos/imagenes/producto21918.jpg"
     },
     "klipsch-cs-16w": {
         "id": "klipsch-cs-16w",
@@ -350,6 +359,15 @@
         "url": "https://www.supersonido.es/p/sony-srs-xe300",
         "image": "https://www.supersonido.es/productos/imagenes/producto47503.jpg"
     },
+    "vutec-evmw6080d.": {
+        "id": "vutec-evmw6080d.",
+        "name": "Vutec EVMW6080D",
+        "price": 119.0,
+        "price_old": 199.0,
+        "sale_percentage": 40.2,
+        "url": "https://www.supersonido.es/p/vutec-evmw6080d.",
+        "image": "https://www.supersonido.es/productos/imagenes/producto46623.jpg"
+    },
     "nad-pp-2e": {
         "id": "nad-pp-2e",
         "name": "Nad PP 2e",
@@ -367,15 +385,6 @@
         "sale_percentage": 40.2,
         "url": "https://www.supersonido.es/p/panasonic-sc-ux100",
         "image": "https://www.supersonido.es/productos/imagenes/producto25858.jpg"
-    },
-    "vutec-evmw6080d.": {
-        "id": "vutec-evmw6080d.",
-        "name": "Vutec EVMW6080D",
-        "price": 119.0,
-        "price_old": 199.0,
-        "sale_percentage": 40.2,
-        "url": "https://www.supersonido.es/p/vutec-evmw6080d.",
-        "image": "https://www.supersonido.es/productos/imagenes/producto46623.jpg"
     },
     "klipsch-ds-160-w-skyhook": {
         "id": "klipsch-ds-160-w-skyhook",
@@ -404,24 +413,6 @@
         "url": "https://www.supersonido.es/p/jamo-iw-606-sur-fg-ii",
         "image": "https://www.supersonido.es/productos/imagenes/producto42216.jpg"
     },
-    "klipsch-groove-xl": {
-        "id": "klipsch-groove-xl",
-        "name": "Klipsch Groove XL",
-        "price": 149.0,
-        "price_old": 249.0,
-        "sale_percentage": 40.2,
-        "url": "https://www.supersonido.es/p/klipsch-groove-xl",
-        "image": "https://www.supersonido.es/productos/imagenes/producto51569.jpg"
-    },
-    "denon-ah-c15-perl-pro": {
-        "id": "denon-ah-c15-perl-pro",
-        "name": "Denon AH-C15 Perl Pro",
-        "price": 149.0,
-        "price_old": 249.0,
-        "sale_percentage": 40.2,
-        "url": "https://www.supersonido.es/p/denon-ah-c15-perl-pro",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50405.jpg"
-    },
     "magnat-prime-shadow": {
         "id": "magnat-prime-shadow",
         "name": "Magnat Prime Shadow",
@@ -440,6 +431,15 @@
         "url": "https://www.supersonido.es/p/jamo-s7-25c",
         "image": "https://www.supersonido.es/productos/imagenes/producto50143.jpg"
     },
+    "denon-ah-c15-perl-pro": {
+        "id": "denon-ah-c15-perl-pro",
+        "name": "Denon AH-C15 Perl Pro",
+        "price": 149.0,
+        "price_old": 249.0,
+        "sale_percentage": 40.2,
+        "url": "https://www.supersonido.es/p/denon-ah-c15-perl-pro",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50405.jpg"
+    },
     "final-audio-design-ze8000": {
         "id": "final-audio-design-ze8000",
         "name": "Final Audio Design ZE8000",
@@ -448,5 +448,14 @@
         "sale_percentage": 54.7,
         "url": "https://www.supersonido.es/p/final-audio-design-ze8000",
         "image": "https://www.supersonido.es/productos/imagenes/producto48966.jpg"
+    },
+    "klipsch-groove-xl": {
+        "id": "klipsch-groove-xl",
+        "name": "Klipsch Groove XL",
+        "price": 149.0,
+        "price_old": 249.0,
+        "sale_percentage": 40.2,
+        "url": "https://www.supersonido.es/p/klipsch-groove-xl",
+        "image": "https://www.supersonido.es/productos/imagenes/producto51569.jpg"
     }
 }
