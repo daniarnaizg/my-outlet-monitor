@@ -8,15 +8,6 @@
         "url": "https://www.supersonido.es/p/b-tech-bt-15-bk",
         "image": "https://www.supersonido.es/productos/imagenes/producto2892.jpg"
     },
-    "b-tech-bt-34": {
-        "id": "b-tech-bt-34",
-        "name": "B-Tech BT 34",
-        "price": 19.0,
-        "price_old": 39.0,
-        "sale_percentage": 51.3,
-        "url": "https://www.supersonido.es/p/b-tech-bt-34",
-        "image": "https://www.supersonido.es/productos/imagenes/producto2891.jpg"
-    },
     "yamaha-eph-ws01_": {
         "id": "yamaha-eph-ws01_",
         "name": "Yamaha EPH-WS01",
@@ -25,6 +16,15 @@
         "sale_percentage": 0,
         "url": "https://www.supersonido.es/p/yamaha-eph-ws01_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53500.jpg"
+    },
+    "b-tech-bt-34": {
+        "id": "b-tech-bt-34",
+        "name": "B-Tech BT 34",
+        "price": 19.0,
+        "price_old": 39.0,
+        "sale_percentage": 51.3,
+        "url": "https://www.supersonido.es/p/b-tech-bt-34",
+        "image": "https://www.supersonido.es/productos/imagenes/producto2891.jpg"
     },
     "ifi-audio-4-4mm-to-4-4mm-cable_": {
         "id": "ifi-audio-4-4mm-to-4-4mm-cable_",
@@ -503,15 +503,6 @@
         "url": "https://www.supersonido.es/p/q-acoustics-3020c_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53342.jpg"
     },
-    "isotek-systems-evo3-elite_": {
-        "id": "isotek-systems-evo3-elite_",
-        "name": "Isotek Systems EVO3 ELITE",
-        "price": 399.0,
-        "price_old": 799.0,
-        "sale_percentage": 50.1,
-        "url": "https://www.supersonido.es/p/isotek-systems-evo3-elite_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53566.jpg"
-    },
     "polkaudio-signature-elite-es12-subwoofer_": {
         "id": "polkaudio-signature-elite-es12-subwoofer_",
         "name": "Polkaudio Signature Elite ES12 Subwoofer",
@@ -548,15 +539,6 @@
         "url": "https://www.supersonido.es/p/zidoo-z2000-pro",
         "image": "https://www.supersonido.es/productos/imagenes/producto52430.jpg"
     },
-    "jbl-ma310__": {
-        "id": "jbl-ma310__",
-        "name": "JBL MA310",
-        "price": 479.0,
-        "price_old": 599.0,
-        "sale_percentage": 20.0,
-        "url": "https://www.supersonido.es/p/jbl-ma310__",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52947.jpg"
-    },
     "klipsch-rsm-525_": {
         "id": "klipsch-rsm-525_",
         "name": "Klipsch RSM-525",
@@ -565,6 +547,15 @@
         "sale_percentage": 20.0,
         "url": "https://www.supersonido.es/p/klipsch-rsm-525_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52587.jpg"
+    },
+    "jbl-ma310__": {
+        "id": "jbl-ma310__",
+        "name": "JBL MA310",
+        "price": 479.0,
+        "price_old": 599.0,
+        "sale_percentage": 20.0,
+        "url": "https://www.supersonido.es/p/jbl-ma310__",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52947.jpg"
     },
     "klipsch-rp-600m-ii_occ": {
         "id": "klipsch-rp-600m-ii_occ",
@@ -1547,15 +1538,6 @@
         "url": "https://www.supersonido.es/p/mrspeakers-voce_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50151.jpg"
     },
-    "electrocompaniet-ec-4-9-2ch": {
-        "id": "electrocompaniet-ec-4-9-2ch",
-        "name": "Electrocompaniet EC 4.9 2ch",
-        "price": 2890.0,
-        "price_old": 4290.0,
-        "sale_percentage": 32.6,
-        "url": "https://www.supersonido.es/p/electrocompaniet-ec-4-9-2ch",
-        "image": "https://www.supersonido.es/productos/imagenes/producto5156.jpg"
-    },
     "isotek-systems-nova": {
         "id": "isotek-systems-nova",
         "name": "Isotek Systems Nova",
@@ -1564,6 +1546,15 @@
         "sale_percentage": 27.6,
         "url": "https://www.supersonido.es/p/isotek-systems-nova",
         "image": "https://www.supersonido.es/productos/imagenes/producto11309.jpg"
+    },
+    "electrocompaniet-ec-4-9-2ch": {
+        "id": "electrocompaniet-ec-4-9-2ch",
+        "name": "Electrocompaniet EC 4.9 2ch",
+        "price": 2890.0,
+        "price_old": 4290.0,
+        "sale_percentage": 32.6,
+        "url": "https://www.supersonido.es/p/electrocompaniet-ec-4-9-2ch",
+        "image": "https://www.supersonido.es/productos/imagenes/producto5156.jpg"
     },
     "primare-i35dac_": {
         "id": "primare-i35dac_",
@@ -1601,15 +1592,6 @@
         "url": "https://www.supersonido.es/p/samsung-qe75qn800b__oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto51399.jpg"
     },
-    "isotek-systems-sigmas_": {
-        "id": "isotek-systems-sigmas_",
-        "name": "Isotek Systems Sigmas EVO 3",
-        "price": 2999.0,
-        "price_old": 4299.0,
-        "sale_percentage": 30.2,
-        "url": "https://www.supersonido.es/p/isotek-systems-sigmas_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50780.jpg"
-    },
     "anthem-mdx-16_": {
         "id": "anthem-mdx-16_",
         "name": "Anthem MDX 16",
@@ -1618,6 +1600,15 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/anthem-mdx-16_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52754.jpg"
+    },
+    "isotek-systems-sigmas_": {
+        "id": "isotek-systems-sigmas_",
+        "name": "Isotek Systems Sigmas EVO 3",
+        "price": 2999.0,
+        "price_old": 4299.0,
+        "sale_percentage": 30.2,
+        "url": "https://www.supersonido.es/p/isotek-systems-sigmas_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50780.jpg"
     },
     "rega-aethos_": {
         "id": "rega-aethos_",
@@ -1798,5 +1789,14 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/mcintosh-mt2_",
         "image": "https://www.supersonido.es/productos/imagenes/producto51490.jpg"
+    },
+    "sonus-faber-olympica-nova-i_": {
+        "id": "sonus-faber-olympica-nova-i_",
+        "name": "Sonus Faber Olympica Nova I",
+        "price": 5490.0,
+        "price_old": 7480.0,
+        "sale_percentage": 26.6,
+        "url": "https://www.supersonido.es/p/sonus-faber-olympica-nova-i_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52518.jpg"
     }
 }
