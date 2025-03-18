@@ -1124,15 +1124,6 @@
         "url": "https://www.supersonido.es/p/svs-ultra-surround_",
         "image": "https://www.supersonido.es/productos/imagenes/producto51280.jpg"
     },
-    "kef-ls50-meta": {
-        "id": "kef-ls50-meta",
-        "name": "KEF LS50 META",
-        "price": 1099.0,
-        "price_old": 1299.0,
-        "sale_percentage": 15.4,
-        "url": "https://www.supersonido.es/p/kef-ls50-meta",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52614.jpg"
-    },
     "focal-theva-n-2_": {
         "id": "focal-theva-n-2_",
         "name": "FOCAL THEVA NÂ°2",
@@ -1798,5 +1789,14 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/rega-aura-mc_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53452.jpg"
+    },
+    "audio-research-vsi60-exdemo": {
+        "id": "audio-research-vsi60-exdemo",
+        "name": "Audio Research Vsi60",
+        "price": 4390.0,
+        "price_old": 6290.0,
+        "sale_percentage": 30.2,
+        "url": "https://www.supersonido.es/p/audio-research-vsi60-exdemo",
+        "image": "https://www.supersonido.es/productos/imagenes/producto21979.jpg"
     }
 }
