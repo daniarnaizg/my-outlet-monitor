@@ -71,15 +71,6 @@
         "url": "https://www.supersonido.es/p/samsung-wmn-m25ea-xc",
         "image": "https://www.supersonido.es/productos/imagenes/producto30804.jpg"
     },
-    "btech-bt608-s": {
-        "id": "btech-bt608-s",
-        "name": "B-Tech BT608 S",
-        "price": 50.0,
-        "price_old": 99.0,
-        "sale_percentage": 49.5,
-        "url": "https://www.supersonido.es/p/btech-bt608-s",
-        "image": "https://www.supersonido.es/productos/imagenes/producto2951.jpg"
-    },
     "the-chord-company-shawcan-6-3mm-stereo-to-iem": {
         "id": "the-chord-company-shawcan-6-3mm-stereo-to-iem",
         "name": "The Chord Company ShawCan 6.3mm Stereo to HD600/HD650/HD660S2",
@@ -1798,5 +1789,14 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/martinlogan-electromotion-esl-x",
         "image": "https://www.supersonido.es/productos/imagenes/producto22504.jpg"
+    },
+    "unison-research-s9": {
+        "id": "unison-research-s9",
+        "name": "Unison Research S9",
+        "price": 4990.0,
+        "price_old": 8900.0,
+        "sale_percentage": 43.9,
+        "url": "https://www.supersonido.es/p/unison-research-s9",
+        "image": "https://www.supersonido.es/productos/imagenes/producto8281.jpg"
     }
 }
