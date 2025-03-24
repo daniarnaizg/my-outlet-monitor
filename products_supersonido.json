@@ -341,15 +341,6 @@
         "url": "https://www.supersonido.es/p/ifi-audio-go-pod_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50560.jpg"
     },
-    "pro-ject-pre-box-s2-digital-dac_": {
-        "id": "pro-ject-pre-box-s2-digital-dac_",
-        "name": "Pro-Ject Pre-Box S2 Digital DAC",
-        "price": 249.0,
-        "price_old": 399.0,
-        "sale_percentage": 37.6,
-        "url": "https://www.supersonido.es/p/pro-ject-pre-box-s2-digital-dac_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto26224.jpg"
-    },
     "pro-ject-e1-standard_": {
         "id": "pro-ject-e1-standard_",
         "name": "Pro-Ject E1 Standard",
@@ -358,6 +349,15 @@
         "sale_percentage": 16.7,
         "url": "https://www.supersonido.es/p/pro-ject-e1-standard_",
         "image": "https://www.supersonido.es/productos/imagenes/producto51070.jpg"
+    },
+    "pro-ject-pre-box-s2-digital-dac_": {
+        "id": "pro-ject-pre-box-s2-digital-dac_",
+        "name": "Pro-Ject Pre-Box S2 Digital DAC",
+        "price": 249.0,
+        "price_old": 399.0,
+        "sale_percentage": 37.6,
+        "url": "https://www.supersonido.es/p/pro-ject-pre-box-s2-digital-dac_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto26224.jpg"
     },
     "the-chord-company-silent-mount-sm7_": {
         "id": "the-chord-company-silent-mount-sm7_",
@@ -1331,15 +1331,6 @@
         "url": "https://www.supersonido.es/p/mrspeakers-ether-flow-1-1_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50776.jpg"
     },
-    "pro-ject-colorful-audio-system-satin-fir-green": {
-        "id": "pro-ject-colorful-audio-system-satin-fir-green",
-        "name": "Pro-Ject Colorful Audio System Satin Fir Green",
-        "price": 1399.0,
-        "price_old": 1799.0,
-        "sale_percentage": 22.2,
-        "url": "https://www.supersonido.es/p/pro-ject-colorful-audio-system-satin-fir-green",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50190.jpg"
-    },
     "mission-700__": {
         "id": "mission-700__",
         "name": "Mission 700",
@@ -1798,5 +1789,14 @@
         "sale_percentage": 35.1,
         "url": "https://www.supersonido.es/p/copland-csa-150_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50008.jpg"
+    },
+    "audeze-lcd-5_oc": {
+        "id": "audeze-lcd-5_oc",
+        "name": "Audeze LCD-5",
+        "price": 3599.0,
+        "price_old": 4789.0,
+        "sale_percentage": 24.8,
+        "url": "https://www.supersonido.es/p/audeze-lcd-5_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53426.jpg"
     }
 }
