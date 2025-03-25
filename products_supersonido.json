@@ -1277,15 +1277,6 @@
         "url": "https://www.supersonido.es/p/dynaudio-evoke-20_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto49810.jpg"
     },
-    "mofi-electronics-studiodeck__": {
-        "id": "mofi-electronics-studiodeck__",
-        "name": "Mofi Electronics STUDIODECK",
-        "price": 1299.0,
-        "price_old": 1599.0,
-        "sale_percentage": 18.8,
-        "url": "https://www.supersonido.es/p/mofi-electronics-studiodeck__",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50996.jpg"
-    },
     "mrspeakers-ether-flow": {
         "id": "mrspeakers-ether-flow",
         "name": "Dan Clark Audio ETHER Flow",
@@ -1295,14 +1286,14 @@
         "url": "https://www.supersonido.es/p/mrspeakers-ether-flow",
         "image": "https://www.supersonido.es/productos/imagenes/producto28309.jpg"
     },
-    "audio-technica-ath-awkt_": {
-        "id": "audio-technica-ath-awkt_",
-        "name": "Audio-Technica ATH-AWKT",
-        "price": 1390.0,
-        "price_old": 1999.0,
-        "sale_percentage": 30.5,
-        "url": "https://www.supersonido.es/p/audio-technica-ath-awkt_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49179.jpg"
+    "mofi-electronics-studiodeck__": {
+        "id": "mofi-electronics-studiodeck__",
+        "name": "Mofi Electronics STUDIODECK",
+        "price": 1299.0,
+        "price_old": 1599.0,
+        "sale_percentage": 18.8,
+        "url": "https://www.supersonido.es/p/mofi-electronics-studiodeck__",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50996.jpg"
     },
     "rose-rs201e__": {
         "id": "rose-rs201e__",
@@ -1313,23 +1304,14 @@
         "url": "https://www.supersonido.es/p/rose-rs201e__",
         "image": "https://www.supersonido.es/productos/imagenes/producto48789.jpg"
     },
-    "ferrum-erco": {
-        "id": "ferrum-erco",
-        "name": "Ferrum ERCO",
-        "price": 1399.0,
-        "price_old": 1795.0,
-        "sale_percentage": 22.1,
-        "url": "https://www.supersonido.es/p/ferrum-erco",
-        "image": "https://www.supersonido.es/productos/imagenes/producto46711.jpg"
-    },
-    "reavon-ubr-x200_": {
-        "id": "reavon-ubr-x200_",
-        "name": "Reavon UBR-X200",
-        "price": 1399.0,
-        "price_old": 1849.0,
-        "sale_percentage": 24.3,
-        "url": "https://www.supersonido.es/p/reavon-ubr-x200_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto51498.jpg"
+    "audio-technica-ath-awkt_": {
+        "id": "audio-technica-ath-awkt_",
+        "name": "Audio-Technica ATH-AWKT",
+        "price": 1390.0,
+        "price_old": 1999.0,
+        "sale_percentage": 30.5,
+        "url": "https://www.supersonido.es/p/audio-technica-ath-awkt_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto49179.jpg"
     },
     "mrspeakers-ether-c-flow-1-1_": {
         "id": "mrspeakers-ether-c-flow-1-1_",
@@ -1348,6 +1330,24 @@
         "sale_percentage": 35.2,
         "url": "https://www.supersonido.es/p/mrspeakers-ether-flow-1-1_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50776.jpg"
+    },
+    "reavon-ubr-x200_": {
+        "id": "reavon-ubr-x200_",
+        "name": "Reavon UBR-X200",
+        "price": 1399.0,
+        "price_old": 1849.0,
+        "sale_percentage": 24.3,
+        "url": "https://www.supersonido.es/p/reavon-ubr-x200_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto51498.jpg"
+    },
+    "ferrum-erco": {
+        "id": "ferrum-erco",
+        "name": "Ferrum ERCO",
+        "price": 1399.0,
+        "price_old": 1795.0,
+        "sale_percentage": 22.1,
+        "url": "https://www.supersonido.es/p/ferrum-erco",
+        "image": "https://www.supersonido.es/productos/imagenes/producto46711.jpg"
     },
     "mission-700__": {
         "id": "mission-700__",
@@ -1474,6 +1474,15 @@
         "sale_percentage": 28.0,
         "url": "https://www.supersonido.es/p/sennheiser-ambeo-soundbar_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto52493.jpg"
+    },
+    "meze-audio-empyrean_": {
+        "id": "meze-audio-empyrean_",
+        "name": "Meze Audio Empyrean",
+        "price": 1890.0,
+        "price_old": 2999.0,
+        "sale_percentage": 37.0,
+        "url": "https://www.supersonido.es/p/meze-audio-empyrean_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50663.jpg"
     },
     "innuos-zenmini-mk3-s_": {
         "id": "innuos-zenmini-mk3-s_",
@@ -1789,14 +1798,5 @@
         "sale_percentage": 17.5,
         "url": "https://www.supersonido.es/p/primaluna-evo-100-11",
         "image": "https://www.supersonido.es/productos/imagenes/producto51492.jpg"
-    },
-    "wharfedale-aura-4_": {
-        "id": "wharfedale-aura-4_",
-        "name": "Wharfedale AURA 4",
-        "price": 3449.0,
-        "price_old": 4599.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/wharfedale-aura-4_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53251.jpg"
     }
 }
