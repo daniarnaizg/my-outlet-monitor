@@ -1268,15 +1268,6 @@
         "url": "https://www.supersonido.es/p/sennheiser-ambeo-soundbar_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto52493.jpg"
     },
-    "sony-k65xr80_": {
-        "id": "sony-k65xr80_",
-        "name": "Sony K65XR80",
-        "price": 1799.0,
-        "price_old": 3499.0,
-        "sale_percentage": 48.6,
-        "url": "https://www.supersonido.es/p/sony-k65xr80_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53409.jpg"
-    },
     "meze-audio-empyrean_": {
         "id": "meze-audio-empyrean_",
         "name": "Meze Audio Empyrean",
@@ -1798,5 +1789,14 @@
         "sale_percentage": 24.8,
         "url": "https://www.supersonido.es/p/audio-research-vsi75-exdemo",
         "image": "https://www.supersonido.es/productos/imagenes/producto20176.jpg"
+    },
+    "wilson-audio-tunetot_oca": {
+        "id": "wilson-audio-tunetot_oca",
+        "name": "Wilson Audio TuneTot",
+        "price": 8990.0,
+        "price_old": 16990.0,
+        "sale_percentage": 47.1,
+        "url": "https://www.supersonido.es/p/wilson-audio-tunetot_oca",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52602.jpg"
     }
 }
