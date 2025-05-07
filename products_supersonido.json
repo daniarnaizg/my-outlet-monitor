@@ -1043,15 +1043,6 @@
         "url": "https://www.supersonido.es/p/rose-rs201e__",
         "image": "https://www.supersonido.es/productos/imagenes/producto48789.jpg"
     },
-    "reavon-ubr-x200_": {
-        "id": "reavon-ubr-x200_",
-        "name": "Reavon UBR-X200",
-        "price": 1399.0,
-        "price_old": 1849.0,
-        "sale_percentage": 24.3,
-        "url": "https://www.supersonido.es/p/reavon-ubr-x200_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto51498.jpg"
-    },
     "ferrum-erco": {
         "id": "ferrum-erco",
         "name": "Ferrum ERCO",
@@ -1060,6 +1051,15 @@
         "sale_percentage": 22.1,
         "url": "https://www.supersonido.es/p/ferrum-erco",
         "image": "https://www.supersonido.es/productos/imagenes/producto46711.jpg"
+    },
+    "reavon-ubr-x200_": {
+        "id": "reavon-ubr-x200_",
+        "name": "Reavon UBR-X200",
+        "price": 1399.0,
+        "price_old": 1849.0,
+        "sale_percentage": 24.3,
+        "url": "https://www.supersonido.es/p/reavon-ubr-x200_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto51498.jpg"
     },
     "mrspeakers-ether-c-flow-1-1_": {
         "id": "mrspeakers-ether-c-flow-1-1_",
@@ -1096,15 +1096,6 @@
         "sale_percentage": 25.1,
         "url": "https://www.supersonido.es/p/stax-sr-l700-mkii_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52569.jpg"
-    },
-    "kef-ls-50-wireless-ii_occ": {
-        "id": "kef-ls-50-wireless-ii_occ",
-        "name": "KEF LS-50 Wireless II",
-        "price": 1499.0,
-        "price_old": 2499.0,
-        "sale_percentage": 40.0,
-        "url": "https://www.supersonido.es/p/kef-ls-50-wireless-ii_occ",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53825.jpg"
     },
     "rotel-s14_oc": {
         "id": "rotel-s14_oc",
@@ -1798,5 +1789,14 @@
         "sale_percentage": 24.8,
         "url": "https://www.supersonido.es/p/audio-research-gs-150",
         "image": "https://www.supersonido.es/productos/imagenes/producto18556.jpg"
+    },
+    "wilson-audio-sabrinax_n__": {
+        "id": "wilson-audio-sabrinax_n__",
+        "name": "Wilson Audio SabrinaX",
+        "price": 18990.0,
+        "price_old": 30990.0,
+        "sale_percentage": 38.7,
+        "url": "https://www.supersonido.es/p/wilson-audio-sabrinax_n__",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53877.jpg"
     }
 }
