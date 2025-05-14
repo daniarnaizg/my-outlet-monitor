@@ -26,15 +26,6 @@
         "url": "https://www.supersonido.es/p/vogels-sound-42014",
         "image": "https://www.supersonido.es/productos/imagenes/producto26947.jpg"
     },
-    "qed-profile-subwoofer-6m": {
-        "id": "qed-profile-subwoofer-6m",
-        "name": "QED Profile Subwoofer 6m",
-        "price": 29.0,
-        "price_old": 50.0,
-        "sale_percentage": 42.0,
-        "url": "https://www.supersonido.es/p/qed-profile-subwoofer-6m",
-        "image": "https://www.supersonido.es/productos/imagenes/producto48845.jpg"
-    },
     "panasonic-rz-b110w": {
         "id": "panasonic-rz-b110w",
         "name": "Panasonic RZ-B110W",
@@ -43,6 +34,15 @@
         "sale_percentage": 41.9,
         "url": "https://www.supersonido.es/p/panasonic-rz-b110w",
         "image": "https://www.supersonido.es/productos/imagenes/producto50266.jpg"
+    },
+    "qed-profile-subwoofer-6m": {
+        "id": "qed-profile-subwoofer-6m",
+        "name": "QED Profile Subwoofer 6m",
+        "price": 29.0,
+        "price_old": 50.0,
+        "sale_percentage": 42.0,
+        "url": "https://www.supersonido.es/p/qed-profile-subwoofer-6m",
+        "image": "https://www.supersonido.es/productos/imagenes/producto48845.jpg"
     },
     "akg-k52": {
         "id": "akg-k52",
@@ -287,15 +287,6 @@
         "url": "https://www.supersonido.es/p/klipsch-ds-160w",
         "image": "https://www.supersonido.es/productos/imagenes/producto26987.jpg"
     },
-    "denon-ah-c10-perl": {
-        "id": "denon-ah-c10-perl",
-        "name": "Denon AH-C10 Perl",
-        "price": 99.0,
-        "price_old": 169.0,
-        "sale_percentage": 41.4,
-        "url": "https://www.supersonido.es/p/denon-ah-c10-perl",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50404.jpg"
-    },
     "campfire-audio-orbit_": {
         "id": "campfire-audio-orbit_",
         "name": "Campfire Audio Orbit",
@@ -304,6 +295,15 @@
         "sale_percentage": 60.2,
         "url": "https://www.supersonido.es/p/campfire-audio-orbit_",
         "image": "https://www.supersonido.es/productos/imagenes/producto48745.jpg"
+    },
+    "denon-ah-c10-perl": {
+        "id": "denon-ah-c10-perl",
+        "name": "Denon AH-C10 Perl",
+        "price": 99.0,
+        "price_old": 169.0,
+        "sale_percentage": 41.4,
+        "url": "https://www.supersonido.es/p/denon-ah-c10-perl",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50404.jpg"
     },
     "sumiko-rainier_": {
         "id": "sumiko-rainier_",
@@ -368,24 +368,6 @@
         "url": "https://www.supersonido.es/p/jamo-iw-606-sur-fg-ii",
         "image": "https://www.supersonido.es/productos/imagenes/producto42216.jpg"
     },
-    "jamo-s7-25c": {
-        "id": "jamo-s7-25c",
-        "name": "Jamo S7-25C",
-        "price": 149.0,
-        "price_old": 299.0,
-        "sale_percentage": 50.2,
-        "url": "https://www.supersonido.es/p/jamo-s7-25c",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50143.jpg"
-    },
-    "denon-ah-c15-perl-pro": {
-        "id": "denon-ah-c15-perl-pro",
-        "name": "Denon AH-C15 Perl Pro",
-        "price": 149.0,
-        "price_old": 249.0,
-        "sale_percentage": 40.2,
-        "url": "https://www.supersonido.es/p/denon-ah-c15-perl-pro",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50405.jpg"
-    },
     "magnat-prime-shadow": {
         "id": "magnat-prime-shadow",
         "name": "Magnat Prime Shadow",
@@ -412,5 +394,23 @@
         "sale_percentage": 40.2,
         "url": "https://www.supersonido.es/p/klipsch-groove-xl",
         "image": "https://www.supersonido.es/productos/imagenes/producto51569.jpg"
+    },
+    "denon-ah-c15-perl-pro": {
+        "id": "denon-ah-c15-perl-pro",
+        "name": "Denon AH-C15 Perl Pro",
+        "price": 149.0,
+        "price_old": 249.0,
+        "sale_percentage": 40.2,
+        "url": "https://www.supersonido.es/p/denon-ah-c15-perl-pro",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50405.jpg"
+    },
+    "jamo-s7-25c": {
+        "id": "jamo-s7-25c",
+        "name": "Jamo S7-25C",
+        "price": 149.0,
+        "price_old": 299.0,
+        "sale_percentage": 50.2,
+        "url": "https://www.supersonido.es/p/jamo-s7-25c",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50143.jpg"
     }
 }
