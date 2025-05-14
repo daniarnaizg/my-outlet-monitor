@@ -404,15 +404,6 @@
         "url": "https://www.supersonido.es/p/isotek-systems-evo3-elite_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53566.jpg"
     },
-    "hifiman-ananda-nano_": {
-        "id": "hifiman-ananda-nano_",
-        "name": "HIFIMAN Ananda Nano",
-        "price": 399.0,
-        "price_old": 559.0,
-        "sale_percentage": 28.6,
-        "url": "https://www.supersonido.es/p/hifiman-ananda-nano_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52675.jpg"
-    },
     "stax-srm-252s": {
         "id": "stax-srm-252s",
         "name": "Stax SRM-252S",
@@ -422,14 +413,14 @@
         "url": "https://www.supersonido.es/p/stax-srm-252s",
         "image": "https://www.supersonido.es/productos/imagenes/producto32656.jpg"
     },
-    "ibasso-dx180_": {
-        "id": "ibasso-dx180_",
-        "name": "Ibasso DX180",
-        "price": 449.0,
-        "price_old": 529.0,
-        "sale_percentage": 15.1,
-        "url": "https://www.supersonido.es/p/ibasso-dx180_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53656.jpg"
+    "hifiman-ananda-nano_": {
+        "id": "hifiman-ananda-nano_",
+        "name": "HIFIMAN Ananda Nano",
+        "price": 399.0,
+        "price_old": 559.0,
+        "sale_percentage": 28.6,
+        "url": "https://www.supersonido.es/p/hifiman-ananda-nano_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52675.jpg"
     },
     "technics-ottava-s-sc-c30_": {
         "id": "technics-ottava-s-sc-c30_",
@@ -439,6 +430,15 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/technics-ottava-s-sc-c30_",
         "image": "https://www.supersonido.es/productos/imagenes/producto44225.jpg"
+    },
+    "ibasso-dx180_": {
+        "id": "ibasso-dx180_",
+        "name": "Ibasso DX180",
+        "price": 449.0,
+        "price_old": 529.0,
+        "sale_percentage": 15.1,
+        "url": "https://www.supersonido.es/p/ibasso-dx180_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53656.jpg"
     },
     "zidoo-z2000-pro": {
         "id": "zidoo-z2000-pro",
@@ -917,6 +917,15 @@
         "url": "https://www.supersonido.es/p/rega-planar-3-vm750sh-series",
         "image": "https://www.supersonido.es/productos/imagenes/producto53291.jpg"
     },
+    "klipsch-thx-5002-s_": {
+        "id": "klipsch-thx-5002-s_",
+        "name": "Klipsch THX-5002-S",
+        "price": 999.0,
+        "price_old": 1499.0,
+        "sale_percentage": 33.4,
+        "url": "https://www.supersonido.es/p/klipsch-thx-5002-s_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto51081.jpg"
+    },
     "loewe-wee-see-55": {
         "id": "loewe-wee-see-55",
         "name": "Loewe WEE SEE 55",
@@ -943,15 +952,6 @@
         "sale_percentage": 23.1,
         "url": "https://www.supersonido.es/p/kef-ls50-meta",
         "image": "https://www.supersonido.es/productos/imagenes/producto52614.jpg"
-    },
-    "klipsch-thx-5002-s_": {
-        "id": "klipsch-thx-5002-s_",
-        "name": "Klipsch THX-5002-S",
-        "price": 999.0,
-        "price_old": 1499.0,
-        "sale_percentage": 33.4,
-        "url": "https://www.supersonido.es/p/klipsch-thx-5002-s_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto51081.jpg"
     },
     "marantz-cinema-60_": {
         "id": "marantz-cinema-60_",
@@ -1340,6 +1340,15 @@
         "url": "https://www.supersonido.es/p/copland-csa70_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53930.jpg"
     },
+    "jbl-4312g": {
+        "id": "jbl-4312g",
+        "name": "JBL 4312G",
+        "price": 2299.0,
+        "price_old": 3399.0,
+        "sale_percentage": 32.4,
+        "url": "https://www.supersonido.es/p/jbl-4312g",
+        "image": "https://www.supersonido.es/productos/imagenes/producto32399.jpg"
+    },
     "astell-kern-ak240": {
         "id": "astell-kern-ak240",
         "name": "Astell&kern AK240",
@@ -1358,15 +1367,6 @@
         "url": "https://www.supersonido.es/p/final-audio-design-d8000-pro-edition_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52560.jpg"
     },
-    "samsung-tq77s95c": {
-        "id": "samsung-tq77s95c",
-        "name": "Samsung TQ77S95C",
-        "price": 2499.0,
-        "price_old": 4899.0,
-        "sale_percentage": 49.0,
-        "url": "https://www.supersonido.es/p/samsung-tq77s95c",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49706.jpg"
-    },
     "epson-eh-tw9400": {
         "id": "epson-eh-tw9400",
         "name": "Epson EH-TW9400",
@@ -1375,6 +1375,15 @@
         "sale_percentage": 13.8,
         "url": "https://www.supersonido.es/p/epson-eh-tw9400",
         "image": "https://www.supersonido.es/productos/imagenes/producto51223.jpg"
+    },
+    "samsung-tq77s95c": {
+        "id": "samsung-tq77s95c",
+        "name": "Samsung TQ77S95C",
+        "price": 2499.0,
+        "price_old": 4899.0,
+        "sale_percentage": 49.0,
+        "url": "https://www.supersonido.es/p/samsung-tq77s95c",
+        "image": "https://www.supersonido.es/productos/imagenes/producto49706.jpg"
     },
     "wharfedale-aura-3_": {
         "id": "wharfedale-aura-3_",
@@ -1789,14 +1798,5 @@
         "sale_percentage": 24.5,
         "url": "https://www.supersonido.es/p/mcintosh-c53_",
         "image": "https://www.supersonido.es/productos/imagenes/producto51489.jpg"
-    },
-    "audio-research-vsi75-exdemo": {
-        "id": "audio-research-vsi75-exdemo",
-        "name": "Audio Research VSi75",
-        "price": 8490.0,
-        "price_old": 11290.0,
-        "sale_percentage": 24.8,
-        "url": "https://www.supersonido.es/p/audio-research-vsi75-exdemo",
-        "image": "https://www.supersonido.es/productos/imagenes/producto20176.jpg"
     }
 }
