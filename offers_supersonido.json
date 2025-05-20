@@ -188,15 +188,6 @@
         "url": "https://www.supersonido.es/p/sony-wh-ch720n",
         "image": "https://www.supersonido.es/productos/imagenes/producto49050.jpg"
     },
-    "hifiman-he-r9": {
-        "id": "hifiman-he-r9",
-        "name": "HIFIMAN HE-R9",
-        "price": 89.0,
-        "price_old": 299.0,
-        "sale_percentage": 70.2,
-        "url": "https://www.supersonido.es/p/hifiman-he-r9",
-        "image": "https://www.supersonido.es/productos/imagenes/producto48329.jpg"
-    },
     "technics-eah-az60": {
         "id": "technics-eah-az60",
         "name": "Technics EAH-AZ60",
@@ -233,6 +224,15 @@
         "url": "https://www.supersonido.es/p/astell-kern-kann-cube-case",
         "image": "https://www.supersonido.es/productos/imagenes/producto32230.jpg"
     },
+    "hifiman-he-r9": {
+        "id": "hifiman-he-r9",
+        "name": "HIFIMAN HE-R9",
+        "price": 89.0,
+        "price_old": 299.0,
+        "sale_percentage": 70.2,
+        "url": "https://www.supersonido.es/p/hifiman-he-r9",
+        "image": "https://www.supersonido.es/productos/imagenes/producto48329.jpg"
+    },
     "klipsch-heritage-groove": {
         "id": "klipsch-heritage-groove",
         "name": "Klipsch HERITAGE GROOVE",
@@ -259,6 +259,15 @@
         "sale_percentage": 56.8,
         "url": "https://www.supersonido.es/p/jamo-iw-425-lcr-fg-ii",
         "image": "https://www.supersonido.es/productos/imagenes/producto42220.jpg"
+    },
+    "loewe-wee-hear-2": {
+        "id": "loewe-wee-hear-2",
+        "name": "Loewe WEE HEAR 2",
+        "price": 99.0,
+        "price_old": 169.0,
+        "sale_percentage": 41.4,
+        "url": "https://www.supersonido.es/p/loewe-wee-hear-2",
+        "image": "https://www.supersonido.es/productos/imagenes/producto46142.jpg"
     },
     "vutec-evmw4864d.": {
         "id": "vutec-evmw4864d.",
@@ -295,15 +304,6 @@
         "sale_percentage": 41.4,
         "url": "https://www.supersonido.es/p/denon-ah-c10-perl",
         "image": "https://www.supersonido.es/productos/imagenes/producto50404.jpg"
-    },
-    "loewe-wee-hear-2": {
-        "id": "loewe-wee-hear-2",
-        "name": "Loewe WEE HEAR 2",
-        "price": 99.0,
-        "price_old": 169.0,
-        "sale_percentage": 41.4,
-        "url": "https://www.supersonido.es/p/loewe-wee-hear-2",
-        "image": "https://www.supersonido.es/productos/imagenes/producto46142.jpg"
     },
     "sumiko-rainier_": {
         "id": "sumiko-rainier_",
@@ -421,14 +421,5 @@
         "sale_percentage": 40.2,
         "url": "https://www.supersonido.es/p/klipsch-groove-xl",
         "image": "https://www.supersonido.es/productos/imagenes/producto51569.jpg"
-    },
-    "jamo-s7-43c": {
-        "id": "jamo-s7-43c",
-        "name": "Jamo S7-43C",
-        "price": 169.0,
-        "price_old": 329.0,
-        "sale_percentage": 48.6,
-        "url": "https://www.supersonido.es/p/jamo-s7-43c",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50141.jpg"
     }
 }
