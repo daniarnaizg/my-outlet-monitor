@@ -728,6 +728,15 @@
         "url": "https://www.supersonido.es/p/stax-sr-l500-mk2_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52568.jpg"
     },
+    "humminguru-nova_": {
+        "id": "humminguru-nova_",
+        "name": "HumminGuru Nova",
+        "price": 749.0,
+        "price_old": 999.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/humminguru-nova_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto54034.jpg"
+    },
     "sony-ta-an1000_": {
         "id": "sony-ta-an1000_",
         "name": "Sony TA-AN1000",
@@ -1789,14 +1798,5 @@
         "sale_percentage": 24.5,
         "url": "https://www.supersonido.es/p/mcintosh-c53_",
         "image": "https://www.supersonido.es/productos/imagenes/producto51489.jpg"
-    },
-    "audio-research-vsi75-exdemo": {
-        "id": "audio-research-vsi75-exdemo",
-        "name": "Audio Research VSi75",
-        "price": 8490.0,
-        "price_old": 11290.0,
-        "sale_percentage": 24.8,
-        "url": "https://www.supersonido.es/p/audio-research-vsi75-exdemo",
-        "image": "https://www.supersonido.es/productos/imagenes/producto20176.jpg"
     }
 }
