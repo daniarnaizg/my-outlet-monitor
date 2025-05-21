@@ -593,6 +593,15 @@
         "url": "https://www.supersonido.es/p/project-maia-ds",
         "image": "https://www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
+    "feliks-audio-echo-mk2_": {
+        "id": "feliks-audio-echo-mk2_",
+        "name": "Feliks Audio Echo MK2",
+        "price": 599.0,
+        "price_old": 899.0,
+        "sale_percentage": 33.4,
+        "url": "https://www.supersonido.es/p/feliks-audio-echo-mk2_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto54035.jpg"
+    },
     "matrix-audio-element-i_": {
         "id": "matrix-audio-element-i_",
         "name": "Matrix Audio Element i",
@@ -610,15 +619,6 @@
         "sale_percentage": 25.1,
         "url": "https://www.supersonido.es/p/letshuoer-ej07m_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53476.jpg"
-    },
-    "feliks-audio-echo-mk2_": {
-        "id": "feliks-audio-echo-mk2_",
-        "name": "Feliks Audio Echo MK2",
-        "price": 599.0,
-        "price_old": 899.0,
-        "sale_percentage": 33.4,
-        "url": "https://www.supersonido.es/p/feliks-audio-echo-mk2_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto54035.jpg"
     },
     "roberts-radio-stream-67_": {
         "id": "roberts-radio-stream-67_",
@@ -1051,15 +1051,6 @@
         "sale_percentage": 35.0,
         "url": "https://www.supersonido.es/p/mrspeakers-ether-flow",
         "image": "https://www.supersonido.es/productos/imagenes/producto28309.jpg"
-    },
-    "ifi-audio-valkyrie_": {
-        "id": "ifi-audio-valkyrie_",
-        "name": "IFI Audio Valkyrie",
-        "price": 1349.0,
-        "price_old": 1699.0,
-        "sale_percentage": 20.6,
-        "url": "https://www.supersonido.es/p/ifi-audio-valkyrie_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53954.jpg"
     },
     "rega-aya_": {
         "id": "rega-aya_",
@@ -1798,5 +1789,14 @@
         "sale_percentage": 24.5,
         "url": "https://www.supersonido.es/p/mcintosh-c53_",
         "image": "https://www.supersonido.es/productos/imagenes/producto51489.jpg"
+    },
+    "audio-research-vsi75-exdemo": {
+        "id": "audio-research-vsi75-exdemo",
+        "name": "Audio Research VSi75",
+        "price": 8490.0,
+        "price_old": 11290.0,
+        "sale_percentage": 24.8,
+        "url": "https://www.supersonido.es/p/audio-research-vsi75-exdemo",
+        "image": "https://www.supersonido.es/productos/imagenes/producto20176.jpg"
     }
 }
