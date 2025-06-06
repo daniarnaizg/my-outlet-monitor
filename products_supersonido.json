@@ -35,15 +35,6 @@
         "url": "https://www.supersonido.es/p/monster-cable-exp-100a",
         "image": "https://www.supersonido.es/productos/imagenes/producto19716.jpg"
     },
-    "ifi-audio-4-4mm-to-4-4mm-cable_": {
-        "id": "ifi-audio-4-4mm-to-4-4mm-cable_",
-        "name": "IFI Audio 4.4mm to 4.4mm Cable",
-        "price": 49.0,
-        "price_old": 69.0,
-        "sale_percentage": 29.0,
-        "url": "https://www.supersonido.es/p/ifi-audio-4-4mm-to-4-4mm-cable_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53376.jpg"
-    },
     "samsung-wmn-m25ea-xc": {
         "id": "samsung-wmn-m25ea-xc",
         "name": "Samsung WMN-M25EA/XC",
@@ -287,15 +278,6 @@
         "url": "https://www.supersonido.es/p/audiopro-sw-5_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53002.jpg"
     },
-    "audeze-maxwell-playstation_oc": {
-        "id": "audeze-maxwell-playstation_oc",
-        "name": "Audeze MAXWELL PLAYSTATION",
-        "price": 299.0,
-        "price_old": 399.0,
-        "sale_percentage": 25.1,
-        "url": "https://www.supersonido.es/p/audeze-maxwell-playstation_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50833.jpg"
-    },
     "devialet-tree": {
         "id": "devialet-tree",
         "name": "Devialet Tree",
@@ -304,6 +286,15 @@
         "sale_percentage": 25.1,
         "url": "https://www.supersonido.es/p/devialet-tree",
         "image": "https://www.supersonido.es/productos/imagenes/producto21208.jpg"
+    },
+    "audeze-maxwell-playstation_oc": {
+        "id": "audeze-maxwell-playstation_oc",
+        "name": "Audeze MAXWELL PLAYSTATION",
+        "price": 299.0,
+        "price_old": 399.0,
+        "sale_percentage": 25.1,
+        "url": "https://www.supersonido.es/p/audeze-maxwell-playstation_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50833.jpg"
     },
     "svs-prime-wireless-pro-soundbase_OC": {
         "id": "svs-prime-wireless-pro-soundbase_OC",
@@ -449,15 +440,6 @@
         "url": "https://www.supersonido.es/p/project-power-box-rs-uni-4way-silver",
         "image": "https://www.supersonido.es/productos/imagenes/producto18601.jpg"
     },
-    "jbl-ma310__": {
-        "id": "jbl-ma310__",
-        "name": "JBL MA310",
-        "price": 479.0,
-        "price_old": 599.0,
-        "sale_percentage": 20.0,
-        "url": "https://www.supersonido.es/p/jbl-ma310__",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52947.jpg"
-    },
     "klipsch-rsm-525_": {
         "id": "klipsch-rsm-525_",
         "name": "Klipsch RSM-525",
@@ -466,6 +448,15 @@
         "sale_percentage": 20.0,
         "url": "https://www.supersonido.es/p/klipsch-rsm-525_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52587.jpg"
+    },
+    "jbl-ma310__": {
+        "id": "jbl-ma310__",
+        "name": "JBL MA310",
+        "price": 479.0,
+        "price_old": 599.0,
+        "sale_percentage": 20.0,
+        "url": "https://www.supersonido.es/p/jbl-ma310__",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52947.jpg"
     },
     "ortofon-st-7_": {
         "id": "ortofon-st-7_",
@@ -692,15 +683,6 @@
         "url": "https://www.supersonido.es/p/kef-lsx",
         "image": "https://www.supersonido.es/productos/imagenes/producto51214.jpg"
     },
-    "rega-brio-mk7_": {
-        "id": "rega-brio-mk7_",
-        "name": "Rega Brio MK7",
-        "price": 799.0,
-        "price_old": 949.0,
-        "sale_percentage": 15.8,
-        "url": "https://www.supersonido.es/p/rega-brio-mk7_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53874.jpg"
-    },
     "audio-technica-at-lp8x_": {
         "id": "audio-technica-at-lp8x_",
         "name": "Audio-Technica AT-LP8X",
@@ -709,6 +691,15 @@
         "sale_percentage": 20.0,
         "url": "https://www.supersonido.es/p/audio-technica-at-lp8x_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53429.jpg"
+    },
+    "rega-brio-mk7_": {
+        "id": "rega-brio-mk7_",
+        "name": "Rega Brio MK7",
+        "price": 799.0,
+        "price_old": 949.0,
+        "sale_percentage": 15.8,
+        "url": "https://www.supersonido.es/p/rega-brio-mk7_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53874.jpg"
     },
     "q-acoustics-q-active-200_": {
         "id": "q-acoustics-q-active-200_",
@@ -1412,23 +1403,14 @@
         "url": "https://www.supersonido.es/p/stax-srm-700t_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52573.jpg"
     },
-    "anthem-mdx-16_": {
-        "id": "anthem-mdx-16_",
-        "name": "Anthem MDX 16",
+    "samsung-qe75qn800b__oc": {
+        "id": "samsung-qe75qn800b__oc",
+        "name": "Samsung QE75QN800B",
         "price": 2999.0,
-        "price_old": 3999.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/anthem-mdx-16_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52754.jpg"
-    },
-    "mcintosh-mha200_oc": {
-        "id": "mcintosh-mha200_oc",
-        "name": "McIntosh MHA200",
-        "price": 2999.0,
-        "price_old": 3999.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/mcintosh-mha200_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53359.jpg"
+        "price_old": 4999.0,
+        "sale_percentage": 40.0,
+        "url": "https://www.supersonido.es/p/samsung-qe75qn800b__oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto51399.jpg"
     },
     "isotek-systems-sigmas_": {
         "id": "isotek-systems-sigmas_",
@@ -1439,14 +1421,23 @@
         "url": "https://www.supersonido.es/p/isotek-systems-sigmas_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50780.jpg"
     },
-    "samsung-qe75qn800b__oc": {
-        "id": "samsung-qe75qn800b__oc",
-        "name": "Samsung QE75QN800B",
+    "mcintosh-mha200_oc": {
+        "id": "mcintosh-mha200_oc",
+        "name": "McIntosh MHA200",
         "price": 2999.0,
-        "price_old": 4999.0,
-        "sale_percentage": 40.0,
-        "url": "https://www.supersonido.es/p/samsung-qe75qn800b__oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto51399.jpg"
+        "price_old": 3999.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/mcintosh-mha200_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53359.jpg"
+    },
+    "anthem-mdx-16_": {
+        "id": "anthem-mdx-16_",
+        "name": "Anthem MDX 16",
+        "price": 2999.0,
+        "price_old": 3999.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/anthem-mdx-16_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52754.jpg"
     },
     "jvc-lx-nz30_": {
         "id": "jvc-lx-nz30_",
@@ -1798,5 +1789,14 @@
         "sale_percentage": 25.5,
         "url": "https://www.supersonido.es/p/audio-research-gs-pre",
         "image": "https://www.supersonido.es/productos/imagenes/producto18555.jpg"
+    },
+    "krell-industries-evo-403": {
+        "id": "krell-industries-evo-403",
+        "name": "Krell Industries Evo 403",
+        "price": 14790.0,
+        "price_old": 22090.0,
+        "sale_percentage": 33.0,
+        "url": "https://www.supersonido.es/p/krell-industries-evo-403",
+        "image": "https://www.supersonido.es/productos/imagenes/producto3647.jpg"
     }
 }
