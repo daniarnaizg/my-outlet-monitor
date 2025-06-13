@@ -755,15 +755,6 @@
         "url": "https://www.supersonido.es/p/audiolab-6000a-play__oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto52542.jpg"
     },
-    "kef-lsx-ii-lt_": {
-        "id": "kef-lsx-ii-lt_",
-        "name": "KEF LSX II LT",
-        "price": 849.0,
-        "price_old": 999.0,
-        "sale_percentage": 15.0,
-        "url": "https://www.supersonido.es/p/kef-lsx-ii-lt_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto54124.jpg"
-    },
     "dan-clark-audio-on-2-closed_": {
         "id": "dan-clark-audio-on-2-closed_",
         "name": "Dan Clark Audio ÃON 2 Closed",
@@ -818,15 +809,6 @@
         "url": "https://www.supersonido.es/p/audiolab-6000a-play_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto53433.jpg"
     },
-    "musical-fidelity-m3si_": {
-        "id": "musical-fidelity-m3si_",
-        "name": "Musical Fidelity M3SI",
-        "price": 949.0,
-        "price_old": 1399.0,
-        "sale_percentage": 32.2,
-        "url": "https://www.supersonido.es/p/musical-fidelity-m3si_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53354.jpg"
-    },
     "pioneer-vsx-lx505": {
         "id": "pioneer-vsx-lx505",
         "name": "Pioneer VSX-LX505",
@@ -835,6 +817,15 @@
         "sale_percentage": 47.2,
         "url": "https://www.supersonido.es/p/pioneer-vsx-lx505",
         "image": "https://www.supersonido.es/productos/imagenes/producto47725.jpg"
+    },
+    "musical-fidelity-m3si_": {
+        "id": "musical-fidelity-m3si_",
+        "name": "Musical Fidelity M3SI",
+        "price": 949.0,
+        "price_old": 1399.0,
+        "sale_percentage": 32.2,
+        "url": "https://www.supersonido.es/p/musical-fidelity-m3si_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53354.jpg"
     },
     "audiolab-mdac-_": {
         "id": "audiolab-mdac-_",
@@ -899,15 +890,6 @@
         "url": "https://www.supersonido.es/p/klipsch-thx-5002-s_",
         "image": "https://www.supersonido.es/productos/imagenes/producto51081.jpg"
     },
-    "marantz-cinema-60_": {
-        "id": "marantz-cinema-60_",
-        "name": "Marantz CINEMA 60",
-        "price": 999.0,
-        "price_old": 1350.0,
-        "sale_percentage": 26.0,
-        "url": "https://www.supersonido.es/p/marantz-cinema-60_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53850.jpg"
-    },
     "kef-ls50-meta": {
         "id": "kef-ls50-meta",
         "name": "KEF LS50 META",
@@ -916,6 +898,15 @@
         "sale_percentage": 23.1,
         "url": "https://www.supersonido.es/p/kef-ls50-meta",
         "image": "https://www.supersonido.es/productos/imagenes/producto52614.jpg"
+    },
+    "marantz-cinema-60_": {
+        "id": "marantz-cinema-60_",
+        "name": "Marantz CINEMA 60",
+        "price": 999.0,
+        "price_old": 1350.0,
+        "sale_percentage": 26.0,
+        "url": "https://www.supersonido.es/p/marantz-cinema-60_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53850.jpg"
     },
     "svs-ultra-surround_": {
         "id": "svs-ultra-surround_",
@@ -1798,5 +1789,14 @@
         "sale_percentage": 25.5,
         "url": "https://www.supersonido.es/p/audio-research-gs-pre",
         "image": "https://www.supersonido.es/productos/imagenes/producto18555.jpg"
+    },
+    "krell-industries-evo-403": {
+        "id": "krell-industries-evo-403",
+        "name": "Krell Industries Evo 403",
+        "price": 14790.0,
+        "price_old": 22090.0,
+        "sale_percentage": 33.0,
+        "url": "https://www.supersonido.es/p/krell-industries-evo-403",
+        "image": "https://www.supersonido.es/productos/imagenes/producto3647.jpg"
     }
 }
