@@ -125,15 +125,6 @@
         "url": "https://www.supersonido.es/p/audiopro-link-2_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53509.jpg"
     },
-    "audio-technica-vm740ml_": {
-        "id": "audio-technica-vm740ml_",
-        "name": "Audio-Technica VM740ML",
-        "price": 149.0,
-        "price_old": 329.0,
-        "sale_percentage": 54.7,
-        "url": "https://www.supersonido.es/p/audio-technica-vm740ml_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto54221.jpg"
-    },
     "the-chord-company-shawline-digital-1bnc-to-1bnc_": {
         "id": "the-chord-company-shawline-digital-1bnc-to-1bnc_",
         "name": "The Chord Company Shawline Digital 1BNC to 1BNC",
@@ -196,15 +187,6 @@
         "sale_percentage": 71.5,
         "url": "https://www.supersonido.es/p/the-chord-company-chordohmic-ground-aray-hdmi_",
         "image": "https://www.supersonido.es/productos/imagenes/producto51357.jpg"
-    },
-    "sony-str-dh190__": {
-        "id": "sony-str-dh190__",
-        "name": "Sony STR-DH190",
-        "price": 199.0,
-        "price_old": 299.0,
-        "sale_percentage": 33.4,
-        "url": "https://www.supersonido.es/p/sony-str-dh190__",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53029.jpg"
     },
     "sony-ht-s400_oc": {
         "id": "sony-ht-s400_oc",
@@ -1798,5 +1780,23 @@
         "sale_percentage": 30.4,
         "url": "https://www.supersonido.es/p/quad-esl2912_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53937.jpg"
+    },
+    "wilson-audio-tunetot_oca": {
+        "id": "wilson-audio-tunetot_oca",
+        "name": "Wilson Audio TuneTot",
+        "price": 8990.0,
+        "price_old": 16990.0,
+        "sale_percentage": 47.1,
+        "url": "https://www.supersonido.es/p/wilson-audio-tunetot_oca",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52602.jpg"
+    },
+    "audio-research-ref-dac-dlna": {
+        "id": "audio-research-ref-dac-dlna",
+        "name": "Audio Research REF DAC",
+        "price": 9350.0,
+        "price_old": 21290.0,
+        "sale_percentage": 56.1,
+        "url": "https://www.supersonido.es/p/audio-research-ref-dac-dlna",
+        "image": "https://www.supersonido.es/productos/imagenes/producto12183.jpg"
     }
 }
