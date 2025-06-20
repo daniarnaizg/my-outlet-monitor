@@ -368,6 +368,15 @@
         "url": "https://www.supersonido.es/p/monitor-audio-cpwt380_",
         "image": "https://www.supersonido.es/productos/imagenes/producto26150.jpg"
     },
+    "wiim-vibelink-amp_": {
+        "id": "wiim-vibelink-amp_",
+        "name": "Wiim Vibelink Amp",
+        "price": 309.0,
+        "price_old": 389.0,
+        "sale_percentage": 20.6,
+        "url": "https://www.supersonido.es/p/wiim-vibelink-amp_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto54188.jpg"
+    },
     "wiim-ultra__oc": {
         "id": "wiim-ultra__oc",
         "name": "Wiim ULTRA",
@@ -395,15 +404,6 @@
         "url": "https://www.supersonido.es/p/pro-ject-debut-s-rainier_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52193.jpg"
     },
-    "the-chord-company-epic-x_occ": {
-        "id": "the-chord-company-epic-x_occ",
-        "name": "The Chord Company Epic X",
-        "price": 349.0,
-        "price_old": 529.0,
-        "sale_percentage": 34.0,
-        "url": "https://www.supersonido.es/p/the-chord-company-epic-x_occ",
-        "image": "https://www.supersonido.es/productos/imagenes/producto54071.jpg"
-    },
     "ortofon-2m-black_": {
         "id": "ortofon-2m-black_",
         "name": "Ortofon 2M Black",
@@ -413,14 +413,14 @@
         "url": "https://www.supersonido.es/p/ortofon-2m-black_",
         "image": "https://www.supersonido.es/productos/imagenes/producto54203.jpg"
     },
-    "yamaha-as501-b_oc": {
-        "id": "yamaha-as501-b_oc",
-        "name": "Yamaha A-S501",
-        "price": 399.0,
-        "price_old": 559.0,
-        "sale_percentage": 28.6,
-        "url": "https://www.supersonido.es/p/yamaha-as501-b_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto54222.jpg"
+    "the-chord-company-epic-x_occ": {
+        "id": "the-chord-company-epic-x_occ",
+        "name": "The Chord Company Epic X",
+        "price": 349.0,
+        "price_old": 529.0,
+        "sale_percentage": 34.0,
+        "url": "https://www.supersonido.es/p/the-chord-company-epic-x_occ",
+        "image": "https://www.supersonido.es/productos/imagenes/producto54071.jpg"
     },
     "isotek-systems-evo3-elite_": {
         "id": "isotek-systems-evo3-elite_",
@@ -439,6 +439,15 @@
         "sale_percentage": 27.3,
         "url": "https://www.supersonido.es/p/ortofon-mc-quintet-blue_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53355.jpg"
+    },
+    "yamaha-as501-b_oc": {
+        "id": "yamaha-as501-b_oc",
+        "name": "Yamaha A-S501",
+        "price": 399.0,
+        "price_old": 559.0,
+        "sale_percentage": 28.6,
+        "url": "https://www.supersonido.es/p/yamaha-as501-b_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto54222.jpg"
     },
     "sonos-ace_": {
         "id": "sonos-ace_",
@@ -1196,15 +1205,6 @@
         "url": "https://www.supersonido.es/p/innuos-zenmini-mk3-s_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53536.jpg"
     },
-    "pro-ject-x8_oc": {
-        "id": "pro-ject-x8_oc",
-        "name": "Pro-Ject X8-SP",
-        "price": 1899.0,
-        "price_old": 2299.0,
-        "sale_percentage": 17.4,
-        "url": "https://www.supersonido.es/p/pro-ject-x8_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52991.jpg"
-    },
     "devialet-dione_": {
         "id": "devialet-dione_",
         "name": "Devialet Dione",
@@ -1213,6 +1213,15 @@
         "sale_percentage": 9.6,
         "url": "https://www.supersonido.es/p/devialet-dione_",
         "image": "https://www.supersonido.es/productos/imagenes/producto54189.jpg"
+    },
+    "pro-ject-x8_oc": {
+        "id": "pro-ject-x8_oc",
+        "name": "Pro-Ject X8-SP",
+        "price": 1899.0,
+        "price_old": 2299.0,
+        "sale_percentage": 17.4,
+        "url": "https://www.supersonido.es/p/pro-ject-x8_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52991.jpg"
     },
     "anthem-mca-225-gen-2_": {
         "id": "anthem-mca-225-gen-2_",
@@ -1789,14 +1798,5 @@
         "sale_percentage": 47.1,
         "url": "https://www.supersonido.es/p/wilson-audio-tunetot_oca",
         "image": "https://www.supersonido.es/productos/imagenes/producto52602.jpg"
-    },
-    "audio-research-ref-dac-dlna": {
-        "id": "audio-research-ref-dac-dlna",
-        "name": "Audio Research REF DAC",
-        "price": 9350.0,
-        "price_old": 21290.0,
-        "sale_percentage": 56.1,
-        "url": "https://www.supersonido.es/p/audio-research-ref-dac-dlna",
-        "image": "https://www.supersonido.es/productos/imagenes/producto12183.jpg"
     }
 }
