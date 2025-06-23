@@ -1,13 +1,4 @@
 {
-    "b-tech-bt-34": {
-        "id": "b-tech-bt-34",
-        "name": "B-Tech BT 34",
-        "price": 19.0,
-        "price_old": 39.0,
-        "sale_percentage": 51.3,
-        "url": "https://www.supersonido.es/p/b-tech-bt-34",
-        "image": "https://www.supersonido.es/productos/imagenes/producto2891.jpg"
-    },
     "pro-ject-subplatter-x2": {
         "id": "pro-ject-subplatter-x2",
         "name": "Pro-Ject SUBPLATTER X2",
@@ -710,6 +701,15 @@
         "url": "https://www.supersonido.es/p/focal-vestia-n-1_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52633.jpg"
     },
+    "samsung-hw-q990d_": {
+        "id": "samsung-hw-q990d_",
+        "name": "Samsung HW-Q990D",
+        "price": 729.0,
+        "price_old": 1399.0,
+        "sale_percentage": 47.9,
+        "url": "https://www.supersonido.es/p/samsung-hw-q990d_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52885.jpg"
+    },
     "stax-sr-l500-mk2_": {
         "id": "stax-sr-l500-mk2_",
         "name": "Stax SR-L500 MK2",
@@ -718,15 +718,6 @@
         "sale_percentage": 24.3,
         "url": "https://www.supersonido.es/p/stax-sr-l500-mk2_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52568.jpg"
-    },
-    "samsung-hw-q990d_": {
-        "id": "samsung-hw-q990d_",
-        "name": "Samsung HW-Q990D",
-        "price": 769.0,
-        "price_old": 1399.0,
-        "sale_percentage": 45.0,
-        "url": "https://www.supersonido.es/p/samsung-hw-q990d_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52885.jpg"
     },
     "innuos-pulsemini_oca": {
         "id": "innuos-pulsemini_oca",
@@ -1798,5 +1789,14 @@
         "sale_percentage": 47.1,
         "url": "https://www.supersonido.es/p/wilson-audio-tunetot_oca",
         "image": "https://www.supersonido.es/productos/imagenes/producto52602.jpg"
+    },
+    "audio-research-ref-dac-dlna": {
+        "id": "audio-research-ref-dac-dlna",
+        "name": "Audio Research REF DAC",
+        "price": 9350.0,
+        "price_old": 21290.0,
+        "sale_percentage": 56.1,
+        "url": "https://www.supersonido.es/p/audio-research-ref-dac-dlna",
+        "image": "https://www.supersonido.es/productos/imagenes/producto12183.jpg"
     }
 }
