@@ -386,15 +386,6 @@
         "url": "https://www.supersonido.es/p/pro-ject-debut-s-rainier_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52193.jpg"
     },
-    "the-chord-company-epic-x_occ": {
-        "id": "the-chord-company-epic-x_occ",
-        "name": "The Chord Company Epic X",
-        "price": 349.0,
-        "price_old": 529.0,
-        "sale_percentage": 34.0,
-        "url": "https://www.supersonido.es/p/the-chord-company-epic-x_occ",
-        "image": "https://www.supersonido.es/productos/imagenes/producto54071.jpg"
-    },
     "ortofon-2m-black_": {
         "id": "ortofon-2m-black_",
         "name": "Ortofon 2M Black",
@@ -404,14 +395,14 @@
         "url": "https://www.supersonido.es/p/ortofon-2m-black_",
         "image": "https://www.supersonido.es/productos/imagenes/producto54203.jpg"
     },
-    "yamaha-as501-b_oc": {
-        "id": "yamaha-as501-b_oc",
-        "name": "Yamaha A-S501",
-        "price": 399.0,
-        "price_old": 559.0,
-        "sale_percentage": 28.6,
-        "url": "https://www.supersonido.es/p/yamaha-as501-b_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto54222.jpg"
+    "the-chord-company-epic-x_occ": {
+        "id": "the-chord-company-epic-x_occ",
+        "name": "The Chord Company Epic X",
+        "price": 349.0,
+        "price_old": 529.0,
+        "sale_percentage": 34.0,
+        "url": "https://www.supersonido.es/p/the-chord-company-epic-x_occ",
+        "image": "https://www.supersonido.es/productos/imagenes/producto54071.jpg"
     },
     "isotek-systems-evo3-elite_": {
         "id": "isotek-systems-evo3-elite_",
@@ -430,6 +421,15 @@
         "sale_percentage": 27.3,
         "url": "https://www.supersonido.es/p/ortofon-mc-quintet-blue_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53355.jpg"
+    },
+    "yamaha-as501-b_oc": {
+        "id": "yamaha-as501-b_oc",
+        "name": "Yamaha A-S501",
+        "price": 399.0,
+        "price_old": 559.0,
+        "sale_percentage": 28.6,
+        "url": "https://www.supersonido.es/p/yamaha-as501-b_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto54222.jpg"
     },
     "sonos-ace_": {
         "id": "sonos-ace_",
@@ -1646,14 +1646,14 @@
         "url": "https://www.supersonido.es/p/electrocompaniet-eci-6dx",
         "image": "https://www.supersonido.es/productos/imagenes/producto22744.jpg"
     },
-    "devialet-220-pro_oc": {
-        "id": "devialet-220-pro_oc",
-        "name": "Devialet Expert 220 Pro",
-        "price": 4500.0,
-        "price_old": 7990.0,
-        "sale_percentage": 43.7,
-        "url": "https://www.supersonido.es/p/devialet-220-pro_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53593.jpg"
+    "martinlogan-electromotion-esl-x": {
+        "id": "martinlogan-electromotion-esl-x",
+        "name": "Martin-Logan ElectroMotion ESL X",
+        "price": 4790.0,
+        "price_old": 6390.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/martinlogan-electromotion-esl-x",
+        "image": "https://www.supersonido.es/productos/imagenes/producto22504.jpg"
     },
     "mofi-electronics-sourcepoint-888_": {
         "id": "mofi-electronics-sourcepoint-888_",
@@ -1663,15 +1663,6 @@
         "sale_percentage": 17.3,
         "url": "https://www.supersonido.es/p/mofi-electronics-sourcepoint-888_",
         "image": "https://www.supersonido.es/productos/imagenes/producto54166.jpg"
-    },
-    "martinlogan-electromotion-esl-x": {
-        "id": "martinlogan-electromotion-esl-x",
-        "name": "Martin-Logan ElectroMotion ESL X",
-        "price": 4790.0,
-        "price_old": 6390.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/martinlogan-electromotion-esl-x",
-        "image": "https://www.supersonido.es/productos/imagenes/producto22504.jpg"
     },
     "the-chord-company-poweraray-professional___": {
         "id": "the-chord-company-poweraray-professional___",
@@ -1798,5 +1789,14 @@
         "sale_percentage": 47.1,
         "url": "https://www.supersonido.es/p/wilson-audio-tunetot_oca",
         "image": "https://www.supersonido.es/productos/imagenes/producto52602.jpg"
+    },
+    "audio-research-ref-dac-dlna": {
+        "id": "audio-research-ref-dac-dlna",
+        "name": "Audio Research REF DAC",
+        "price": 9350.0,
+        "price_old": 21290.0,
+        "sale_percentage": 56.1,
+        "url": "https://www.supersonido.es/p/audio-research-ref-dac-dlna",
+        "image": "https://www.supersonido.es/productos/imagenes/producto12183.jpg"
     }
 }
