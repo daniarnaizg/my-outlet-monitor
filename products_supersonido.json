@@ -1529,6 +1529,15 @@
         "url": "https://www.supersonido.es/p/mcintosh-mha200_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto53359.jpg"
     },
+    "mcintosh-mha150.oc": {
+        "id": "mcintosh-mha150.oc",
+        "name": "McIntosh MHA150",
+        "price": 2999.0,
+        "price_old": 7499.0,
+        "sale_percentage": 60.0,
+        "url": "https://www.supersonido.es/p/mcintosh-mha150.oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto54288.jpg"
+    },
     "primaluna-evo-100-tube-phono-preamplifier_": {
         "id": "primaluna-evo-100-tube-phono-preamplifier_",
         "name": "Primaluna EVO 100-11 Tube Phono Preamplifier",
@@ -1789,14 +1798,5 @@
         "sale_percentage": 23.3,
         "url": "https://www.supersonido.es/p/anthem-avm-90",
         "image": "https://www.supersonido.es/productos/imagenes/producto43703.jpg"
-    },
-    "mcintosh-c53_": {
-        "id": "mcintosh-c53_",
-        "name": "McIntosh C53",
-        "price": 8299.0,
-        "price_old": 10999.0,
-        "sale_percentage": 24.5,
-        "url": "https://www.supersonido.es/p/mcintosh-c53_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto51489.jpg"
     }
 }
