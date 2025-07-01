@@ -1466,15 +1466,6 @@
         "url": "https://www.supersonido.es/p/samsung-qe75qn800b__oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto51399.jpg"
     },
-    "mcintosh-mha150.oc": {
-        "id": "mcintosh-mha150.oc",
-        "name": "McIntosh MHA150",
-        "price": 2999.0,
-        "price_old": 7499.0,
-        "sale_percentage": 60.0,
-        "url": "https://www.supersonido.es/p/mcintosh-mha150.oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto54288.jpg"
-    },
     "mcintosh-mha200_oc": {
         "id": "mcintosh-mha200_oc",
         "name": "McIntosh MHA200",
@@ -1798,5 +1789,14 @@
         "sale_percentage": 30.0,
         "url": "https://www.supersonido.es/p/innuos-statement_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50152.jpg"
+    },
+    "audio-research-gs-pre": {
+        "id": "audio-research-gs-pre",
+        "name": "Audio Research GS Pre",
+        "price": 13990.0,
+        "price_old": 18790.0,
+        "sale_percentage": 25.5,
+        "url": "https://www.supersonido.es/p/audio-research-gs-pre",
+        "image": "https://www.supersonido.es/productos/imagenes/producto18555.jpg"
     }
 }
