@@ -62,6 +62,15 @@
         "url": "https://www.supersonido.es/p/the-chord-company-c-view-hdmi-8k",
         "image": "https://www.supersonido.es/productos/imagenes/producto49649.jpg"
     },
+    "audio-technica-ath-sq1tw": {
+        "id": "audio-technica-ath-sq1tw",
+        "name": "Audio-Technica ATH-SQ1TW",
+        "price": 44.0,
+        "price_old": 89.0,
+        "sale_percentage": 50.6,
+        "url": "https://www.supersonido.es/p/audio-technica-ath-sq1tw",
+        "image": "https://www.supersonido.es/productos/imagenes/producto46482.jpg"
+    },
     "akg-k92": {
         "id": "akg-k92",
         "name": "AKG K92",
@@ -125,15 +134,6 @@
         "url": "https://www.supersonido.es/p/sony-wh-ch720n",
         "image": "https://www.supersonido.es/productos/imagenes/producto49050.jpg"
     },
-    "jamo-a-500": {
-        "id": "jamo-a-500",
-        "name": "Jamo A 500",
-        "price": 69.9,
-        "price_old": 149.0,
-        "sale_percentage": 53.1,
-        "url": "https://www.supersonido.es/p/jamo-a-500",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53892.jpg"
-    },
     "jamo-a-500_": {
         "id": "jamo-a-500_",
         "name": "Jamo A 500",
@@ -142,6 +142,15 @@
         "sale_percentage": 53.1,
         "url": "https://www.supersonido.es/p/jamo-a-500_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53895.jpg"
+    },
+    "jamo-a-500": {
+        "id": "jamo-a-500",
+        "name": "Jamo A 500",
+        "price": 69.9,
+        "price_old": 149.0,
+        "sale_percentage": 53.1,
+        "url": "https://www.supersonido.es/p/jamo-a-500",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53892.jpg"
     },
     "sennheiser-cx-true-wireless": {
         "id": "sennheiser-cx-true-wireless",
