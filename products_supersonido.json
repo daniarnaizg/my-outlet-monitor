@@ -215,15 +215,6 @@
         "url": "https://www.supersonido.es/p/audioquest-slip-db-14-4-2m",
         "image": "https://www.supersonido.es/productos/imagenes/producto51463.jpg"
     },
-    "the-chord-company-shawline-power-chord_": {
-        "id": "the-chord-company-shawline-power-chord_",
-        "name": "The Chord Company Shawline Power Chord",
-        "price": 219.0,
-        "price_old": 299.0,
-        "sale_percentage": 26.8,
-        "url": "https://www.supersonido.es/p/the-chord-company-shawline-power-chord_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53712.jpg"
-    },
     "pro-ject-phono-box-ds2_oc": {
         "id": "pro-ject-phono-box-ds2_oc",
         "name": "Pro-Ject Phono Box DS2",
@@ -232,6 +223,15 @@
         "sale_percentage": 21.5,
         "url": "https://www.supersonido.es/p/pro-ject-phono-box-ds2_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto53934.jpg"
+    },
+    "the-chord-company-shawline-power-chord_": {
+        "id": "the-chord-company-shawline-power-chord_",
+        "name": "The Chord Company Shawline Power Chord",
+        "price": 219.0,
+        "price_old": 299.0,
+        "sale_percentage": 26.8,
+        "url": "https://www.supersonido.es/p/the-chord-company-shawline-power-chord_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53712.jpg"
     },
     "nordost-4-flat-speaker-cable_": {
         "id": "nordost-4-flat-speaker-cable_",
@@ -809,15 +809,6 @@
         "url": "https://www.supersonido.es/p/cayin-n6 MKII_",
         "image": "https://www.supersonido.es/productos/imagenes/producto47232.jpg"
     },
-    "q-acoustics-concept-30_": {
-        "id": "q-acoustics-concept-30_",
-        "name": "Q Acoustics Concept 30",
-        "price": 899.0,
-        "price_old": 1199.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/q-acoustics-concept-30_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53596.jpg"
-    },
     "cambridge-audio-evo-cd_oc": {
         "id": "cambridge-audio-evo-cd_oc",
         "name": "Cambridge Audio EVO CD",
@@ -826,6 +817,15 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/cambridge-audio-evo-cd_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto53360.jpg"
+    },
+    "q-acoustics-concept-30_": {
+        "id": "q-acoustics-concept-30_",
+        "name": "Q Acoustics Concept 30",
+        "price": 899.0,
+        "price_old": 1199.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/q-acoustics-concept-30_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53596.jpg"
     },
     "audiolab-6000a-play_oc": {
         "id": "audiolab-6000a-play_oc",
@@ -916,15 +916,6 @@
         "sale_percentage": 56.0,
         "url": "https://www.supersonido.es/p/hisense-px1-pro_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53363.jpg"
-    },
-    "focal-theva-n-2_": {
-        "id": "focal-theva-n-2_",
-        "name": "FOCAL THEVA NÂ°2",
-        "price": 1119.0,
-        "price_old": 1498.0,
-        "sale_percentage": 25.3,
-        "url": "https://www.supersonido.es/p/focal-theva-n-2_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53436.jpg"
     },
     "kef-kc62_": {
         "id": "kef-kc62_",
@@ -1358,15 +1349,6 @@
         "url": "https://www.supersonido.es/p/primare-i35dac_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50790.jpg"
     },
-    "kef-r7-meta_": {
-        "id": "kef-r7-meta_",
-        "name": "KEF R7 Meta",
-        "price": 2990.0,
-        "price_old": 5250.0,
-        "sale_percentage": 43.0,
-        "url": "https://www.supersonido.es/p/kef-r7-meta_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53819.jpg"
-    },
     "the-chord-company-poweraray-professional___": {
         "id": "the-chord-company-poweraray-professional___",
         "name": "The Chord Company PowerARAY Professional",
@@ -1375,6 +1357,15 @@
         "sale_percentage": 37.2,
         "url": "https://www.supersonido.es/p/the-chord-company-poweraray-professional___",
         "image": "https://www.supersonido.es/productos/imagenes/producto53729.jpg"
+    },
+    "kef-r7-meta_": {
+        "id": "kef-r7-meta_",
+        "name": "KEF R7 Meta",
+        "price": 2990.0,
+        "price_old": 5250.0,
+        "sale_percentage": 43.0,
+        "url": "https://www.supersonido.es/p/kef-r7-meta_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53819.jpg"
     },
     "stax-srm-700t_": {
         "id": "stax-srm-700t_",
@@ -1798,5 +1789,14 @@
         "sale_percentage": 26.9,
         "url": "https://www.supersonido.es/p/audio-research-reference-210t",
         "image": "https://www.supersonido.es/productos/imagenes/producto45716.jpg"
+    },
+    "wilson-audio-sasha-daw": {
+        "id": "wilson-audio-sasha-daw",
+        "name": "Wilson Audio Sasha DAW",
+        "price": 33500.0,
+        "price_old": 53990.0,
+        "sale_percentage": 38.0,
+        "url": "https://www.supersonido.es/p/wilson-audio-sasha-daw",
+        "image": "https://www.supersonido.es/productos/imagenes/producto32981.jpg"
     }
 }
