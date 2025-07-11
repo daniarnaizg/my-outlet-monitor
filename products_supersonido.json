@@ -611,15 +611,6 @@
         "url": "https://www.supersonido.es/p/letshuoer-ej07m_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53476.jpg"
     },
-    "audiolab-6000a_": {
-        "id": "audiolab-6000a_",
-        "name": "Audiolab 6000A",
-        "price": 599.0,
-        "price_old": 899.0,
-        "sale_percentage": 33.4,
-        "url": "https://www.supersonido.es/p/audiolab-6000a_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53435.jpg"
-    },
     "feliks-audio-echo-mk2_": {
         "id": "feliks-audio-echo-mk2_",
         "name": "Feliks Audio Echo MK2",
@@ -1798,5 +1789,14 @@
         "sale_percentage": 38.0,
         "url": "https://www.supersonido.es/p/wilson-audio-sasha-daw",
         "image": "https://www.supersonido.es/productos/imagenes/producto32981.jpg"
+    },
+    "wilson-audio-alexx": {
+        "id": "wilson-audio-alexx",
+        "name": "Wilson Audio Alexx",
+        "price": 89990.0,
+        "price_old": 142690.0,
+        "sale_percentage": 36.9,
+        "url": "https://www.supersonido.es/p/wilson-audio-alexx",
+        "image": "https://www.supersonido.es/productos/imagenes/producto24319.jpg"
     }
 }
