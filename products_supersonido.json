@@ -422,15 +422,6 @@
         "url": "https://www.supersonido.es/p/ortofon-mc-quintet-blue_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53355.jpg"
     },
-    "ibasso-dx180_": {
-        "id": "ibasso-dx180_",
-        "name": "Ibasso DX180",
-        "price": 399.0,
-        "price_old": 529.0,
-        "sale_percentage": 24.6,
-        "url": "https://www.supersonido.es/p/ibasso-dx180_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53656.jpg"
-    },
     "isotek-systems-evo3-elite_": {
         "id": "isotek-systems-evo3-elite_",
         "name": "Isotek Systems EVO3 ELITE",
@@ -439,6 +430,15 @@
         "sale_percentage": 50.1,
         "url": "https://www.supersonido.es/p/isotek-systems-evo3-elite_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53566.jpg"
+    },
+    "ibasso-dx180_": {
+        "id": "ibasso-dx180_",
+        "name": "Ibasso DX180",
+        "price": 399.0,
+        "price_old": 529.0,
+        "sale_percentage": 24.6,
+        "url": "https://www.supersonido.es/p/ibasso-dx180_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53656.jpg"
     },
     "yamaha-as501-b_oc": {
         "id": "yamaha-as501-b_oc",
@@ -808,6 +808,15 @@
         "sale_percentage": 35.7,
         "url": "https://www.supersonido.es/p/cayin-n6 MKII_",
         "image": "https://www.supersonido.es/productos/imagenes/producto47232.jpg"
+    },
+    "svs-sb-2000-pro____": {
+        "id": "svs-sb-2000-pro____",
+        "name": "SVS SB-2000 Pro",
+        "price": 899.0,
+        "price_old": 1149.0,
+        "sale_percentage": 21.8,
+        "url": "https://www.supersonido.es/p/svs-sb-2000-pro____",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53392.jpg"
     },
     "cambridge-audio-evo-cd_oc": {
         "id": "cambridge-audio-evo-cd_oc",
@@ -1789,14 +1798,5 @@
         "sale_percentage": 26.9,
         "url": "https://www.supersonido.es/p/audio-research-reference-210t",
         "image": "https://www.supersonido.es/productos/imagenes/producto45716.jpg"
-    },
-    "wilson-audio-sasha-daw": {
-        "id": "wilson-audio-sasha-daw",
-        "name": "Wilson Audio Sasha DAW",
-        "price": 33500.0,
-        "price_old": 53990.0,
-        "sale_percentage": 38.0,
-        "url": "https://www.supersonido.es/p/wilson-audio-sasha-daw",
-        "image": "https://www.supersonido.es/productos/imagenes/producto32981.jpg"
     }
 }
