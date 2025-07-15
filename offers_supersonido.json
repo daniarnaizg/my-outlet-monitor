@@ -116,15 +116,6 @@
         "url": "https://www.supersonido.es/p/the-chord-company-c-sub-1-rca-to-1-rca_of",
         "image": "https://www.supersonido.es/productos/imagenes/producto53448.jpg"
     },
-    "sony-wh-ch720n": {
-        "id": "sony-wh-ch720n",
-        "name": "Sony WH-CH720N",
-        "price": 69.0,
-        "price_old": 149.0,
-        "sale_percentage": 53.7,
-        "url": "https://www.supersonido.es/p/sony-wh-ch720n",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49050.jpg"
-    },
     "yamaha-ws-b1a": {
         "id": "yamaha-ws-b1a",
         "name": "Yamaha WS-B1A",
@@ -133,6 +124,15 @@
         "sale_percentage": 46.5,
         "url": "https://www.supersonido.es/p/yamaha-ws-b1a",
         "image": "https://www.supersonido.es/productos/imagenes/producto48810.jpg"
+    },
+    "sony-wh-ch720n": {
+        "id": "sony-wh-ch720n",
+        "name": "Sony WH-CH720N",
+        "price": 69.0,
+        "price_old": 149.0,
+        "sale_percentage": 53.7,
+        "url": "https://www.supersonido.es/p/sony-wh-ch720n",
+        "image": "https://www.supersonido.es/productos/imagenes/producto49050.jpg"
     },
     "sennheiser-cx-true-wireless": {
         "id": "sennheiser-cx-true-wireless",
@@ -197,15 +197,6 @@
         "url": "https://www.supersonido.es/p/astell-kern-kann-cube-case",
         "image": "https://www.supersonido.es/productos/imagenes/producto32230.jpg"
     },
-    "denon-ah-c10-perl": {
-        "id": "denon-ah-c10-perl",
-        "name": "Denon AH-C10 Perl",
-        "price": 99.0,
-        "price_old": 169.0,
-        "sale_percentage": 41.4,
-        "url": "https://www.supersonido.es/p/denon-ah-c10-perl",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50404.jpg"
-    },
     "sennheiser-accentum-wireless": {
         "id": "sennheiser-accentum-wireless",
         "name": "Sennheiser ACCENTUM Wireless",
@@ -214,6 +205,15 @@
         "sale_percentage": 45.0,
         "url": "https://www.supersonido.es/p/sennheiser-accentum-wireless",
         "image": "https://www.supersonido.es/productos/imagenes/producto50517.jpg"
+    },
+    "denon-ah-c10-perl": {
+        "id": "denon-ah-c10-perl",
+        "name": "Denon AH-C10 Perl",
+        "price": 99.0,
+        "price_old": 169.0,
+        "sale_percentage": 41.4,
+        "url": "https://www.supersonido.es/p/denon-ah-c10-perl",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50404.jpg"
     },
     "jamo-iw-425-lcr-fg": {
         "id": "jamo-iw-425-lcr-fg",
@@ -350,6 +350,15 @@
         "url": "https://www.supersonido.es/p/magnat-prime-shadow",
         "image": "https://www.supersonido.es/productos/imagenes/producto49887.jpg"
     },
+    "denon-ah-c15-perl-pro": {
+        "id": "denon-ah-c15-perl-pro",
+        "name": "Denon AH-C15 Perl Pro",
+        "price": 149.0,
+        "price_old": 249.0,
+        "sale_percentage": 40.2,
+        "url": "https://www.supersonido.es/p/denon-ah-c15-perl-pro",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50405.jpg"
+    },
     "jamo-s7-25c": {
         "id": "jamo-s7-25c",
         "name": "Jamo S7-25C",
@@ -376,14 +385,5 @@
         "sale_percentage": 40.2,
         "url": "https://www.supersonido.es/p/klipsch-groove-xl",
         "image": "https://www.supersonido.es/productos/imagenes/producto51569.jpg"
-    },
-    "denon-ah-c15-perl-pro": {
-        "id": "denon-ah-c15-perl-pro",
-        "name": "Denon AH-C15 Perl Pro",
-        "price": 149.0,
-        "price_old": 249.0,
-        "sale_percentage": 40.2,
-        "url": "https://www.supersonido.es/p/denon-ah-c15-perl-pro",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50405.jpg"
     }
 }
