@@ -116,15 +116,6 @@
         "url": "https://www.supersonido.es/p/the-chord-company-c-sub-1-rca-to-1-rca_of",
         "image": "https://www.supersonido.es/productos/imagenes/producto53448.jpg"
     },
-    "yamaha-ws-b1a": {
-        "id": "yamaha-ws-b1a",
-        "name": "Yamaha WS-B1A",
-        "price": 69.0,
-        "price_old": 129.0,
-        "sale_percentage": 46.5,
-        "url": "https://www.supersonido.es/p/yamaha-ws-b1a",
-        "image": "https://www.supersonido.es/productos/imagenes/producto48810.jpg"
-    },
     "sony-wh-ch720n": {
         "id": "sony-wh-ch720n",
         "name": "Sony WH-CH720N",
@@ -133,6 +124,15 @@
         "sale_percentage": 53.7,
         "url": "https://www.supersonido.es/p/sony-wh-ch720n",
         "image": "https://www.supersonido.es/productos/imagenes/producto49050.jpg"
+    },
+    "yamaha-ws-b1a": {
+        "id": "yamaha-ws-b1a",
+        "name": "Yamaha WS-B1A",
+        "price": 69.0,
+        "price_old": 129.0,
+        "sale_percentage": 46.5,
+        "url": "https://www.supersonido.es/p/yamaha-ws-b1a",
+        "image": "https://www.supersonido.es/productos/imagenes/producto48810.jpg"
     },
     "sennheiser-cx-true-wireless": {
         "id": "sennheiser-cx-true-wireless",
@@ -323,23 +323,14 @@
         "url": "https://www.supersonido.es/p/jamo-iw-625-lcr-fg-ii",
         "image": "https://www.supersonido.es/productos/imagenes/producto42218.jpg"
     },
-    "final-audio-design-ze8000": {
-        "id": "final-audio-design-ze8000",
-        "name": "Final Audio Design ZE8000",
-        "price": 149.0,
-        "price_old": 329.0,
-        "sale_percentage": 54.7,
-        "url": "https://www.supersonido.es/p/final-audio-design-ze8000",
-        "image": "https://www.supersonido.es/productos/imagenes/producto48966.jpg"
-    },
-    "denon-ah-c15-perl-pro": {
-        "id": "denon-ah-c15-perl-pro",
-        "name": "Denon AH-C15 Perl Pro",
+    "magnat-prime-shadow": {
+        "id": "magnat-prime-shadow",
+        "name": "Magnat Prime Shadow",
         "price": 149.0,
         "price_old": 249.0,
         "sale_percentage": 40.2,
-        "url": "https://www.supersonido.es/p/denon-ah-c15-perl-pro",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50405.jpg"
+        "url": "https://www.supersonido.es/p/magnat-prime-shadow",
+        "image": "https://www.supersonido.es/productos/imagenes/producto49887.jpg"
     },
     "jamo-s7-25c": {
         "id": "jamo-s7-25c",
@@ -350,14 +341,23 @@
         "url": "https://www.supersonido.es/p/jamo-s7-25c",
         "image": "https://www.supersonido.es/productos/imagenes/producto50143.jpg"
     },
-    "magnat-prime-shadow": {
-        "id": "magnat-prime-shadow",
-        "name": "Magnat Prime Shadow",
+    "denon-ah-c15-perl-pro": {
+        "id": "denon-ah-c15-perl-pro",
+        "name": "Denon AH-C15 Perl Pro",
         "price": 149.0,
         "price_old": 249.0,
         "sale_percentage": 40.2,
-        "url": "https://www.supersonido.es/p/magnat-prime-shadow",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49887.jpg"
+        "url": "https://www.supersonido.es/p/denon-ah-c15-perl-pro",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50405.jpg"
+    },
+    "final-audio-design-ze8000": {
+        "id": "final-audio-design-ze8000",
+        "name": "Final Audio Design ZE8000",
+        "price": 149.0,
+        "price_old": 329.0,
+        "sale_percentage": 54.7,
+        "url": "https://www.supersonido.es/p/final-audio-design-ze8000",
+        "image": "https://www.supersonido.es/productos/imagenes/producto48966.jpg"
     },
     "klipsch-groove-xl": {
         "id": "klipsch-groove-xl",
