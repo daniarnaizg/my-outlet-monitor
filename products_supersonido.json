@@ -503,15 +503,6 @@
         "url": "https://www.supersonido.es/p/earmen-tradutto_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50540.jpg"
     },
-    "kef-kube-8-mie_": {
-        "id": "kef-kube-8-mie_",
-        "name": "KEF Kube 8 MIE",
-        "price": 499.0,
-        "price_old": 649.0,
-        "sale_percentage": 23.1,
-        "url": "https://www.supersonido.es/p/kef-kube-8-mie_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53829.jpg"
-    },
     "ortofon-st-7_": {
         "id": "ortofon-st-7_",
         "name": "Ortofon ST-7",
@@ -520,6 +511,15 @@
         "sale_percentage": 44.5,
         "url": "https://www.supersonido.es/p/ortofon-st-7_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53522.jpg"
+    },
+    "kef-kube-8-mie_": {
+        "id": "kef-kube-8-mie_",
+        "name": "KEF Kube 8 MIE",
+        "price": 499.0,
+        "price_old": 649.0,
+        "sale_percentage": 23.1,
+        "url": "https://www.supersonido.es/p/kef-kube-8-mie_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53829.jpg"
     },
     "marantz-nr1510_": {
         "id": "marantz-nr1510_",
@@ -611,15 +611,6 @@
         "url": "https://www.supersonido.es/p/project-maia-ds",
         "image": "https://www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
-    "letshuoer-ej07m_": {
-        "id": "letshuoer-ej07m_",
-        "name": "Letshuoer EJ07M",
-        "price": 599.0,
-        "price_old": 800.0,
-        "sale_percentage": 25.1,
-        "url": "https://www.supersonido.es/p/letshuoer-ej07m_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53476.jpg"
-    },
     "feliks-audio-echo-mk2_": {
         "id": "feliks-audio-echo-mk2_",
         "name": "Feliks Audio Echo MK2",
@@ -628,6 +619,15 @@
         "sale_percentage": 33.4,
         "url": "https://www.supersonido.es/p/feliks-audio-echo-mk2_",
         "image": "https://www.supersonido.es/productos/imagenes/producto54035.jpg"
+    },
+    "letshuoer-ej07m_": {
+        "id": "letshuoer-ej07m_",
+        "name": "Letshuoer EJ07M",
+        "price": 599.0,
+        "price_old": 800.0,
+        "sale_percentage": 25.1,
+        "url": "https://www.supersonido.es/p/letshuoer-ej07m_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53476.jpg"
     },
     "q-acoustics-m40-OC": {
         "id": "q-acoustics-m40-OC",
@@ -764,15 +764,6 @@
         "url": "https://www.supersonido.es/p/audiolab-6000a-play-",
         "image": "https://www.supersonido.es/productos/imagenes/producto52190.jpg"
     },
-    "loewe-wee-see-55": {
-        "id": "loewe-wee-see-55",
-        "name": "Loewe WEE SEE 55",
-        "price": 899.0,
-        "price_old": 1699.0,
-        "sale_percentage": 47.1,
-        "url": "https://www.supersonido.es/p/loewe-wee-see-55",
-        "image": "https://www.supersonido.es/productos/imagenes/producto46140.jpg"
-    },
     "cayin-n6 MKII_": {
         "id": "cayin-n6 MKII_",
         "name": "Cayin N6 MKII",
@@ -782,14 +773,14 @@
         "url": "https://www.supersonido.es/p/cayin-n6 MKII_",
         "image": "https://www.supersonido.es/productos/imagenes/producto47232.jpg"
     },
-    "cambridge-audio-evo-cd_oc": {
-        "id": "cambridge-audio-evo-cd_oc",
-        "name": "Cambridge Audio EVO CD",
+    "loewe-wee-see-55": {
+        "id": "loewe-wee-see-55",
+        "name": "Loewe WEE SEE 55",
         "price": 899.0,
-        "price_old": 1199.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/cambridge-audio-evo-cd_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53360.jpg"
+        "price_old": 1699.0,
+        "sale_percentage": 47.1,
+        "url": "https://www.supersonido.es/p/loewe-wee-see-55",
+        "image": "https://www.supersonido.es/productos/imagenes/producto46140.jpg"
     },
     "q-acoustics-concept-30_": {
         "id": "q-acoustics-concept-30_",
@@ -799,6 +790,15 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/q-acoustics-concept-30_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53596.jpg"
+    },
+    "cambridge-audio-evo-cd_oc": {
+        "id": "cambridge-audio-evo-cd_oc",
+        "name": "Cambridge Audio EVO CD",
+        "price": 899.0,
+        "price_old": 1199.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/cambridge-audio-evo-cd_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53360.jpg"
     },
     "audiolab-6000a-play_oc": {
         "id": "audiolab-6000a-play_oc",
@@ -1412,15 +1412,6 @@
         "url": "https://www.supersonido.es/p/innuos-zen-mk3_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53535.jpg"
     },
-    "mcintosh-mha150": {
-        "id": "mcintosh-mha150",
-        "name": "McIntosh MHA150",
-        "price": 3990.0,
-        "price_old": 7499.0,
-        "sale_percentage": 46.8,
-        "url": "https://www.supersonido.es/p/mcintosh-mha150",
-        "image": "https://www.supersonido.es/productos/imagenes/producto44698.jpg"
-    },
     "rose-ra180_": {
         "id": "rose-ra180_",
         "name": "Rose RA180",
@@ -1429,6 +1420,15 @@
         "sale_percentage": 43.0,
         "url": "https://www.supersonido.es/p/rose-ra180_",
         "image": "https://www.supersonido.es/productos/imagenes/producto49892.jpg"
+    },
+    "mcintosh-mha150": {
+        "id": "mcintosh-mha150",
+        "name": "McIntosh MHA150",
+        "price": 3990.0,
+        "price_old": 7499.0,
+        "sale_percentage": 46.8,
+        "url": "https://www.supersonido.es/p/mcintosh-mha150",
+        "image": "https://www.supersonido.es/productos/imagenes/producto44698.jpg"
     },
     "audio-research-vsi60-exdemo": {
         "id": "audio-research-vsi60-exdemo",
