@@ -80,15 +80,6 @@
         "url": "https://www.supersonido.es/p/the-chord-company-c-view-hdmi-8k",
         "image": "https://www.supersonido.es/productos/imagenes/producto49649.jpg"
     },
-    "audio-technica-ath-sq1tw": {
-        "id": "audio-technica-ath-sq1tw",
-        "name": "Audio-Technica ATH-SQ1TW",
-        "price": 44.0,
-        "price_old": 89.0,
-        "sale_percentage": 50.6,
-        "url": "https://www.supersonido.es/p/audio-technica-ath-sq1tw",
-        "image": "https://www.supersonido.es/productos/imagenes/producto46482.jpg"
-    },
     "akg-k92": {
         "id": "akg-k92",
         "name": "AKG K92",
@@ -143,15 +134,6 @@
         "url": "https://www.supersonido.es/p/the-chord-company-c-sub-1-rca-to-1-rca_of",
         "image": "https://www.supersonido.es/productos/imagenes/producto53448.jpg"
     },
-    "sony-wh-ch720n": {
-        "id": "sony-wh-ch720n",
-        "name": "Sony WH-CH720N",
-        "price": 69.0,
-        "price_old": 149.0,
-        "sale_percentage": 53.7,
-        "url": "https://www.supersonido.es/p/sony-wh-ch720n",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49050.jpg"
-    },
     "yamaha-ws-b1a": {
         "id": "yamaha-ws-b1a",
         "name": "Yamaha WS-B1A",
@@ -160,6 +142,15 @@
         "sale_percentage": 46.5,
         "url": "https://www.supersonido.es/p/yamaha-ws-b1a",
         "image": "https://www.supersonido.es/productos/imagenes/producto48810.jpg"
+    },
+    "sony-wh-ch720n": {
+        "id": "sony-wh-ch720n",
+        "name": "Sony WH-CH720N",
+        "price": 69.0,
+        "price_old": 149.0,
+        "sale_percentage": 53.7,
+        "url": "https://www.supersonido.es/p/sony-wh-ch720n",
+        "image": "https://www.supersonido.es/productos/imagenes/producto49050.jpg"
     },
     "sennheiser-cx-true-wireless": {
         "id": "sennheiser-cx-true-wireless",
@@ -368,14 +359,14 @@
         "url": "https://www.supersonido.es/p/final-audio-design-ze8000",
         "image": "https://www.supersonido.es/productos/imagenes/producto48966.jpg"
     },
-    "jamo-s7-25c": {
-        "id": "jamo-s7-25c",
-        "name": "Jamo S7-25C",
+    "magnat-prime-shadow": {
+        "id": "magnat-prime-shadow",
+        "name": "Magnat Prime Shadow",
         "price": 149.0,
-        "price_old": 299.0,
-        "sale_percentage": 50.2,
-        "url": "https://www.supersonido.es/p/jamo-s7-25c",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50143.jpg"
+        "price_old": 249.0,
+        "sale_percentage": 40.2,
+        "url": "https://www.supersonido.es/p/magnat-prime-shadow",
+        "image": "https://www.supersonido.es/productos/imagenes/producto49887.jpg"
     },
     "denon-ah-c15-perl-pro": {
         "id": "denon-ah-c15-perl-pro",
@@ -386,14 +377,14 @@
         "url": "https://www.supersonido.es/p/denon-ah-c15-perl-pro",
         "image": "https://www.supersonido.es/productos/imagenes/producto50405.jpg"
     },
-    "magnat-prime-shadow": {
-        "id": "magnat-prime-shadow",
-        "name": "Magnat Prime Shadow",
+    "jamo-s7-25c": {
+        "id": "jamo-s7-25c",
+        "name": "Jamo S7-25C",
         "price": 149.0,
-        "price_old": 249.0,
-        "sale_percentage": 40.2,
-        "url": "https://www.supersonido.es/p/magnat-prime-shadow",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49887.jpg"
+        "price_old": 299.0,
+        "sale_percentage": 50.2,
+        "url": "https://www.supersonido.es/p/jamo-s7-25c",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50143.jpg"
     },
     "klipsch-groove-xl": {
         "id": "klipsch-groove-xl",
