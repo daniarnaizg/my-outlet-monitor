@@ -206,15 +206,6 @@
         "url": "https://www.supersonido.es/p/the-chord-company-chordohmic-ground-aray-hdmi_",
         "image": "https://www.supersonido.es/productos/imagenes/producto51357.jpg"
     },
-    "sony-ht-s400_oc": {
-        "id": "sony-ht-s400_oc",
-        "name": "Sony HT-S400",
-        "price": 199.0,
-        "price_old": 299.0,
-        "sale_percentage": 33.4,
-        "url": "https://www.supersonido.es/p/sony-ht-s400_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto54223.jpg"
-    },
     "audio-technica-at-lp70xbt__": {
         "id": "audio-technica-at-lp70xbt__",
         "name": "Audio-Technica AT-LP70XBT",
@@ -232,6 +223,15 @@
         "sale_percentage": 33.4,
         "url": "https://www.supersonido.es/p/sony-str-dh190___",
         "image": "https://www.supersonido.es/productos/imagenes/producto57178.jpg"
+    },
+    "sony-ht-s400_oc": {
+        "id": "sony-ht-s400_oc",
+        "name": "Sony HT-S400",
+        "price": 199.0,
+        "price_old": 299.0,
+        "sale_percentage": 33.4,
+        "url": "https://www.supersonido.es/p/sony-ht-s400_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto54223.jpg"
     },
     "audioquest-slip-db-14-4-2m": {
         "id": "audioquest-slip-db-14-4-2m",
@@ -313,15 +313,6 @@
         "sale_percentage": 35.6,
         "url": "https://www.supersonido.es/p/audeze-maxwell-xbox__",
         "image": "https://www.supersonido.es/productos/imagenes/producto57196.jpg"
-    },
-    "wharfedale-linton-speaker-stand_": {
-        "id": "wharfedale-linton-speaker-stand_",
-        "name": "Wharfedale Linton Speaker Stand",
-        "price": 299.0,
-        "price_old": 399.0,
-        "sale_percentage": 25.1,
-        "url": "https://www.supersonido.es/p/wharfedale-linton-speaker-stand_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53786.jpg"
     },
     "audioquest-rocket-22_": {
         "id": "audioquest-rocket-22_",
@@ -1016,6 +1007,15 @@
         "url": "https://www.supersonido.es/p/mofi-electronics-ultradeck-_",
         "image": "https://www.supersonido.es/productos/imagenes/producto54158.jpg"
     },
+    "mofi-electronics-sourcepoint-8_": {
+        "id": "mofi-electronics-sourcepoint-8_",
+        "name": "Mofi Electronics SourcePoint 8",
+        "price": 1799.0,
+        "price_old": 2495.0,
+        "sale_percentage": 27.9,
+        "url": "https://www.supersonido.es/p/mofi-electronics-sourcepoint-8_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto55783.jpg"
+    },
     "devialet-phantom___": {
         "id": "devialet-phantom___",
         "name": "Devialet Phantom I 103 DB Black Chrome",
@@ -1187,15 +1187,6 @@
         "url": "https://www.supersonido.es/p/primare-i35dac_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50790.jpg"
     },
-    "kef-r7-meta_": {
-        "id": "kef-r7-meta_",
-        "name": "KEF R7 Meta",
-        "price": 2990.0,
-        "price_old": 5250.0,
-        "sale_percentage": 43.0,
-        "url": "https://www.supersonido.es/p/kef-r7-meta_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53819.jpg"
-    },
     "the-chord-company-poweraray-professional___": {
         "id": "the-chord-company-poweraray-professional___",
         "name": "The Chord Company PowerARAY Professional",
@@ -1204,6 +1195,15 @@
         "sale_percentage": 37.2,
         "url": "https://www.supersonido.es/p/the-chord-company-poweraray-professional___",
         "image": "https://www.supersonido.es/productos/imagenes/producto53729.jpg"
+    },
+    "kef-r7-meta_": {
+        "id": "kef-r7-meta_",
+        "name": "KEF R7 Meta",
+        "price": 2990.0,
+        "price_old": 5250.0,
+        "sale_percentage": 43.0,
+        "url": "https://www.supersonido.es/p/kef-r7-meta_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53819.jpg"
     },
     "stax-srm-700t_": {
         "id": "stax-srm-700t_",
