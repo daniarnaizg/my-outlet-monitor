@@ -368,15 +368,6 @@
         "url": "https://www.supersonido.es/p/jbl-ma310__",
         "image": "https://www.supersonido.es/productos/imagenes/producto52947.jpg"
     },
-    "solidsteel-vintage-ss6_": {
-        "id": "solidsteel-vintage-ss6_",
-        "name": "Solidsteel Vintage SS6",
-        "price": 399.0,
-        "price_old": 499.0,
-        "sale_percentage": 20.0,
-        "url": "https://www.supersonido.es/p/solidsteel-vintage-ss6_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57150.jpg"
-    },
     "isotek-systems-evo3-elite_": {
         "id": "isotek-systems-evo3-elite_",
         "name": "Isotek Systems EVO3 ELITE",
@@ -385,6 +376,15 @@
         "sale_percentage": 50.1,
         "url": "https://www.supersonido.es/p/isotek-systems-evo3-elite_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53566.jpg"
+    },
+    "solidsteel-vintage-ss6_": {
+        "id": "solidsteel-vintage-ss6_",
+        "name": "Solidsteel Vintage SS6",
+        "price": 399.0,
+        "price_old": 499.0,
+        "sale_percentage": 20.0,
+        "url": "https://www.supersonido.es/p/solidsteel-vintage-ss6_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57150.jpg"
     },
     "focal-azurys_": {
         "id": "focal-azurys_",
@@ -485,15 +485,6 @@
         "url": "https://www.supersonido.es/p/van-den-hul-the-wind-8-wbt-0661-ag",
         "image": "https://www.supersonido.es/productos/imagenes/producto52692.jpg"
     },
-    "letshuoer-ej07m_": {
-        "id": "letshuoer-ej07m_",
-        "name": "Letshuoer EJ07M",
-        "price": 599.0,
-        "price_old": 800.0,
-        "sale_percentage": 25.1,
-        "url": "https://www.supersonido.es/p/letshuoer-ej07m_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53476.jpg"
-    },
     "roberts-radio-stream-67_": {
         "id": "roberts-radio-stream-67_",
         "name": "Roberts Radio Stream 67",
@@ -502,6 +493,15 @@
         "sale_percentage": 27.7,
         "url": "https://www.supersonido.es/p/roberts-radio-stream-67_",
         "image": "https://www.supersonido.es/productos/imagenes/producto51499.jpg"
+    },
+    "letshuoer-ej07m_": {
+        "id": "letshuoer-ej07m_",
+        "name": "Letshuoer EJ07M",
+        "price": 599.0,
+        "price_old": 800.0,
+        "sale_percentage": 25.1,
+        "url": "https://www.supersonido.es/p/letshuoer-ej07m_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53476.jpg"
     },
     "matrix-audio-element-i_": {
         "id": "matrix-audio-element-i_",
@@ -638,6 +638,15 @@
         "url": "https://www.supersonido.es/p/dan-clark-audio-on-2-closed_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50777.jpg"
     },
+    "cayin-n6 MKII_": {
+        "id": "cayin-n6 MKII_",
+        "name": "Cayin N6 MKII",
+        "price": 899.0,
+        "price_old": 1399.0,
+        "sale_percentage": 35.7,
+        "url": "https://www.supersonido.es/p/cayin-n6 MKII_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto47232.jpg"
+    },
     "audiolab-6000a-play-": {
         "id": "audiolab-6000a-play-",
         "name": "Audiolab 6000A PLAY",
@@ -646,15 +655,6 @@
         "sale_percentage": 28.0,
         "url": "https://www.supersonido.es/p/audiolab-6000a-play-",
         "image": "https://www.supersonido.es/productos/imagenes/producto52190.jpg"
-    },
-    "cambridge-audio-evo-cd_oc": {
-        "id": "cambridge-audio-evo-cd_oc",
-        "name": "Cambridge Audio EVO CD",
-        "price": 899.0,
-        "price_old": 1199.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/cambridge-audio-evo-cd_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53360.jpg"
     },
     "q-acoustics-concept-30_": {
         "id": "q-acoustics-concept-30_",
@@ -665,14 +665,14 @@
         "url": "https://www.supersonido.es/p/q-acoustics-concept-30_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53596.jpg"
     },
-    "cayin-n6 MKII_": {
-        "id": "cayin-n6 MKII_",
-        "name": "Cayin N6 MKII",
+    "cambridge-audio-evo-cd_oc": {
+        "id": "cambridge-audio-evo-cd_oc",
+        "name": "Cambridge Audio EVO CD",
         "price": 899.0,
-        "price_old": 1399.0,
-        "sale_percentage": 35.7,
-        "url": "https://www.supersonido.es/p/cayin-n6 MKII_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto47232.jpg"
+        "price_old": 1199.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/cambridge-audio-evo-cd_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53360.jpg"
     },
     "audiolab-6000a-play_oc": {
         "id": "audiolab-6000a-play_oc",
@@ -1232,15 +1232,6 @@
         "url": "https://www.supersonido.es/p/mcintosh-mha150",
         "image": "https://www.supersonido.es/productos/imagenes/producto44698.jpg"
     },
-    "rose-ra180_": {
-        "id": "rose-ra180_",
-        "name": "Rose RA180",
-        "price": 3990.0,
-        "price_old": 6999.0,
-        "sale_percentage": 43.0,
-        "url": "https://www.supersonido.es/p/rose-ra180_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49892.jpg"
-    },
     "audio-research-vsi60-exdemo": {
         "id": "audio-research-vsi60-exdemo",
         "name": "Audio Research Vsi60",
@@ -1393,15 +1384,6 @@
         "sale_percentage": 30.4,
         "url": "https://www.supersonido.es/p/quad-esl2912_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53937.jpg"
-    },
-    "klipsch-klipschorn-ak6_": {
-        "id": "klipsch-klipschorn-ak6_",
-        "name": "Klipsch KLIPSCHORN AK6",
-        "price": 8990.0,
-        "price_old": 23998.0,
-        "sale_percentage": 62.5,
-        "url": "https://www.supersonido.es/p/klipsch-klipschorn-ak6_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57058.jpg"
     },
     "audio-research-ref-dac-dlna": {
         "id": "audio-research-ref-dac-dlna",
