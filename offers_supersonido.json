@@ -152,15 +152,6 @@
         "url": "https://www.supersonido.es/p/sennheiser-cx-true-wireless",
         "image": "https://www.supersonido.es/productos/imagenes/producto45528.jpg"
     },
-    "sony-wh-ch720n": {
-        "id": "sony-wh-ch720n",
-        "name": "Sony WH-CH720N",
-        "price": 74.9,
-        "price_old": 149.0,
-        "sale_percentage": 49.7,
-        "url": "https://www.supersonido.es/p/sony-wh-ch720n",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49050.jpg"
-    },
     "sony-wf-c700n": {
         "id": "sony-wf-c700n",
         "name": "Sony WF-C700N",
@@ -169,6 +160,15 @@
         "sale_percentage": 41.9,
         "url": "https://www.supersonido.es/p/sony-wf-c700n",
         "image": "https://www.supersonido.es/productos/imagenes/producto49355.jpg"
+    },
+    "sony-wh-ch720n": {
+        "id": "sony-wh-ch720n",
+        "name": "Sony WH-CH720N",
+        "price": 74.9,
+        "price_old": 149.0,
+        "sale_percentage": 49.7,
+        "url": "https://www.supersonido.es/p/sony-wh-ch720n",
+        "image": "https://www.supersonido.es/productos/imagenes/producto49050.jpg"
     },
     "polkaudio-t30": {
         "id": "polkaudio-t30",
@@ -278,15 +278,6 @@
         "url": "https://www.supersonido.es/p/the-chord-company-shawline-x-speaker__",
         "image": "https://www.supersonido.es/productos/imagenes/producto57085.jpg"
     },
-    "sennheiser-accentum-true-wireless": {
-        "id": "sennheiser-accentum-true-wireless",
-        "name": "Sennheiser ACCENTUM True Wireless",
-        "price": 99.9,
-        "price_old": 199.0,
-        "sale_percentage": 49.8,
-        "url": "https://www.supersonido.es/p/sennheiser-accentum-true-wireless",
-        "image": "https://www.supersonido.es/productos/imagenes/producto51902.jpg"
-    },
     "sennheiser-cx-plus-se-true-wireless": {
         "id": "sennheiser-cx-plus-se-true-wireless",
         "name": "Sennheiser CX Plus SE True Wireless",
@@ -295,6 +286,15 @@
         "sale_percentage": 44.5,
         "url": "https://www.supersonido.es/p/sennheiser-cx-plus-se-true-wireless",
         "image": "https://www.supersonido.es/productos/imagenes/producto52241.jpg"
+    },
+    "sennheiser-accentum-true-wireless": {
+        "id": "sennheiser-accentum-true-wireless",
+        "name": "Sennheiser ACCENTUM True Wireless",
+        "price": 99.9,
+        "price_old": 199.0,
+        "sale_percentage": 49.8,
+        "url": "https://www.supersonido.es/p/sennheiser-accentum-true-wireless",
+        "image": "https://www.supersonido.es/productos/imagenes/producto51902.jpg"
     },
     "vutec-evmw6080d.": {
         "id": "vutec-evmw6080d.",
@@ -377,15 +377,6 @@
         "url": "https://www.supersonido.es/p/magnat-prime-shadow",
         "image": "https://www.supersonido.es/productos/imagenes/producto49887.jpg"
     },
-    "denon-ah-c15-perl-pro": {
-        "id": "denon-ah-c15-perl-pro",
-        "name": "Denon AH-C15 Perl Pro",
-        "price": 149.0,
-        "price_old": 249.0,
-        "sale_percentage": 40.2,
-        "url": "https://www.supersonido.es/p/denon-ah-c15-perl-pro",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50405.jpg"
-    },
     "jamo-s7-25c": {
         "id": "jamo-s7-25c",
         "name": "Jamo S7-25C",
@@ -394,6 +385,15 @@
         "sale_percentage": 50.2,
         "url": "https://www.supersonido.es/p/jamo-s7-25c",
         "image": "https://www.supersonido.es/productos/imagenes/producto50143.jpg"
+    },
+    "denon-ah-c15-perl-pro": {
+        "id": "denon-ah-c15-perl-pro",
+        "name": "Denon AH-C15 Perl Pro",
+        "price": 149.0,
+        "price_old": 249.0,
+        "sale_percentage": 40.2,
+        "url": "https://www.supersonido.es/p/denon-ah-c15-perl-pro",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50405.jpg"
     },
     "klipsch-groove-xl": {
         "id": "klipsch-groove-xl",
