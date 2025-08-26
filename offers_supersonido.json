@@ -152,15 +152,6 @@
         "url": "https://www.supersonido.es/p/sennheiser-cx-true-wireless",
         "image": "https://www.supersonido.es/productos/imagenes/producto45528.jpg"
     },
-    "sony-wf-c700n": {
-        "id": "sony-wf-c700n",
-        "name": "Sony WF-C700N",
-        "price": 74.9,
-        "price_old": 129.0,
-        "sale_percentage": 41.9,
-        "url": "https://www.supersonido.es/p/sony-wf-c700n",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49355.jpg"
-    },
     "sony-wh-ch720n": {
         "id": "sony-wh-ch720n",
         "name": "Sony WH-CH720N",
@@ -169,6 +160,15 @@
         "sale_percentage": 49.7,
         "url": "https://www.supersonido.es/p/sony-wh-ch720n",
         "image": "https://www.supersonido.es/productos/imagenes/producto49050.jpg"
+    },
+    "sony-wf-c700n": {
+        "id": "sony-wf-c700n",
+        "name": "Sony WF-C700N",
+        "price": 74.9,
+        "price_old": 129.0,
+        "sale_percentage": 41.9,
+        "url": "https://www.supersonido.es/p/sony-wf-c700n",
+        "image": "https://www.supersonido.es/productos/imagenes/producto49355.jpg"
     },
     "polkaudio-t30": {
         "id": "polkaudio-t30",
