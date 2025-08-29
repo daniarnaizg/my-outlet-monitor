@@ -152,6 +152,15 @@
         "url": "https://www.supersonido.es/p/panasonic-sc-ux100",
         "image": "https://www.supersonido.es/productos/imagenes/producto25858.jpg"
     },
+    "wiim-pro_oc": {
+        "id": "wiim-pro_oc",
+        "name": "Wiim Pro",
+        "price": 145.0,
+        "price_old": 179.0,
+        "sale_percentage": 19.0,
+        "url": "https://www.supersonido.es/p/wiim-pro_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52005.jpg"
+    },
     "audiopro-link-2_": {
         "id": "audiopro-link-2_",
         "name": "AudioPro LINK 2",
@@ -458,15 +467,6 @@
         "url": "https://www.supersonido.es/p/meze-audio-advar_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52720.jpg"
     },
-    "kef-kube-8-mie_": {
-        "id": "kef-kube-8-mie_",
-        "name": "KEF Kube 8 MIE",
-        "price": 499.0,
-        "price_old": 649.0,
-        "sale_percentage": 23.1,
-        "url": "https://www.supersonido.es/p/kef-kube-8-mie_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53829.jpg"
-    },
     "ortofon-st-7_": {
         "id": "ortofon-st-7_",
         "name": "Ortofon ST-7",
@@ -475,6 +475,15 @@
         "sale_percentage": 44.5,
         "url": "https://www.supersonido.es/p/ortofon-st-7_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53522.jpg"
+    },
+    "kef-kube-8-mie_": {
+        "id": "kef-kube-8-mie_",
+        "name": "KEF Kube 8 MIE",
+        "price": 499.0,
+        "price_old": 649.0,
+        "sale_percentage": 23.1,
+        "url": "https://www.supersonido.es/p/kef-kube-8-mie_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53829.jpg"
     },
     "van-den-hul-the-wind-8-wbt-0661-ag": {
         "id": "van-den-hul-the-wind-8-wbt-0661-ag",
@@ -485,15 +494,6 @@
         "url": "https://www.supersonido.es/p/van-den-hul-the-wind-8-wbt-0661-ag",
         "image": "https://www.supersonido.es/productos/imagenes/producto52692.jpg"
     },
-    "letshuoer-ej07m_": {
-        "id": "letshuoer-ej07m_",
-        "name": "Letshuoer EJ07M",
-        "price": 599.0,
-        "price_old": 800.0,
-        "sale_percentage": 25.1,
-        "url": "https://www.supersonido.es/p/letshuoer-ej07m_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53476.jpg"
-    },
     "roberts-radio-stream-67_": {
         "id": "roberts-radio-stream-67_",
         "name": "Roberts Radio Stream 67",
@@ -502,6 +502,15 @@
         "sale_percentage": 27.7,
         "url": "https://www.supersonido.es/p/roberts-radio-stream-67_",
         "image": "https://www.supersonido.es/productos/imagenes/producto51499.jpg"
+    },
+    "letshuoer-ej07m_": {
+        "id": "letshuoer-ej07m_",
+        "name": "Letshuoer EJ07M",
+        "price": 599.0,
+        "price_old": 800.0,
+        "sale_percentage": 25.1,
+        "url": "https://www.supersonido.es/p/letshuoer-ej07m_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53476.jpg"
     },
     "matrix-audio-element-i_": {
         "id": "matrix-audio-element-i_",
