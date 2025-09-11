@@ -71,6 +71,15 @@
         "url": "https://www.supersonido.es/p/qed-silver-anniversary-xt-6m",
         "image": "https://www.supersonido.es/productos/imagenes/producto57299.jpg"
     },
+    "ifi-audio-uno_oc": {
+        "id": "ifi-audio-uno_oc",
+        "name": "IFI Audio ZEN UNO",
+        "price": 59.0,
+        "price_old": 79.0,
+        "sale_percentage": 25.3,
+        "url": "https://www.supersonido.es/p/ifi-audio-uno_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50999.jpg"
+    },
     "qed-silver-anniversary-xt-7m": {
         "id": "qed-silver-anniversary-xt-7m",
         "name": "QED Silver Anniversary XT 7m",
@@ -224,33 +233,6 @@
         "url": "https://www.supersonido.es/p/dynaudio-stand-10_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57273.jpg"
     },
-    "letshuoer-soloist_": {
-        "id": "letshuoer-soloist_",
-        "name": "Letshuoer Soloist",
-        "price": 179.0,
-        "price_old": 240.0,
-        "sale_percentage": 25.4,
-        "url": "https://www.supersonido.es/p/letshuoer-soloist_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53477.jpg"
-    },
-    "the-chord-company-chordohmic-ground-aray-hdmi_": {
-        "id": "the-chord-company-chordohmic-ground-aray-hdmi_",
-        "name": "The Chord Company ChordOhmic Ground ARAY\tHDMI",
-        "price": 199.0,
-        "price_old": 699.0,
-        "sale_percentage": 71.5,
-        "url": "https://www.supersonido.es/p/the-chord-company-chordohmic-ground-aray-hdmi_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto51357.jpg"
-    },
-    "sony-ps-lx310bt_": {
-        "id": "sony-ps-lx310bt_",
-        "name": "Sony PS-LX310BT",
-        "price": 199.0,
-        "price_old": 279.0,
-        "sale_percentage": 28.7,
-        "url": "https://www.supersonido.es/p/sony-ps-lx310bt_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto46694.jpg"
-    },
     "ifi-audio-go-pod-air_": {
         "id": "ifi-audio-go-pod-air_",
         "name": "IFI Audio GO Pod Air",
@@ -269,14 +251,23 @@
         "url": "https://www.supersonido.es/p/sony-ht-s400_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto54223.jpg"
     },
-    "hifiman-edition-xs_": {
-        "id": "hifiman-edition-xs_",
-        "name": "HIFIMAN Edition XS",
-        "price": 200.0,
-        "price_old": 269.0,
-        "sale_percentage": 25.7,
-        "url": "https://www.supersonido.es/p/hifiman-edition-xs_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto46902.jpg"
+    "sony-ps-lx310bt_": {
+        "id": "sony-ps-lx310bt_",
+        "name": "Sony PS-LX310BT",
+        "price": 199.0,
+        "price_old": 279.0,
+        "sale_percentage": 28.7,
+        "url": "https://www.supersonido.es/p/sony-ps-lx310bt_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto46694.jpg"
+    },
+    "the-chord-company-chordohmic-ground-aray-hdmi_": {
+        "id": "the-chord-company-chordohmic-ground-aray-hdmi_",
+        "name": "The Chord Company ChordOhmic Ground ARAY\tHDMI",
+        "price": 199.0,
+        "price_old": 699.0,
+        "sale_percentage": 71.5,
+        "url": "https://www.supersonido.es/p/the-chord-company-chordohmic-ground-aray-hdmi_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto51357.jpg"
     },
     "audioquest-slip-db-14-4-2m": {
         "id": "audioquest-slip-db-14-4-2m",
@@ -286,6 +277,15 @@
         "sale_percentage": 0,
         "url": "https://www.supersonido.es/p/audioquest-slip-db-14-4-2m",
         "image": "https://www.supersonido.es/productos/imagenes/producto51463.jpg"
+    },
+    "hifiman-edition-xs_": {
+        "id": "hifiman-edition-xs_",
+        "name": "HIFIMAN Edition XS",
+        "price": 200.0,
+        "price_old": 269.0,
+        "sale_percentage": 25.7,
+        "url": "https://www.supersonido.es/p/hifiman-edition-xs_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto46902.jpg"
     },
     "the-chord-company-shawline-power-chord_": {
         "id": "the-chord-company-shawline-power-chord_",
@@ -773,15 +773,6 @@
         "url": "https://www.supersonido.es/p/audiolab-6000a-play-",
         "image": "https://www.supersonido.es/productos/imagenes/producto52190.jpg"
     },
-    "cambridge-audio-evo-cd_oc": {
-        "id": "cambridge-audio-evo-cd_oc",
-        "name": "Cambridge Audio EVO CD",
-        "price": 899.0,
-        "price_old": 1199.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/cambridge-audio-evo-cd_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53360.jpg"
-    },
     "q-acoustics-concept-30_": {
         "id": "q-acoustics-concept-30_",
         "name": "Q Acoustics Concept 30",
@@ -790,6 +781,15 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/q-acoustics-concept-30_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53596.jpg"
+    },
+    "cambridge-audio-evo-cd_oc": {
+        "id": "cambridge-audio-evo-cd_oc",
+        "name": "Cambridge Audio EVO CD",
+        "price": 899.0,
+        "price_old": 1199.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/cambridge-audio-evo-cd_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53360.jpg"
     },
     "cayin-n6 MKII_": {
         "id": "cayin-n6 MKII_",
@@ -1250,15 +1250,6 @@
         "url": "https://www.supersonido.es/p/mcintosh-mha200_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto53359.jpg"
     },
-    "isotek-systems-sigmas_": {
-        "id": "isotek-systems-sigmas_",
-        "name": "Isotek Systems Sigmas EVO 3",
-        "price": 2999.0,
-        "price_old": 4299.0,
-        "sale_percentage": 30.2,
-        "url": "https://www.supersonido.es/p/isotek-systems-sigmas_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50780.jpg"
-    },
     "samsung-qe75qn800b__oc": {
         "id": "samsung-qe75qn800b__oc",
         "name": "Samsung QE75QN800B",
@@ -1267,6 +1258,15 @@
         "sale_percentage": 40.0,
         "url": "https://www.supersonido.es/p/samsung-qe75qn800b__oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto51399.jpg"
+    },
+    "isotek-systems-sigmas_": {
+        "id": "isotek-systems-sigmas_",
+        "name": "Isotek Systems Sigmas EVO 3",
+        "price": 2999.0,
+        "price_old": 4299.0,
+        "sale_percentage": 30.2,
+        "url": "https://www.supersonido.es/p/isotek-systems-sigmas_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50780.jpg"
     },
     "primare-i35-prisma_": {
         "id": "primare-i35-prisma_",
