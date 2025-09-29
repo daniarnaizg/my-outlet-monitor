@@ -206,15 +206,6 @@
         "url": "https://www.supersonido.es/p/audiopro-link-2_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53509.jpg"
     },
-    "devialet-tree-phantom-ii_": {
-        "id": "devialet-tree-phantom-ii_",
-        "name": "Devialet Tree  Phantom II",
-        "price": 149.0,
-        "price_old": 219.0,
-        "sale_percentage": 32.0,
-        "url": "https://www.supersonido.es/p/devialet-tree-phantom-ii_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57434.jpg"
-    },
     "customdesign-neat-ultimatum-xls-106-xl-speaker-stands": {
         "id": "customdesign-neat-ultimatum-xls-106-xl-speaker-stands",
         "name": "CustomDesign Neat Ultimatum XLS 106 XL Speaker Stands",
@@ -232,6 +223,15 @@
         "sale_percentage": 62.3,
         "url": "https://www.supersonido.es/p/monitor-audio-v240_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto57126.jpg"
+    },
+    "devialet-tree-phantom-ii_": {
+        "id": "devialet-tree-phantom-ii_",
+        "name": "Devialet Tree  Phantom II",
+        "price": 149.0,
+        "price_old": 219.0,
+        "sale_percentage": 32.0,
+        "url": "https://www.supersonido.es/p/devialet-tree-phantom-ii_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57434.jpg"
     },
     "the-chord-company-shawline-digital-1bnc-to-1bnc_": {
         "id": "the-chord-company-shawline-digital-1bnc-to-1bnc_",
@@ -287,15 +287,6 @@
         "url": "https://www.supersonido.es/p/sony-ps-lx310bt_",
         "image": "https://www.supersonido.es/productos/imagenes/producto46694.jpg"
     },
-    "the-chord-company-chordohmic-ground-aray-hdmi_": {
-        "id": "the-chord-company-chordohmic-ground-aray-hdmi_",
-        "name": "The Chord Company ChordOhmic Ground ARAY\tHDMI",
-        "price": 199.0,
-        "price_old": 699.0,
-        "sale_percentage": 71.5,
-        "url": "https://www.supersonido.es/p/the-chord-company-chordohmic-ground-aray-hdmi_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto51357.jpg"
-    },
     "devialet-tree___": {
         "id": "devialet-tree___",
         "name": "Devialet Tree",
@@ -305,14 +296,14 @@
         "url": "https://www.supersonido.es/p/devialet-tree___",
         "image": "https://www.supersonido.es/productos/imagenes/producto49875.jpg"
     },
-    "sony-ht-s400_oc": {
-        "id": "sony-ht-s400_oc",
-        "name": "Sony HT-S400",
+    "the-chord-company-chordohmic-ground-aray-hdmi_": {
+        "id": "the-chord-company-chordohmic-ground-aray-hdmi_",
+        "name": "The Chord Company ChordOhmic Ground ARAY\tHDMI",
         "price": 199.0,
-        "price_old": 299.0,
-        "sale_percentage": 33.4,
-        "url": "https://www.supersonido.es/p/sony-ht-s400_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto54223.jpg"
+        "price_old": 699.0,
+        "sale_percentage": 71.5,
+        "url": "https://www.supersonido.es/p/the-chord-company-chordohmic-ground-aray-hdmi_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto51357.jpg"
     },
     "ifi-audio-go-pod-air_": {
         "id": "ifi-audio-go-pod-air_",
@@ -322,6 +313,15 @@
         "sale_percentage": 20.1,
         "url": "https://www.supersonido.es/p/ifi-audio-go-pod-air_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57182.jpg"
+    },
+    "sony-ht-s400_oc": {
+        "id": "sony-ht-s400_oc",
+        "name": "Sony HT-S400",
+        "price": 199.0,
+        "price_old": 299.0,
+        "sale_percentage": 33.4,
+        "url": "https://www.supersonido.es/p/sony-ht-s400_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto54223.jpg"
     },
     "the-chord-company-shawline-power-chord_": {
         "id": "the-chord-company-shawline-power-chord_",
@@ -665,15 +665,6 @@
         "url": "https://www.supersonido.es/p/hifiman-arya-organic_a",
         "image": "https://www.supersonido.es/productos/imagenes/producto57186.jpg"
     },
-    "stax-sr-l500-mk2_": {
-        "id": "stax-sr-l500-mk2_",
-        "name": "Stax SR-L500 MK2",
-        "price": 749.0,
-        "price_old": 990.0,
-        "sale_percentage": 24.3,
-        "url": "https://www.supersonido.es/p/stax-sr-l500-mk2_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52568.jpg"
-    },
     "marantz-stereo-70s__": {
         "id": "marantz-stereo-70s__",
         "name": "Marantz Stereo 70s",
@@ -682,6 +673,15 @@
         "sale_percentage": 25.1,
         "url": "https://www.supersonido.es/p/marantz-stereo-70s__",
         "image": "https://www.supersonido.es/productos/imagenes/producto53248.jpg"
+    },
+    "stax-sr-l500-mk2_": {
+        "id": "stax-sr-l500-mk2_",
+        "name": "Stax SR-L500 MK2",
+        "price": 749.0,
+        "price_old": 990.0,
+        "sale_percentage": 24.3,
+        "url": "https://www.supersonido.es/p/stax-sr-l500-mk2_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52568.jpg"
     },
     "jasmine-audio-js-tb297-12": {
         "id": "jasmine-audio-js-tb297-12",
@@ -881,15 +881,6 @@
         "url": "https://www.supersonido.es/p/pioneer-vsx-lx305",
         "image": "https://www.supersonido.es/productos/imagenes/producto47724.jpg"
     },
-    "matrix-audio-element-p__": {
-        "id": "matrix-audio-element-p__",
-        "name": "Matrix Audio Element P",
-        "price": 1199.0,
-        "price_old": 2799.0,
-        "sale_percentage": 57.2,
-        "url": "https://www.supersonido.es/p/matrix-audio-element-p__",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49335.jpg"
-    },
     "matrix-audio-element-p_": {
         "id": "matrix-audio-element-p_",
         "name": "Matrix Audio Element P",
@@ -907,6 +898,15 @@
         "sale_percentage": 24.6,
         "url": "https://www.supersonido.es/p/primare-sc-15-prisma",
         "image": "https://www.supersonido.es/productos/imagenes/producto29464.jpg"
+    },
+    "matrix-audio-element-p__": {
+        "id": "matrix-audio-element-p__",
+        "name": "Matrix Audio Element P",
+        "price": 1199.0,
+        "price_old": 2799.0,
+        "sale_percentage": 57.2,
+        "url": "https://www.supersonido.es/p/matrix-audio-element-p__",
+        "image": "https://www.supersonido.es/productos/imagenes/producto49335.jpg"
     },
     "ibasso-d16": {
         "id": "ibasso-d16",
@@ -1033,15 +1033,6 @@
         "sale_percentage": 31.1,
         "url": "https://www.supersonido.es/p/mofi-electronics-ultradeck-_",
         "image": "https://www.supersonido.es/productos/imagenes/producto54158.jpg"
-    },
-    "lotoo-paw-gold-touch-titanium": {
-        "id": "lotoo-paw-gold-touch-titanium",
-        "name": "Lotoo PAW Gold Touch Titanium",
-        "price": 1799.0,
-        "price_old": 3700.0,
-        "sale_percentage": 51.4,
-        "url": "https://www.supersonido.es/p/lotoo-paw-gold-touch-titanium",
-        "image": "https://www.supersonido.es/productos/imagenes/producto48695.jpg"
     },
     "devialet-phantom___": {
         "id": "devialet-phantom___",
@@ -1313,15 +1304,6 @@
         "url": "https://www.supersonido.es/p/anthem-avm-70-8k_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53928.jpg"
     },
-    "mcintosh-mha150": {
-        "id": "mcintosh-mha150",
-        "name": "McIntosh MHA150",
-        "price": 3990.0,
-        "price_old": 7499.0,
-        "sale_percentage": 46.8,
-        "url": "https://www.supersonido.es/p/mcintosh-mha150",
-        "image": "https://www.supersonido.es/productos/imagenes/producto44698.jpg"
-    },
     "innuos-zen-mk3_": {
         "id": "innuos-zen-mk3_",
         "name": "Innuos ZEN MK3",
@@ -1330,6 +1312,15 @@
         "sale_percentage": 33.5,
         "url": "https://www.supersonido.es/p/innuos-zen-mk3_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53535.jpg"
+    },
+    "mcintosh-mha150": {
+        "id": "mcintosh-mha150",
+        "name": "McIntosh MHA150",
+        "price": 3990.0,
+        "price_old": 7499.0,
+        "sale_percentage": 46.8,
+        "url": "https://www.supersonido.es/p/mcintosh-mha150",
+        "image": "https://www.supersonido.es/productos/imagenes/producto44698.jpg"
     },
     "audio-research-vsi60-exdemo": {
         "id": "audio-research-vsi60-exdemo",
