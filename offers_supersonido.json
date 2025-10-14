@@ -179,15 +179,6 @@
         "url": "https://www.supersonido.es/p/sony-wh-ch720n",
         "image": "https://www.supersonido.es/productos/imagenes/producto49050.jpg"
     },
-    "yamaha-ws-b1a": {
-        "id": "yamaha-ws-b1a",
-        "name": "Yamaha WS-B1A",
-        "price": 69.0,
-        "price_old": 129.0,
-        "sale_percentage": 46.5,
-        "url": "https://www.supersonido.es/p/yamaha-ws-b1a",
-        "image": "https://www.supersonido.es/productos/imagenes/producto48810.jpg"
-    },
     "sony-wf-c700n": {
         "id": "sony-wf-c700n",
         "name": "Sony WF-C700N",
@@ -196,6 +187,15 @@
         "sale_percentage": 46.5,
         "url": "https://www.supersonido.es/p/sony-wf-c700n",
         "image": "https://www.supersonido.es/productos/imagenes/producto49355.jpg"
+    },
+    "yamaha-ws-b1a": {
+        "id": "yamaha-ws-b1a",
+        "name": "Yamaha WS-B1A",
+        "price": 69.0,
+        "price_old": 129.0,
+        "sale_percentage": 46.5,
+        "url": "https://www.supersonido.es/p/yamaha-ws-b1a",
+        "image": "https://www.supersonido.es/productos/imagenes/producto48810.jpg"
     },
     "nobunaga-labs-sarasa": {
         "id": "nobunaga-labs-sarasa",
@@ -269,15 +269,6 @@
         "url": "https://www.supersonido.es/p/klipsch-cs-16w",
         "image": "https://www.supersonido.es/productos/imagenes/producto26992.jpg"
     },
-    "denon-ah-c10-perl": {
-        "id": "denon-ah-c10-perl",
-        "name": "Denon AH-C10 Perl",
-        "price": 99.0,
-        "price_old": 169.0,
-        "sale_percentage": 41.4,
-        "url": "https://www.supersonido.es/p/denon-ah-c10-perl",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50404.jpg"
-    },
     "sennheiser-accentum-wireless": {
         "id": "sennheiser-accentum-wireless",
         "name": "Sennheiser ACCENTUM Wireless",
@@ -286,6 +277,15 @@
         "sale_percentage": 45.0,
         "url": "https://www.supersonido.es/p/sennheiser-accentum-wireless",
         "image": "https://www.supersonido.es/productos/imagenes/producto50517.jpg"
+    },
+    "denon-ah-c10-perl": {
+        "id": "denon-ah-c10-perl",
+        "name": "Denon AH-C10 Perl",
+        "price": 99.0,
+        "price_old": 169.0,
+        "sale_percentage": 41.4,
+        "url": "https://www.supersonido.es/p/denon-ah-c10-perl",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50404.jpg"
     },
     "klipsch-ds-160w": {
         "id": "klipsch-ds-160w",
@@ -323,15 +323,6 @@
         "url": "https://www.supersonido.es/p/nobunaga-labs-muramasa",
         "image": "https://www.supersonido.es/productos/imagenes/producto30688.jpg"
     },
-    "loewe-wee-hear-2": {
-        "id": "loewe-wee-hear-2",
-        "name": "Loewe WEE HEAR 2",
-        "price": 99.0,
-        "price_old": 169.0,
-        "sale_percentage": 41.4,
-        "url": "https://www.supersonido.es/p/loewe-wee-hear-2",
-        "image": "https://www.supersonido.es/productos/imagenes/producto46142.jpg"
-    },
     "technics-eah-az60": {
         "id": "technics-eah-az60",
         "name": "Technics EAH-AZ60",
@@ -340,6 +331,15 @@
         "sale_percentage": 57.0,
         "url": "https://www.supersonido.es/p/technics-eah-az60",
         "image": "https://www.supersonido.es/productos/imagenes/producto46056.jpg"
+    },
+    "loewe-wee-hear-2": {
+        "id": "loewe-wee-hear-2",
+        "name": "Loewe WEE HEAR 2",
+        "price": 99.0,
+        "price_old": 169.0,
+        "sale_percentage": 41.4,
+        "url": "https://www.supersonido.es/p/loewe-wee-hear-2",
+        "image": "https://www.supersonido.es/productos/imagenes/producto46142.jpg"
     },
     "sennheiser-cx-plus-se-true-wireless": {
         "id": "sennheiser-cx-plus-se-true-wireless",
