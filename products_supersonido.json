@@ -26,15 +26,6 @@
         "url": "https://www.supersonido.es/p/pro-ject-connect-it-line-e-rca_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57618.jpg"
     },
-    "pro-ject-subplatter-x2": {
-        "id": "pro-ject-subplatter-x2",
-        "name": "Pro-Ject SUBPLATTER X2",
-        "price": 29.0,
-        "price_old": 59.0,
-        "sale_percentage": 50.8,
-        "url": "https://www.supersonido.es/p/pro-ject-subplatter-x2",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53579.jpg"
-    },
     "monitor-audio-v-corner_": {
         "id": "monitor-audio-v-corner_",
         "name": "Monitor Audio V-CORNER",
@@ -52,6 +43,15 @@
         "sale_percentage": 25.6,
         "url": "https://www.supersonido.es/p/monitor-audio-v-mount_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57127.jpg"
+    },
+    "pro-ject-subplatter-x2": {
+        "id": "pro-ject-subplatter-x2",
+        "name": "Pro-Ject SUBPLATTER X2",
+        "price": 29.0,
+        "price_old": 59.0,
+        "sale_percentage": 50.8,
+        "url": "https://www.supersonido.es/p/pro-ject-subplatter-x2",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53579.jpg"
     },
     "ifi-audio-isilencer_oc": {
         "id": "ifi-audio-isilencer_oc",
@@ -170,14 +170,14 @@
         "url": "https://www.supersonido.es/p/monitor-audio-v240_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto57126.jpg"
     },
-    "devialet-tree-phantom-ii_": {
-        "id": "devialet-tree-phantom-ii_",
-        "name": "Devialet Tree  Phantom II",
+    "customdesign-neat-ultimatum-xls-106-xl-speaker-stands": {
+        "id": "customdesign-neat-ultimatum-xls-106-xl-speaker-stands",
+        "name": "CustomDesign Neat Ultimatum XLS 106 XL Speaker Stands",
         "price": 149.0,
-        "price_old": 219.0,
-        "sale_percentage": 32.0,
-        "url": "https://www.supersonido.es/p/devialet-tree-phantom-ii_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57434.jpg"
+        "price_old": 599.0,
+        "sale_percentage": 75.1,
+        "url": "https://www.supersonido.es/p/customdesign-neat-ultimatum-xls-106-xl-speaker-stands",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57491.jpg"
     },
     "q-acoustics-concept-stand-b_occ": {
         "id": "q-acoustics-concept-stand-b_occ",
@@ -197,6 +197,15 @@
         "url": "https://www.supersonido.es/p/q-acoustics-concept-stand-b_occ_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57381.jpg"
     },
+    "devialet-tree-phantom-ii_": {
+        "id": "devialet-tree-phantom-ii_",
+        "name": "Devialet Tree  Phantom II",
+        "price": 149.0,
+        "price_old": 219.0,
+        "sale_percentage": 32.0,
+        "url": "https://www.supersonido.es/p/devialet-tree-phantom-ii_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57434.jpg"
+    },
     "ifi-audio-nova_oc": {
         "id": "ifi-audio-nova_oc",
         "name": "IFI Audio Nova",
@@ -205,15 +214,6 @@
         "sale_percentage": 50.2,
         "url": "https://www.supersonido.es/p/ifi-audio-nova_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto57777.jpg"
-    },
-    "customdesign-neat-ultimatum-xls-106-xl-speaker-stands": {
-        "id": "customdesign-neat-ultimatum-xls-106-xl-speaker-stands",
-        "name": "CustomDesign Neat Ultimatum XLS 106 XL Speaker Stands",
-        "price": 149.0,
-        "price_old": 599.0,
-        "sale_percentage": 75.1,
-        "url": "https://www.supersonido.es/p/customdesign-neat-ultimatum-xls-106-xl-speaker-stands",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57491.jpg"
     },
     "meze-audio-99-neo_oc": {
         "id": "meze-audio-99-neo_oc",
@@ -431,15 +431,6 @@
         "url": "https://www.supersonido.es/p/jbl-ma310__",
         "image": "https://www.supersonido.es/productos/imagenes/producto52947.jpg"
     },
-    "isotek-systems-evo3-elite_": {
-        "id": "isotek-systems-evo3-elite_",
-        "name": "Isotek Systems EVO3 ELITE",
-        "price": 399.0,
-        "price_old": 799.0,
-        "sale_percentage": 50.1,
-        "url": "https://www.supersonido.es/p/isotek-systems-evo3-elite_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53566.jpg"
-    },
     "audioquest-yukon-xlr-oca": {
         "id": "audioquest-yukon-xlr-oca",
         "name": "Audioquest Yukon XLR",
@@ -457,6 +448,15 @@
         "sale_percentage": 20.0,
         "url": "https://www.supersonido.es/p/audio-technica-at-lpw50btrw_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57741.jpg"
+    },
+    "isotek-systems-evo3-elite_": {
+        "id": "isotek-systems-evo3-elite_",
+        "name": "Isotek Systems EVO3 ELITE",
+        "price": 399.0,
+        "price_old": 799.0,
+        "sale_percentage": 50.1,
+        "url": "https://www.supersonido.es/p/isotek-systems-evo3-elite_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53566.jpg"
     },
     "solidsteel-vintage-ss6_": {
         "id": "solidsteel-vintage-ss6_",
@@ -557,15 +557,6 @@
         "url": "https://www.supersonido.es/p/van-den-hul-the-wind-8-wbt-0661-ag",
         "image": "https://www.supersonido.es/productos/imagenes/producto52692.jpg"
     },
-    "ibasso-dx260_": {
-        "id": "ibasso-dx260_",
-        "name": "Ibasso DX260",
-        "price": 599.0,
-        "price_old": 949.0,
-        "sale_percentage": 36.9,
-        "url": "https://www.supersonido.es/p/ibasso-dx260_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52747.jpg"
-    },
     "letshuoer-ej07m_": {
         "id": "letshuoer-ej07m_",
         "name": "Letshuoer EJ07M",
@@ -574,6 +565,15 @@
         "sale_percentage": 25.1,
         "url": "https://www.supersonido.es/p/letshuoer-ej07m_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53476.jpg"
+    },
+    "ibasso-dx260_": {
+        "id": "ibasso-dx260_",
+        "name": "Ibasso DX260",
+        "price": 599.0,
+        "price_old": 949.0,
+        "sale_percentage": 36.9,
+        "url": "https://www.supersonido.es/p/ibasso-dx260_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52747.jpg"
     },
     "project-maia-ds": {
         "id": "project-maia-ds",
@@ -602,6 +602,15 @@
         "url": "https://www.supersonido.es/p/q-acoustics-m40-OC",
         "image": "https://www.supersonido.es/productos/imagenes/producto52053.jpg"
     },
+    "audiolab-6000a-play-": {
+        "id": "audiolab-6000a-play-",
+        "name": "Audiolab 6000A PLAY",
+        "price": 699.0,
+        "price_old": 1249.0,
+        "sale_percentage": 44.0,
+        "url": "https://www.supersonido.es/p/audiolab-6000a-play-",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52190.jpg"
+    },
     "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra": {
         "id": "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
         "name": "Pro-Ject Pre-Box S2 Digital DAC +  Stream Box S2 Ultra",
@@ -619,15 +628,6 @@
         "sale_percentage": 30.0,
         "url": "https://www.supersonido.es/p/ifi-audio-idsd-diablo_",
         "image": "https://www.supersonido.es/productos/imagenes/producto49365.jpg"
-    },
-    "audiolab-6000a-play-": {
-        "id": "audiolab-6000a-play-",
-        "name": "Audiolab 6000A PLAY",
-        "price": 699.0,
-        "price_old": 1249.0,
-        "sale_percentage": 44.0,
-        "url": "https://www.supersonido.es/p/audiolab-6000a-play-",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52190.jpg"
     },
     "marantz-stereo-70s__": {
         "id": "marantz-stereo-70s__",
@@ -728,6 +728,15 @@
         "url": "https://www.supersonido.es/p/cambridge-audio-evo-cd_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto53360.jpg"
     },
+    "q-acoustics-concept-30_": {
+        "id": "q-acoustics-concept-30_",
+        "name": "Q Acoustics Concept 30",
+        "price": 899.0,
+        "price_old": 1199.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/q-acoustics-concept-30_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53596.jpg"
+    },
     "cayin-n6 MKII_": {
         "id": "cayin-n6 MKII_",
         "name": "Cayin N6 MKII",
@@ -745,15 +754,6 @@
         "sale_percentage": 10.0,
         "url": "https://www.supersonido.es/p/humminguru-nova_",
         "image": "https://www.supersonido.es/productos/imagenes/producto54034.jpg"
-    },
-    "q-acoustics-concept-30_": {
-        "id": "q-acoustics-concept-30_",
-        "name": "Q Acoustics Concept 30",
-        "price": 899.0,
-        "price_old": 1199.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/q-acoustics-concept-30_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53596.jpg"
     },
     "optoma-hd29hstx_": {
         "id": "optoma-hd29hstx_",
@@ -799,15 +799,6 @@
         "sale_percentage": 37.5,
         "url": "https://www.supersonido.es/p/sivga-sendy-peacock_",
         "image": "https://www.supersonido.es/productos/imagenes/producto49897.jpg"
-    },
-    "eversolo-dmp-a6-master-edition": {
-        "id": "eversolo-dmp-a6-master-edition",
-        "name": "Eversolo DMP-A6 Master Edition",
-        "price": 999.0,
-        "price_old": 1299.0,
-        "sale_percentage": 23.1,
-        "url": "https://www.supersonido.es/p/eversolo-dmp-a6-master-edition",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50124.jpg"
     },
     "klipsch-thx-5002-s_": {
         "id": "klipsch-thx-5002-s_",
@@ -898,6 +889,15 @@
         "sale_percentage": 24.6,
         "url": "https://www.supersonido.es/p/primare-sc-15-prisma",
         "image": "https://www.supersonido.es/productos/imagenes/producto29464.jpg"
+    },
+    "sonus-faber-lumina-iii_a_": {
+        "id": "sonus-faber-lumina-iii_a_",
+        "name": "Sonus Faber LUMINA III",
+        "price": 1249.0,
+        "price_old": 2549.0,
+        "sale_percentage": 51.0,
+        "url": "https://www.supersonido.es/p/sonus-faber-lumina-iii_a_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57862.jpg"
     },
     "ibasso-d16": {
         "id": "ibasso-d16",
@@ -1295,15 +1295,6 @@
         "url": "https://www.supersonido.es/p/mcintosh-mha200_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto53359.jpg"
     },
-    "isotek-systems-sigmas_": {
-        "id": "isotek-systems-sigmas_",
-        "name": "Isotek Systems Sigmas EVO 3",
-        "price": 2999.0,
-        "price_old": 4299.0,
-        "sale_percentage": 30.2,
-        "url": "https://www.supersonido.es/p/isotek-systems-sigmas_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50780.jpg"
-    },
     "anthem-mca-525-gen-2_oca": {
         "id": "anthem-mca-525-gen-2_oca",
         "name": "Anthem MCA 525 GEN 2",
@@ -1322,14 +1313,14 @@
         "url": "https://www.supersonido.es/p/samsung-qe75qn800b__oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto51399.jpg"
     },
-    "primaluna-evo-100-tube-phono-preamplifier_": {
-        "id": "primaluna-evo-100-tube-phono-preamplifier_",
-        "name": "Primaluna EVO 100-11 Tube Phono Preamplifier",
-        "price": 3290.0,
-        "price_old": 3890.0,
-        "sale_percentage": 15.4,
-        "url": "https://www.supersonido.es/p/primaluna-evo-100-tube-phono-preamplifier_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50998.jpg"
+    "isotek-systems-sigmas_": {
+        "id": "isotek-systems-sigmas_",
+        "name": "Isotek Systems Sigmas EVO 3",
+        "price": 2999.0,
+        "price_old": 4299.0,
+        "sale_percentage": 30.2,
+        "url": "https://www.supersonido.es/p/isotek-systems-sigmas_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50780.jpg"
     },
     "primare-i35-prisma_": {
         "id": "primare-i35-prisma_",
@@ -1339,6 +1330,15 @@
         "sale_percentage": 31.3,
         "url": "https://www.supersonido.es/p/primare-i35-prisma_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50791.jpg"
+    },
+    "primaluna-evo-100-tube-phono-preamplifier_": {
+        "id": "primaluna-evo-100-tube-phono-preamplifier_",
+        "name": "Primaluna EVO 100-11 Tube Phono Preamplifier",
+        "price": 3290.0,
+        "price_old": 3890.0,
+        "sale_percentage": 15.4,
+        "url": "https://www.supersonido.es/p/primaluna-evo-100-tube-phono-preamplifier_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50998.jpg"
     },
     "yamaha-yh-5000se_": {
         "id": "yamaha-yh-5000se_",
@@ -1429,15 +1429,6 @@
         "sale_percentage": 43.9,
         "url": "https://www.supersonido.es/p/unison-research-s9",
         "image": "https://www.supersonido.es/productos/imagenes/producto8281.jpg"
-    },
-    "fyne-audio-f702_": {
-        "id": "fyne-audio-f702_",
-        "name": "Fyne Audio F702",
-        "price": 4990.0,
-        "price_old": 10490.0,
-        "sale_percentage": 52.4,
-        "url": "https://www.supersonido.es/p/fyne-audio-f702_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57856.jpg"
     },
     "boenicke-audio-w8-standard_": {
         "id": "boenicke-audio-w8-standard_",
