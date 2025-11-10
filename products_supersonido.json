@@ -134,14 +134,14 @@
         "url": "https://www.supersonido.es/p/panasonic-sc-ux100",
         "image": "https://www.supersonido.es/productos/imagenes/producto25858.jpg"
     },
-    "devialet-tree-phantom-ii_": {
-        "id": "devialet-tree-phantom-ii_",
-        "name": "Devialet Tree  Phantom II",
+    "customdesign-neat-ultimatum-xls-106-xl-speaker-stands": {
+        "id": "customdesign-neat-ultimatum-xls-106-xl-speaker-stands",
+        "name": "CustomDesign Neat Ultimatum XLS 106 XL Speaker Stands",
         "price": 149.0,
-        "price_old": 219.0,
-        "sale_percentage": 32.0,
-        "url": "https://www.supersonido.es/p/devialet-tree-phantom-ii_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57434.jpg"
+        "price_old": 599.0,
+        "sale_percentage": 75.1,
+        "url": "https://www.supersonido.es/p/customdesign-neat-ultimatum-xls-106-xl-speaker-stands",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57491.jpg"
     },
     "q-acoustics-concept-stand-b_occ": {
         "id": "q-acoustics-concept-stand-b_occ",
@@ -161,6 +161,15 @@
         "url": "https://www.supersonido.es/p/q-acoustics-concept-stand-b_occ_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57381.jpg"
     },
+    "devialet-tree-phantom-ii_": {
+        "id": "devialet-tree-phantom-ii_",
+        "name": "Devialet Tree  Phantom II",
+        "price": 149.0,
+        "price_old": 219.0,
+        "sale_percentage": 32.0,
+        "url": "https://www.supersonido.es/p/devialet-tree-phantom-ii_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57434.jpg"
+    },
     "monitor-audio-v240_oc": {
         "id": "monitor-audio-v240_oc",
         "name": "Monitor Audio V240",
@@ -169,15 +178,6 @@
         "sale_percentage": 62.3,
         "url": "https://www.supersonido.es/p/monitor-audio-v240_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto57126.jpg"
-    },
-    "customdesign-neat-ultimatum-xls-106-xl-speaker-stands": {
-        "id": "customdesign-neat-ultimatum-xls-106-xl-speaker-stands",
-        "name": "CustomDesign Neat Ultimatum XLS 106 XL Speaker Stands",
-        "price": 149.0,
-        "price_old": 599.0,
-        "sale_percentage": 75.1,
-        "url": "https://www.supersonido.es/p/customdesign-neat-ultimatum-xls-106-xl-speaker-stands",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57491.jpg"
     },
     "meze-audio-99-neo_oc": {
         "id": "meze-audio-99-neo_oc",
@@ -368,15 +368,6 @@
         "url": "https://www.supersonido.es/p/jbl-ma310__",
         "image": "https://www.supersonido.es/productos/imagenes/producto52947.jpg"
     },
-    "audio-technica-at-lpw50btrw_": {
-        "id": "audio-technica-at-lpw50btrw_",
-        "name": "Audio-Technica AT-LPW50BTRW",
-        "price": 399.0,
-        "price_old": 499.0,
-        "sale_percentage": 20.0,
-        "url": "https://www.supersonido.es/p/audio-technica-at-lpw50btrw_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57741.jpg"
-    },
     "audioquest-yukon-xlr-oca": {
         "id": "audioquest-yukon-xlr-oca",
         "name": "Audioquest Yukon XLR",
@@ -385,6 +376,15 @@
         "sale_percentage": 58.8,
         "url": "https://www.supersonido.es/p/audioquest-yukon-xlr-oca",
         "image": "https://www.supersonido.es/productos/imagenes/producto57814.jpg"
+    },
+    "audio-technica-at-lpw50btrw_": {
+        "id": "audio-technica-at-lpw50btrw_",
+        "name": "Audio-Technica AT-LPW50BTRW",
+        "price": 399.0,
+        "price_old": 499.0,
+        "sale_percentage": 20.0,
+        "url": "https://www.supersonido.es/p/audio-technica-at-lpw50btrw_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57741.jpg"
     },
     "jbl-js-120-stands_": {
         "id": "jbl-js-120-stands_",
@@ -458,15 +458,6 @@
         "url": "https://www.supersonido.es/p/ortofon-st-7_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53522.jpg"
     },
-    "pro-ject-juke-box-e1_": {
-        "id": "pro-ject-juke-box-e1_",
-        "name": "Pro-Ject Juke Box E1",
-        "price": 499.0,
-        "price_old": 649.0,
-        "sale_percentage": 23.1,
-        "url": "https://www.supersonido.es/p/pro-ject-juke-box-e1_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57879.jpg"
-    },
     "onkyo-tx-8270__": {
         "id": "onkyo-tx-8270__",
         "name": "Onkyo TX-8270",
@@ -475,6 +466,15 @@
         "sale_percentage": 28.6,
         "url": "https://www.supersonido.es/p/onkyo-tx-8270__",
         "image": "https://www.supersonido.es/productos/imagenes/producto57770.jpg"
+    },
+    "pro-ject-juke-box-e1_": {
+        "id": "pro-ject-juke-box-e1_",
+        "name": "Pro-Ject Juke Box E1",
+        "price": 499.0,
+        "price_old": 649.0,
+        "sale_percentage": 23.1,
+        "url": "https://www.supersonido.es/p/pro-ject-juke-box-e1_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57879.jpg"
     },
     "musical-fidelity-m2si_oc": {
         "id": "musical-fidelity-m2si_oc",
@@ -574,15 +574,6 @@
         "sale_percentage": 30.1,
         "url": "https://www.supersonido.es/p/marantz-stereo-70s__",
         "image": "https://www.supersonido.es/productos/imagenes/producto53248.jpg"
-    },
-    "kef-q750": {
-        "id": "kef-q750",
-        "name": "KEF Q750",
-        "price": 699.0,
-        "price_old": 1378.0,
-        "sale_percentage": 49.3,
-        "url": "https://www.supersonido.es/p/kef-q750",
-        "image": "https://www.supersonido.es/productos/imagenes/producto54274.jpg"
     },
     "audiolab-6000a-play-": {
         "id": "audiolab-6000a-play-",
@@ -746,6 +737,15 @@
         "url": "https://www.supersonido.es/p/rega-planar-3-vm750sh-series",
         "image": "https://www.supersonido.es/productos/imagenes/producto53291.jpg"
     },
+    "martinlogan-edge_": {
+        "id": "martinlogan-edge_",
+        "name": "Martin-Logan Edge",
+        "price": 999.0,
+        "price_old": 2290.0,
+        "sale_percentage": 56.4,
+        "url": "https://www.supersonido.es/p/martinlogan-edge_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57091.jpg"
+    },
     "ibasso-d16": {
         "id": "ibasso-d16",
         "name": "Ibasso D16",
@@ -781,15 +781,6 @@
         "sale_percentage": 56.4,
         "url": "https://www.supersonido.es/p/martinlogan-edge",
         "image": "https://www.supersonido.es/productos/imagenes/producto20750.jpg"
-    },
-    "martinlogan-edge_": {
-        "id": "martinlogan-edge_",
-        "name": "Martin-Logan Edge",
-        "price": 999.0,
-        "price_old": 2290.0,
-        "sale_percentage": 56.4,
-        "url": "https://www.supersonido.es/p/martinlogan-edge_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57091.jpg"
     },
     "xgimi-horizon-ultra_": {
         "id": "xgimi-horizon-ultra_",
