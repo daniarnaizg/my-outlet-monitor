@@ -152,15 +152,6 @@
         "url": "https://www.supersonido.es/p/yamaha-tw-es5a",
         "image": "https://www.supersonido.es/productos/imagenes/producto48132.jpg"
     },
-    "sony-wh-ch720n": {
-        "id": "sony-wh-ch720n",
-        "name": "Sony WH-CH720N",
-        "price": 59.9,
-        "price_old": 149.0,
-        "sale_percentage": 59.8,
-        "url": "https://www.supersonido.es/p/sony-wh-ch720n",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49050.jpg"
-    },
     "nobunaga-labs-raikiri-kai-s": {
         "id": "nobunaga-labs-raikiri-kai-s",
         "name": "Nobunaga Labs Raikiri Kai S",
@@ -169,6 +160,15 @@
         "sale_percentage": 49.6,
         "url": "https://www.supersonido.es/p/nobunaga-labs-raikiri-kai-s",
         "image": "https://www.supersonido.es/productos/imagenes/producto30796.jpg"
+    },
+    "sony-wh-ch720n": {
+        "id": "sony-wh-ch720n",
+        "name": "Sony WH-CH720N",
+        "price": 67.9,
+        "price_old": 149.0,
+        "sale_percentage": 54.4,
+        "url": "https://www.supersonido.es/p/sony-wh-ch720n",
+        "image": "https://www.supersonido.es/productos/imagenes/producto49050.jpg"
     },
     "yamaha-ws-b1a": {
         "id": "yamaha-ws-b1a",
@@ -242,15 +242,6 @@
         "url": "https://www.supersonido.es/p/sony-ht-sf150",
         "image": "https://www.supersonido.es/productos/imagenes/producto27025.jpg"
     },
-    "klipsch-cs-16w": {
-        "id": "klipsch-cs-16w",
-        "name": "Klipsch CS-16W",
-        "price": 89.0,
-        "price_old": 149.0,
-        "sale_percentage": 40.3,
-        "url": "https://www.supersonido.es/p/klipsch-cs-16w",
-        "image": "https://www.supersonido.es/productos/imagenes/producto26992.jpg"
-    },
     "astell-kern-kann-cube-case": {
         "id": "astell-kern-kann-cube-case",
         "name": "Astell&kern KANN CUBE Case",
@@ -269,14 +260,14 @@
         "url": "https://www.supersonido.es/p/nobunaga-labs-yuzen",
         "image": "https://www.supersonido.es/productos/imagenes/producto30689.jpg"
     },
-    "denon-ah-c10-perl": {
-        "id": "denon-ah-c10-perl",
-        "name": "Denon AH-C10 Perl",
-        "price": 99.0,
-        "price_old": 169.0,
-        "sale_percentage": 41.4,
-        "url": "https://www.supersonido.es/p/denon-ah-c10-perl",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50404.jpg"
+    "klipsch-cs-16w": {
+        "id": "klipsch-cs-16w",
+        "name": "Klipsch CS-16W",
+        "price": 89.0,
+        "price_old": 149.0,
+        "sale_percentage": 40.3,
+        "url": "https://www.supersonido.es/p/klipsch-cs-16w",
+        "image": "https://www.supersonido.es/productos/imagenes/producto26992.jpg"
     },
     "sennheiser-accentum-wireless": {
         "id": "sennheiser-accentum-wireless",
@@ -286,6 +277,15 @@
         "sale_percentage": 45.0,
         "url": "https://www.supersonido.es/p/sennheiser-accentum-wireless",
         "image": "https://www.supersonido.es/productos/imagenes/producto50517.jpg"
+    },
+    "denon-ah-c10-perl": {
+        "id": "denon-ah-c10-perl",
+        "name": "Denon AH-C10 Perl",
+        "price": 99.0,
+        "price_old": 169.0,
+        "sale_percentage": 41.4,
+        "url": "https://www.supersonido.es/p/denon-ah-c10-perl",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50404.jpg"
     },
     "technics-eah-az60": {
         "id": "technics-eah-az60",
