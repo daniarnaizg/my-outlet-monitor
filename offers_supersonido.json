@@ -44,15 +44,6 @@
         "url": "https://www.supersonido.es/p/panasonic-rz-b110w",
         "image": "https://www.supersonido.es/productos/imagenes/producto50266.jpg"
     },
-    "sony-wh-ch520": {
-        "id": "sony-wh-ch520",
-        "name": "Sony WH-CH520",
-        "price": 29.9,
-        "price_old": 69.0,
-        "sale_percentage": 56.7,
-        "url": "https://www.supersonido.es/p/sony-wh-ch520",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49051.jpg"
-    },
     "akg-k52": {
         "id": "akg-k52",
         "name": "AKG K52",
@@ -61,6 +52,15 @@
         "sale_percentage": 49.2,
         "url": "https://www.supersonido.es/p/akg-k52",
         "image": "https://www.supersonido.es/productos/imagenes/producto22083.jpg"
+    },
+    "sony-wh-ch520": {
+        "id": "sony-wh-ch520",
+        "name": "Sony WH-CH520",
+        "price": 34.9,
+        "price_old": 69.0,
+        "sale_percentage": 49.4,
+        "url": "https://www.supersonido.es/p/sony-wh-ch520",
+        "image": "https://www.supersonido.es/productos/imagenes/producto49051.jpg"
     },
     "sony-wf-c510": {
         "id": "sony-wf-c510",
@@ -269,15 +269,6 @@
         "url": "https://www.supersonido.es/p/klipsch-cs-16w",
         "image": "https://www.supersonido.es/productos/imagenes/producto26992.jpg"
     },
-    "sennheiser-accentum-wireless": {
-        "id": "sennheiser-accentum-wireless",
-        "name": "Sennheiser ACCENTUM Wireless",
-        "price": 99.0,
-        "price_old": 179.9,
-        "sale_percentage": 45.0,
-        "url": "https://www.supersonido.es/p/sennheiser-accentum-wireless",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50517.jpg"
-    },
     "denon-ah-c10-perl": {
         "id": "denon-ah-c10-perl",
         "name": "Denon AH-C10 Perl",
@@ -286,6 +277,15 @@
         "sale_percentage": 41.4,
         "url": "https://www.supersonido.es/p/denon-ah-c10-perl",
         "image": "https://www.supersonido.es/productos/imagenes/producto50404.jpg"
+    },
+    "sennheiser-accentum-wireless": {
+        "id": "sennheiser-accentum-wireless",
+        "name": "Sennheiser ACCENTUM Wireless",
+        "price": 99.0,
+        "price_old": 179.9,
+        "sale_percentage": 45.0,
+        "url": "https://www.supersonido.es/p/sennheiser-accentum-wireless",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50517.jpg"
     },
     "technics-eah-az60": {
         "id": "technics-eah-az60",
@@ -305,15 +305,6 @@
         "url": "https://www.supersonido.es/p/vutec-evmw4864d.",
         "image": "https://www.supersonido.es/productos/imagenes/producto16381.jpg"
     },
-    "nobunaga-labs-muramasa": {
-        "id": "nobunaga-labs-muramasa",
-        "name": "Nobunaga Labs Muramasa",
-        "price": 99.0,
-        "price_old": 215.0,
-        "sale_percentage": 54.0,
-        "url": "https://www.supersonido.es/p/nobunaga-labs-muramasa",
-        "image": "https://www.supersonido.es/productos/imagenes/producto30688.jpg"
-    },
     "denon-sc-n10": {
         "id": "denon-sc-n10",
         "name": "Denon SC-N10",
@@ -322,6 +313,15 @@
         "sale_percentage": 47.6,
         "url": "https://www.supersonido.es/p/denon-sc-n10",
         "image": "https://www.supersonido.es/productos/imagenes/producto29586.jpg"
+    },
+    "nobunaga-labs-muramasa": {
+        "id": "nobunaga-labs-muramasa",
+        "name": "Nobunaga Labs Muramasa",
+        "price": 99.0,
+        "price_old": 215.0,
+        "sale_percentage": 54.0,
+        "url": "https://www.supersonido.es/p/nobunaga-labs-muramasa",
+        "image": "https://www.supersonido.es/productos/imagenes/producto30688.jpg"
     },
     "sennheiser-accentum-true-wireless": {
         "id": "sennheiser-accentum-true-wireless",
