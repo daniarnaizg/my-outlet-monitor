@@ -71,15 +71,6 @@
         "url": "https://www.supersonido.es/p/ifi-audio-uno_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto50999.jpg"
     },
-    "arylic-s10": {
-        "id": "arylic-s10",
-        "name": "Art Vinyl S10",
-        "price": 60.0,
-        "price_old": 99.0,
-        "sale_percentage": 39.4,
-        "url": "https://www.supersonido.es/p/arylic-s10",
-        "image": "https://www.supersonido.es/productos/imagenes/producto47645.jpg"
-    },
     "ifi-audio-ipurifier2-usb-a-female_oc": {
         "id": "ifi-audio-ipurifier2-usb-a-female_oc",
         "name": "IFI Audio iPurifier2 USB-A Female",
@@ -395,15 +386,6 @@
         "url": "https://www.supersonido.es/p/letshuoer-ej07m_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53476.jpg"
     },
-    "project-maia-ds": {
-        "id": "project-maia-ds",
-        "name": "Pro-Ject MaiA DS",
-        "price": 599.0,
-        "price_old": 799.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/project-maia-ds",
-        "image": "https://www.supersonido.es/productos/imagenes/producto21332.jpg"
-    },
     "matrix-audio-element-i_": {
         "id": "matrix-audio-element-i_",
         "name": "Matrix Audio Element i",
@@ -413,14 +395,14 @@
         "url": "https://www.supersonido.es/p/matrix-audio-element-i_",
         "image": "https://www.supersonido.es/productos/imagenes/producto42751.jpg"
     },
-    "wharfedale-denton-85th-anniversary_d": {
-        "id": "wharfedale-denton-85th-anniversary_d",
-        "name": "Wharfedale Denton 85th Anniversary",
-        "price": 699.0,
-        "price_old": 869.0,
-        "sale_percentage": 19.6,
-        "url": "https://www.supersonido.es/p/wharfedale-denton-85th-anniversary_d",
-        "image": "https://www.supersonido.es/productos/imagenes/producto48982.jpg"
+    "project-maia-ds": {
+        "id": "project-maia-ds",
+        "name": "Pro-Ject MaiA DS",
+        "price": 599.0,
+        "price_old": 799.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/project-maia-ds",
+        "image": "https://www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
     "cayin-n6 MKII_": {
         "id": "cayin-n6 MKII_",
@@ -430,6 +412,15 @@
         "sale_percentage": 50.0,
         "url": "https://www.supersonido.es/p/cayin-n6 MKII_",
         "image": "https://www.supersonido.es/productos/imagenes/producto47232.jpg"
+    },
+    "wharfedale-denton-85th-anniversary_d": {
+        "id": "wharfedale-denton-85th-anniversary_d",
+        "name": "Wharfedale Denton 85th Anniversary",
+        "price": 699.0,
+        "price_old": 869.0,
+        "sale_percentage": 19.6,
+        "url": "https://www.supersonido.es/p/wharfedale-denton-85th-anniversary_d",
+        "image": "https://www.supersonido.es/productos/imagenes/producto48982.jpg"
     },
     "audiolab-6000a-play_oc": {
         "id": "audiolab-6000a-play_oc",
@@ -602,15 +593,6 @@
         "url": "https://www.supersonido.es/p/klipsch-thx-5002-s_",
         "image": "https://www.supersonido.es/productos/imagenes/producto51081.jpg"
     },
-    "martinlogan-edge": {
-        "id": "martinlogan-edge",
-        "name": "Martin-Logan Edge",
-        "price": 999.0,
-        "price_old": 2290.0,
-        "sale_percentage": 56.4,
-        "url": "https://www.supersonido.es/p/martinlogan-edge",
-        "image": "https://www.supersonido.es/productos/imagenes/producto20750.jpg"
-    },
     "sivga-sendy-peacock_": {
         "id": "sivga-sendy-peacock_",
         "name": "Sendy Audio Peacock",
@@ -619,6 +601,15 @@
         "sale_percentage": 37.5,
         "url": "https://www.supersonido.es/p/sivga-sendy-peacock_",
         "image": "https://www.supersonido.es/productos/imagenes/producto49897.jpg"
+    },
+    "martinlogan-edge": {
+        "id": "martinlogan-edge",
+        "name": "Martin-Logan Edge",
+        "price": 999.0,
+        "price_old": 2290.0,
+        "sale_percentage": 56.4,
+        "url": "https://www.supersonido.es/p/martinlogan-edge",
+        "image": "https://www.supersonido.es/productos/imagenes/producto20750.jpg"
     },
     "svs-ultra-surround_": {
         "id": "svs-ultra-surround_",
