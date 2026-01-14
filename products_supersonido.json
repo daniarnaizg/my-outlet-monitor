@@ -242,15 +242,6 @@
         "url": "https://www.supersonido.es/p/audio-technica-at-lp140xp-oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto49663.jpg"
     },
-    "audiopro-a28_oca": {
-        "id": "audiopro-a28_oca",
-        "name": "AudioPro A28",
-        "price": 399.0,
-        "price_old": 599.0,
-        "sale_percentage": 33.4,
-        "url": "https://www.supersonido.es/p/audiopro-a28_oca",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57989.jpg"
-    },
     "audioquest-yukon-xlr-oca": {
         "id": "audioquest-yukon-xlr-oca",
         "name": "Audioquest Yukon XLR",
@@ -259,6 +250,15 @@
         "sale_percentage": 58.8,
         "url": "https://www.supersonido.es/p/audioquest-yukon-xlr-oca",
         "image": "https://www.supersonido.es/productos/imagenes/producto57814.jpg"
+    },
+    "audiopro-a28_oca": {
+        "id": "audiopro-a28_oca",
+        "name": "AudioPro A28",
+        "price": 399.0,
+        "price_old": 599.0,
+        "sale_percentage": 33.4,
+        "url": "https://www.supersonido.es/p/audiopro-a28_oca",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57989.jpg"
     },
     "jbl-js-120-stands_": {
         "id": "jbl-js-120-stands_",
@@ -368,15 +368,6 @@
         "url": "https://www.supersonido.es/p/van-den-hul-the-wind-8-wbt-0661-ag",
         "image": "https://www.supersonido.es/productos/imagenes/producto52692.jpg"
     },
-    "letshuoer-ej07m_": {
-        "id": "letshuoer-ej07m_",
-        "name": "Letshuoer EJ07M",
-        "price": 599.0,
-        "price_old": 800.0,
-        "sale_percentage": 25.1,
-        "url": "https://www.supersonido.es/p/letshuoer-ej07m_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53476.jpg"
-    },
     "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra": {
         "id": "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
         "name": "Pro-Ject Pre-Box S2 Digital DAC +  Stream Box S2 Ultra",
@@ -394,6 +385,15 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/q-acoustics-5020_OC",
         "image": "https://www.supersonido.es/productos/imagenes/producto57304.jpg"
+    },
+    "letshuoer-ej07m_": {
+        "id": "letshuoer-ej07m_",
+        "name": "Letshuoer EJ07M",
+        "price": 599.0,
+        "price_old": 800.0,
+        "sale_percentage": 25.1,
+        "url": "https://www.supersonido.es/p/letshuoer-ej07m_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53476.jpg"
     },
     "project-maia-ds": {
         "id": "project-maia-ds",
@@ -494,15 +494,6 @@
         "url": "https://www.supersonido.es/p/jasmine-audio-js-tb297-12",
         "image": "https://www.supersonido.es/productos/imagenes/producto56900.jpg"
     },
-    "optoma-hd29hstx_": {
-        "id": "optoma-hd29hstx_",
-        "name": "Optoma HD29HSTx",
-        "price": 799.0,
-        "price_old": 1089.0,
-        "sale_percentage": 26.6,
-        "url": "https://www.supersonido.es/p/optoma-hd29hstx_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57324.jpg"
-    },
     "musical-fidelity-m2sioca": {
         "id": "musical-fidelity-m2sioca",
         "name": "Musical Fidelity M2SI",
@@ -511,6 +502,15 @@
         "sale_percentage": 27.3,
         "url": "https://www.supersonido.es/p/musical-fidelity-m2sioca",
         "image": "https://www.supersonido.es/productos/imagenes/producto58002.jpg"
+    },
+    "optoma-hd29hstx_": {
+        "id": "optoma-hd29hstx_",
+        "name": "Optoma HD29HSTx",
+        "price": 799.0,
+        "price_old": 1089.0,
+        "sale_percentage": 26.6,
+        "url": "https://www.supersonido.es/p/optoma-hd29hstx_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57324.jpg"
     },
     "marantz-stereo-70s__": {
         "id": "marantz-stereo-70s__",
@@ -529,15 +529,6 @@
         "sale_percentage": 34.9,
         "url": "https://www.supersonido.es/p/rega-planar-3-vm750sh-series",
         "image": "https://www.supersonido.es/productos/imagenes/producto53291.jpg"
-    },
-    "cambridge-audio-evo-cd_oc": {
-        "id": "cambridge-audio-evo-cd_oc",
-        "name": "Cambridge Audio EVO CD",
-        "price": 799.0,
-        "price_old": 1199.0,
-        "sale_percentage": 33.4,
-        "url": "https://www.supersonido.es/p/cambridge-audio-evo-cd_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53360.jpg"
     },
     "dan-clark-audio-on-2-closed_": {
         "id": "dan-clark-audio-on-2-closed_",
@@ -682,6 +673,15 @@
         "sale_percentage": 27.3,
         "url": "https://www.supersonido.es/p/pioneer-vsx-lx305",
         "image": "https://www.supersonido.es/productos/imagenes/producto47724.jpg"
+    },
+    "hisense-c2_": {
+        "id": "hisense-c2_",
+        "name": "Hisense C2",
+        "price": 1099.0,
+        "price_old": 1499.0,
+        "sale_percentage": 26.7,
+        "url": "https://www.supersonido.es/p/hisense-c2_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto58125.jpg"
     },
     "marantz-cinema-60_": {
         "id": "marantz-cinema-60_",
