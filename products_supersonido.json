@@ -251,15 +251,6 @@
         "url": "https://www.supersonido.es/p/audiopro-a28_oca",
         "image": "https://www.supersonido.es/productos/imagenes/producto57989.jpg"
     },
-    "jbl-js-120-stands_": {
-        "id": "jbl-js-120-stands_",
-        "name": "JBL JS-120 Stands",
-        "price": 399.0,
-        "price_old": 499.0,
-        "sale_percentage": 20.0,
-        "url": "https://www.supersonido.es/p/jbl-js-120-stands_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57382.jpg"
-    },
     "audioquest-yukon-xlr-oca": {
         "id": "audioquest-yukon-xlr-oca",
         "name": "Audioquest Yukon XLR",
@@ -277,6 +268,15 @@
         "sale_percentage": 27.3,
         "url": "https://www.supersonido.es/p/focal-azurys_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57136.jpg"
+    },
+    "jbl-js-120-stands_": {
+        "id": "jbl-js-120-stands_",
+        "name": "JBL JS-120 Stands",
+        "price": 399.0,
+        "price_old": 499.0,
+        "sale_percentage": 20.0,
+        "url": "https://www.supersonido.es/p/jbl-js-120-stands_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57382.jpg"
     },
     "klipsch-aw650_": {
         "id": "klipsch-aw650_",
@@ -314,15 +314,6 @@
         "url": "https://www.supersonido.es/p/dynaudio-emit-10_ul",
         "image": "https://www.supersonido.es/productos/imagenes/producto57315.jpg"
     },
-    "humminguru-ultrasonic-vinyl-record-cleaner-oc": {
-        "id": "humminguru-ultrasonic-vinyl-record-cleaner-oc",
-        "name": "HumminGuru Ultrasonic Vinyl Record Cleaner-oc",
-        "price": 499.0,
-        "price_old": 599.0,
-        "sale_percentage": 16.7,
-        "url": "https://www.supersonido.es/p/humminguru-ultrasonic-vinyl-record-cleaner-oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57742.jpg"
-    },
     "pro-ject-juke-box-e1_": {
         "id": "pro-ject-juke-box-e1_",
         "name": "Pro-Ject Juke Box E1",
@@ -331,6 +322,15 @@
         "sale_percentage": 23.1,
         "url": "https://www.supersonido.es/p/pro-ject-juke-box-e1_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57879.jpg"
+    },
+    "humminguru-ultrasonic-vinyl-record-cleaner-oc": {
+        "id": "humminguru-ultrasonic-vinyl-record-cleaner-oc",
+        "name": "HumminGuru Ultrasonic Vinyl Record Cleaner-oc",
+        "price": 499.0,
+        "price_old": 599.0,
+        "sale_percentage": 16.7,
+        "url": "https://www.supersonido.es/p/humminguru-ultrasonic-vinyl-record-cleaner-oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57742.jpg"
     },
     "earmen-tradutto_": {
         "id": "earmen-tradutto_",
@@ -386,6 +386,15 @@
         "url": "https://www.supersonido.es/p/pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
         "image": "https://www.supersonido.es/productos/imagenes/producto51311.jpg"
     },
+    "ortofon-spu1-s_": {
+        "id": "ortofon-spu1-s_",
+        "name": "Ortofon SPU1 S",
+        "price": 599.0,
+        "price_old": 749.0,
+        "sale_percentage": 20.0,
+        "url": "https://www.supersonido.es/p/ortofon-spu1-s_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto58070.jpg"
+    },
     "letshuoer-ej07m_": {
         "id": "letshuoer-ej07m_",
         "name": "Letshuoer EJ07M",
@@ -404,15 +413,6 @@
         "url": "https://www.supersonido.es/p/project-maia-ds",
         "image": "https://www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
-    "matrix-audio-element-i_": {
-        "id": "matrix-audio-element-i_",
-        "name": "Matrix Audio Element i",
-        "price": 599.0,
-        "price_old": 939.0,
-        "sale_percentage": 36.2,
-        "url": "https://www.supersonido.es/p/matrix-audio-element-i_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto42751.jpg"
-    },
     "cambridge-audio-cxa61_": {
         "id": "cambridge-audio-cxa61_",
         "name": "Cambridge Audio CXA61",
@@ -422,23 +422,14 @@
         "url": "https://www.supersonido.es/p/cambridge-audio-cxa61_",
         "image": "https://www.supersonido.es/productos/imagenes/producto51007.jpg"
     },
-    "ortofon-spu1-s_": {
-        "id": "ortofon-spu1-s_",
-        "name": "Ortofon SPU1 S",
+    "matrix-audio-element-i_": {
+        "id": "matrix-audio-element-i_",
+        "name": "Matrix Audio Element i",
         "price": 599.0,
-        "price_old": 749.0,
-        "sale_percentage": 20.0,
-        "url": "https://www.supersonido.es/p/ortofon-spu1-s_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto58070.jpg"
-    },
-    "audiolab-6000a-play__oc": {
-        "id": "audiolab-6000a-play__oc",
-        "name": "Audiolab 6000A PLAY",
-        "price": 699.0,
-        "price_old": 1249.0,
-        "sale_percentage": 44.0,
-        "url": "https://www.supersonido.es/p/audiolab-6000a-play__oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52542.jpg"
+        "price_old": 939.0,
+        "sale_percentage": 36.2,
+        "url": "https://www.supersonido.es/p/matrix-audio-element-i_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto42751.jpg"
     },
     "audiolab-6000a-play-": {
         "id": "audiolab-6000a-play-",
@@ -448,6 +439,15 @@
         "sale_percentage": 44.0,
         "url": "https://www.supersonido.es/p/audiolab-6000a-play-",
         "image": "https://www.supersonido.es/productos/imagenes/producto52190.jpg"
+    },
+    "audiolab-6000a-play__oc": {
+        "id": "audiolab-6000a-play__oc",
+        "name": "Audiolab 6000A PLAY",
+        "price": 699.0,
+        "price_old": 1249.0,
+        "sale_percentage": 44.0,
+        "url": "https://www.supersonido.es/p/audiolab-6000a-play__oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52542.jpg"
     },
     "audiolab-6000a-play_oc": {
         "id": "audiolab-6000a-play_oc",
@@ -512,15 +512,6 @@
         "url": "https://www.supersonido.es/p/marantz-stereo-70s__",
         "image": "https://www.supersonido.es/productos/imagenes/producto53248.jpg"
     },
-    "rega-planar-3-vm750sh-series": {
-        "id": "rega-planar-3-vm750sh-series",
-        "name": "Rega Planar 3 VM750SH Series",
-        "price": 799.0,
-        "price_old": 1228.0,
-        "sale_percentage": 34.9,
-        "url": "https://www.supersonido.es/p/rega-planar-3-vm750sh-series",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53291.jpg"
-    },
     "dan-clark-audio-on-2-closed_": {
         "id": "dan-clark-audio-on-2-closed_",
         "name": "Dan Clark Audio ÃON 2 Closed",
@@ -575,24 +566,6 @@
         "url": "https://www.supersonido.es/p/humminguru-nova_",
         "image": "https://www.supersonido.es/productos/imagenes/producto54034.jpg"
     },
-    "rega-aria-mk3": {
-        "id": "rega-aria-mk3",
-        "name": "Rega Aria MK3",
-        "price": 899.0,
-        "price_old": 1359.0,
-        "sale_percentage": 33.8,
-        "url": "https://www.supersonido.es/p/rega-aria-mk3",
-        "image": "https://www.supersonido.es/productos/imagenes/producto42256.jpg"
-    },
-    "q-acoustics-q-active-400_": {
-        "id": "q-acoustics-q-active-400_",
-        "name": "Q Acoustics Q Active 400",
-        "price": 900.0,
-        "price_old": 2799.0,
-        "sale_percentage": 67.8,
-        "url": "https://www.supersonido.es/p/q-acoustics-q-active-400_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto58103.jpg"
-    },
     "musical-fidelity-m3si_": {
         "id": "musical-fidelity-m3si_",
         "name": "Musical Fidelity M3SI",
@@ -620,15 +593,6 @@
         "url": "https://www.supersonido.es/p/martinlogan-edge",
         "image": "https://www.supersonido.es/productos/imagenes/producto20750.jpg"
     },
-    "sivga-sendy-peacock_": {
-        "id": "sivga-sendy-peacock_",
-        "name": "Sendy Audio Peacock",
-        "price": 999.0,
-        "price_old": 1599.0,
-        "sale_percentage": 37.5,
-        "url": "https://www.supersonido.es/p/sivga-sendy-peacock_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49897.jpg"
-    },
     "klipsch-thx-5002-s_": {
         "id": "klipsch-thx-5002-s_",
         "name": "Klipsch THX-5002-S",
@@ -646,6 +610,15 @@
         "sale_percentage": 33.4,
         "url": "https://www.supersonido.es/p/ibasso-pb5",
         "image": "https://www.supersonido.es/productos/imagenes/producto51140.jpg"
+    },
+    "sivga-sendy-peacock_": {
+        "id": "sivga-sendy-peacock_",
+        "name": "Sendy Audio Peacock",
+        "price": 999.0,
+        "price_old": 1599.0,
+        "sale_percentage": 37.5,
+        "url": "https://www.supersonido.es/p/sivga-sendy-peacock_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto49897.jpg"
     },
     "svs-ultra-surround_": {
         "id": "svs-ultra-surround_",
@@ -989,6 +962,15 @@
         "url": "https://www.supersonido.es/p/stax-srm-700t_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52573.jpg"
     },
+    "anthem-mdx-16_": {
+        "id": "anthem-mdx-16_",
+        "name": "Anthem MDX 16",
+        "price": 2999.0,
+        "price_old": 3999.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/anthem-mdx-16_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52754.jpg"
+    },
     "final-audio-design-d8000-pro-edition_": {
         "id": "final-audio-design-d8000-pro-edition_",
         "name": "Final Audio Design D8000 Pro Edition",
@@ -1015,15 +997,6 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/mcintosh-mha200_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto53359.jpg"
-    },
-    "anthem-mdx-16_": {
-        "id": "anthem-mdx-16_",
-        "name": "Anthem MDX 16",
-        "price": 2999.0,
-        "price_old": 3999.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/anthem-mdx-16_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52754.jpg"
     },
     "isotek-systems-sigmas_": {
         "id": "isotek-systems-sigmas_",
