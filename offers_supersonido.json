@@ -1,13 +1,4 @@
 {
-    "hrl-definition-hrl-jack": {
-        "id": "hrl-definition-hrl-jack",
-        "name": "HRL Definition HRL-JACK",
-        "price": 7.9,
-        "price_old": 14.9,
-        "sale_percentage": 47.0,
-        "url": "https://www.supersonido.es/p/hrl-definition-hrl-jack",
-        "image": "https://www.supersonido.es/productos/imagenes/producto14037.jpg"
-    },
     "wiim-voice-remote": {
         "id": "wiim-voice-remote",
         "name": "Wiim Voice Remote",
@@ -124,15 +115,6 @@
         "sale_percentage": 40.4,
         "url": "https://www.supersonido.es/p/yamaha-tw-e5b",
         "image": "https://www.supersonido.es/productos/imagenes/producto47318.jpg"
-    },
-    "yamaha-tw-es5a": {
-        "id": "yamaha-tw-es5a",
-        "name": "Yamaha TW-ES5A",
-        "price": 59.0,
-        "price_old": 99.0,
-        "sale_percentage": 40.4,
-        "url": "https://www.supersonido.es/p/yamaha-tw-es5a",
-        "image": "https://www.supersonido.es/productos/imagenes/producto48132.jpg"
     },
     "the-chord-company-c-sub-1-rca-to-1-rca.": {
         "id": "the-chord-company-c-sub-1-rca-to-1-rca.",
@@ -350,6 +332,15 @@
         "url": "https://www.supersonido.es/p/nad-pp-2e",
         "image": "https://www.supersonido.es/productos/imagenes/producto47018.jpg"
     },
+    "qed-ss-30": {
+        "id": "qed-ss-30",
+        "name": "QED SS-30",
+        "price": 119.0,
+        "price_old": 215.0,
+        "sale_percentage": 44.7,
+        "url": "https://www.supersonido.es/p/qed-ss-30",
+        "image": "https://www.supersonido.es/productos/imagenes/producto1806.jpg"
+    },
     "klipsch-ds-160-w-skyhook": {
         "id": "klipsch-ds-160-w-skyhook",
         "name": "Klipsch DS-160 W SKYHOOK",
@@ -358,5 +349,14 @@
         "sale_percentage": 48.2,
         "url": "https://www.supersonido.es/p/klipsch-ds-160-w-skyhook",
         "image": "https://www.supersonido.es/productos/imagenes/producto43700.jpg"
+    },
+    "q-acoustics-3030i-stands": {
+        "id": "q-acoustics-3030i-stands",
+        "name": "Q Acoustics 3030i FSi STANDS",
+        "price": 129.0,
+        "price_old": 249.0,
+        "sale_percentage": 48.2,
+        "url": "https://www.supersonido.es/p/q-acoustics-3030i-stands",
+        "image": "https://www.supersonido.es/productos/imagenes/producto33206.jpg"
     }
 }
