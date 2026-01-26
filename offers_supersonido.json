@@ -269,15 +269,6 @@
         "url": "https://www.supersonido.es/p/nobunaga-labs-muramasa",
         "image": "https://www.supersonido.es/productos/imagenes/producto30688.jpg"
     },
-    "denon-ah-c10-perl": {
-        "id": "denon-ah-c10-perl",
-        "name": "Denon AH-C10 Perl",
-        "price": 99.0,
-        "price_old": 169.0,
-        "sale_percentage": 41.4,
-        "url": "https://www.supersonido.es/p/denon-ah-c10-perl",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50404.jpg"
-    },
     "sennheiser-accentum-wireless": {
         "id": "sennheiser-accentum-wireless",
         "name": "Sennheiser ACCENTUM Wireless",
@@ -287,14 +278,14 @@
         "url": "https://www.supersonido.es/p/sennheiser-accentum-wireless",
         "image": "https://www.supersonido.es/productos/imagenes/producto50517.jpg"
     },
-    "sennheiser-accentum-true-wireless": {
-        "id": "sennheiser-accentum-true-wireless",
-        "name": "Sennheiser ACCENTUM True Wireless",
-        "price": 99.9,
-        "price_old": 199.0,
-        "sale_percentage": 49.8,
-        "url": "https://www.supersonido.es/p/sennheiser-accentum-true-wireless",
-        "image": "https://www.supersonido.es/productos/imagenes/producto51902.jpg"
+    "denon-ah-c10-perl": {
+        "id": "denon-ah-c10-perl",
+        "name": "Denon AH-C10 Perl",
+        "price": 99.0,
+        "price_old": 169.0,
+        "sale_percentage": 41.4,
+        "url": "https://www.supersonido.es/p/denon-ah-c10-perl",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50404.jpg"
     },
     "sennheiser-cx-plus-se-true-wireless": {
         "id": "sennheiser-cx-plus-se-true-wireless",
@@ -304,6 +295,15 @@
         "sale_percentage": 44.5,
         "url": "https://www.supersonido.es/p/sennheiser-cx-plus-se-true-wireless",
         "image": "https://www.supersonido.es/productos/imagenes/producto52241.jpg"
+    },
+    "sennheiser-accentum-true-wireless": {
+        "id": "sennheiser-accentum-true-wireless",
+        "name": "Sennheiser ACCENTUM True Wireless",
+        "price": 99.9,
+        "price_old": 199.0,
+        "sale_percentage": 49.8,
+        "url": "https://www.supersonido.es/p/sennheiser-accentum-true-wireless",
+        "image": "https://www.supersonido.es/productos/imagenes/producto51902.jpg"
     },
     "vutec-evmw6080d.": {
         "id": "vutec-evmw6080d.",
