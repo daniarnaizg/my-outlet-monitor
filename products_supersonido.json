@@ -323,6 +323,15 @@
         "url": "https://www.supersonido.es/p/ortofon-st-7_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53522.jpg"
     },
+    "svs-sb1000__": {
+        "id": "svs-sb1000__",
+        "name": "SVS SB-1000",
+        "price": 499.0,
+        "price_old": 749.0,
+        "sale_percentage": 33.4,
+        "url": "https://www.supersonido.es/p/svs-sb1000__",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50642.jpg"
+    },
     "project-power-box-rs-amp-ds-black": {
         "id": "project-power-box-rs-amp-ds-black",
         "name": "Pro-Ject Power BOX RS Amp",
@@ -548,15 +557,6 @@
         "url": "https://www.supersonido.es/p/dan-clark-audio-on-2-closed_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50777.jpg"
     },
-    "wharfedale-evo4-4_": {
-        "id": "wharfedale-evo4-4_",
-        "name": "Wharfedale Evo4.4",
-        "price": 799.0,
-        "price_old": 1799.0,
-        "sale_percentage": 55.6,
-        "url": "https://www.supersonido.es/p/wharfedale-evo4-4_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto45663.jpg"
-    },
     "pro-ject-t2-w_": {
         "id": "pro-ject-t2-w_",
         "name": "Pro-Ject T2 W",
@@ -602,15 +602,6 @@
         "url": "https://www.supersonido.es/p/martinlogan-edge_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57091.jpg"
     },
-    "sivga-sendy-peacock_": {
-        "id": "sivga-sendy-peacock_",
-        "name": "Sendy Audio Peacock",
-        "price": 999.0,
-        "price_old": 1599.0,
-        "sale_percentage": 37.5,
-        "url": "https://www.supersonido.es/p/sivga-sendy-peacock_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49897.jpg"
-    },
     "klipsch-thx-5002-s_": {
         "id": "klipsch-thx-5002-s_",
         "name": "Klipsch THX-5002-S",
@@ -628,6 +619,15 @@
         "sale_percentage": 33.4,
         "url": "https://www.supersonido.es/p/ibasso-pb5",
         "image": "https://www.supersonido.es/productos/imagenes/producto51140.jpg"
+    },
+    "sivga-sendy-peacock_": {
+        "id": "sivga-sendy-peacock_",
+        "name": "Sendy Audio Peacock",
+        "price": 999.0,
+        "price_old": 1599.0,
+        "sale_percentage": 37.5,
+        "url": "https://www.supersonido.es/p/sivga-sendy-peacock_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto49897.jpg"
     },
     "martinlogan-edge": {
         "id": "martinlogan-edge",
