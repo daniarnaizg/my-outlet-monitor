@@ -152,15 +152,6 @@
         "url": "https://www.supersonido.es/p/nobunaga-labs-sarasa",
         "image": "https://www.supersonido.es/productos/imagenes/producto30690.jpg"
     },
-    "sony-wh-ch720n": {
-        "id": "sony-wh-ch720n",
-        "name": "Sony WH-CH720N",
-        "price": 69.9,
-        "price_old": 149.0,
-        "sale_percentage": 53.1,
-        "url": "https://www.supersonido.es/p/sony-wh-ch720n",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49050.jpg"
-    },
     "sennheiser-cx-true-wireless": {
         "id": "sennheiser-cx-true-wireless",
         "name": "Sennheiser CX True Wireless",
@@ -205,6 +196,15 @@
         "sale_percentage": 55.9,
         "url": "https://www.supersonido.es/p/nobunaga-labs-chitose",
         "image": "https://www.supersonido.es/productos/imagenes/producto46862.jpg"
+    },
+    "sony-wh-ch720n": {
+        "id": "sony-wh-ch720n",
+        "name": "Sony WH-CH720N",
+        "price": 79.0,
+        "price_old": 149.0,
+        "sale_percentage": 47.0,
+        "url": "https://www.supersonido.es/p/sony-wh-ch720n",
+        "image": "https://www.supersonido.es/productos/imagenes/producto49050.jpg"
     },
     "samsung-hw-b400f": {
         "id": "samsung-hw-b400f",
@@ -349,5 +349,14 @@
         "sale_percentage": 48.2,
         "url": "https://www.supersonido.es/p/q-acoustics-3030i-stands",
         "image": "https://www.supersonido.es/productos/imagenes/producto33206.jpg"
+    },
+    "polkaudio-s10e": {
+        "id": "polkaudio-s10e",
+        "name": "Polkaudio S10 Elite",
+        "price": 138.0,
+        "price_old": 269.0,
+        "sale_percentage": 48.7,
+        "url": "https://www.supersonido.es/p/polkaudio-s10e",
+        "image": "https://www.supersonido.es/productos/imagenes/producto28914.jpg"
     }
 }
