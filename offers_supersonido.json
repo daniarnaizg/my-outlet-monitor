@@ -44,15 +44,6 @@
         "url": "https://www.supersonido.es/p/akg-k52",
         "image": "https://www.supersonido.es/productos/imagenes/producto22083.jpg"
     },
-    "the-chord-company-c-view-hdmi-8k": {
-        "id": "the-chord-company-c-view-hdmi-8k",
-        "name": "The Chord Company C-VIEW HDMI 8K",
-        "price": 35.0,
-        "price_old": 67.99,
-        "sale_percentage": 48.5,
-        "url": "https://www.supersonido.es/p/the-chord-company-c-view-hdmi-8k",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49649.jpg"
-    },
     "dunu-dtc-500": {
         "id": "dunu-dtc-500",
         "name": "Dunu DTC-500",
@@ -170,15 +161,6 @@
         "url": "https://www.supersonido.es/p/nobunaga-labs-kotetsu",
         "image": "https://www.supersonido.es/productos/imagenes/producto30687.jpg"
     },
-    "nobunaga-labs-chitose": {
-        "id": "nobunaga-labs-chitose",
-        "name": "Nobunaga Labs Chitose",
-        "price": 79.0,
-        "price_old": 179.0,
-        "sale_percentage": 55.9,
-        "url": "https://www.supersonido.es/p/nobunaga-labs-chitose",
-        "image": "https://www.supersonido.es/productos/imagenes/producto46862.jpg"
-    },
     "sony-wh-ch720n": {
         "id": "sony-wh-ch720n",
         "name": "Sony WH-CH720N",
@@ -187,6 +169,15 @@
         "sale_percentage": 47.0,
         "url": "https://www.supersonido.es/p/sony-wh-ch720n",
         "image": "https://www.supersonido.es/productos/imagenes/producto49050.jpg"
+    },
+    "nobunaga-labs-chitose": {
+        "id": "nobunaga-labs-chitose",
+        "name": "Nobunaga Labs Chitose",
+        "price": 79.0,
+        "price_old": 179.0,
+        "sale_percentage": 55.9,
+        "url": "https://www.supersonido.es/p/nobunaga-labs-chitose",
+        "image": "https://www.supersonido.es/productos/imagenes/producto46862.jpg"
     },
     "samsung-hw-b400f": {
         "id": "samsung-hw-b400f",
@@ -260,15 +251,6 @@
         "url": "https://www.supersonido.es/p/denon-ah-c10-perl",
         "image": "https://www.supersonido.es/productos/imagenes/producto50404.jpg"
     },
-    "sennheiser-accentum-true-wireless": {
-        "id": "sennheiser-accentum-true-wireless",
-        "name": "Sennheiser ACCENTUM True Wireless",
-        "price": 99.9,
-        "price_old": 199.0,
-        "sale_percentage": 49.8,
-        "url": "https://www.supersonido.es/p/sennheiser-accentum-true-wireless",
-        "image": "https://www.supersonido.es/productos/imagenes/producto51902.jpg"
-    },
     "sennheiser-cx-plus-se-true-wireless": {
         "id": "sennheiser-cx-plus-se-true-wireless",
         "name": "Sennheiser CX Plus SE True Wireless",
@@ -277,6 +259,15 @@
         "sale_percentage": 44.5,
         "url": "https://www.supersonido.es/p/sennheiser-cx-plus-se-true-wireless",
         "image": "https://www.supersonido.es/productos/imagenes/producto52241.jpg"
+    },
+    "sennheiser-accentum-true-wireless": {
+        "id": "sennheiser-accentum-true-wireless",
+        "name": "Sennheiser ACCENTUM True Wireless",
+        "price": 99.9,
+        "price_old": 199.0,
+        "sale_percentage": 49.8,
+        "url": "https://www.supersonido.es/p/sennheiser-accentum-true-wireless",
+        "image": "https://www.supersonido.es/productos/imagenes/producto51902.jpg"
     },
     "sennheiser-accentum-wireless": {
         "id": "sennheiser-accentum-wireless",
