@@ -116,15 +116,6 @@
         "url": "https://www.supersonido.es/p/customdesign-neat-ultimatum-xls-106-xl-speaker-stands",
         "image": "https://www.supersonido.es/productos/imagenes/producto57491.jpg"
     },
-    "monitor-audio-v240_oc": {
-        "id": "monitor-audio-v240_oc",
-        "name": "Monitor Audio V240",
-        "price": 149.0,
-        "price_old": 395.0,
-        "sale_percentage": 62.3,
-        "url": "https://www.supersonido.es/p/monitor-audio-v240_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57126.jpg"
-    },
     "devialet-tree-phantom-ii_": {
         "id": "devialet-tree-phantom-ii_",
         "name": "Devialet Tree  Phantom II",
@@ -133,6 +124,15 @@
         "sale_percentage": 32.0,
         "url": "https://www.supersonido.es/p/devialet-tree-phantom-ii_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57434.jpg"
+    },
+    "monitor-audio-v240_oc": {
+        "id": "monitor-audio-v240_oc",
+        "name": "Monitor Audio V240",
+        "price": 149.0,
+        "price_old": 395.0,
+        "sale_percentage": 62.3,
+        "url": "https://www.supersonido.es/p/monitor-audio-v240_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57126.jpg"
     },
     "meze-audio-99-neo_oc": {
         "id": "meze-audio-99-neo_oc",
@@ -305,6 +305,15 @@
         "url": "https://www.supersonido.es/p/audio-technica-at-lp140xp-oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto49663.jpg"
     },
+    "sennheiser-ie-600_": {
+        "id": "sennheiser-ie-600_",
+        "name": "Sennheiser IE 600",
+        "price": 399.0,
+        "price_old": 799.0,
+        "sale_percentage": 50.1,
+        "url": "https://www.supersonido.es/p/sennheiser-ie-600_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto58297.jpg"
+    },
     "klipsch-rp-404c-ii_": {
         "id": "klipsch-rp-404c-ii_",
         "name": "Klipsch RP-404C II",
@@ -322,15 +331,6 @@
         "sale_percentage": 49.9,
         "url": "https://www.supersonido.es/p/earmen-tradutto_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50540.jpg"
-    },
-    "denon-avr-x1800h_oc": {
-        "id": "denon-avr-x1800h_oc",
-        "name": "Denon AVR-X1800H",
-        "price": 449.0,
-        "price_old": 699.0,
-        "sale_percentage": 35.8,
-        "url": "https://www.supersonido.es/p/denon-avr-x1800h_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto58596.jpg"
     },
     "project-power-box-rs-amp-ds-black": {
         "id": "project-power-box-rs-amp-ds-black",
@@ -413,14 +413,14 @@
         "url": "https://www.supersonido.es/p/ortofon-spu1-s_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58070.jpg"
     },
-    "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra": {
-        "id": "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
-        "name": "Pro-Ject Pre-Box S2 Digital DAC +  Stream Box S2 Ultra",
+    "hisense-65u7nq": {
+        "id": "hisense-65u7nq",
+        "name": "Hisense 65U7NQ",
         "price": 599.0,
-        "price_old": 1499.0,
-        "sale_percentage": 60.0,
-        "url": "https://www.supersonido.es/p/pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
-        "image": "https://www.supersonido.es/productos/imagenes/producto51311.jpg"
+        "price_old": 1099.0,
+        "sale_percentage": 45.5,
+        "url": "https://www.supersonido.es/p/hisense-65u7nq",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52958.jpg"
     },
     "letshuoer-ej07m_": {
         "id": "letshuoer-ej07m_",
@@ -431,14 +431,14 @@
         "url": "https://www.supersonido.es/p/letshuoer-ej07m_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53476.jpg"
     },
-    "hisense-65u7nq": {
-        "id": "hisense-65u7nq",
-        "name": "Hisense 65U7NQ",
+    "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra": {
+        "id": "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
+        "name": "Pro-Ject Pre-Box S2 Digital DAC +  Stream Box S2 Ultra",
         "price": 599.0,
-        "price_old": 1099.0,
-        "sale_percentage": 45.5,
-        "url": "https://www.supersonido.es/p/hisense-65u7nq",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52958.jpg"
+        "price_old": 1499.0,
+        "sale_percentage": 60.0,
+        "url": "https://www.supersonido.es/p/pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
+        "image": "https://www.supersonido.es/productos/imagenes/producto51311.jpg"
     },
     "project-maia-ds": {
         "id": "project-maia-ds",
@@ -448,15 +448,6 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/project-maia-ds",
         "image": "https://www.supersonido.es/productos/imagenes/producto21332.jpg"
-    },
-    "hisense-c1_": {
-        "id": "hisense-c1_",
-        "name": "Hisense C1",
-        "price": 699.0,
-        "price_old": 1999.0,
-        "sale_percentage": 65.0,
-        "url": "https://www.supersonido.es/p/hisense-c1_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53028.jpg"
     },
     "audiolab-6000a-play-": {
         "id": "audiolab-6000a-play-",
@@ -475,6 +466,15 @@
         "sale_percentage": 44.0,
         "url": "https://www.supersonido.es/p/audiolab-6000a-play__oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto52542.jpg"
+    },
+    "hisense-c1_": {
+        "id": "hisense-c1_",
+        "name": "Hisense C1",
+        "price": 699.0,
+        "price_old": 1999.0,
+        "sale_percentage": 65.0,
+        "url": "https://www.supersonido.es/p/hisense-c1_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53028.jpg"
     },
     "samsung-hw-q990f_": {
         "id": "samsung-hw-q990f_",
@@ -863,6 +863,15 @@
         "url": "https://www.supersonido.es/p/mofi-electronics-ultradeck-_",
         "image": "https://www.supersonido.es/productos/imagenes/producto54158.jpg"
     },
+    "rotel-dt-6000_": {
+        "id": "rotel-dt-6000_",
+        "name": "Rotel DT-6000",
+        "price": 1599.0,
+        "price_old": 2299.0,
+        "sale_percentage": 30.4,
+        "url": "https://www.supersonido.es/p/rotel-dt-6000_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto51500.jpg"
+    },
     "kef-r3-meta_occ": {
         "id": "kef-r3-meta_occ",
         "name": "KEF R3 Meta",
@@ -1079,15 +1088,6 @@
         "url": "https://www.supersonido.es/p/stax-srm-700t_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52573.jpg"
     },
-    "anthem-mdx-16_": {
-        "id": "anthem-mdx-16_",
-        "name": "Anthem MDX 16",
-        "price": 2999.0,
-        "price_old": 3999.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/anthem-mdx-16_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52754.jpg"
-    },
     "final-audio-design-d8000-pro-edition_": {
         "id": "final-audio-design-d8000-pro-edition_",
         "name": "Final Audio Design D8000 Pro Edition",
@@ -1096,6 +1096,15 @@
         "sale_percentage": 30.2,
         "url": "https://www.supersonido.es/p/final-audio-design-d8000-pro-edition_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52560.jpg"
+    },
+    "anthem-mdx-16_": {
+        "id": "anthem-mdx-16_",
+        "name": "Anthem MDX 16",
+        "price": 2999.0,
+        "price_old": 3999.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/anthem-mdx-16_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52754.jpg"
     },
     "mcintosh-mha200_oc": {
         "id": "mcintosh-mha200_oc",
