@@ -53,6 +53,15 @@
         "url": "https://www.supersonido.es/p/dunu-dtc-500",
         "image": "https://www.supersonido.es/productos/imagenes/producto48761.jpg"
     },
+    "ifi-audio-ipower__": {
+        "id": "ifi-audio-ipower__",
+        "name": "IFI Audio iPower",
+        "price": 39.0,
+        "price_old": 69.0,
+        "sale_percentage": 43.5,
+        "url": "https://www.supersonido.es/p/ifi-audio-ipower__",
+        "image": "https://www.supersonido.es/productos/imagenes/producto58707.jpg"
+    },
     "akg-k92": {
         "id": "akg-k92",
         "name": "AKG K92",
@@ -251,15 +260,6 @@
         "url": "https://www.supersonido.es/p/denon-ah-c10-perl",
         "image": "https://www.supersonido.es/productos/imagenes/producto50404.jpg"
     },
-    "sennheiser-accentum-wireless": {
-        "id": "sennheiser-accentum-wireless",
-        "name": "Sennheiser ACCENTUM Wireless",
-        "price": 99.9,
-        "price_old": 179.9,
-        "sale_percentage": 44.5,
-        "url": "https://www.supersonido.es/p/sennheiser-accentum-wireless",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50517.jpg"
-    },
     "sennheiser-accentum-true-wireless": {
         "id": "sennheiser-accentum-true-wireless",
         "name": "Sennheiser ACCENTUM True Wireless",
@@ -277,6 +277,15 @@
         "sale_percentage": 44.5,
         "url": "https://www.supersonido.es/p/sennheiser-cx-plus-se-true-wireless",
         "image": "https://www.supersonido.es/productos/imagenes/producto52241.jpg"
+    },
+    "sennheiser-accentum-wireless": {
+        "id": "sennheiser-accentum-wireless",
+        "name": "Sennheiser ACCENTUM Wireless",
+        "price": 99.9,
+        "price_old": 179.9,
+        "sale_percentage": 44.5,
+        "url": "https://www.supersonido.es/p/sennheiser-accentum-wireless",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50517.jpg"
     },
     "vutec-evmw6080d.": {
         "id": "vutec-evmw6080d.",
