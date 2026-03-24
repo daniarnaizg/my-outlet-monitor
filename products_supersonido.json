@@ -188,15 +188,6 @@
         "url": "https://www.supersonido.es/p/ifi-audio-zen-dac-signature_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50332.jpg"
     },
-    "rega-planar-1_occa": {
-        "id": "rega-planar-1_occa",
-        "name": "Rega Planar 1",
-        "price": 249.0,
-        "price_old": 299.0,
-        "sale_percentage": 16.7,
-        "url": "https://www.supersonido.es/p/rega-planar-1_occa",
-        "image": "https://www.supersonido.es/productos/imagenes/producto58098.jpg"
-    },
     "audio-technica-at-lp3xbt_": {
         "id": "audio-technica-at-lp3xbt_",
         "name": "Audio-Technica AT-LP3XBT",
@@ -205,6 +196,15 @@
         "sale_percentage": 24.3,
         "url": "https://www.supersonido.es/p/audio-technica-at-lp3xbt_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57938.jpg"
+    },
+    "rega-planar-1_occa": {
+        "id": "rega-planar-1_occa",
+        "name": "Rega Planar 1",
+        "price": 249.0,
+        "price_old": 299.0,
+        "sale_percentage": 16.7,
+        "url": "https://www.supersonido.es/p/rega-planar-1_occa",
+        "image": "https://www.supersonido.es/productos/imagenes/producto58098.jpg"
     },
     "sonus-faber-solo-home": {
         "id": "sonus-faber-solo-home",
@@ -350,15 +350,6 @@
         "url": "https://www.supersonido.es/p/audio-technica-at-lp140xp-oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto49663.jpg"
     },
-    "audioquest-rocket-22_": {
-        "id": "audioquest-rocket-22_",
-        "name": "Audioquest Rocket 22",
-        "price": 399.0,
-        "price_old": 569.0,
-        "sale_percentage": 29.9,
-        "url": "https://www.supersonido.es/p/audioquest-rocket-22_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto54180.jpg"
-    },
     "klipsch-rp-404c-ii_": {
         "id": "klipsch-rp-404c-ii_",
         "name": "Klipsch RP-404C II",
@@ -367,6 +358,15 @@
         "sale_percentage": 33.4,
         "url": "https://www.supersonido.es/p/klipsch-rp-404c-ii_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58282.jpg"
+    },
+    "audioquest-rocket-22_": {
+        "id": "audioquest-rocket-22_",
+        "name": "Audioquest Rocket 22",
+        "price": 399.0,
+        "price_old": 569.0,
+        "sale_percentage": 29.9,
+        "url": "https://www.supersonido.es/p/audioquest-rocket-22_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto54180.jpg"
     },
     "earmen-tradutto_": {
         "id": "earmen-tradutto_",
@@ -943,15 +943,6 @@
         "sale_percentage": 35.6,
         "url": "https://www.supersonido.es/p/stax-srm-007tii",
         "image": "https://www.supersonido.es/productos/imagenes/producto32659.jpg"
-    },
-    "unison-research-triode-25_a": {
-        "id": "unison-research-triode-25_a",
-        "name": "Unison Research Triode 25",
-        "price": 1900.0,
-        "price_old": 3800.0,
-        "sale_percentage": 50.0,
-        "url": "https://www.supersonido.es/p/unison-research-triode-25_a",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57053.jpg"
     },
     "sennheiser-hdv-820_": {
         "id": "sennheiser-hdv-820_",
