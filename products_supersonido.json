@@ -107,15 +107,6 @@
         "url": "https://www.supersonido.es/p/customdesign-neat-ultimatum-xls-106-xl-speaker-stands",
         "image": "https://www.supersonido.es/productos/imagenes/producto57491.jpg"
     },
-    "monitor-audio-v240_oc": {
-        "id": "monitor-audio-v240_oc",
-        "name": "Monitor Audio V240",
-        "price": 149.0,
-        "price_old": 395.0,
-        "sale_percentage": 62.3,
-        "url": "https://www.supersonido.es/p/monitor-audio-v240_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57126.jpg"
-    },
     "devialet-tree-phantom-ii_": {
         "id": "devialet-tree-phantom-ii_",
         "name": "Devialet Tree  Phantom II",
@@ -124,6 +115,15 @@
         "sale_percentage": 32.0,
         "url": "https://www.supersonido.es/p/devialet-tree-phantom-ii_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57434.jpg"
+    },
+    "monitor-audio-v240_oc": {
+        "id": "monitor-audio-v240_oc",
+        "name": "Monitor Audio V240",
+        "price": 149.0,
+        "price_old": 395.0,
+        "sale_percentage": 62.3,
+        "url": "https://www.supersonido.es/p/monitor-audio-v240_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57126.jpg"
     },
     "meze-audio-99-neo_oc": {
         "id": "meze-audio-99-neo_oc",
@@ -178,15 +178,6 @@
         "sale_percentage": 27.4,
         "url": "https://www.supersonido.es/p/hifiman-ananda-nano_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52675.jpg"
-    },
-    "rega-planar-1_occa": {
-        "id": "rega-planar-1_occa",
-        "name": "Rega Planar 1",
-        "price": 249.0,
-        "price_old": 299.0,
-        "sale_percentage": 16.7,
-        "url": "https://www.supersonido.es/p/rega-planar-1_occa",
-        "image": "https://www.supersonido.es/productos/imagenes/producto58098.jpg"
     },
     "audio-technica-at-lp3xbt_": {
         "id": "audio-technica-at-lp3xbt_",
@@ -341,24 +332,6 @@
         "url": "https://www.supersonido.es/p/martin-logan-electromotion-r",
         "image": "https://www.supersonido.es/productos/imagenes/producto13995.jpg"
     },
-    "audio-technica-at-lp140xp-oc": {
-        "id": "audio-technica-at-lp140xp-oc",
-        "name": "Audio-Technica AT-LP140XP",
-        "price": 399.0,
-        "price_old": 499.0,
-        "sale_percentage": 20.0,
-        "url": "https://www.supersonido.es/p/audio-technica-at-lp140xp-oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49663.jpg"
-    },
-    "rotel-cd11-tribute": {
-        "id": "rotel-cd11-tribute",
-        "name": "Rotel CD11 Tribute",
-        "price": 399.0,
-        "price_old": 599.0,
-        "sale_percentage": 33.4,
-        "url": "https://www.supersonido.es/p/rotel-cd11-tribute",
-        "image": "https://www.supersonido.es/productos/imagenes/producto47484.jpg"
-    },
     "klipsch-rp-404c-ii_": {
         "id": "klipsch-rp-404c-ii_",
         "name": "Klipsch RP-404C II",
@@ -376,6 +349,15 @@
         "sale_percentage": 29.9,
         "url": "https://www.supersonido.es/p/audioquest-rocket-22_",
         "image": "https://www.supersonido.es/productos/imagenes/producto54180.jpg"
+    },
+    "rotel-cd11-tribute": {
+        "id": "rotel-cd11-tribute",
+        "name": "Rotel CD11 Tribute",
+        "price": 399.0,
+        "price_old": 599.0,
+        "sale_percentage": 33.4,
+        "url": "https://www.supersonido.es/p/rotel-cd11-tribute",
+        "image": "https://www.supersonido.es/productos/imagenes/producto47484.jpg"
     },
     "kef-q1-meta_oc": {
         "id": "kef-q1-meta_oc",
@@ -467,15 +449,6 @@
         "url": "https://www.supersonido.es/p/ortofon-spu1-s_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58070.jpg"
     },
-    "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra": {
-        "id": "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
-        "name": "Pro-Ject Pre-Box S2 Digital DAC +  Stream Box S2 Ultra",
-        "price": 599.0,
-        "price_old": 1499.0,
-        "sale_percentage": 60.0,
-        "url": "https://www.supersonido.es/p/pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
-        "image": "https://www.supersonido.es/productos/imagenes/producto51311.jpg"
-    },
     "letshuoer-ej07m_": {
         "id": "letshuoer-ej07m_",
         "name": "Letshuoer EJ07M",
@@ -484,6 +457,15 @@
         "sale_percentage": 25.1,
         "url": "https://www.supersonido.es/p/letshuoer-ej07m_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53476.jpg"
+    },
+    "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra": {
+        "id": "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
+        "name": "Pro-Ject Pre-Box S2 Digital DAC +  Stream Box S2 Ultra",
+        "price": 599.0,
+        "price_old": 1499.0,
+        "sale_percentage": 60.0,
+        "url": "https://www.supersonido.es/p/pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
+        "image": "https://www.supersonido.es/productos/imagenes/producto51311.jpg"
     },
     "project-maia-ds": {
         "id": "project-maia-ds",
@@ -503,15 +485,6 @@
         "url": "https://www.supersonido.es/p/focal-bathys-deep-black_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58443.jpg"
     },
-    "kef-coda-w_OC": {
-        "id": "kef-coda-w_OC",
-        "name": "KEF Coda W",
-        "price": 699.0,
-        "price_old": 899.0,
-        "sale_percentage": 22.2,
-        "url": "https://www.supersonido.es/p/kef-coda-w_OC",
-        "image": "https://www.supersonido.es/productos/imagenes/producto58454.jpg"
-    },
     "audiolab-6000a-play-": {
         "id": "audiolab-6000a-play-",
         "name": "Audiolab 6000A PLAY",
@@ -520,6 +493,15 @@
         "sale_percentage": 44.0,
         "url": "https://www.supersonido.es/p/audiolab-6000a-play-",
         "image": "https://www.supersonido.es/productos/imagenes/producto52190.jpg"
+    },
+    "kef-coda-w_OC": {
+        "id": "kef-coda-w_OC",
+        "name": "KEF Coda W",
+        "price": 699.0,
+        "price_old": 899.0,
+        "sale_percentage": 22.2,
+        "url": "https://www.supersonido.es/p/kef-coda-w_OC",
+        "image": "https://www.supersonido.es/productos/imagenes/producto58454.jpg"
     },
     "jasmine-audio-js-tb297-12": {
         "id": "jasmine-audio-js-tb297-12",
@@ -683,6 +665,15 @@
         "url": "https://www.supersonido.es/p/kef-lsx-ii__",
         "image": "https://www.supersonido.es/productos/imagenes/producto52107.jpg"
     },
+    "kef-lsx-ii_a_OC": {
+        "id": "kef-lsx-ii_a_OC",
+        "name": "KEF LSX II",
+        "price": 999.0,
+        "price_old": 1399.0,
+        "sale_percentage": 28.6,
+        "url": "https://www.supersonido.es/p/kef-lsx-ii_a_OC",
+        "image": "https://www.supersonido.es/productos/imagenes/producto58450.jpg"
+    },
     "magnat-cinema-ultra-sub-300-thx_": {
         "id": "magnat-cinema-ultra-sub-300-thx_",
         "name": "Magnat Cinema Ultra SUB 300-THX",
@@ -700,15 +691,6 @@
         "sale_percentage": 56.4,
         "url": "https://www.supersonido.es/p/martinlogan-edge_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57091.jpg"
-    },
-    "kef-lsx-ii_a_OC": {
-        "id": "kef-lsx-ii_a_OC",
-        "name": "KEF LSX II",
-        "price": 999.0,
-        "price_old": 1399.0,
-        "sale_percentage": 28.6,
-        "url": "https://www.supersonido.es/p/kef-lsx-ii_a_OC",
-        "image": "https://www.supersonido.es/productos/imagenes/producto58450.jpg"
     },
     "svs-ultra-surround_": {
         "id": "svs-ultra-surround_",
