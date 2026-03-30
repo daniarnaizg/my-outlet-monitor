@@ -62,15 +62,6 @@
         "url": "https://www.supersonido.es/p/wiim-mini_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58362.jpg"
     },
-    "ifi-audio-ipower-x_oca_": {
-        "id": "ifi-audio-ipower-x_oca_",
-        "name": "IFI Audio iPower X",
-        "price": 99.0,
-        "price_old": 129.0,
-        "sale_percentage": 23.3,
-        "url": "https://www.supersonido.es/p/ifi-audio-ipower-x_oca_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53423.jpg"
-    },
     "devialet-legs-reactor__": {
         "id": "devialet-legs-reactor__",
         "name": "Devialet Legs-Reactor",
@@ -79,6 +70,15 @@
         "sale_percentage": 50.3,
         "url": "https://www.supersonido.es/p/devialet-legs-reactor__",
         "image": "https://www.supersonido.es/productos/imagenes/producto57470.jpg"
+    },
+    "ifi-audio-ipower-x_oca_": {
+        "id": "ifi-audio-ipower-x_oca_",
+        "name": "IFI Audio iPower X",
+        "price": 99.0,
+        "price_old": 129.0,
+        "sale_percentage": 23.3,
+        "url": "https://www.supersonido.es/p/ifi-audio-ipower-x_oca_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53423.jpg"
     },
     "hifiman-sundara-closed_": {
         "id": "hifiman-sundara-closed_",
@@ -341,15 +341,6 @@
         "url": "https://www.supersonido.es/p/martin-logan-electromotion-r",
         "image": "https://www.supersonido.es/productos/imagenes/producto13995.jpg"
     },
-    "audioquest-rocket-22_": {
-        "id": "audioquest-rocket-22_",
-        "name": "Audioquest Rocket 22",
-        "price": 399.0,
-        "price_old": 569.0,
-        "sale_percentage": 29.9,
-        "url": "https://www.supersonido.es/p/audioquest-rocket-22_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto54180.jpg"
-    },
     "rotel-cd11-tribute": {
         "id": "rotel-cd11-tribute",
         "name": "Rotel CD11 Tribute",
@@ -358,6 +349,15 @@
         "sale_percentage": 33.4,
         "url": "https://www.supersonido.es/p/rotel-cd11-tribute",
         "image": "https://www.supersonido.es/productos/imagenes/producto47484.jpg"
+    },
+    "audioquest-rocket-22_": {
+        "id": "audioquest-rocket-22_",
+        "name": "Audioquest Rocket 22",
+        "price": 399.0,
+        "price_old": 569.0,
+        "sale_percentage": 29.9,
+        "url": "https://www.supersonido.es/p/audioquest-rocket-22_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto54180.jpg"
     },
     "klipsch-rp-404c-ii_": {
         "id": "klipsch-rp-404c-ii_",
@@ -521,23 +521,14 @@
         "url": "https://www.supersonido.es/p/jasmine-audio-js-tb297-12",
         "image": "https://www.supersonido.es/productos/imagenes/producto56900.jpg"
     },
-    "optoma-hd29hstx_": {
-        "id": "optoma-hd29hstx_",
-        "name": "Optoma HD29HSTx",
+    "kef-lsx-ii-lt_": {
+        "id": "kef-lsx-ii-lt_",
+        "name": "KEF LSX II LT",
         "price": 799.0,
-        "price_old": 1089.0,
-        "sale_percentage": 26.6,
-        "url": "https://www.supersonido.es/p/optoma-hd29hstx_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57324.jpg"
-    },
-    "musical-fidelity-m2sioca": {
-        "id": "musical-fidelity-m2sioca",
-        "name": "Musical Fidelity M2SI",
-        "price": 799.0,
-        "price_old": 1099.0,
-        "sale_percentage": 27.3,
-        "url": "https://www.supersonido.es/p/musical-fidelity-m2sioca",
-        "image": "https://www.supersonido.es/productos/imagenes/producto58002.jpg"
+        "price_old": 999.0,
+        "sale_percentage": 20.0,
+        "url": "https://www.supersonido.es/p/kef-lsx-ii-lt_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto54124.jpg"
     },
     "pro-ject-t2-w_": {
         "id": "pro-ject-t2-w_",
@@ -548,14 +539,23 @@
         "url": "https://www.supersonido.es/p/pro-ject-t2-w_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58104.jpg"
     },
-    "kef-lsx-ii-lt_": {
-        "id": "kef-lsx-ii-lt_",
-        "name": "KEF LSX II LT",
+    "musical-fidelity-m2sioca": {
+        "id": "musical-fidelity-m2sioca",
+        "name": "Musical Fidelity M2SI",
         "price": 799.0,
-        "price_old": 999.0,
-        "sale_percentage": 20.0,
-        "url": "https://www.supersonido.es/p/kef-lsx-ii-lt_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto54124.jpg"
+        "price_old": 1099.0,
+        "sale_percentage": 27.3,
+        "url": "https://www.supersonido.es/p/musical-fidelity-m2sioca",
+        "image": "https://www.supersonido.es/productos/imagenes/producto58002.jpg"
+    },
+    "optoma-hd29hstx_": {
+        "id": "optoma-hd29hstx_",
+        "name": "Optoma HD29HSTx",
+        "price": 799.0,
+        "price_old": 1089.0,
+        "sale_percentage": 26.6,
+        "url": "https://www.supersonido.es/p/optoma-hd29hstx_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57324.jpg"
     },
     "q-acoustics-q-active-200_": {
         "id": "q-acoustics-q-active-200_",
@@ -665,15 +665,6 @@
         "url": "https://www.supersonido.es/p/kef-lsx-ii__",
         "image": "https://www.supersonido.es/productos/imagenes/producto52107.jpg"
     },
-    "kef-lsx-ii_a_OC": {
-        "id": "kef-lsx-ii_a_OC",
-        "name": "KEF LSX II",
-        "price": 999.0,
-        "price_old": 1399.0,
-        "sale_percentage": 28.6,
-        "url": "https://www.supersonido.es/p/kef-lsx-ii_a_OC",
-        "image": "https://www.supersonido.es/productos/imagenes/producto58450.jpg"
-    },
     "martinlogan-edge_": {
         "id": "martinlogan-edge_",
         "name": "Martin-Logan Edge",
@@ -683,6 +674,15 @@
         "url": "https://www.supersonido.es/p/martinlogan-edge_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57091.jpg"
     },
+    "kef-lsx-ii_a_OC": {
+        "id": "kef-lsx-ii_a_OC",
+        "name": "KEF LSX II",
+        "price": 999.0,
+        "price_old": 1399.0,
+        "sale_percentage": 28.6,
+        "url": "https://www.supersonido.es/p/kef-lsx-ii_a_OC",
+        "image": "https://www.supersonido.es/productos/imagenes/producto58450.jpg"
+    },
     "magnat-cinema-ultra-sub-300-thx_": {
         "id": "magnat-cinema-ultra-sub-300-thx_",
         "name": "Magnat Cinema Ultra SUB 300-THX",
@@ -691,15 +691,6 @@
         "sale_percentage": 33.4,
         "url": "https://www.supersonido.es/p/magnat-cinema-ultra-sub-300-thx_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58381.jpg"
-    },
-    "svs-ultra-surround_": {
-        "id": "svs-ultra-surround_",
-        "name": "SVS Ultra Surround",
-        "price": 1049.0,
-        "price_old": 1449.0,
-        "sale_percentage": 27.6,
-        "url": "https://www.supersonido.es/p/svs-ultra-surround_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto51280.jpg"
     },
     "pioneer-vsx-lx305": {
         "id": "pioneer-vsx-lx305",
@@ -1034,6 +1025,15 @@
         "url": "https://www.supersonido.es/p/stax-srm-700t_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52573.jpg"
     },
+    "final-audio-design-d8000-pro-edition_": {
+        "id": "final-audio-design-d8000-pro-edition_",
+        "name": "Final Audio Design D8000 Pro Edition",
+        "price": 2999.0,
+        "price_old": 4299.0,
+        "sale_percentage": 30.2,
+        "url": "https://www.supersonido.es/p/final-audio-design-d8000-pro-edition_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52560.jpg"
+    },
     "anthem-mdx-16_": {
         "id": "anthem-mdx-16_",
         "name": "Anthem MDX 16",
@@ -1051,15 +1051,6 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/mcintosh-mha200_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto53359.jpg"
-    },
-    "final-audio-design-d8000-pro-edition_": {
-        "id": "final-audio-design-d8000-pro-edition_",
-        "name": "Final Audio Design D8000 Pro Edition",
-        "price": 2999.0,
-        "price_old": 4299.0,
-        "sale_percentage": 30.2,
-        "url": "https://www.supersonido.es/p/final-audio-design-d8000-pro-edition_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52560.jpg"
     },
     "isotek-systems-sigmas_": {
         "id": "isotek-systems-sigmas_",
@@ -1132,15 +1123,6 @@
         "sale_percentage": 46.8,
         "url": "https://www.supersonido.es/p/mcintosh-mha150",
         "image": "https://www.supersonido.es/productos/imagenes/producto44698.jpg"
-    },
-    "kef-r7-meta_oc": {
-        "id": "kef-r7-meta_oc",
-        "name": "KEF R7 Meta",
-        "price": 3990.0,
-        "price_old": 5250.0,
-        "sale_percentage": 24.0,
-        "url": "https://www.supersonido.es/p/kef-r7-meta_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto58068.jpg"
     },
     "audio-research-vsi60-exdemo": {
         "id": "audio-research-vsi60-exdemo",
