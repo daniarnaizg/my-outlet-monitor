@@ -170,15 +170,6 @@
         "url": "https://www.supersonido.es/p/nobunaga-labs-kotetsu",
         "image": "https://www.supersonido.es/productos/imagenes/producto30687.jpg"
     },
-    "sony-wh-ch720n": {
-        "id": "sony-wh-ch720n",
-        "name": "Sony WH-CH720N",
-        "price": 79.0,
-        "price_old": 149.0,
-        "sale_percentage": 47.0,
-        "url": "https://www.supersonido.es/p/sony-wh-ch720n",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49050.jpg"
-    },
     "nobunaga-labs-chitose": {
         "id": "nobunaga-labs-chitose",
         "name": "Nobunaga Labs Chitose",
@@ -187,6 +178,15 @@
         "sale_percentage": 55.9,
         "url": "https://www.supersonido.es/p/nobunaga-labs-chitose",
         "image": "https://www.supersonido.es/productos/imagenes/producto46862.jpg"
+    },
+    "sony-wh-ch720n": {
+        "id": "sony-wh-ch720n",
+        "name": "Sony WH-CH720N",
+        "price": 79.0,
+        "price_old": 149.0,
+        "sale_percentage": 47.0,
+        "url": "https://www.supersonido.es/p/sony-wh-ch720n",
+        "image": "https://www.supersonido.es/productos/imagenes/producto49050.jpg"
     },
     "samsung-hw-b400f": {
         "id": "samsung-hw-b400f",
