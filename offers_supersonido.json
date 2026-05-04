@@ -125,15 +125,6 @@
         "url": "https://www.supersonido.es/p/nobunaga-labs-raikiri-kai-s",
         "image": "https://www.supersonido.es/productos/imagenes/producto30796.jpg"
     },
-    "yamaha-ws-b1a": {
-        "id": "yamaha-ws-b1a",
-        "name": "Yamaha WS-B1A",
-        "price": 69.0,
-        "price_old": 129.0,
-        "sale_percentage": 46.5,
-        "url": "https://www.supersonido.es/p/yamaha-ws-b1a",
-        "image": "https://www.supersonido.es/productos/imagenes/producto48810.jpg"
-    },
     "nobunaga-labs-sarasa": {
         "id": "nobunaga-labs-sarasa",
         "name": "Nobunaga Labs Sarasa",
@@ -143,6 +134,15 @@
         "url": "https://www.supersonido.es/p/nobunaga-labs-sarasa",
         "image": "https://www.supersonido.es/productos/imagenes/producto30690.jpg"
     },
+    "yamaha-ws-b1a": {
+        "id": "yamaha-ws-b1a",
+        "name": "Yamaha WS-B1A",
+        "price": 69.0,
+        "price_old": 129.0,
+        "sale_percentage": 46.5,
+        "url": "https://www.supersonido.es/p/yamaha-ws-b1a",
+        "image": "https://www.supersonido.es/productos/imagenes/producto48810.jpg"
+    },
     "sennheiser-cx-true-wireless": {
         "id": "sennheiser-cx-true-wireless",
         "name": "Sennheiser CX True Wireless",
@@ -151,6 +151,15 @@
         "sale_percentage": 45.8,
         "url": "https://www.supersonido.es/p/sennheiser-cx-true-wireless",
         "image": "https://www.supersonido.es/productos/imagenes/producto45528.jpg"
+    },
+    "sony-srsult10": {
+        "id": "sony-srsult10",
+        "name": "Sony ULT FIELD 1",
+        "price": 74.9,
+        "price_old": 139.0,
+        "sale_percentage": 46.1,
+        "url": "https://www.supersonido.es/p/sony-srsult10",
+        "image": "https://www.supersonido.es/productos/imagenes/producto51571.jpg"
     },
     "nobunaga-labs-onimaru-kai-s": {
         "id": "nobunaga-labs-onimaru-kai-s",
@@ -260,14 +269,14 @@
         "url": "https://www.supersonido.es/p/denon-ah-c10-perl",
         "image": "https://www.supersonido.es/productos/imagenes/producto50404.jpg"
     },
-    "sennheiser-accentum-wireless": {
-        "id": "sennheiser-accentum-wireless",
-        "name": "Sennheiser ACCENTUM Wireless",
+    "sennheiser-cx-plus-se-true-wireless": {
+        "id": "sennheiser-cx-plus-se-true-wireless",
+        "name": "Sennheiser CX Plus SE True Wireless",
         "price": 99.9,
         "price_old": 179.9,
         "sale_percentage": 44.5,
-        "url": "https://www.supersonido.es/p/sennheiser-accentum-wireless",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50517.jpg"
+        "url": "https://www.supersonido.es/p/sennheiser-cx-plus-se-true-wireless",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52241.jpg"
     },
     "sennheiser-accentum-true-wireless": {
         "id": "sennheiser-accentum-true-wireless",
@@ -278,14 +287,14 @@
         "url": "https://www.supersonido.es/p/sennheiser-accentum-true-wireless",
         "image": "https://www.supersonido.es/productos/imagenes/producto51902.jpg"
     },
-    "sennheiser-cx-plus-se-true-wireless": {
-        "id": "sennheiser-cx-plus-se-true-wireless",
-        "name": "Sennheiser CX Plus SE True Wireless",
+    "sennheiser-accentum-wireless": {
+        "id": "sennheiser-accentum-wireless",
+        "name": "Sennheiser ACCENTUM Wireless",
         "price": 99.9,
         "price_old": 179.9,
         "sale_percentage": 44.5,
-        "url": "https://www.supersonido.es/p/sennheiser-cx-plus-se-true-wireless",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52241.jpg"
+        "url": "https://www.supersonido.es/p/sennheiser-accentum-wireless",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50517.jpg"
     },
     "vutec-evmw6080d.": {
         "id": "vutec-evmw6080d.",
