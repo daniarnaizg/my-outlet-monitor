@@ -26,6 +26,15 @@
         "url": "https://www.supersonido.es/p/vogels-sound-42014",
         "image": "https://www.supersonido.es/productos/imagenes/producto26947.jpg"
     },
+    "sonos-raywmww1": {
+        "id": "sonos-raywmww1",
+        "name": "Sonos RAYWMWW1",
+        "price": 25.0,
+        "price_old": 49.0,
+        "sale_percentage": 49.0,
+        "url": "https://www.supersonido.es/p/sonos-raywmww1",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53944.jpg"
+    },
     "akg-k52": {
         "id": "akg-k52",
         "name": "AKG K52",
@@ -260,6 +269,15 @@
         "url": "https://www.supersonido.es/p/denon-ah-c10-perl",
         "image": "https://www.supersonido.es/productos/imagenes/producto50404.jpg"
     },
+    "sennheiser-accentum-wireless": {
+        "id": "sennheiser-accentum-wireless",
+        "name": "Sennheiser ACCENTUM Wireless",
+        "price": 99.9,
+        "price_old": 179.9,
+        "sale_percentage": 44.5,
+        "url": "https://www.supersonido.es/p/sennheiser-accentum-wireless",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50517.jpg"
+    },
     "sennheiser-cx-plus-se-true-wireless": {
         "id": "sennheiser-cx-plus-se-true-wireless",
         "name": "Sennheiser CX Plus SE True Wireless",
@@ -277,15 +295,6 @@
         "sale_percentage": 49.8,
         "url": "https://www.supersonido.es/p/sennheiser-accentum-true-wireless",
         "image": "https://www.supersonido.es/productos/imagenes/producto51902.jpg"
-    },
-    "sennheiser-accentum-wireless": {
-        "id": "sennheiser-accentum-wireless",
-        "name": "Sennheiser ACCENTUM Wireless",
-        "price": 99.9,
-        "price_old": 179.9,
-        "sale_percentage": 44.5,
-        "url": "https://www.supersonido.es/p/sennheiser-accentum-wireless",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50517.jpg"
     },
     "vutec-evmw6080d.": {
         "id": "vutec-evmw6080d.",
@@ -331,14 +340,5 @@
         "sale_percentage": 48.2,
         "url": "https://www.supersonido.es/p/klipsch-ds-160-w-skyhook",
         "image": "https://www.supersonido.es/productos/imagenes/producto43700.jpg"
-    },
-    "sennheiser-momentum-sport": {
-        "id": "sennheiser-momentum-sport",
-        "name": "Sennheiser MOMENTUM Sport",
-        "price": 129.0,
-        "price_old": 329.0,
-        "sale_percentage": 60.8,
-        "url": "https://www.supersonido.es/p/sennheiser-momentum-sport",
-        "image": "https://www.supersonido.es/productos/imagenes/producto51653.jpg"
     }
 }
