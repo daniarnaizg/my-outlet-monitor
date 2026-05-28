@@ -143,15 +143,6 @@
         "url": "https://www.supersonido.es/p/audio-technica-at-sp3x_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57780.jpg"
     },
-    "onkyo-gx-10db_": {
-        "id": "onkyo-gx-10db_",
-        "name": "Onkyo GX-10DB",
-        "price": 179.0,
-        "price_old": 249.0,
-        "sale_percentage": 28.1,
-        "url": "https://www.supersonido.es/p/onkyo-gx-10db_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto59141.jpg"
-    },
     "shanling-ua5": {
         "id": "shanling-ua5",
         "name": "Shanling UA5",
@@ -160,6 +151,15 @@
         "sale_percentage": 30.9,
         "url": "https://www.supersonido.es/p/shanling-ua5",
         "image": "https://www.supersonido.es/productos/imagenes/producto47169.jpg"
+    },
+    "onkyo-gx-10db_": {
+        "id": "onkyo-gx-10db_",
+        "name": "Onkyo GX-10DB",
+        "price": 179.0,
+        "price_old": 249.0,
+        "sale_percentage": 28.1,
+        "url": "https://www.supersonido.es/p/onkyo-gx-10db_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto59141.jpg"
     },
     "technics-eah-az80_": {
         "id": "technics-eah-az80_",
@@ -214,15 +214,6 @@
         "sale_percentage": 24.3,
         "url": "https://www.supersonido.es/p/audio-technica-at-lp3xbt_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57938.jpg"
-    },
-    "jbl-js-120-stands_": {
-        "id": "jbl-js-120-stands_",
-        "name": "JBL JS-120 Stands",
-        "price": 250.0,
-        "price_old": 499.0,
-        "sale_percentage": 49.9,
-        "url": "https://www.supersonido.es/p/jbl-js-120-stands_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57382.jpg"
     },
     "musical-fidelity-lx2-lps_": {
         "id": "musical-fidelity-lx2-lps_",
@@ -611,15 +602,6 @@
         "url": "https://www.supersonido.es/p/matrix-audio-element-p__",
         "image": "https://www.supersonido.es/productos/imagenes/producto49335.jpg"
     },
-    "pro-ject-x2-b_": {
-        "id": "pro-ject-x2-b_",
-        "name": "Pro-Ject X2 B",
-        "price": 1199.0,
-        "price_old": 1599.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/pro-ject-x2-b_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto58843.jpg"
-    },
     "rotel-dx-3oca": {
         "id": "rotel-dx-3oca",
         "name": "Rotel DX-3",
@@ -628,6 +610,15 @@
         "sale_percentage": 20.0,
         "url": "https://www.supersonido.es/p/rotel-dx-3oca",
         "image": "https://www.supersonido.es/productos/imagenes/producto58827.jpg"
+    },
+    "pro-ject-x2-b_": {
+        "id": "pro-ject-x2-b_",
+        "name": "Pro-Ject X2 B",
+        "price": 1199.0,
+        "price_old": 1599.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/pro-ject-x2-b_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto58843.jpg"
     },
     "hifiman-ga-10_oca": {
         "id": "hifiman-ga-10_oca",
