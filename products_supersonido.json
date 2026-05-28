@@ -152,15 +152,6 @@
         "url": "https://www.supersonido.es/p/audio-technica-at-sp3x_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57780.jpg"
     },
-    "shanling-ua5": {
-        "id": "shanling-ua5",
-        "name": "Shanling UA5",
-        "price": 179.0,
-        "price_old": 259.0,
-        "sale_percentage": 30.9,
-        "url": "https://www.supersonido.es/p/shanling-ua5",
-        "image": "https://www.supersonido.es/productos/imagenes/producto47169.jpg"
-    },
     "onkyo-gx-10db_": {
         "id": "onkyo-gx-10db_",
         "name": "Onkyo GX-10DB",
@@ -169,6 +160,15 @@
         "sale_percentage": 28.1,
         "url": "https://www.supersonido.es/p/onkyo-gx-10db_",
         "image": "https://www.supersonido.es/productos/imagenes/producto59141.jpg"
+    },
+    "shanling-ua5": {
+        "id": "shanling-ua5",
+        "name": "Shanling UA5",
+        "price": 179.0,
+        "price_old": 259.0,
+        "sale_percentage": 30.9,
+        "url": "https://www.supersonido.es/p/shanling-ua5",
+        "image": "https://www.supersonido.es/productos/imagenes/producto47169.jpg"
     },
     "technics-eah-az80_": {
         "id": "technics-eah-az80_",
@@ -620,15 +620,6 @@
         "url": "https://www.supersonido.es/p/matrix-audio-element-p__",
         "image": "https://www.supersonido.es/productos/imagenes/producto49335.jpg"
     },
-    "pro-ject-x2-b_": {
-        "id": "pro-ject-x2-b_",
-        "name": "Pro-Ject X2 B",
-        "price": 1199.0,
-        "price_old": 1599.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/pro-ject-x2-b_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto58843.jpg"
-    },
     "rotel-dx-3oca": {
         "id": "rotel-dx-3oca",
         "name": "Rotel DX-3",
@@ -637,6 +628,15 @@
         "sale_percentage": 20.0,
         "url": "https://www.supersonido.es/p/rotel-dx-3oca",
         "image": "https://www.supersonido.es/productos/imagenes/producto58827.jpg"
+    },
+    "pro-ject-x2-b_": {
+        "id": "pro-ject-x2-b_",
+        "name": "Pro-Ject X2 B",
+        "price": 1199.0,
+        "price_old": 1599.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/pro-ject-x2-b_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto58843.jpg"
     },
     "hifiman-ga-10_oca": {
         "id": "hifiman-ga-10_oca",
@@ -1006,6 +1006,15 @@
         "sale_percentage": 25.1,
         "url": "https://www.supersonido.es/p/devialet-130-pro_",
         "image": "https://www.supersonido.es/productos/imagenes/producto48499.jpg"
+    },
+    "focal-new-utopia-2022_a": {
+        "id": "focal-new-utopia-2022_a",
+        "name": "FOCAL New Utopia 2022",
+        "price": 3749.0,
+        "price_old": 4999.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/focal-new-utopia-2022_a",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57173.jpg"
     },
     "mcintosh-mha150": {
         "id": "mcintosh-mha150",
