@@ -89,15 +89,6 @@
         "url": "https://www.supersonido.es/p/ifi-audio-ipower-x_oca_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53423.jpg"
     },
-    "sony-linkbuds-s-wfls900n": {
-        "id": "sony-linkbuds-s-wfls900n",
-        "name": "Sony LinkBuds S WFLS900N",
-        "price": 109.0,
-        "price_old": 199.0,
-        "sale_percentage": 45.2,
-        "url": "https://www.supersonido.es/p/sony-linkbuds-s-wfls900n",
-        "image": "https://www.supersonido.es/productos/imagenes/producto47319.jpg"
-    },
     "taga-harmony-dc-100_": {
         "id": "taga-harmony-dc-100_",
         "name": "Taga Harmony DC-100",
@@ -106,6 +97,15 @@
         "sale_percentage": 19.3,
         "url": "https://www.supersonido.es/p/taga-harmony-dc-100_",
         "image": "https://www.supersonido.es/productos/imagenes/producto59143.jpg"
+    },
+    "sony-linkbuds-s-wfls900n": {
+        "id": "sony-linkbuds-s-wfls900n",
+        "name": "Sony LinkBuds S WFLS900N",
+        "price": 109.0,
+        "price_old": 199.0,
+        "sale_percentage": 45.2,
+        "url": "https://www.supersonido.es/p/sony-linkbuds-s-wfls900n",
+        "image": "https://www.supersonido.es/productos/imagenes/producto47319.jpg"
     },
     "hifiman-sundara-closed_": {
         "id": "hifiman-sundara-closed_",
@@ -206,15 +206,6 @@
         "url": "https://www.supersonido.es/p/cambridge-audio-axa25",
         "image": "https://www.supersonido.es/productos/imagenes/producto30718.jpg"
     },
-    "polkaudio-s20e_": {
-        "id": "polkaudio-s20e_",
-        "name": "Polkaudio S20 Elite",
-        "price": 229.0,
-        "price_old": 419.0,
-        "sale_percentage": 45.3,
-        "url": "https://www.supersonido.es/p/polkaudio-s20e_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto59017.jpg"
-    },
     "musical-fidelity-lx2-lps_": {
         "id": "musical-fidelity-lx2-lps_",
         "name": "Musical Fidelity LX2-LPS",
@@ -251,15 +242,6 @@
         "url": "https://www.supersonido.es/p/devialet-tree__OCC",
         "image": "https://www.supersonido.es/productos/imagenes/producto58957.jpg"
     },
-    "audeze-maxwell-2-playstation__OC": {
-        "id": "audeze-maxwell-2-playstation__OC",
-        "name": "Audeze MAXWELL 2 PLAYSTATION",
-        "price": 299.0,
-        "price_old": 449.0,
-        "sale_percentage": 33.4,
-        "url": "https://www.supersonido.es/p/audeze-maxwell-2-playstation__OC",
-        "image": "https://www.supersonido.es/productos/imagenes/producto59200.jpg"
-    },
     "pro-ject-e1-bt_": {
         "id": "pro-ject-e1-bt_",
         "name": "Pro-Ject E1 + AT3600L",
@@ -287,15 +269,6 @@
         "url": "https://www.supersonido.es/p/sony-sa-sw3_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto49662.jpg"
     },
-    "wiim-amp__": {
-        "id": "wiim-amp__",
-        "name": "Wiim Amp",
-        "price": 299.0,
-        "price_old": 369.0,
-        "sale_percentage": 19.0,
-        "url": "https://www.supersonido.es/p/wiim-amp__",
-        "image": "https://www.supersonido.es/productos/imagenes/producto51461.jpg"
-    },
     "monitor-audio-cpwt380_": {
         "id": "monitor-audio-cpwt380_",
         "name": "Monitor Audio CP-WT380",
@@ -304,6 +277,15 @@
         "sale_percentage": 50.6,
         "url": "https://www.supersonido.es/p/monitor-audio-cpwt380_",
         "image": "https://www.supersonido.es/productos/imagenes/producto26150.jpg"
+    },
+    "audeze-maxwell-2-playstation__OC": {
+        "id": "audeze-maxwell-2-playstation__OC",
+        "name": "Audeze MAXWELL 2 PLAYSTATION",
+        "price": 299.0,
+        "price_old": 449.0,
+        "sale_percentage": 33.4,
+        "url": "https://www.supersonido.es/p/audeze-maxwell-2-playstation__OC",
+        "image": "https://www.supersonido.es/productos/imagenes/producto59200.jpg"
     },
     "wiim-vibelink-amp_": {
         "id": "wiim-vibelink-amp_",
@@ -341,15 +323,6 @@
         "url": "https://www.supersonido.es/p/audioquest-rocket-22_",
         "image": "https://www.supersonido.es/productos/imagenes/producto54180.jpg"
     },
-    "audio-technica-at-lpw50btrw_": {
-        "id": "audio-technica-at-lpw50btrw_",
-        "name": "Audio-Technica AT-LPW50BTRW",
-        "price": 399.0,
-        "price_old": 499.0,
-        "sale_percentage": 20.0,
-        "url": "https://www.supersonido.es/p/audio-technica-at-lpw50btrw_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57741.jpg"
-    },
     "sennheiser-ambeo-soundbar-mini_": {
         "id": "sennheiser-ambeo-soundbar-mini_",
         "name": "Sennheiser AMBEO Soundbar Mini",
@@ -358,6 +331,15 @@
         "sale_percentage": 50.1,
         "url": "https://www.supersonido.es/p/sennheiser-ambeo-soundbar-mini_",
         "image": "https://www.supersonido.es/productos/imagenes/producto59184.jpg"
+    },
+    "audio-technica-at-lpw50btrw_": {
+        "id": "audio-technica-at-lpw50btrw_",
+        "name": "Audio-Technica AT-LPW50BTRW",
+        "price": 399.0,
+        "price_old": 499.0,
+        "sale_percentage": 20.0,
+        "url": "https://www.supersonido.es/p/audio-technica-at-lpw50btrw_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57741.jpg"
     },
     "stax-sr-l500-mk2_": {
         "id": "stax-sr-l500-mk2_",
@@ -935,24 +917,6 @@
         "url": "https://www.supersonido.es/p/stax-srm-700t_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52573.jpg"
     },
-    "anthem-mdx-16_": {
-        "id": "anthem-mdx-16_",
-        "name": "Anthem MDX 16",
-        "price": 2999.0,
-        "price_old": 3999.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/anthem-mdx-16_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52754.jpg"
-    },
-    "mcintosh-mha200_oc": {
-        "id": "mcintosh-mha200_oc",
-        "name": "McIntosh MHA200",
-        "price": 2999.0,
-        "price_old": 3999.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/mcintosh-mha200_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53359.jpg"
-    },
     "final-audio-design-d8000-pro-edition_": {
         "id": "final-audio-design-d8000-pro-edition_",
         "name": "Final Audio Design D8000 Pro Edition",
@@ -970,6 +934,24 @@
         "sale_percentage": 30.2,
         "url": "https://www.supersonido.es/p/isotek-systems-sigmas_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50780.jpg"
+    },
+    "anthem-mdx-16_": {
+        "id": "anthem-mdx-16_",
+        "name": "Anthem MDX 16",
+        "price": 2999.0,
+        "price_old": 3999.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/anthem-mdx-16_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52754.jpg"
+    },
+    "mcintosh-mha200_oc": {
+        "id": "mcintosh-mha200_oc",
+        "name": "McIntosh MHA200",
+        "price": 2999.0,
+        "price_old": 3999.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/mcintosh-mha200_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53359.jpg"
     },
     "matrix-audio-element-x2-pure": {
         "id": "matrix-audio-element-x2-pure",
