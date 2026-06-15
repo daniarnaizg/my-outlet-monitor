@@ -125,15 +125,6 @@
         "url": "https://www.supersonido.es/p/hifiman-sundara-closed_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50309.jpg"
     },
-    "audio-technica-at-lp60xusb_": {
-        "id": "audio-technica-at-lp60xusb_",
-        "name": "Audio-Technica AT-LP60XUSB",
-        "price": 129.0,
-        "price_old": 179.0,
-        "sale_percentage": 27.9,
-        "url": "https://www.supersonido.es/p/audio-technica-at-lp60xusb_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto46486.jpg"
-    },
     "the-chord-company-shawline-digital-1bnc-to-1bnc_": {
         "id": "the-chord-company-shawline-digital-1bnc-to-1bnc_",
         "name": "The Chord Company Shawline Digital 1BNC to 1BNC",
@@ -422,6 +413,15 @@
         "url": "https://www.supersonido.es/p/ortofon-spu1-s_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58070.jpg"
     },
+    "pro-ject-uni-box-s3_": {
+        "id": "pro-ject-uni-box-s3_",
+        "name": "Pro-Ject Uni Box S3",
+        "price": 599.0,
+        "price_old": 799.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/pro-ject-uni-box-s3_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto59209.jpg"
+    },
     "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra": {
         "id": "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
         "name": "Pro-Ject Pre-Box S2 Digital DAC +  Stream Box S2 Ultra",
@@ -440,14 +440,14 @@
         "url": "https://www.supersonido.es/p/project-maia-ds",
         "image": "https://www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
-    "pro-ject-uni-box-s3_": {
-        "id": "pro-ject-uni-box-s3_",
-        "name": "Pro-Ject Uni Box S3",
-        "price": 599.0,
+    "meze-audio-strada_": {
+        "id": "meze-audio-strada_",
+        "name": "Meze Audio Strada",
+        "price": 649.0,
         "price_old": 799.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/pro-ject-uni-box-s3_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto59209.jpg"
+        "sale_percentage": 18.8,
+        "url": "https://www.supersonido.es/p/meze-audio-strada_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto59205.jpg"
     },
     "focal-bathys-deep-black_": {
         "id": "focal-bathys-deep-black_",
@@ -457,15 +457,6 @@
         "sale_percentage": 18.8,
         "url": "https://www.supersonido.es/p/focal-bathys-deep-black_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58443.jpg"
-    },
-    "meze-audio-strada_": {
-        "id": "meze-audio-strada_",
-        "name": "Meze Audio Strada",
-        "price": 649.0,
-        "price_old": 799.0,
-        "sale_percentage": 18.8,
-        "url": "https://www.supersonido.es/p/meze-audio-strada_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto59205.jpg"
     },
     "hifiman-arya-organic_a": {
         "id": "hifiman-arya-organic_a",
@@ -575,15 +566,6 @@
         "url": "https://www.supersonido.es/p/rotel-a14mkii_",
         "image": "https://www.supersonido.es/productos/imagenes/producto59288.jpg"
     },
-    "magnat-cinema-ultra-sub-300-thx_": {
-        "id": "magnat-cinema-ultra-sub-300-thx_",
-        "name": "Magnat Cinema Ultra SUB 300-THX",
-        "price": 999.0,
-        "price_old": 1499.0,
-        "sale_percentage": 33.4,
-        "url": "https://www.supersonido.es/p/magnat-cinema-ultra-sub-300-thx_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto58381.jpg"
-    },
     "marantz-cinema-60_": {
         "id": "marantz-cinema-60_",
         "name": "Marantz CINEMA 60",
@@ -656,15 +638,6 @@
         "url": "https://www.supersonido.es/p/matrix-audio-element-p__",
         "image": "https://www.supersonido.es/productos/imagenes/producto49335.jpg"
     },
-    "rotel-dx-3oca": {
-        "id": "rotel-dx-3oca",
-        "name": "Rotel DX-3",
-        "price": 1199.0,
-        "price_old": 1499.0,
-        "sale_percentage": 20.0,
-        "url": "https://www.supersonido.es/p/rotel-dx-3oca",
-        "image": "https://www.supersonido.es/productos/imagenes/producto58827.jpg"
-    },
     "pro-ject-x2-b_": {
         "id": "pro-ject-x2-b_",
         "name": "Pro-Ject X2 B",
@@ -673,6 +646,15 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/pro-ject-x2-b_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58843.jpg"
+    },
+    "rotel-dx-3oca": {
+        "id": "rotel-dx-3oca",
+        "name": "Rotel DX-3",
+        "price": 1199.0,
+        "price_old": 1499.0,
+        "sale_percentage": 20.0,
+        "url": "https://www.supersonido.es/p/rotel-dx-3oca",
+        "image": "https://www.supersonido.es/productos/imagenes/producto58827.jpg"
     },
     "hifiman-ga-10_oca": {
         "id": "hifiman-ga-10_oca",
