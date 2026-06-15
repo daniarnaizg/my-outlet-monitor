@@ -98,15 +98,6 @@
         "url": "https://www.supersonido.es/p/ifi-audio-ipower-x_oca_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53423.jpg"
     },
-    "sony-linkbuds-s-wfls900n": {
-        "id": "sony-linkbuds-s-wfls900n",
-        "name": "Sony LinkBuds S WFLS900N",
-        "price": 109.0,
-        "price_old": 199.0,
-        "sale_percentage": 45.2,
-        "url": "https://www.supersonido.es/p/sony-linkbuds-s-wfls900n",
-        "image": "https://www.supersonido.es/productos/imagenes/producto47319.jpg"
-    },
     "taga-harmony-dc-100_": {
         "id": "taga-harmony-dc-100_",
         "name": "Taga Harmony DC-100",
@@ -115,6 +106,15 @@
         "sale_percentage": 19.3,
         "url": "https://www.supersonido.es/p/taga-harmony-dc-100_",
         "image": "https://www.supersonido.es/productos/imagenes/producto59143.jpg"
+    },
+    "sony-linkbuds-s-wfls900n": {
+        "id": "sony-linkbuds-s-wfls900n",
+        "name": "Sony LinkBuds S WFLS900N",
+        "price": 109.0,
+        "price_old": 199.0,
+        "sale_percentage": 45.2,
+        "url": "https://www.supersonido.es/p/sony-linkbuds-s-wfls900n",
+        "image": "https://www.supersonido.es/productos/imagenes/producto47319.jpg"
     },
     "hifiman-sundara-closed_": {
         "id": "hifiman-sundara-closed_",
@@ -314,15 +314,6 @@
         "url": "https://www.supersonido.es/p/audioquest-rocket-22_",
         "image": "https://www.supersonido.es/productos/imagenes/producto54180.jpg"
     },
-    "audio-technica-at-lpw50btrw_": {
-        "id": "audio-technica-at-lpw50btrw_",
-        "name": "Audio-Technica AT-LPW50BTRW",
-        "price": 399.0,
-        "price_old": 499.0,
-        "sale_percentage": 20.0,
-        "url": "https://www.supersonido.es/p/audio-technica-at-lpw50btrw_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57741.jpg"
-    },
     "sennheiser-ambeo-soundbar-mini_": {
         "id": "sennheiser-ambeo-soundbar-mini_",
         "name": "Sennheiser AMBEO Soundbar Mini",
@@ -331,6 +322,15 @@
         "sale_percentage": 50.1,
         "url": "https://www.supersonido.es/p/sennheiser-ambeo-soundbar-mini_",
         "image": "https://www.supersonido.es/productos/imagenes/producto59184.jpg"
+    },
+    "audio-technica-at-lpw50btrw_": {
+        "id": "audio-technica-at-lpw50btrw_",
+        "name": "Audio-Technica AT-LPW50BTRW",
+        "price": 399.0,
+        "price_old": 499.0,
+        "sale_percentage": 20.0,
+        "url": "https://www.supersonido.es/p/audio-technica-at-lpw50btrw_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57741.jpg"
     },
     "pro-ject-a1-2_": {
         "id": "pro-ject-a1-2_",
@@ -431,15 +431,6 @@
         "url": "https://www.supersonido.es/p/pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
         "image": "https://www.supersonido.es/productos/imagenes/producto51311.jpg"
     },
-    "q-acoustics-q3050i_occcc": {
-        "id": "q-acoustics-q3050i_occcc",
-        "name": "Q Acoustics Q3050i",
-        "price": 599.0,
-        "price_old": 899.0,
-        "sale_percentage": 33.4,
-        "url": "https://www.supersonido.es/p/q-acoustics-q3050i_occcc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52485.jpg"
-    },
     "project-maia-ds": {
         "id": "project-maia-ds",
         "name": "Pro-Ject MaiA DS",
@@ -458,15 +449,6 @@
         "url": "https://www.supersonido.es/p/pro-ject-uni-box-s3_",
         "image": "https://www.supersonido.es/productos/imagenes/producto59209.jpg"
     },
-    "meze-audio-strada_": {
-        "id": "meze-audio-strada_",
-        "name": "Meze Audio Strada",
-        "price": 649.0,
-        "price_old": 799.0,
-        "sale_percentage": 18.8,
-        "url": "https://www.supersonido.es/p/meze-audio-strada_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto59205.jpg"
-    },
     "focal-bathys-deep-black_": {
         "id": "focal-bathys-deep-black_",
         "name": "FOCAL Bathys Deep Black",
@@ -475,6 +457,15 @@
         "sale_percentage": 18.8,
         "url": "https://www.supersonido.es/p/focal-bathys-deep-black_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58443.jpg"
+    },
+    "meze-audio-strada_": {
+        "id": "meze-audio-strada_",
+        "name": "Meze Audio Strada",
+        "price": 649.0,
+        "price_old": 799.0,
+        "sale_percentage": 18.8,
+        "url": "https://www.supersonido.es/p/meze-audio-strada_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto59205.jpg"
     },
     "hifiman-arya-organic_a": {
         "id": "hifiman-arya-organic_a",
@@ -539,23 +530,14 @@
         "url": "https://www.supersonido.es/p/audeze-lcd-gx",
         "image": "https://www.supersonido.es/productos/imagenes/producto32175.jpg"
     },
-    "kef-lsx-ii_a_OCC": {
-        "id": "kef-lsx-ii_a_OCC",
+    "kef-lsx-ii_a_OC": {
+        "id": "kef-lsx-ii_a_OC",
         "name": "KEF LSX II",
         "price": 899.0,
         "price_old": 1399.0,
         "sale_percentage": 35.7,
-        "url": "https://www.supersonido.es/p/kef-lsx-ii_a_OCC",
-        "image": "https://www.supersonido.es/productos/imagenes/producto58451.jpg"
-    },
-    "q-acoustics-5040_occc": {
-        "id": "q-acoustics-5040_occc",
-        "name": "Q Acoustics 5040",
-        "price": 899.0,
-        "price_old": 1299.0,
-        "sale_percentage": 30.8,
-        "url": "https://www.supersonido.es/p/q-acoustics-5040_occc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53293.jpg"
+        "url": "https://www.supersonido.es/p/kef-lsx-ii_a_OC",
+        "image": "https://www.supersonido.es/productos/imagenes/producto58450.jpg"
     },
     "q-acoustics-concept-30_": {
         "id": "q-acoustics-concept-30_",
@@ -565,6 +547,15 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/q-acoustics-concept-30_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53596.jpg"
+    },
+    "q-acoustics-5040_occc": {
+        "id": "q-acoustics-5040_occc",
+        "name": "Q Acoustics 5040",
+        "price": 899.0,
+        "price_old": 1299.0,
+        "sale_percentage": 30.8,
+        "url": "https://www.supersonido.es/p/q-acoustics-5040_occc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53293.jpg"
     },
     "audiolab-9000cdt__": {
         "id": "audiolab-9000cdt__",
@@ -718,15 +709,6 @@
         "sale_percentage": 30.0,
         "url": "https://www.supersonido.es/p/isotek-systems-evo3-nova-one",
         "image": "https://www.supersonido.es/productos/imagenes/producto27954.jpg"
-    },
-    "hifiman-he1000se_": {
-        "id": "hifiman-he1000se_",
-        "name": "HIFIMAN HE1000SE",
-        "price": 1399.0,
-        "price_old": 1899.0,
-        "sale_percentage": 26.3,
-        "url": "https://www.supersonido.es/p/hifiman-he1000se_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53453.jpg"
     },
     "stax-sr-l700-mkii_": {
         "id": "stax-sr-l700-mkii_",
