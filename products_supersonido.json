@@ -179,15 +179,6 @@
         "url": "https://www.supersonido.es/p/technics-eah-az80_",
         "image": "https://www.supersonido.es/productos/imagenes/producto51578.jpg"
     },
-    "klipsch-the-three-plus": {
-        "id": "klipsch-the-three-plus",
-        "name": "Klipsch The Three Plus",
-        "price": 199.0,
-        "price_old": 399.0,
-        "sale_percentage": 50.1,
-        "url": "https://www.supersonido.es/p/klipsch-the-three-plus",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50884.jpg"
-    },
     "sonusfaber-unicum-stand": {
         "id": "sonusfaber-unicum-stand",
         "name": "Sonus Faber UNICUM STAND",
@@ -223,6 +214,15 @@
         "sale_percentage": 37.6,
         "url": "https://www.supersonido.es/p/ifi-audio-zen-stream_",
         "image": "https://www.supersonido.es/productos/imagenes/producto47970.jpg"
+    },
+    "rega-planar-1_ocwnt": {
+        "id": "rega-planar-1_ocwnt",
+        "name": "Rega Planar 1",
+        "price": 249.0,
+        "price_old": 349.0,
+        "sale_percentage": 28.7,
+        "url": "https://www.supersonido.es/p/rega-planar-1_ocwnt",
+        "image": "https://www.supersonido.es/productos/imagenes/producto58073.jpg"
     },
     "musical-fidelity-lx2-lps_": {
         "id": "musical-fidelity-lx2-lps_",
@@ -476,6 +476,15 @@
         "url": "https://www.supersonido.es/p/pro-ject-debut-evo-2_",
         "image": "https://www.supersonido.es/productos/imagenes/producto59348.jpg"
     },
+    "monitor-audio-cl80_": {
+        "id": "monitor-audio-cl80_",
+        "name": "Monitor Audio CL80",
+        "price": 599.0,
+        "price_old": 760.0,
+        "sale_percentage": 21.2,
+        "url": "https://www.supersonido.es/p/monitor-audio-cl80_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto59399.jpg"
+    },
     "focal-bathys-deep-black_": {
         "id": "focal-bathys-deep-black_",
         "name": "FOCAL Bathys Deep Black",
@@ -611,15 +620,6 @@
         "url": "https://www.supersonido.es/p/rotel-a14mkii_",
         "image": "https://www.supersonido.es/productos/imagenes/producto59288.jpg"
     },
-    "martinlogan-edge_": {
-        "id": "martinlogan-edge_",
-        "name": "Martin-Logan Edge",
-        "price": 999.0,
-        "price_old": 2290.0,
-        "sale_percentage": 56.4,
-        "url": "https://www.supersonido.es/p/martinlogan-edge_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57091.jpg"
-    },
     "marantz-cinema-60_": {
         "id": "marantz-cinema-60_",
         "name": "Marantz CINEMA 60",
@@ -628,6 +628,15 @@
         "sale_percentage": 28.6,
         "url": "https://www.supersonido.es/p/marantz-cinema-60_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53850.jpg"
+    },
+    "martinlogan-edge_": {
+        "id": "martinlogan-edge_",
+        "name": "Martin-Logan Edge",
+        "price": 999.0,
+        "price_old": 2290.0,
+        "sale_percentage": 56.4,
+        "url": "https://www.supersonido.es/p/martinlogan-edge_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57091.jpg"
     },
     "martinlogan-edge": {
         "id": "martinlogan-edge",
@@ -980,15 +989,6 @@
         "url": "https://www.supersonido.es/p/mcintosh-mha200_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto53359.jpg"
     },
-    "isotek-systems-sigmas_": {
-        "id": "isotek-systems-sigmas_",
-        "name": "Isotek Systems Sigmas EVO 3",
-        "price": 2999.0,
-        "price_old": 4299.0,
-        "sale_percentage": 30.2,
-        "url": "https://www.supersonido.es/p/isotek-systems-sigmas_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50780.jpg"
-    },
     "final-audio-design-d8000-pro-edition_": {
         "id": "final-audio-design-d8000-pro-edition_",
         "name": "Final Audio Design D8000 Pro Edition",
@@ -997,6 +997,15 @@
         "sale_percentage": 30.2,
         "url": "https://www.supersonido.es/p/final-audio-design-d8000-pro-edition_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52560.jpg"
+    },
+    "isotek-systems-sigmas_": {
+        "id": "isotek-systems-sigmas_",
+        "name": "Isotek Systems Sigmas EVO 3",
+        "price": 2999.0,
+        "price_old": 4299.0,
+        "sale_percentage": 30.2,
+        "url": "https://www.supersonido.es/p/isotek-systems-sigmas_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50780.jpg"
     },
     "matrix-audio-element-x2-pure": {
         "id": "matrix-audio-element-x2-pure",
