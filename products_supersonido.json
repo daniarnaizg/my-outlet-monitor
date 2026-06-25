@@ -125,14 +125,14 @@
         "url": "https://www.supersonido.es/p/hifiman-sundara-closed_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50309.jpg"
     },
-    "audio-technica-at-lp60xusb_": {
-        "id": "audio-technica-at-lp60xusb_",
-        "name": "Audio-Technica AT-LP60XUSB",
-        "price": 129.0,
-        "price_old": 179.0,
-        "sale_percentage": 27.9,
-        "url": "https://www.supersonido.es/p/audio-technica-at-lp60xusb_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto46486.jpg"
+    "panasonic-dp-ub150eg_oca": {
+        "id": "panasonic-dp-ub150eg_oca",
+        "name": "Panasonic DP-UB150EG",
+        "price": 119.0,
+        "price_old": 199.0,
+        "sale_percentage": 40.2,
+        "url": "https://www.supersonido.es/p/panasonic-dp-ub150eg_oca",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52639.jpg"
     },
     "meze-audio-99-neo_oc": {
         "id": "meze-audio-99-neo_oc",
@@ -260,6 +260,15 @@
         "url": "https://www.supersonido.es/p/devialet-tree__OCC",
         "image": "https://www.supersonido.es/productos/imagenes/producto58957.jpg"
     },
+    "pro-ject-e1-bt_": {
+        "id": "pro-ject-e1-bt_",
+        "name": "Pro-Ject E1 + AT3600L",
+        "price": 299.0,
+        "price_old": 399.0,
+        "sale_percentage": 25.1,
+        "url": "https://www.supersonido.es/p/pro-ject-e1-bt_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53418.jpg"
+    },
     "sony-sa-sw3_oc": {
         "id": "sony-sa-sw3_oc",
         "name": "Sony SA-SW3",
@@ -277,15 +286,6 @@
         "sale_percentage": 50.6,
         "url": "https://www.supersonido.es/p/monitor-audio-cpwt380_",
         "image": "https://www.supersonido.es/productos/imagenes/producto26150.jpg"
-    },
-    "pro-ject-e1-bt_": {
-        "id": "pro-ject-e1-bt_",
-        "name": "Pro-Ject E1 + AT3600L",
-        "price": 299.0,
-        "price_old": 399.0,
-        "sale_percentage": 25.1,
-        "url": "https://www.supersonido.es/p/pro-ject-e1-bt_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53418.jpg"
     },
     "wiim-vibelink-amp_": {
         "id": "wiim-vibelink-amp_",
@@ -332,15 +332,6 @@
         "url": "https://www.supersonido.es/p/audioquest-rocket-22_",
         "image": "https://www.supersonido.es/productos/imagenes/producto54180.jpg"
     },
-    "audio-technica-at-lpw50btrw_": {
-        "id": "audio-technica-at-lpw50btrw_",
-        "name": "Audio-Technica AT-LPW50BTRW",
-        "price": 399.0,
-        "price_old": 499.0,
-        "sale_percentage": 20.0,
-        "url": "https://www.supersonido.es/p/audio-technica-at-lpw50btrw_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57741.jpg"
-    },
     "sennheiser-ambeo-soundbar-mini_": {
         "id": "sennheiser-ambeo-soundbar-mini_",
         "name": "Sennheiser AMBEO Soundbar Mini",
@@ -349,6 +340,15 @@
         "sale_percentage": 50.1,
         "url": "https://www.supersonido.es/p/sennheiser-ambeo-soundbar-mini_",
         "image": "https://www.supersonido.es/productos/imagenes/producto59184.jpg"
+    },
+    "audio-technica-at-lpw50btrw_": {
+        "id": "audio-technica-at-lpw50btrw_",
+        "name": "Audio-Technica AT-LPW50BTRW",
+        "price": 399.0,
+        "price_old": 499.0,
+        "sale_percentage": 20.0,
+        "url": "https://www.supersonido.es/p/audio-technica-at-lpw50btrw_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57741.jpg"
     },
     "pro-ject-a1-2_": {
         "id": "pro-ject-a1-2_",
@@ -449,15 +449,6 @@
         "url": "https://www.supersonido.es/p/jbl-studio-650p_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58553.jpg"
     },
-    "ortofon-spu1-s_": {
-        "id": "ortofon-spu1-s_",
-        "name": "Ortofon SPU1 S",
-        "price": 599.0,
-        "price_old": 749.0,
-        "sale_percentage": 20.0,
-        "url": "https://www.supersonido.es/p/ortofon-spu1-s_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto58070.jpg"
-    },
     "pro-ject-uni-box-s3_": {
         "id": "pro-ject-uni-box-s3_",
         "name": "Pro-Ject Uni Box S3",
@@ -466,6 +457,15 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/pro-ject-uni-box-s3_",
         "image": "https://www.supersonido.es/productos/imagenes/producto59209.jpg"
+    },
+    "ortofon-spu1-s_": {
+        "id": "ortofon-spu1-s_",
+        "name": "Ortofon SPU1 S",
+        "price": 599.0,
+        "price_old": 749.0,
+        "sale_percentage": 20.0,
+        "url": "https://www.supersonido.es/p/ortofon-spu1-s_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto58070.jpg"
     },
     "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra": {
         "id": "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
@@ -701,15 +701,6 @@
         "url": "https://www.supersonido.es/p/matrix-audio-element-p_",
         "image": "https://www.supersonido.es/productos/imagenes/producto46923.jpg"
     },
-    "pro-ject-x2-b_": {
-        "id": "pro-ject-x2-b_",
-        "name": "Pro-Ject X2 B",
-        "price": 1199.0,
-        "price_old": 1599.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/pro-ject-x2-b_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto58843.jpg"
-    },
     "rotel-dx-3oca": {
         "id": "rotel-dx-3oca",
         "name": "Rotel DX-3",
@@ -718,6 +709,15 @@
         "sale_percentage": 20.0,
         "url": "https://www.supersonido.es/p/rotel-dx-3oca",
         "image": "https://www.supersonido.es/productos/imagenes/producto58827.jpg"
+    },
+    "pro-ject-x2-b_": {
+        "id": "pro-ject-x2-b_",
+        "name": "Pro-Ject X2 B",
+        "price": 1199.0,
+        "price_old": 1599.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/pro-ject-x2-b_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto58843.jpg"
     },
     "hifiman-ga-10_oca": {
         "id": "hifiman-ga-10_oca",
@@ -1069,15 +1069,6 @@
         "sale_percentage": 26.2,
         "url": "https://www.supersonido.es/p/klipsch-heresy-iv_a",
         "image": "https://www.supersonido.es/productos/imagenes/producto56943.jpg"
-    },
-    "focal-new-utopia-2022_a": {
-        "id": "focal-new-utopia-2022_a",
-        "name": "FOCAL New Utopia 2022",
-        "price": 3749.0,
-        "price_old": 4999.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/focal-new-utopia-2022_a",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57173.jpg"
     },
     "mcintosh-mha150": {
         "id": "mcintosh-mha150",
