@@ -71,6 +71,15 @@
         "url": "https://www.supersonido.es/p/panasonic-rf-d15_",
         "image": "https://www.supersonido.es/productos/imagenes/producto59254.jpg"
     },
+    "samsung-wmn-b50eb_": {
+        "id": "samsung-wmn-b50eb_",
+        "name": "Samsung WMN-B50EB",
+        "price": 75.0,
+        "price_old": 89.0,
+        "sale_percentage": 15.7,
+        "url": "https://www.supersonido.es/p/samsung-wmn-b50eb_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57887.jpg"
+    },
     "final-f3100_": {
         "id": "final-f3100_",
         "name": "Final Audio Design F3100",
@@ -242,15 +251,6 @@
         "url": "https://www.supersonido.es/p/devialet-tree__OCC",
         "image": "https://www.supersonido.es/productos/imagenes/producto58957.jpg"
     },
-    "pro-ject-e1-bt_": {
-        "id": "pro-ject-e1-bt_",
-        "name": "Pro-Ject E1 + AT3600L",
-        "price": 299.0,
-        "price_old": 399.0,
-        "sale_percentage": 25.1,
-        "url": "https://www.supersonido.es/p/pro-ject-e1-bt_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53418.jpg"
-    },
     "sony-sa-sw3_oc": {
         "id": "sony-sa-sw3_oc",
         "name": "Sony SA-SW3",
@@ -268,6 +268,15 @@
         "sale_percentage": 50.6,
         "url": "https://www.supersonido.es/p/monitor-audio-cpwt380_",
         "image": "https://www.supersonido.es/productos/imagenes/producto26150.jpg"
+    },
+    "pro-ject-e1-bt_": {
+        "id": "pro-ject-e1-bt_",
+        "name": "Pro-Ject E1 + AT3600L",
+        "price": 299.0,
+        "price_old": 399.0,
+        "sale_percentage": 25.1,
+        "url": "https://www.supersonido.es/p/pro-ject-e1-bt_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53418.jpg"
     },
     "wiim-vibelink-amp_": {
         "id": "wiim-vibelink-amp_",
@@ -296,6 +305,15 @@
         "url": "https://www.supersonido.es/p/audeze-mm-100_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53421.jpg"
     },
+    "audeze-maxwell-2-playstation__": {
+        "id": "audeze-maxwell-2-playstation__",
+        "name": "Audeze MAXWELL 2 PLAYSTATION",
+        "price": 389.0,
+        "price_old": 449.0,
+        "sale_percentage": 13.4,
+        "url": "https://www.supersonido.es/p/audeze-maxwell-2-playstation__",
+        "image": "https://www.supersonido.es/productos/imagenes/producto58872.jpg"
+    },
     "elipson-prestige-facet-6b-bt": {
         "id": "elipson-prestige-facet-6b-bt",
         "name": "Elipson Prestige Facet 6B BT",
@@ -314,15 +332,6 @@
         "url": "https://www.supersonido.es/p/martin-logan-electromotion-r",
         "image": "https://www.supersonido.es/productos/imagenes/producto13995.jpg"
     },
-    "audioquest-rocket-22_": {
-        "id": "audioquest-rocket-22_",
-        "name": "Audioquest Rocket 22",
-        "price": 399.0,
-        "price_old": 569.0,
-        "sale_percentage": 29.9,
-        "url": "https://www.supersonido.es/p/audioquest-rocket-22_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto54180.jpg"
-    },
     "sennheiser-ambeo-soundbar-mini_": {
         "id": "sennheiser-ambeo-soundbar-mini_",
         "name": "Sennheiser AMBEO Soundbar Mini",
@@ -340,6 +349,15 @@
         "sale_percentage": 20.0,
         "url": "https://www.supersonido.es/p/pro-ject-a1-2_",
         "image": "https://www.supersonido.es/productos/imagenes/producto59262.jpg"
+    },
+    "audioquest-rocket-22_": {
+        "id": "audioquest-rocket-22_",
+        "name": "Audioquest Rocket 22",
+        "price": 399.0,
+        "price_old": 569.0,
+        "sale_percentage": 29.9,
+        "url": "https://www.supersonido.es/p/audioquest-rocket-22_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto54180.jpg"
     },
     "onkyo-tx-nr5100_": {
         "id": "onkyo-tx-nr5100_",
@@ -665,15 +683,6 @@
         "url": "https://www.supersonido.es/p/matrix-audio-element-p_",
         "image": "https://www.supersonido.es/productos/imagenes/producto46923.jpg"
     },
-    "pro-ject-x2-b_": {
-        "id": "pro-ject-x2-b_",
-        "name": "Pro-Ject X2 B",
-        "price": 1199.0,
-        "price_old": 1599.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/pro-ject-x2-b_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto58843.jpg"
-    },
     "rotel-dx-3oca": {
         "id": "rotel-dx-3oca",
         "name": "Rotel DX-3",
@@ -682,6 +691,15 @@
         "sale_percentage": 20.0,
         "url": "https://www.supersonido.es/p/rotel-dx-3oca",
         "image": "https://www.supersonido.es/productos/imagenes/producto58827.jpg"
+    },
+    "pro-ject-x2-b_": {
+        "id": "pro-ject-x2-b_",
+        "name": "Pro-Ject X2 B",
+        "price": 1199.0,
+        "price_old": 1599.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/pro-ject-x2-b_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto58843.jpg"
     },
     "hifiman-ga-10_oca": {
         "id": "hifiman-ga-10_oca",
