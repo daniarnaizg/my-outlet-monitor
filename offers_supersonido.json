@@ -236,11 +236,20 @@
     "klipsch-nashville": {
         "id": "klipsch-nashville",
         "name": "Klipsch Nashville",
-        "price": 98.9,
+        "price": 94.9,
         "price_old": 179.0,
-        "sale_percentage": 44.7,
+        "sale_percentage": 47.0,
         "url": "https://www.supersonido.es/p/klipsch-nashville",
         "image": "https://www.supersonido.es/productos/imagenes/producto51563.jpg"
+    },
+    "nobunaga-labs-muramasa": {
+        "id": "nobunaga-labs-muramasa",
+        "name": "Nobunaga Labs Muramasa",
+        "price": 99.0,
+        "price_old": 215.0,
+        "sale_percentage": 54.0,
+        "url": "https://www.supersonido.es/p/nobunaga-labs-muramasa",
+        "image": "https://www.supersonido.es/productos/imagenes/producto30688.jpg"
     },
     "denon-ah-c10-perl": {
         "id": "denon-ah-c10-perl",
@@ -259,15 +268,6 @@
         "sale_percentage": 50.3,
         "url": "https://www.supersonido.es/p/sony-linkbuds-fit-wfls910_",
         "image": "https://www.supersonido.es/productos/imagenes/producto59412.jpg"
-    },
-    "nobunaga-labs-muramasa": {
-        "id": "nobunaga-labs-muramasa",
-        "name": "Nobunaga Labs Muramasa",
-        "price": 99.0,
-        "price_old": 215.0,
-        "sale_percentage": 54.0,
-        "url": "https://www.supersonido.es/p/nobunaga-labs-muramasa",
-        "image": "https://www.supersonido.es/productos/imagenes/producto30688.jpg"
     },
     "sennheiser-accentum-wireless": {
         "id": "sennheiser-accentum-wireless",
