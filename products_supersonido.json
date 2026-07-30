@@ -197,15 +197,6 @@
         "url": "https://www.supersonido.es/p/technics-eah-az100_occc",
         "image": "https://www.supersonido.es/productos/imagenes/producto59493.jpg"
     },
-    "audio-technica-ath-twx9_": {
-        "id": "audio-technica-ath-twx9_",
-        "name": "Audio-Technica ATH-TWX9",
-        "price": 199.0,
-        "price_old": 319.0,
-        "sale_percentage": 37.6,
-        "url": "https://www.supersonido.es/p/audio-technica-ath-twx9_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49015.jpg"
-    },
     "sonusfaber-unicum-stand": {
         "id": "sonusfaber-unicum-stand",
         "name": "Sonus Faber UNICUM STAND",
@@ -214,6 +205,15 @@
         "sale_percentage": 55.8,
         "url": "https://www.supersonido.es/p/sonusfaber-unicum-stand",
         "image": "https://www.supersonido.es/productos/imagenes/producto22451.jpg"
+    },
+    "audio-technica-ath-twx9_": {
+        "id": "audio-technica-ath-twx9_",
+        "name": "Audio-Technica ATH-TWX9",
+        "price": 199.0,
+        "price_old": 319.0,
+        "sale_percentage": 37.6,
+        "url": "https://www.supersonido.es/p/audio-technica-ath-twx9_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto49015.jpg"
     },
     "atacama-audio-slx-400": {
         "id": "atacama-audio-slx-400",
@@ -512,6 +512,15 @@
         "url": "https://www.supersonido.es/p/focal-bathys-deep-black_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58443.jpg"
     },
+    "optoma-hd29hstx_": {
+        "id": "optoma-hd29hstx_",
+        "name": "Optoma HD29HSTx",
+        "price": 799.0,
+        "price_old": 1089.0,
+        "sale_percentage": 26.6,
+        "url": "https://www.supersonido.es/p/optoma-hd29hstx_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57324.jpg"
+    },
     "pro-ject-dac-streaming-set-s2-chrome-limited-edition_": {
         "id": "pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
         "name": "Pro-Ject DAC-Streaming Set S2 - Chrome Limited Edition",
@@ -529,15 +538,6 @@
         "sale_percentage": 27.3,
         "url": "https://www.supersonido.es/p/musical-fidelity-m2sioca",
         "image": "https://www.supersonido.es/productos/imagenes/producto58002.jpg"
-    },
-    "optoma-hd29hstx_": {
-        "id": "optoma-hd29hstx_",
-        "name": "Optoma HD29HSTx",
-        "price": 799.0,
-        "price_old": 1089.0,
-        "sale_percentage": 26.6,
-        "url": "https://www.supersonido.es/p/optoma-hd29hstx_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57324.jpg"
     },
     "dan-clark-audio-on-2-closed_": {
         "id": "dan-clark-audio-on-2-closed_",
@@ -566,15 +566,6 @@
         "url": "https://www.supersonido.es/p/audeze-lcd-gx",
         "image": "https://www.supersonido.es/productos/imagenes/producto32175.jpg"
     },
-    "q-acoustics-5040_occc": {
-        "id": "q-acoustics-5040_occc",
-        "name": "Q Acoustics 5040",
-        "price": 899.0,
-        "price_old": 1299.0,
-        "sale_percentage": 30.8,
-        "url": "https://www.supersonido.es/p/q-acoustics-5040_occc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53293.jpg"
-    },
     "q-acoustics-concept-30_": {
         "id": "q-acoustics-concept-30_",
         "name": "Q Acoustics Concept 30",
@@ -583,6 +574,15 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/q-acoustics-concept-30_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53596.jpg"
+    },
+    "q-acoustics-5040_occc": {
+        "id": "q-acoustics-5040_occc",
+        "name": "Q Acoustics 5040",
+        "price": 899.0,
+        "price_old": 1299.0,
+        "sale_percentage": 30.8,
+        "url": "https://www.supersonido.es/p/q-acoustics-5040_occc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53293.jpg"
     },
     "audiolab-9000cdt__": {
         "id": "audiolab-9000cdt__",
@@ -611,6 +611,15 @@
         "url": "https://www.supersonido.es/p/martinlogan-edge",
         "image": "https://www.supersonido.es/productos/imagenes/producto20750.jpg"
     },
+    "klipsch-thx-5002-s_": {
+        "id": "klipsch-thx-5002-s_",
+        "name": "Klipsch THX-5002-S",
+        "price": 999.0,
+        "price_old": 1499.0,
+        "sale_percentage": 33.4,
+        "url": "https://www.supersonido.es/p/klipsch-thx-5002-s_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto51081.jpg"
+    },
     "ibasso-pb5": {
         "id": "ibasso-pb5",
         "name": "Ibasso PB5",
@@ -628,15 +637,6 @@
         "sale_percentage": 31.1,
         "url": "https://www.supersonido.es/p/letshuoer-ej09",
         "image": "https://www.supersonido.es/productos/imagenes/producto50492.jpg"
-    },
-    "klipsch-thx-5002-s_": {
-        "id": "klipsch-thx-5002-s_",
-        "name": "Klipsch THX-5002-S",
-        "price": 999.0,
-        "price_old": 1499.0,
-        "sale_percentage": 33.4,
-        "url": "https://www.supersonido.es/p/klipsch-thx-5002-s_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto51081.jpg"
     },
     "matrix-audio-element-p__": {
         "id": "matrix-audio-element-p__",
@@ -944,15 +944,6 @@
         "url": "https://www.supersonido.es/p/stax-srm-700t_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52573.jpg"
     },
-    "final-audio-design-d8000-pro-edition_": {
-        "id": "final-audio-design-d8000-pro-edition_",
-        "name": "Final Audio Design D8000 Pro Edition",
-        "price": 2999.0,
-        "price_old": 4299.0,
-        "sale_percentage": 30.2,
-        "url": "https://www.supersonido.es/p/final-audio-design-d8000-pro-edition_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52560.jpg"
-    },
     "anthem-mdx-16_": {
         "id": "anthem-mdx-16_",
         "name": "Anthem MDX 16",
@@ -979,6 +970,15 @@
         "sale_percentage": 53.9,
         "url": "https://www.supersonido.es/p/samsung-tq83s95f",
         "image": "https://www.supersonido.es/productos/imagenes/producto53891.jpg"
+    },
+    "final-audio-design-d8000-pro-edition_": {
+        "id": "final-audio-design-d8000-pro-edition_",
+        "name": "Final Audio Design D8000 Pro Edition",
+        "price": 2999.0,
+        "price_old": 4299.0,
+        "sale_percentage": 30.2,
+        "url": "https://www.supersonido.es/p/final-audio-design-d8000-pro-edition_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52560.jpg"
     },
     "isotek-systems-sigmas_": {
         "id": "isotek-systems-sigmas_",
@@ -1060,15 +1060,6 @@
         "sale_percentage": 20.0,
         "url": "https://www.supersonido.es/p/rose-rs130_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52192.jpg"
-    },
-    "audio-research-vsi60-exdemo": {
-        "id": "audio-research-vsi60-exdemo",
-        "name": "Audio Research Vsi60",
-        "price": 4390.0,
-        "price_old": 6290.0,
-        "sale_percentage": 30.2,
-        "url": "https://www.supersonido.es/p/audio-research-vsi60-exdemo",
-        "image": "https://www.supersonido.es/productos/imagenes/producto21979.jpg"
     },
     "naim-ndx-2_": {
         "id": "naim-ndx-2_",
