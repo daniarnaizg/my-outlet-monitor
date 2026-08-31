@@ -251,15 +251,6 @@
         "url": "https://www.supersonido.es/p/devialet-tree__OCC",
         "image": "https://www.supersonido.es/productos/imagenes/producto58957.jpg"
     },
-    "ifi-audio-supanova_": {
-        "id": "ifi-audio-supanova_",
-        "name": "IFI Audio SupaNova",
-        "price": 299.0,
-        "price_old": 499.0,
-        "sale_percentage": 40.1,
-        "url": "https://www.supersonido.es/p/ifi-audio-supanova_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53568.jpg"
-    },
     "pro-ject-e1-bt_": {
         "id": "pro-ject-e1-bt_",
         "name": "Pro-Ject E1 + AT3600L",
@@ -268,6 +259,15 @@
         "sale_percentage": 25.1,
         "url": "https://www.supersonido.es/p/pro-ject-e1-bt_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53418.jpg"
+    },
+    "ifi-audio-supanova_": {
+        "id": "ifi-audio-supanova_",
+        "name": "IFI Audio SupaNova",
+        "price": 299.0,
+        "price_old": 499.0,
+        "sale_percentage": 40.1,
+        "url": "https://www.supersonido.es/p/ifi-audio-supanova_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53568.jpg"
     },
     "monitor-audio-cpwt380_": {
         "id": "monitor-audio-cpwt380_",
@@ -332,15 +332,6 @@
         "url": "https://www.supersonido.es/p/audeze-maxwell-2-xbox-_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58873.jpg"
     },
-    "pro-ject-maia-s3_": {
-        "id": "pro-ject-maia-s3_",
-        "name": "Pro-Ject MaiA S3",
-        "price": 479.0,
-        "price_old": 599.0,
-        "sale_percentage": 20.0,
-        "url": "https://www.supersonido.es/p/pro-ject-maia-s3_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto59377.jpg"
-    },
     "klipsch-rp-500m-ii_OCC": {
         "id": "klipsch-rp-500m-ii_OCC",
         "name": "Klipsch RP-500M II",
@@ -386,23 +377,14 @@
         "url": "https://www.supersonido.es/p/jbl-studio-650p_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58553.jpg"
     },
-    "ortofon-spu1-s_": {
-        "id": "ortofon-spu1-s_",
-        "name": "Ortofon SPU1 S",
+    "pro-ject-uni-box-s3_": {
+        "id": "pro-ject-uni-box-s3_",
+        "name": "Pro-Ject Uni Box S3",
         "price": 599.0,
-        "price_old": 749.0,
-        "sale_percentage": 20.0,
-        "url": "https://www.supersonido.es/p/ortofon-spu1-s_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto58070.jpg"
-    },
-    "monitor-audio-cl80_": {
-        "id": "monitor-audio-cl80_",
-        "name": "Monitor Audio CL80",
-        "price": 599.0,
-        "price_old": 760.0,
-        "sale_percentage": 21.2,
-        "url": "https://www.supersonido.es/p/monitor-audio-cl80_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto59399.jpg"
+        "price_old": 799.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/pro-ject-uni-box-s3_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto59209.jpg"
     },
     "pro-ject-debut-evo-2_": {
         "id": "pro-ject-debut-evo-2_",
@@ -413,14 +395,23 @@
         "url": "https://www.supersonido.es/p/pro-ject-debut-evo-2_",
         "image": "https://www.supersonido.es/productos/imagenes/producto59348.jpg"
     },
-    "pro-ject-uni-box-s3_": {
-        "id": "pro-ject-uni-box-s3_",
-        "name": "Pro-Ject Uni Box S3",
+    "monitor-audio-cl80_": {
+        "id": "monitor-audio-cl80_",
+        "name": "Monitor Audio CL80",
         "price": 599.0,
-        "price_old": 799.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/pro-ject-uni-box-s3_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto59209.jpg"
+        "price_old": 760.0,
+        "sale_percentage": 21.2,
+        "url": "https://www.supersonido.es/p/monitor-audio-cl80_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto59399.jpg"
+    },
+    "ortofon-spu1-s_": {
+        "id": "ortofon-spu1-s_",
+        "name": "Ortofon SPU1 S",
+        "price": 599.0,
+        "price_old": 749.0,
+        "sale_percentage": 20.0,
+        "url": "https://www.supersonido.es/p/ortofon-spu1-s_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto58070.jpg"
     },
     "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra": {
         "id": "pro-ject-pre-box-s2-digital-dac-stream-box-s2-ultra",
@@ -449,15 +440,6 @@
         "url": "https://www.supersonido.es/p/focal-bathys-deep-black_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58443.jpg"
     },
-    "pro-ject-dac-streaming-set-s2-chrome-limited-edition_": {
-        "id": "pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
-        "name": "Pro-Ject DAC-Streaming Set S2 - Chrome Limited Edition",
-        "price": 799.0,
-        "price_old": 1499.0,
-        "sale_percentage": 46.7,
-        "url": "https://www.supersonido.es/p/pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57973.jpg"
-    },
     "optoma-hd29hstx_": {
         "id": "optoma-hd29hstx_",
         "name": "Optoma HD29HSTx",
@@ -466,6 +448,15 @@
         "sale_percentage": 26.6,
         "url": "https://www.supersonido.es/p/optoma-hd29hstx_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57324.jpg"
+    },
+    "pro-ject-dac-streaming-set-s2-chrome-limited-edition_": {
+        "id": "pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
+        "name": "Pro-Ject DAC-Streaming Set S2 - Chrome Limited Edition",
+        "price": 799.0,
+        "price_old": 1499.0,
+        "sale_percentage": 46.7,
+        "url": "https://www.supersonido.es/p/pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57973.jpg"
     },
     "dan-clark-audio-on-2-closed_": {
         "id": "dan-clark-audio-on-2-closed_",
@@ -493,15 +484,6 @@
         "sale_percentage": 19.1,
         "url": "https://www.supersonido.es/p/audeze-lcd-gx",
         "image": "https://www.supersonido.es/productos/imagenes/producto32175.jpg"
-    },
-    "q-acoustics-5040_occc": {
-        "id": "q-acoustics-5040_occc",
-        "name": "Q Acoustics 5040",
-        "price": 899.0,
-        "price_old": 1299.0,
-        "sale_percentage": 30.8,
-        "url": "https://www.supersonido.es/p/q-acoustics-5040_occc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53293.jpg"
     },
     "audiolab-9000cdt__": {
         "id": "audiolab-9000cdt__",
