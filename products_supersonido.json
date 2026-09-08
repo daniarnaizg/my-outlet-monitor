@@ -539,6 +539,15 @@
         "url": "https://www.supersonido.es/p/audeze-lcd-gx",
         "image": "https://www.supersonido.es/productos/imagenes/producto32175.jpg"
     },
+    "q-acoustics-5040_oc": {
+        "id": "q-acoustics-5040_oc",
+        "name": "Q Acoustics 5040",
+        "price": 899.0,
+        "price_old": 1299.0,
+        "sale_percentage": 30.8,
+        "url": "https://www.supersonido.es/p/q-acoustics-5040_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto51073.jpg"
+    },
     "audiolab-9000cdt__": {
         "id": "audiolab-9000cdt__",
         "name": "Audiolab 9000CDT",
@@ -556,15 +565,6 @@
         "sale_percentage": 56.4,
         "url": "https://www.supersonido.es/p/martinlogan-edge_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57091.jpg"
-    },
-    "martinlogan-edge": {
-        "id": "martinlogan-edge",
-        "name": "Martin-Logan Edge",
-        "price": 999.0,
-        "price_old": 2290.0,
-        "sale_percentage": 56.4,
-        "url": "https://www.supersonido.es/p/martinlogan-edge",
-        "image": "https://www.supersonido.es/productos/imagenes/producto20750.jpg"
     },
     "klipsch-thx-5002-s_": {
         "id": "klipsch-thx-5002-s_",
@@ -592,6 +592,15 @@
         "sale_percentage": 31.1,
         "url": "https://www.supersonido.es/p/letshuoer-ej09",
         "image": "https://www.supersonido.es/productos/imagenes/producto50492.jpg"
+    },
+    "martinlogan-edge": {
+        "id": "martinlogan-edge",
+        "name": "Martin-Logan Edge",
+        "price": 999.0,
+        "price_old": 2290.0,
+        "sale_percentage": 56.4,
+        "url": "https://www.supersonido.es/p/martinlogan-edge",
+        "image": "https://www.supersonido.es/productos/imagenes/producto20750.jpg"
     },
     "musical-fidelity-m3x-vinyl_": {
         "id": "musical-fidelity-m3x-vinyl_",
