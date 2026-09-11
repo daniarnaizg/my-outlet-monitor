@@ -197,6 +197,24 @@
         "url": "https://www.supersonido.es/p/nobunaga-labs-chitose",
         "image": "https://www.supersonido.es/productos/imagenes/producto46862.jpg"
     },
+    "art-sound-mdc501": {
+        "id": "art-sound-mdc501",
+        "name": "Art sound MDC501",
+        "price": 89.0,
+        "price_old": 149.0,
+        "sale_percentage": 40.3,
+        "url": "https://www.supersonido.es/p/art-sound-mdc501",
+        "image": "https://www.supersonido.es/productos/imagenes/producto58719.jpg"
+    },
+    "sennheiser-momentum-true-wireless-3": {
+        "id": "sennheiser-momentum-true-wireless-3",
+        "name": "Sennheiser MOMENTUM True Wireless 3",
+        "price": 89.0,
+        "price_old": 249.0,
+        "sale_percentage": 64.3,
+        "url": "https://www.supersonido.es/p/sennheiser-momentum-true-wireless-3",
+        "image": "https://www.supersonido.es/productos/imagenes/producto47168.jpg"
+    },
     "astell-kern-kann-cube-case": {
         "id": "astell-kern-kann-cube-case",
         "name": "Astell&kern KANN CUBE Case",
@@ -223,24 +241,6 @@
         "sale_percentage": 40.3,
         "url": "https://www.supersonido.es/p/klipsch-cs-16w",
         "image": "https://www.supersonido.es/productos/imagenes/producto26992.jpg"
-    },
-    "sennheiser-momentum-true-wireless-3": {
-        "id": "sennheiser-momentum-true-wireless-3",
-        "name": "Sennheiser MOMENTUM True Wireless 3",
-        "price": 89.0,
-        "price_old": 249.0,
-        "sale_percentage": 64.3,
-        "url": "https://www.supersonido.es/p/sennheiser-momentum-true-wireless-3",
-        "image": "https://www.supersonido.es/productos/imagenes/producto47168.jpg"
-    },
-    "art-sound-mdc501": {
-        "id": "art-sound-mdc501",
-        "name": "Art sound MDC501",
-        "price": 89.0,
-        "price_old": 149.0,
-        "sale_percentage": 40.3,
-        "url": "https://www.supersonido.es/p/art-sound-mdc501",
-        "image": "https://www.supersonido.es/productos/imagenes/producto58719.jpg"
     },
     "nobunaga-labs-muramasa": {
         "id": "nobunaga-labs-muramasa",
@@ -358,5 +358,14 @@
         "sale_percentage": 48.2,
         "url": "https://www.supersonido.es/p/sumiko-rainier_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53591.jpg"
+    },
+    "kanto-yu-passive-4": {
+        "id": "kanto-yu-passive-4",
+        "name": "Kanto YU Passive 4",
+        "price": 129.0,
+        "price_old": 229.0,
+        "sale_percentage": 43.7,
+        "url": "https://www.supersonido.es/p/kanto-yu-passive-4",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57621.jpg"
     }
 }
