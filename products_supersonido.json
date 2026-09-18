@@ -269,24 +269,6 @@
         "url": "https://www.supersonido.es/p/rega-planar-1_OCCC",
         "image": "https://www.supersonido.es/productos/imagenes/producto59670.jpg"
     },
-    "ifi-audio-zen-blue-3_OCC": {
-        "id": "ifi-audio-zen-blue-3_OCC",
-        "name": "IFI Audio Zen Blue 3",
-        "price": 269.0,
-        "price_old": 319.0,
-        "sale_percentage": 15.7,
-        "url": "https://www.supersonido.es/p/ifi-audio-zen-blue-3_OCC",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52157.jpg"
-    },
-    "sony-sa-sw3_oc": {
-        "id": "sony-sa-sw3_oc",
-        "name": "Sony SA-SW3",
-        "price": 269.0,
-        "price_old": 499.0,
-        "sale_percentage": 46.1,
-        "url": "https://www.supersonido.es/p/sony-sa-sw3_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49662.jpg"
-    },
     "pro-ject-e1-bt_": {
         "id": "pro-ject-e1-bt_",
         "name": "Pro-Ject E1 + AT3600L",
@@ -304,6 +286,24 @@
         "sale_percentage": 32.6,
         "url": "https://www.supersonido.es/p/meze-audio-105-aer_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57067.jpg"
+    },
+    "ifi-audio-zen-blue-3_OCC": {
+        "id": "ifi-audio-zen-blue-3_OCC",
+        "name": "IFI Audio Zen Blue 3",
+        "price": 269.0,
+        "price_old": 319.0,
+        "sale_percentage": 15.7,
+        "url": "https://www.supersonido.es/p/ifi-audio-zen-blue-3_OCC",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52157.jpg"
+    },
+    "sony-sa-sw3_oc": {
+        "id": "sony-sa-sw3_oc",
+        "name": "Sony SA-SW3",
+        "price": 269.0,
+        "price_old": 499.0,
+        "sale_percentage": 46.1,
+        "url": "https://www.supersonido.es/p/sony-sa-sw3_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto49662.jpg"
     },
     "ifi-audio-zen-blue-3_": {
         "id": "ifi-audio-zen-blue-3_",
@@ -413,15 +413,6 @@
         "url": "https://www.supersonido.es/p/pro-ject-debut-carbon-evo",
         "image": "https://www.supersonido.es/productos/imagenes/producto42809.jpg"
     },
-    "audioquest-rocket-22_": {
-        "id": "audioquest-rocket-22_",
-        "name": "Audioquest Rocket 22",
-        "price": 399.0,
-        "price_old": 569.0,
-        "sale_percentage": 29.9,
-        "url": "https://www.supersonido.es/p/audioquest-rocket-22_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto54180.jpg"
-    },
     "sony-k43s32bp": {
         "id": "sony-k43s32bp",
         "name": "Sony K43S32BP",
@@ -430,6 +421,15 @@
         "sale_percentage": 27.3,
         "url": "https://www.supersonido.es/p/sony-k43s32bp",
         "image": "https://www.supersonido.es/productos/imagenes/producto53800.jpg"
+    },
+    "audioquest-rocket-22_": {
+        "id": "audioquest-rocket-22_",
+        "name": "Audioquest Rocket 22",
+        "price": 399.0,
+        "price_old": 569.0,
+        "sale_percentage": 29.9,
+        "url": "https://www.supersonido.es/p/audioquest-rocket-22_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto54180.jpg"
     },
     "audeze-maxwell-2-xbox-_": {
         "id": "audeze-maxwell-2-xbox-_",
@@ -494,15 +494,6 @@
         "url": "https://www.supersonido.es/p/jbl-studio-650p_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58553.jpg"
     },
-    "pro-ject-dac-streaming-set-s2-chrome-limited-edition_": {
-        "id": "pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
-        "name": "Pro-Ject DAC-Streaming Set S2 - Chrome Limited Edition",
-        "price": 599.0,
-        "price_old": 1499.0,
-        "sale_percentage": 60.0,
-        "url": "https://www.supersonido.es/p/pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57973.jpg"
-    },
     "ortofon-spu1-s_": {
         "id": "ortofon-spu1-s_",
         "name": "Ortofon SPU1 S",
@@ -511,6 +502,15 @@
         "sale_percentage": 20.0,
         "url": "https://www.supersonido.es/p/ortofon-spu1-s_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58070.jpg"
+    },
+    "pro-ject-dac-streaming-set-s2-chrome-limited-edition_": {
+        "id": "pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
+        "name": "Pro-Ject DAC-Streaming Set S2 - Chrome Limited Edition",
+        "price": 599.0,
+        "price_old": 1499.0,
+        "sale_percentage": 60.0,
+        "url": "https://www.supersonido.es/p/pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57973.jpg"
     },
     "pro-ject-uni-box-s3_": {
         "id": "pro-ject-uni-box-s3_",
@@ -880,15 +880,6 @@
         "sale_percentage": 50.0,
         "url": "https://www.supersonido.es/p/mrspeakers-voce_",
         "image": "https://www.supersonido.es/productos/imagenes/producto50151.jpg"
-    },
-    "copland-csa70_": {
-        "id": "copland-csa70_",
-        "name": "Copland CSA70",
-        "price": 2290.0,
-        "price_old": 2990.0,
-        "sale_percentage": 23.4,
-        "url": "https://www.supersonido.es/p/copland-csa70_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53930.jpg"
     },
     "rotel-ras-5000_a": {
         "id": "rotel-ras-5000_a",
