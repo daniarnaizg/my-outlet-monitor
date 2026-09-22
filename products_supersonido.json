@@ -1,100 +1,55 @@
 {
-    "b-tech-bt-34": {
-        "id": "b-tech-bt-34",
-        "name": "B-Tech BT 34",
-        "price": 19.0,
-        "price_old": 39.0,
-        "sale_percentage": 51.3,
-        "url": "https://www.supersonido.es/p/b-tech-bt-34",
-        "image": "https://www.supersonido.es/productos/imagenes/producto2891.jpg"
-    },
-    "pro-ject-subplatter-x2": {
-        "id": "pro-ject-subplatter-x2",
-        "name": "Pro-Ject SUBPLATTER X2",
-        "price": 29.0,
-        "price_old": 59.0,
-        "sale_percentage": 50.8,
-        "url": "https://www.supersonido.es/p/pro-ject-subplatter-x2",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53579.jpg"
-    },
-    "monitor-audio-v-corner_": {
-        "id": "monitor-audio-v-corner_",
-        "name": "Monitor Audio V-CORNER",
-        "price": 29.0,
-        "price_old": 39.0,
-        "sale_percentage": 25.6,
-        "url": "https://www.supersonido.es/p/monitor-audio-v-corner_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57125.jpg"
-    },
-    "monitor-audio-v-mount_": {
-        "id": "monitor-audio-v-mount_",
-        "name": "Monitor Audio V-MOUNT",
-        "price": 29.0,
-        "price_old": 39.0,
-        "sale_percentage": 25.6,
-        "url": "https://www.supersonido.es/p/monitor-audio-v-mount_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57127.jpg"
+    "samsung-wmn-m25ea-xc": {
+        "id": "samsung-wmn-m25ea-xc",
+        "name": "Samsung WMN-M25EA/XC",
+        "price": 20.0,
+        "price_old": 89.0,
+        "sale_percentage": 77.5,
+        "url": "https://www.supersonido.es/p/samsung-wmn-m25ea-xc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto30804.jpg"
     },
     "ifi-audio-isilencer_oc": {
         "id": "ifi-audio-isilencer_oc",
         "name": "IFI Audio iSilencer+",
-        "price": 45.0,
+        "price": 29.0,
         "price_old": 59.0,
-        "sale_percentage": 23.7,
+        "sale_percentage": 50.8,
         "url": "https://www.supersonido.es/p/ifi-audio-isilencer_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto54278.jpg"
     },
     "panasonic-rb-f10_": {
         "id": "panasonic-rb-f10_",
         "name": "Panasonic RB-F10",
-        "price": 45.0,
+        "price": 29.0,
         "price_old": 89.0,
-        "sale_percentage": 49.4,
+        "sale_percentage": 67.4,
         "url": "https://www.supersonido.es/p/panasonic-rb-f10_",
         "image": "https://www.supersonido.es/productos/imagenes/producto59632.jpg"
-    },
-    "norstone-finn-edge_": {
-        "id": "norstone-finn-edge_",
-        "name": "NorStone FINN EDGE",
-        "price": 49.0,
-        "price_old": 79.0,
-        "sale_percentage": 38.0,
-        "url": "https://www.supersonido.es/p/norstone-finn-edge_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto59061.jpg"
-    },
-    "samsung-wmn-m25ea-xc": {
-        "id": "samsung-wmn-m25ea-xc",
-        "name": "Samsung WMN-M25EA/XC",
-        "price": 50.0,
-        "price_old": 89.0,
-        "sale_percentage": 43.8,
-        "url": "https://www.supersonido.es/p/samsung-wmn-m25ea-xc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto30804.jpg"
     },
     "samsung-wmn-b50eb_": {
         "id": "samsung-wmn-b50eb_",
         "name": "Samsung WMN-B50EB",
-        "price": 75.0,
+        "price": 50.0,
         "price_old": 89.0,
-        "sale_percentage": 15.7,
+        "sale_percentage": 43.8,
         "url": "https://www.supersonido.es/p/samsung-wmn-b50eb_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57887.jpg"
     },
     "devialet-legs-reactor__": {
         "id": "devialet-legs-reactor__",
         "name": "Devialet Legs-Reactor",
-        "price": 99.0,
+        "price": 80.0,
         "price_old": 199.0,
-        "sale_percentage": 50.3,
+        "sale_percentage": 59.8,
         "url": "https://www.supersonido.es/p/devialet-legs-reactor__",
         "image": "https://www.supersonido.es/productos/imagenes/producto57470.jpg"
     },
     "ifi-audio-ipower-x_oca_": {
         "id": "ifi-audio-ipower-x_oca_",
         "name": "IFI Audio iPower X",
-        "price": 99.0,
+        "price": 80.0,
         "price_old": 129.0,
-        "sale_percentage": 23.3,
+        "sale_percentage": 38.0,
         "url": "https://www.supersonido.es/p/ifi-audio-ipower-x_oca_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53423.jpg"
     },
@@ -110,9 +65,9 @@
     "violectric-chronos": {
         "id": "violectric-chronos",
         "name": "Violectric Chronos",
-        "price": 149.0,
+        "price": 129.0,
         "price_old": 199.99,
-        "sale_percentage": 25.5,
+        "sale_percentage": 35.5,
         "url": "https://www.supersonido.es/p/violectric-chronos",
         "image": "https://www.supersonido.es/productos/imagenes/producto46346.jpg"
     },
@@ -188,6 +143,15 @@
         "url": "https://www.supersonido.es/p/sonusfaber-unicum-stand",
         "image": "https://www.supersonido.es/productos/imagenes/producto22451.jpg"
     },
+    "ifi-audio-zen-stream_": {
+        "id": "ifi-audio-zen-stream_",
+        "name": "IFI Audio ZEN STREAM",
+        "price": 200.0,
+        "price_old": 399.0,
+        "sale_percentage": 49.9,
+        "url": "https://www.supersonido.es/p/ifi-audio-zen-stream_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto47970.jpg"
+    },
     "atacama-audio-slx-400": {
         "id": "atacama-audio-slx-400",
         "name": "Atacama Audio SLX 400",
@@ -242,15 +206,6 @@
         "url": "https://www.supersonido.es/p/audio-technica-at-lp3xbt_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57938.jpg"
     },
-    "ifi-audio-zen-stream_": {
-        "id": "ifi-audio-zen-stream_",
-        "name": "IFI Audio ZEN STREAM",
-        "price": 249.0,
-        "price_old": 399.0,
-        "sale_percentage": 37.6,
-        "url": "https://www.supersonido.es/p/ifi-audio-zen-stream_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto47970.jpg"
-    },
     "samsung-ue32t5305": {
         "id": "samsung-ue32t5305",
         "name": "Samsung UE32T5305",
@@ -269,24 +224,6 @@
         "url": "https://www.supersonido.es/p/rega-planar-1_OCCC",
         "image": "https://www.supersonido.es/productos/imagenes/producto59670.jpg"
     },
-    "ifi-audio-zen-blue-3_OCC": {
-        "id": "ifi-audio-zen-blue-3_OCC",
-        "name": "IFI Audio Zen Blue 3",
-        "price": 269.0,
-        "price_old": 319.0,
-        "sale_percentage": 15.7,
-        "url": "https://www.supersonido.es/p/ifi-audio-zen-blue-3_OCC",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52157.jpg"
-    },
-    "sony-sa-sw3_oc": {
-        "id": "sony-sa-sw3_oc",
-        "name": "Sony SA-SW3",
-        "price": 269.0,
-        "price_old": 499.0,
-        "sale_percentage": 46.1,
-        "url": "https://www.supersonido.es/p/sony-sa-sw3_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49662.jpg"
-    },
     "meze-audio-105-aer_": {
         "id": "meze-audio-105-aer_",
         "name": "Meze Audio 105 AER",
@@ -304,6 +241,24 @@
         "sale_percentage": 32.6,
         "url": "https://www.supersonido.es/p/pro-ject-e1-bt_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53418.jpg"
+    },
+    "ifi-audio-zen-blue-3_OCC": {
+        "id": "ifi-audio-zen-blue-3_OCC",
+        "name": "IFI Audio Zen Blue 3",
+        "price": 269.0,
+        "price_old": 319.0,
+        "sale_percentage": 15.7,
+        "url": "https://www.supersonido.es/p/ifi-audio-zen-blue-3_OCC",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52157.jpg"
+    },
+    "sony-sa-sw3_oc": {
+        "id": "sony-sa-sw3_oc",
+        "name": "Sony SA-SW3",
+        "price": 269.0,
+        "price_old": 499.0,
+        "sale_percentage": 46.1,
+        "url": "https://www.supersonido.es/p/sony-sa-sw3_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto49662.jpg"
     },
     "ifi-audio-zen-blue-3_": {
         "id": "ifi-audio-zen-blue-3_",
@@ -385,15 +340,6 @@
         "sale_percentage": 50.0,
         "url": "https://www.supersonido.es/p/martin-logan-electromotion-r",
         "image": "https://www.supersonido.es/productos/imagenes/producto13995.jpg"
-    },
-    "pro-ject-debut-carbon-evo": {
-        "id": "pro-ject-debut-carbon-evo",
-        "name": "Pro-Ject Debut Carbon EVO",
-        "price": 399.0,
-        "price_old": 599.0,
-        "sale_percentage": 33.4,
-        "url": "https://www.supersonido.es/p/pro-ject-debut-carbon-evo",
-        "image": "https://www.supersonido.es/productos/imagenes/producto42809.jpg"
     },
     "audeze-maxwell-2-xbox-_": {
         "id": "audeze-maxwell-2-xbox-_",
@@ -485,15 +431,6 @@
         "url": "https://www.supersonido.es/p/ortofon-spu1-s_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58070.jpg"
     },
-    "pro-ject-dac-streaming-set-s2-chrome-limited-edition_": {
-        "id": "pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
-        "name": "Pro-Ject DAC-Streaming Set S2 - Chrome Limited Edition",
-        "price": 599.0,
-        "price_old": 1499.0,
-        "sale_percentage": 60.0,
-        "url": "https://www.supersonido.es/p/pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57973.jpg"
-    },
     "pro-ject-uni-box-s3_": {
         "id": "pro-ject-uni-box-s3_",
         "name": "Pro-Ject Uni Box S3",
@@ -511,6 +448,15 @@
         "sale_percentage": 14.3,
         "url": "https://www.supersonido.es/p/wharfedale-evo-5-1__",
         "image": "https://www.supersonido.es/productos/imagenes/producto59990.jpg"
+    },
+    "pro-ject-dac-streaming-set-s2-chrome-limited-edition_": {
+        "id": "pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
+        "name": "Pro-Ject DAC-Streaming Set S2 - Chrome Limited Edition",
+        "price": 599.0,
+        "price_old": 1499.0,
+        "sale_percentage": 60.0,
+        "url": "https://www.supersonido.es/p/pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57973.jpg"
     },
     "project-maia-ds": {
         "id": "project-maia-ds",
@@ -530,14 +476,14 @@
         "url": "https://www.supersonido.es/p/focal-bathys-deep-black_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58443.jpg"
     },
-    "sony-ta-an1000_": {
-        "id": "sony-ta-an1000_",
-        "name": "Sony TA-AN1000",
+    "meze-audio-109-pro_": {
+        "id": "meze-audio-109-pro_",
+        "name": "Meze Audio 109 Pro",
         "price": 699.0,
-        "price_old": 999.0,
-        "sale_percentage": 30.0,
-        "url": "https://www.supersonido.es/p/sony-ta-an1000_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53849.jpg"
+        "price_old": 799.0,
+        "sale_percentage": 12.5,
+        "url": "https://www.supersonido.es/p/meze-audio-109-pro_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57066.jpg"
     },
     "optoma-hd29hstx_": {
         "id": "optoma-hd29hstx_",
@@ -548,14 +494,14 @@
         "url": "https://www.supersonido.es/p/optoma-hd29hstx_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57324.jpg"
     },
-    "meze-audio-109-pro_": {
-        "id": "meze-audio-109-pro_",
-        "name": "Meze Audio 109 Pro",
+    "sony-ta-an1000_": {
+        "id": "sony-ta-an1000_",
+        "name": "Sony TA-AN1000",
         "price": 699.0,
-        "price_old": 799.0,
-        "sale_percentage": 12.5,
-        "url": "https://www.supersonido.es/p/meze-audio-109-pro_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57066.jpg"
+        "price_old": 999.0,
+        "sale_percentage": 30.0,
+        "url": "https://www.supersonido.es/p/sony-ta-an1000_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53849.jpg"
     },
     "pro-ject-x1-bn": {
         "id": "pro-ject-x1-bn",
@@ -782,15 +728,6 @@
         "url": "https://www.supersonido.es/p/kef-xio-soundbar_OC_C",
         "image": "https://www.supersonido.es/productos/imagenes/producto58453.jpg"
     },
-    "pro-ject-x8_oc": {
-        "id": "pro-ject-x8_oc",
-        "name": "Pro-Ject X8-SP",
-        "price": 1725.0,
-        "price_old": 2299.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/pro-ject-x8_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52991.jpg"
-    },
     "audiolab-9000a_": {
         "id": "audiolab-9000a_",
         "name": "Audiolab 9000A",
@@ -799,6 +736,15 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/audiolab-9000a_",
         "image": "https://www.supersonido.es/productos/imagenes/producto56896.jpg"
+    },
+    "pro-ject-x8_oc": {
+        "id": "pro-ject-x8_oc",
+        "name": "Pro-Ject X8-SP",
+        "price": 1725.0,
+        "price_old": 2299.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/pro-ject-x8_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52991.jpg"
     },
     "stax-sr-007mk2": {
         "id": "stax-sr-007mk2",
