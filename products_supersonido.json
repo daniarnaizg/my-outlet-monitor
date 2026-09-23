@@ -26,15 +26,6 @@
         "url": "https://www.supersonido.es/p/panasonic-rb-f10_",
         "image": "https://www.supersonido.es/productos/imagenes/producto59632.jpg"
     },
-    "ifi-audio-ipower-x_oca_": {
-        "id": "ifi-audio-ipower-x_oca_",
-        "name": "IFI Audio iPower X",
-        "price": 80.0,
-        "price_old": 129.0,
-        "sale_percentage": 38.0,
-        "url": "https://www.supersonido.es/p/ifi-audio-ipower-x_oca_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53423.jpg"
-    },
     "devialet-legs-reactor__": {
         "id": "devialet-legs-reactor__",
         "name": "Devialet Legs-Reactor",
@@ -134,15 +125,6 @@
         "url": "https://www.supersonido.es/p/sonusfaber-unicum-stand",
         "image": "https://www.supersonido.es/productos/imagenes/producto22451.jpg"
     },
-    "ifi-audio-zen-stream_": {
-        "id": "ifi-audio-zen-stream_",
-        "name": "IFI Audio ZEN STREAM",
-        "price": 200.0,
-        "price_old": 399.0,
-        "sale_percentage": 49.9,
-        "url": "https://www.supersonido.es/p/ifi-audio-zen-stream_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto47970.jpg"
-    },
     "atacama-audio-slx-400": {
         "id": "atacama-audio-slx-400",
         "name": "Atacama Audio SLX 400",
@@ -151,6 +133,15 @@
         "sale_percentage": 59.9,
         "url": "https://www.supersonido.es/p/atacama-audio-slx-400",
         "image": "https://www.supersonido.es/productos/imagenes/producto30670.jpg"
+    },
+    "ifi-audio-zen-stream_": {
+        "id": "ifi-audio-zen-stream_",
+        "name": "IFI Audio ZEN STREAM",
+        "price": 200.0,
+        "price_old": 399.0,
+        "sale_percentage": 49.9,
+        "url": "https://www.supersonido.es/p/ifi-audio-zen-stream_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto47970.jpg"
     },
     "audio-technica-at-lp70xbt": {
         "id": "audio-technica-at-lp70xbt",
@@ -323,6 +314,24 @@
         "url": "https://www.supersonido.es/p/pro-ject-t1-evo-phono_",
         "image": "https://www.supersonido.es/productos/imagenes/producto59979.jpg"
     },
+    "kef-s2-floorstand_oc": {
+        "id": "kef-s2-floorstand_oc",
+        "name": "KEF S2 Floorstand",
+        "price": 374.0,
+        "price_old": 499.0,
+        "sale_percentage": 25.1,
+        "url": "https://www.supersonido.es/p/kef-s2-floorstand_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto60070.jpg"
+    },
+    "solidsteel-vintage-ss5_": {
+        "id": "solidsteel-vintage-ss5_",
+        "name": "Solidsteel Vintage SS5",
+        "price": 395.0,
+        "price_old": 567.0,
+        "sale_percentage": 30.3,
+        "url": "https://www.supersonido.es/p/solidsteel-vintage-ss5_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto60069.jpg"
+    },
     "martin-logan-electromotion-r": {
         "id": "martin-logan-electromotion-r",
         "name": "Martin-Logan Electromotion R",
@@ -422,14 +431,14 @@
         "url": "https://www.supersonido.es/p/jbl-studio-650p_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58553.jpg"
     },
-    "ortofon-spu1-s_": {
-        "id": "ortofon-spu1-s_",
-        "name": "Ortofon SPU1 S",
+    "pro-ject-dac-streaming-set-s2-chrome-limited-edition_": {
+        "id": "pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
+        "name": "Pro-Ject DAC-Streaming Set S2 - Chrome Limited Edition",
         "price": 599.0,
-        "price_old": 749.0,
-        "sale_percentage": 20.0,
-        "url": "https://www.supersonido.es/p/ortofon-spu1-s_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto58070.jpg"
+        "price_old": 1499.0,
+        "sale_percentage": 60.0,
+        "url": "https://www.supersonido.es/p/pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57973.jpg"
     },
     "pro-ject-uni-box-s3_": {
         "id": "pro-ject-uni-box-s3_",
@@ -449,14 +458,14 @@
         "url": "https://www.supersonido.es/p/wharfedale-evo-5-1__",
         "image": "https://www.supersonido.es/productos/imagenes/producto59990.jpg"
     },
-    "pro-ject-dac-streaming-set-s2-chrome-limited-edition_": {
-        "id": "pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
-        "name": "Pro-Ject DAC-Streaming Set S2 - Chrome Limited Edition",
+    "ortofon-spu1-s_": {
+        "id": "ortofon-spu1-s_",
+        "name": "Ortofon SPU1 S",
         "price": 599.0,
-        "price_old": 1499.0,
-        "sale_percentage": 60.0,
-        "url": "https://www.supersonido.es/p/pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57973.jpg"
+        "price_old": 749.0,
+        "sale_percentage": 20.0,
+        "url": "https://www.supersonido.es/p/ortofon-spu1-s_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto58070.jpg"
     },
     "project-maia-ds": {
         "id": "project-maia-ds",
@@ -845,15 +854,6 @@
         "url": "https://www.supersonido.es/p/rose-ra280_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58478.jpg"
     },
-    "electrocompaniet-ec-4-9-2ch": {
-        "id": "electrocompaniet-ec-4-9-2ch",
-        "name": "Electrocompaniet EC 4.9 2ch",
-        "price": 2890.0,
-        "price_old": 4290.0,
-        "sale_percentage": 32.6,
-        "url": "https://www.supersonido.es/p/electrocompaniet-ec-4-9-2ch",
-        "image": "https://www.supersonido.es/productos/imagenes/producto5156.jpg"
-    },
     "isotek-systems-nova": {
         "id": "isotek-systems-nova",
         "name": "Isotek Systems Nova",
@@ -1096,15 +1096,6 @@
         "sale_percentage": 33.3,
         "url": "https://www.supersonido.es/p/musical-fidelity-nu-vista-600-2_",
         "image": "https://www.supersonido.es/productos/imagenes/producto59455.jpg"
-    },
-    "electrocompaniet-aw-250-r_": {
-        "id": "electrocompaniet-aw-250-r_",
-        "name": "Electrocompaniet AW-250-R",
-        "price": 6399.0,
-        "price_old": 7999.0,
-        "sale_percentage": 20.0,
-        "url": "https://www.supersonido.es/p/electrocompaniet-aw-250-r_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50778.jpg"
     },
     "isotek-systems-evo3-nova_": {
         "id": "isotek-systems-evo3-nova_",
