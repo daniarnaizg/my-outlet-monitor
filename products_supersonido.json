@@ -143,15 +143,6 @@
         "url": "https://www.supersonido.es/p/audio-technica-at-lp70xbt",
         "image": "https://www.supersonido.es/productos/imagenes/producto52342.jpg"
     },
-    "cambridge-audio-axa25": {
-        "id": "cambridge-audio-axa25",
-        "name": "Cambridge Audio AXA25",
-        "price": 219.0,
-        "price_old": 329.0,
-        "sale_percentage": 33.4,
-        "url": "https://www.supersonido.es/p/cambridge-audio-axa25",
-        "image": "https://www.supersonido.es/productos/imagenes/producto30718.jpg"
-    },
     "vieta-g4000_oca": {
         "id": "vieta-g4000_oca",
         "name": "Vieta G4000",
@@ -332,15 +323,6 @@
         "url": "https://www.supersonido.es/p/audeze-maxwell-2-xbox-_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58873.jpg"
     },
-    "audioquest-rocket-22_": {
-        "id": "audioquest-rocket-22_",
-        "name": "Audioquest Rocket 22",
-        "price": 399.0,
-        "price_old": 569.0,
-        "sale_percentage": 29.9,
-        "url": "https://www.supersonido.es/p/audioquest-rocket-22_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto54180.jpg"
-    },
     "sony-k43s32bp": {
         "id": "sony-k43s32bp",
         "name": "Sony K43S32BP",
@@ -349,6 +331,15 @@
         "sale_percentage": 27.3,
         "url": "https://www.supersonido.es/p/sony-k43s32bp",
         "image": "https://www.supersonido.es/productos/imagenes/producto53800.jpg"
+    },
+    "audioquest-rocket-22_": {
+        "id": "audioquest-rocket-22_",
+        "name": "Audioquest Rocket 22",
+        "price": 399.0,
+        "price_old": 569.0,
+        "sale_percentage": 29.9,
+        "url": "https://www.supersonido.es/p/audioquest-rocket-22_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto54180.jpg"
     },
     "ortofon-st-7_": {
         "id": "ortofon-st-7_",
@@ -404,15 +395,6 @@
         "url": "https://www.supersonido.es/p/jbl-studio-650p_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58553.jpg"
     },
-    "pro-ject-dac-streaming-set-s2-chrome-limited-edition_": {
-        "id": "pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
-        "name": "Pro-Ject DAC-Streaming Set S2 - Chrome Limited Edition",
-        "price": 599.0,
-        "price_old": 1499.0,
-        "sale_percentage": 60.0,
-        "url": "https://www.supersonido.es/p/pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57973.jpg"
-    },
     "pro-ject-uni-box-s3_": {
         "id": "pro-ject-uni-box-s3_",
         "name": "Pro-Ject Uni Box S3",
@@ -440,6 +422,15 @@
         "url": "https://www.supersonido.es/p/ortofon-spu1-s_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58070.jpg"
     },
+    "pro-ject-dac-streaming-set-s2-chrome-limited-edition_": {
+        "id": "pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
+        "name": "Pro-Ject DAC-Streaming Set S2 - Chrome Limited Edition",
+        "price": 599.0,
+        "price_old": 1499.0,
+        "sale_percentage": 60.0,
+        "url": "https://www.supersonido.es/p/pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57973.jpg"
+    },
     "project-maia-ds": {
         "id": "project-maia-ds",
         "name": "Pro-Ject MaiA DS",
@@ -458,15 +449,6 @@
         "url": "https://www.supersonido.es/p/focal-bathys-deep-black_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58443.jpg"
     },
-    "meze-audio-109-pro_": {
-        "id": "meze-audio-109-pro_",
-        "name": "Meze Audio 109 Pro",
-        "price": 699.0,
-        "price_old": 799.0,
-        "sale_percentage": 12.5,
-        "url": "https://www.supersonido.es/p/meze-audio-109-pro_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57066.jpg"
-    },
     "optoma-hd29hstx_": {
         "id": "optoma-hd29hstx_",
         "name": "Optoma HD29HSTx",
@@ -475,6 +457,15 @@
         "sale_percentage": 35.8,
         "url": "https://www.supersonido.es/p/optoma-hd29hstx_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57324.jpg"
+    },
+    "meze-audio-109-pro_": {
+        "id": "meze-audio-109-pro_",
+        "name": "Meze Audio 109 Pro",
+        "price": 699.0,
+        "price_old": 799.0,
+        "sale_percentage": 12.5,
+        "url": "https://www.supersonido.es/p/meze-audio-109-pro_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57066.jpg"
     },
     "sony-ta-an1000_": {
         "id": "sony-ta-an1000_",
@@ -710,15 +701,6 @@
         "url": "https://www.supersonido.es/p/kef-xio-soundbar_OC_C",
         "image": "https://www.supersonido.es/productos/imagenes/producto58453.jpg"
     },
-    "audiolab-9000a_": {
-        "id": "audiolab-9000a_",
-        "name": "Audiolab 9000A",
-        "price": 1725.0,
-        "price_old": 2299.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/audiolab-9000a_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto56896.jpg"
-    },
     "pro-ject-x8_oc": {
         "id": "pro-ject-x8_oc",
         "name": "Pro-Ject X8-SP",
@@ -727,6 +709,15 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/pro-ject-x8_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto52991.jpg"
+    },
+    "audiolab-9000a_": {
+        "id": "audiolab-9000a_",
+        "name": "Audiolab 9000A",
+        "price": 1725.0,
+        "price_old": 2299.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/audiolab-9000a_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto56896.jpg"
     },
     "stax-sr-007mk2": {
         "id": "stax-sr-007mk2",
@@ -863,15 +854,6 @@
         "url": "https://www.supersonido.es/p/stax-srm-700t_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52573.jpg"
     },
-    "final-audio-design-d8000-pro-edition_": {
-        "id": "final-audio-design-d8000-pro-edition_",
-        "name": "Final Audio Design D8000 Pro Edition",
-        "price": 2999.0,
-        "price_old": 4299.0,
-        "sale_percentage": 30.2,
-        "url": "https://www.supersonido.es/p/final-audio-design-d8000-pro-edition_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52560.jpg"
-    },
     "anthem-mdx-16_": {
         "id": "anthem-mdx-16_",
         "name": "Anthem MDX 16",
@@ -880,6 +862,15 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/anthem-mdx-16_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52754.jpg"
+    },
+    "final-audio-design-d8000-pro-edition_": {
+        "id": "final-audio-design-d8000-pro-edition_",
+        "name": "Final Audio Design D8000 Pro Edition",
+        "price": 2999.0,
+        "price_old": 4299.0,
+        "sale_percentage": 30.2,
+        "url": "https://www.supersonido.es/p/final-audio-design-d8000-pro-edition_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52560.jpg"
     },
     "isotek-systems-sigmas_": {
         "id": "isotek-systems-sigmas_",
@@ -899,15 +890,6 @@
         "url": "https://www.supersonido.es/p/naim-uniti-star_",
         "image": "https://www.supersonido.es/productos/imagenes/producto26720.jpg"
     },
-    "mcintosh-mha200_oc": {
-        "id": "mcintosh-mha200_oc",
-        "name": "McIntosh MHA200",
-        "price": 2999.0,
-        "price_old": 3999.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/mcintosh-mha200_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53359.jpg"
-    },
     "samsung-tq83s95f": {
         "id": "samsung-tq83s95f",
         "name": "Samsung TQ83S95F",
@@ -916,6 +898,15 @@
         "sale_percentage": 53.9,
         "url": "https://www.supersonido.es/p/samsung-tq83s95f",
         "image": "https://www.supersonido.es/productos/imagenes/producto53891.jpg"
+    },
+    "mcintosh-mha200_oc": {
+        "id": "mcintosh-mha200_oc",
+        "name": "McIntosh MHA200",
+        "price": 2999.0,
+        "price_old": 3999.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/mcintosh-mha200_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53359.jpg"
     },
     "primaluna-evo-100-tube-phono-preamplifier_": {
         "id": "primaluna-evo-100-tube-phono-preamplifier_",
