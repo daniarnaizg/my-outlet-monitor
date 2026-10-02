@@ -62,15 +62,6 @@
         "url": "https://www.supersonido.es/p/violectric-chronos",
         "image": "https://www.supersonido.es/productos/imagenes/producto46346.jpg"
     },
-    "panasonic-sc-pm700_": {
-        "id": "panasonic-sc-pm700_",
-        "name": "Panasonic SC-PM700",
-        "price": 159.0,
-        "price_old": 229.0,
-        "sale_percentage": 30.6,
-        "url": "https://www.supersonido.es/p/panasonic-sc-pm700_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53292.jpg"
-    },
     "audioquest-chicago-rca_": {
         "id": "audioquest-chicago-rca_",
         "name": "Audioquest Chicago RCA",
@@ -79,6 +70,15 @@
         "sale_percentage": 30.9,
         "url": "https://www.supersonido.es/p/audioquest-chicago-rca_",
         "image": "https://www.supersonido.es/productos/imagenes/producto59210.jpg"
+    },
+    "panasonic-sc-pm700_": {
+        "id": "panasonic-sc-pm700_",
+        "name": "Panasonic SC-PM700",
+        "price": 159.0,
+        "price_old": 229.0,
+        "sale_percentage": 30.6,
+        "url": "https://www.supersonido.es/p/panasonic-sc-pm700_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53292.jpg"
     },
     "audio-technica-at-sp3x_": {
         "id": "audio-technica-at-sp3x_",
@@ -89,15 +89,6 @@
         "url": "https://www.supersonido.es/p/audio-technica-at-sp3x_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57780.jpg"
     },
-    "technics-eah-az80_occ": {
-        "id": "technics-eah-az80_occ",
-        "name": "Technics EAH-AZ80",
-        "price": 169.0,
-        "price_old": 269.0,
-        "sale_percentage": 37.2,
-        "url": "https://www.supersonido.es/p/technics-eah-az80_occ",
-        "image": "https://www.supersonido.es/productos/imagenes/producto59492.jpg"
-    },
     "technics-eah-az80_": {
         "id": "technics-eah-az80_",
         "name": "Technics EAH-AZ80",
@@ -106,6 +97,15 @@
         "sale_percentage": 37.2,
         "url": "https://www.supersonido.es/p/technics-eah-az80_",
         "image": "https://www.supersonido.es/productos/imagenes/producto51578.jpg"
+    },
+    "technics-eah-az80_occ": {
+        "id": "technics-eah-az80_occ",
+        "name": "Technics EAH-AZ80",
+        "price": 169.0,
+        "price_old": 269.0,
+        "sale_percentage": 37.2,
+        "url": "https://www.supersonido.es/p/technics-eah-az80_occ",
+        "image": "https://www.supersonido.es/productos/imagenes/producto59492.jpg"
     },
     "shanling-ua5": {
         "id": "shanling-ua5",
@@ -179,15 +179,6 @@
         "url": "https://www.supersonido.es/p/audiopro-a15oca",
         "image": "https://www.supersonido.es/productos/imagenes/producto59671.jpg"
     },
-    "audio-technica-at-lp3xbt_": {
-        "id": "audio-technica-at-lp3xbt_",
-        "name": "Audio-Technica AT-LP3XBT",
-        "price": 249.0,
-        "price_old": 329.0,
-        "sale_percentage": 24.3,
-        "url": "https://www.supersonido.es/p/audio-technica-at-lp3xbt_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57938.jpg"
-    },
     "samsung-ue32t5305": {
         "id": "samsung-ue32t5305",
         "name": "Samsung UE32T5305",
@@ -197,14 +188,14 @@
         "url": "https://www.supersonido.es/p/samsung-ue32t5305",
         "image": "https://www.supersonido.es/productos/imagenes/producto41850.jpg"
     },
-    "ifi-audio-zen-blue-3_OCC": {
-        "id": "ifi-audio-zen-blue-3_OCC",
-        "name": "IFI Audio Zen Blue 3",
-        "price": 269.0,
-        "price_old": 319.0,
-        "sale_percentage": 15.7,
-        "url": "https://www.supersonido.es/p/ifi-audio-zen-blue-3_OCC",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52157.jpg"
+    "audio-technica-at-lp3xbt_": {
+        "id": "audio-technica-at-lp3xbt_",
+        "name": "Audio-Technica AT-LP3XBT",
+        "price": 249.0,
+        "price_old": 329.0,
+        "sale_percentage": 24.3,
+        "url": "https://www.supersonido.es/p/audio-technica-at-lp3xbt_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57938.jpg"
     },
     "pro-ject-e1-bt_": {
         "id": "pro-ject-e1-bt_",
@@ -223,6 +214,15 @@
         "sale_percentage": 32.6,
         "url": "https://www.supersonido.es/p/meze-audio-105-aer_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57067.jpg"
+    },
+    "ifi-audio-zen-blue-3_OCC": {
+        "id": "ifi-audio-zen-blue-3_OCC",
+        "name": "IFI Audio Zen Blue 3",
+        "price": 269.0,
+        "price_old": 319.0,
+        "sale_percentage": 15.7,
+        "url": "https://www.supersonido.es/p/ifi-audio-zen-blue-3_OCC",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52157.jpg"
     },
     "ifi-audio-zen-blue-3_": {
         "id": "ifi-audio-zen-blue-3_",
@@ -368,15 +368,6 @@
         "url": "https://www.supersonido.es/p/ortofon-st-7_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53522.jpg"
     },
-    "ifi-audio-idsd-diablo_": {
-        "id": "ifi-audio-idsd-diablo_",
-        "name": "IFI Audio iDSD Diablo",
-        "price": 499.0,
-        "price_old": 999.0,
-        "sale_percentage": 50.1,
-        "url": "https://www.supersonido.es/p/ifi-audio-idsd-diablo_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto49365.jpg"
-    },
     "monitor-audio-cl80_": {
         "id": "monitor-audio-cl80_",
         "name": "Monitor Audio CL80",
@@ -386,14 +377,14 @@
         "url": "https://www.supersonido.es/p/monitor-audio-cl80_",
         "image": "https://www.supersonido.es/productos/imagenes/producto59399.jpg"
     },
-    "van-den-hul-the-wind-8-wbt-0661-ag": {
-        "id": "van-den-hul-the-wind-8-wbt-0661-ag",
-        "name": "Van-Den-Hul The Wind + 8 WBT 0661 AG",
-        "price": 549.0,
+    "ifi-audio-idsd-diablo_": {
+        "id": "ifi-audio-idsd-diablo_",
+        "name": "IFI Audio iDSD Diablo",
+        "price": 499.0,
         "price_old": 999.0,
-        "sale_percentage": 45.0,
-        "url": "https://www.supersonido.es/p/van-den-hul-the-wind-8-wbt-0661-ag",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52692.jpg"
+        "sale_percentage": 50.1,
+        "url": "https://www.supersonido.es/p/ifi-audio-idsd-diablo_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto49365.jpg"
     },
     "pro-ject-cd-box-ds3_OCC": {
         "id": "pro-ject-cd-box-ds3_OCC",
@@ -404,6 +395,15 @@
         "url": "https://www.supersonido.es/p/pro-ject-cd-box-ds3_OCC",
         "image": "https://www.supersonido.es/productos/imagenes/producto57990.jpg"
     },
+    "van-den-hul-the-wind-8-wbt-0661-ag": {
+        "id": "van-den-hul-the-wind-8-wbt-0661-ag",
+        "name": "Van-Den-Hul The Wind + 8 WBT 0661 AG",
+        "price": 549.0,
+        "price_old": 999.0,
+        "sale_percentage": 45.0,
+        "url": "https://www.supersonido.es/p/van-den-hul-the-wind-8-wbt-0661-ag",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52692.jpg"
+    },
     "jbl-studio-650p_": {
         "id": "jbl-studio-650p_",
         "name": "JBL STUDIO S650P",
@@ -412,6 +412,15 @@
         "sale_percentage": 34.5,
         "url": "https://www.supersonido.es/p/jbl-studio-650p_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58553.jpg"
+    },
+    "pro-ject-uni-box-s3_": {
+        "id": "pro-ject-uni-box-s3_",
+        "name": "Pro-Ject Uni Box S3",
+        "price": 599.0,
+        "price_old": 799.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/pro-ject-uni-box-s3_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto59209.jpg"
     },
     "ortofon-spu1-s_": {
         "id": "ortofon-spu1-s_",
@@ -431,14 +440,14 @@
         "url": "https://www.supersonido.es/p/pro-ject-dac-streaming-set-s2-chrome-limited-edition_",
         "image": "https://www.supersonido.es/productos/imagenes/producto57973.jpg"
     },
-    "pro-ject-uni-box-s3_": {
-        "id": "pro-ject-uni-box-s3_",
-        "name": "Pro-Ject Uni Box S3",
+    "project-maia-ds": {
+        "id": "project-maia-ds",
+        "name": "Pro-Ject MaiA DS",
         "price": 599.0,
         "price_old": 799.0,
         "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/pro-ject-uni-box-s3_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto59209.jpg"
+        "url": "https://www.supersonido.es/p/project-maia-ds",
+        "image": "https://www.supersonido.es/productos/imagenes/producto21332.jpg"
     },
     "wharfedale-evo-5-1__": {
         "id": "wharfedale-evo-5-1__",
@@ -449,15 +458,6 @@
         "url": "https://www.supersonido.es/p/wharfedale-evo-5-1__",
         "image": "https://www.supersonido.es/productos/imagenes/producto59990.jpg"
     },
-    "project-maia-ds": {
-        "id": "project-maia-ds",
-        "name": "Pro-Ject MaiA DS",
-        "price": 599.0,
-        "price_old": 799.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/project-maia-ds",
-        "image": "https://www.supersonido.es/productos/imagenes/producto21332.jpg"
-    },
     "focal-bathys-deep-black_": {
         "id": "focal-bathys-deep-black_",
         "name": "FOCAL Bathys Deep Black",
@@ -466,6 +466,15 @@
         "sale_percentage": 18.8,
         "url": "https://www.supersonido.es/p/focal-bathys-deep-black_",
         "image": "https://www.supersonido.es/productos/imagenes/producto58443.jpg"
+    },
+    "meze-audio-109-pro_": {
+        "id": "meze-audio-109-pro_",
+        "name": "Meze Audio 109 Pro",
+        "price": 699.0,
+        "price_old": 799.0,
+        "sale_percentage": 12.5,
+        "url": "https://www.supersonido.es/p/meze-audio-109-pro_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto57066.jpg"
     },
     "optoma-hd29hstx_": {
         "id": "optoma-hd29hstx_",
@@ -484,15 +493,6 @@
         "sale_percentage": 30.0,
         "url": "https://www.supersonido.es/p/sony-ta-an1000_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53849.jpg"
-    },
-    "meze-audio-109-pro_": {
-        "id": "meze-audio-109-pro_",
-        "name": "Meze Audio 109 Pro",
-        "price": 699.0,
-        "price_old": 799.0,
-        "sale_percentage": 12.5,
-        "url": "https://www.supersonido.es/p/meze-audio-109-pro_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto57066.jpg"
     },
     "pro-ject-x1-bn": {
         "id": "pro-ject-x1-bn",
@@ -557,15 +557,6 @@
         "url": "https://www.supersonido.es/p/audiolab-9000cdt__",
         "image": "https://www.supersonido.es/productos/imagenes/producto58944.jpg"
     },
-    "musical-fidelity-m3x-vinyl_": {
-        "id": "musical-fidelity-m3x-vinyl_",
-        "name": "Musical Fidelity M3x-VINYL",
-        "price": 999.0,
-        "price_old": 1399.0,
-        "sale_percentage": 28.6,
-        "url": "https://www.supersonido.es/p/musical-fidelity-m3x-vinyl_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto59655.jpg"
-    },
     "martinlogan-edge_": {
         "id": "martinlogan-edge_",
         "name": "Martin-Logan Edge",
@@ -610,6 +601,15 @@
         "sale_percentage": 56.4,
         "url": "https://www.supersonido.es/p/martinlogan-edge",
         "image": "https://www.supersonido.es/productos/imagenes/producto20750.jpg"
+    },
+    "musical-fidelity-m3x-vinyl_": {
+        "id": "musical-fidelity-m3x-vinyl_",
+        "name": "Musical Fidelity M3x-VINYL",
+        "price": 999.0,
+        "price_old": 1399.0,
+        "sale_percentage": 28.6,
+        "url": "https://www.supersonido.es/p/musical-fidelity-m3x-vinyl_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto59655.jpg"
     },
     "audio-technica-ath-awkt_": {
         "id": "audio-technica-ath-awkt_",
@@ -692,15 +692,6 @@
         "url": "https://www.supersonido.es/p/stax-sr-l700-mkii_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52569.jpg"
     },
-    "astell-kern-acro-ca1000-oc": {
-        "id": "astell-kern-acro-ca1000-oc",
-        "name": "Astell&kern ACRO CA1000",
-        "price": 1499.0,
-        "price_old": 2399.0,
-        "sale_percentage": 37.5,
-        "url": "https://www.supersonido.es/p/astell-kern-acro-ca1000-oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto46481.jpg"
-    },
     "rega-rega-planar-8": {
         "id": "rega-rega-planar-8",
         "name": "Rega Rega Planar 8",
@@ -709,6 +700,15 @@
         "sale_percentage": 36.2,
         "url": "https://www.supersonido.es/p/rega-rega-planar-8",
         "image": "https://www.supersonido.es/productos/imagenes/producto58796.jpg"
+    },
+    "astell-kern-acro-ca1000-oc": {
+        "id": "astell-kern-acro-ca1000-oc",
+        "name": "Astell&kern ACRO CA1000",
+        "price": 1499.0,
+        "price_old": 2399.0,
+        "sale_percentage": 37.5,
+        "url": "https://www.supersonido.es/p/astell-kern-acro-ca1000-oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto46481.jpg"
     },
     "mofi-electronics-ultradeck-_": {
         "id": "mofi-electronics-ultradeck-_",
@@ -728,15 +728,6 @@
         "url": "https://www.supersonido.es/p/kef-xio-soundbar_OC_C",
         "image": "https://www.supersonido.es/productos/imagenes/producto58453.jpg"
     },
-    "pro-ject-x8_oc": {
-        "id": "pro-ject-x8_oc",
-        "name": "Pro-Ject X8-SP",
-        "price": 1725.0,
-        "price_old": 2299.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/pro-ject-x8_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52991.jpg"
-    },
     "audiolab-9000a_": {
         "id": "audiolab-9000a_",
         "name": "Audiolab 9000A",
@@ -745,6 +736,15 @@
         "sale_percentage": 25.0,
         "url": "https://www.supersonido.es/p/audiolab-9000a_",
         "image": "https://www.supersonido.es/productos/imagenes/producto56896.jpg"
+    },
+    "pro-ject-x8_oc": {
+        "id": "pro-ject-x8_oc",
+        "name": "Pro-Ject X8-SP",
+        "price": 1725.0,
+        "price_old": 2299.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/pro-ject-x8_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52991.jpg"
     },
     "stax-sr-007mk2": {
         "id": "stax-sr-007mk2",
@@ -899,23 +899,14 @@
         "url": "https://www.supersonido.es/p/final-audio-design-d8000-pro-edition_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52560.jpg"
     },
-    "isotek-systems-sigmas_": {
-        "id": "isotek-systems-sigmas_",
-        "name": "Isotek Systems Sigmas EVO 3",
-        "price": 2999.0,
-        "price_old": 4299.0,
-        "sale_percentage": 30.2,
-        "url": "https://www.supersonido.es/p/isotek-systems-sigmas_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50780.jpg"
-    },
-    "naim-uniti-star_": {
-        "id": "naim-uniti-star_",
-        "name": "Naim Uniti Star",
+    "anthem-mdx-16_": {
+        "id": "anthem-mdx-16_",
+        "name": "Anthem MDX 16",
         "price": 2999.0,
         "price_old": 3999.0,
         "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/naim-uniti-star_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto26720.jpg"
+        "url": "https://www.supersonido.es/p/anthem-mdx-16_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52754.jpg"
     },
     "mcintosh-mha200_oc": {
         "id": "mcintosh-mha200_oc",
@@ -926,15 +917,6 @@
         "url": "https://www.supersonido.es/p/mcintosh-mha200_oc",
         "image": "https://www.supersonido.es/productos/imagenes/producto53359.jpg"
     },
-    "anthem-mdx-16_": {
-        "id": "anthem-mdx-16_",
-        "name": "Anthem MDX 16",
-        "price": 2999.0,
-        "price_old": 3999.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/anthem-mdx-16_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52754.jpg"
-    },
     "samsung-tq83s95f": {
         "id": "samsung-tq83s95f",
         "name": "Samsung TQ83S95F",
@@ -943,6 +925,24 @@
         "sale_percentage": 53.9,
         "url": "https://www.supersonido.es/p/samsung-tq83s95f",
         "image": "https://www.supersonido.es/productos/imagenes/producto53891.jpg"
+    },
+    "naim-uniti-star_": {
+        "id": "naim-uniti-star_",
+        "name": "Naim Uniti Star",
+        "price": 2999.0,
+        "price_old": 3999.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/naim-uniti-star_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto26720.jpg"
+    },
+    "isotek-systems-sigmas_": {
+        "id": "isotek-systems-sigmas_",
+        "name": "Isotek Systems Sigmas EVO 3",
+        "price": 2999.0,
+        "price_old": 4299.0,
+        "sale_percentage": 30.2,
+        "url": "https://www.supersonido.es/p/isotek-systems-sigmas_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50780.jpg"
     },
     "primaluna-evo-100-tube-phono-preamplifier_": {
         "id": "primaluna-evo-100-tube-phono-preamplifier_",
@@ -971,15 +971,6 @@
         "url": "https://www.supersonido.es/p/audeze-lcd-5_oca",
         "image": "https://www.supersonido.es/productos/imagenes/producto58952.jpg"
     },
-    "quad-33-303-x2": {
-        "id": "quad-33-303-x2",
-        "name": "Quad 33 + 303 X2",
-        "price": 3499.0,
-        "price_old": 4497.0,
-        "sale_percentage": 22.2,
-        "url": "https://www.supersonido.es/p/quad-33-303-x2",
-        "image": "https://www.supersonido.es/productos/imagenes/producto52707.jpg"
-    },
     "yamaha-yh-5000se_": {
         "id": "yamaha-yh-5000se_",
         "name": "Yamaha YH-5000SE",
@@ -988,6 +979,15 @@
         "sale_percentage": 36.4,
         "url": "https://www.supersonido.es/p/yamaha-yh-5000se_",
         "image": "https://www.supersonido.es/productos/imagenes/producto53260.jpg"
+    },
+    "quad-33-303-x2": {
+        "id": "quad-33-303-x2",
+        "name": "Quad 33 + 303 X2",
+        "price": 3499.0,
+        "price_old": 4497.0,
+        "sale_percentage": 22.2,
+        "url": "https://www.supersonido.es/p/quad-33-303-x2",
+        "image": "https://www.supersonido.es/productos/imagenes/producto52707.jpg"
     },
     "klipsch-heresy-iv_a": {
         "id": "klipsch-heresy-iv_a",
