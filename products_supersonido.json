@@ -935,6 +935,15 @@
         "url": "https://www.supersonido.es/p/final-audio-design-d8000-pro-edition_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52560.jpg"
     },
+    "mcintosh-mha200_oc": {
+        "id": "mcintosh-mha200_oc",
+        "name": "McIntosh MHA200",
+        "price": 2999.0,
+        "price_old": 3999.0,
+        "sale_percentage": 25.0,
+        "url": "https://www.supersonido.es/p/mcintosh-mha200_oc",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53359.jpg"
+    },
     "isotek-systems-sigmas_": {
         "id": "isotek-systems-sigmas_",
         "name": "Isotek Systems Sigmas EVO 3",
@@ -953,15 +962,6 @@
         "url": "https://www.supersonido.es/p/naim-uniti-star_",
         "image": "https://www.supersonido.es/productos/imagenes/producto26720.jpg"
     },
-    "samsung-tq83s95f": {
-        "id": "samsung-tq83s95f",
-        "name": "Samsung TQ83S95F",
-        "price": 2999.0,
-        "price_old": 6499.0,
-        "sale_percentage": 53.9,
-        "url": "https://www.supersonido.es/p/samsung-tq83s95f",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53891.jpg"
-    },
     "anthem-mdx-16_": {
         "id": "anthem-mdx-16_",
         "name": "Anthem MDX 16",
@@ -971,14 +971,14 @@
         "url": "https://www.supersonido.es/p/anthem-mdx-16_",
         "image": "https://www.supersonido.es/productos/imagenes/producto52754.jpg"
     },
-    "mcintosh-mha200_oc": {
-        "id": "mcintosh-mha200_oc",
-        "name": "McIntosh MHA200",
+    "samsung-tq83s95f": {
+        "id": "samsung-tq83s95f",
+        "name": "Samsung TQ83S95F",
         "price": 2999.0,
-        "price_old": 3999.0,
-        "sale_percentage": 25.0,
-        "url": "https://www.supersonido.es/p/mcintosh-mha200_oc",
-        "image": "https://www.supersonido.es/productos/imagenes/producto53359.jpg"
+        "price_old": 6499.0,
+        "sale_percentage": 53.9,
+        "url": "https://www.supersonido.es/p/samsung-tq83s95f",
+        "image": "https://www.supersonido.es/productos/imagenes/producto53891.jpg"
     },
     "musical-fidelity-ls5-9_": {
         "id": "musical-fidelity-ls5-9_",
@@ -1232,15 +1232,6 @@
         "url": "https://www.supersonido.es/p/audio-research-ref-dac-dlna",
         "image": "https://www.supersonido.es/productos/imagenes/producto12183.jpg"
     },
-    "innuos-statement_": {
-        "id": "innuos-statement_",
-        "name": "Innuos STATEMENT",
-        "price": 9999.0,
-        "price_old": 15900.0,
-        "sale_percentage": 37.1,
-        "url": "https://www.supersonido.es/p/innuos-statement_",
-        "image": "https://www.supersonido.es/productos/imagenes/producto50152.jpg"
-    },
     "naim-solstice-special-edition": {
         "id": "naim-solstice-special-edition",
         "name": "Naim Solstice Special Edition",
@@ -1249,6 +1240,15 @@
         "sale_percentage": 41.2,
         "url": "https://www.supersonido.es/p/naim-solstice-special-edition",
         "image": "https://www.supersonido.es/productos/imagenes/producto45472.jpg"
+    },
+    "innuos-statement_": {
+        "id": "innuos-statement_",
+        "name": "Innuos STATEMENT",
+        "price": 9999.0,
+        "price_old": 15900.0,
+        "sale_percentage": 37.1,
+        "url": "https://www.supersonido.es/p/innuos-statement_",
+        "image": "https://www.supersonido.es/productos/imagenes/producto50152.jpg"
     },
     "mcintosh-ml1_": {
         "id": "mcintosh-ml1_",
